@@ -80,6 +80,11 @@ If `state.md` hasn't been updated in more than 7 days, flag it before proceeding
 **Triggers:** "level up", "what should I automate next", "what should I improve", "/level-up"
 **Action:** 5-question interview. Synthesize into ranked list of 3–5 specific AIOS improvements with the highest ROI.
 
+### `/gps` — GPS Method
+**Triggers:** "GPS", "run GPS on", "set up a goal", "why am I not making progress on", "/gps"
+**Setup mode:** 3-pass interview (Goal → Plan → System) → write structured GPS doc to `goals/<slug>.md`.
+**Diagnostic mode:** Run a stalling goal through the 9 GPS components → identify exactly where it's breaking down and what to fix.
+
 ### `/skill-builder` — Skill Builder
 **Triggers:** "build a skill", "create a new skill", "/skill-builder"
 **Action:** 6-question interview → write the skill file to `.claude/skills/<name>/skill.md` → add entry to CLAUDE.md skill registry.
@@ -127,6 +132,7 @@ If `state.md` hasn't been updated in more than 7 days, flag it before proceeding
 | `journals/health-log.md` | Sleep and diet tracking; exercise is in workout-log.md |
 | `journals/relationship-log.md` | Monthly relationship reviews and touch point log |
 | `archives/` | Past reflections, old context snapshots |
+| `goals/` | GPS docs — one file per active goal (`<goal-slug>.md`) |
 | `decisions/` | Log of significant decisions made with the AIOS |
 | `.claude/skills/` | All skill definitions |
 
