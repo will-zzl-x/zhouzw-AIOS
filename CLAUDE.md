@@ -56,6 +56,10 @@ If `state.md` hasn't been updated in more than 7 days, flag it before proceeding
 **Weekday rule:** Career movers are fair game.
 **Weekend rule:** Side income and fitness/relationship movers only — not Amazon work.
 
+### `/quarterly-review` — Quarterly Review (Reflect, Align, Plan)
+**Triggers:** "quarterly review", "quarterly planning", "quarterly reset", "/quarterly-review"
+**Action:** Full 30–45 min RAP session. Wheel of Life ratings → What's Working/Not Working → 3-Year Sketch → one Work Main Quest + one Life Main Quest (with full template). Write to `archives/YYYY-QN-quarterly-review.md`. Update `state.md`. Regenerate `dashboard.md`. Commit repo. Run once per quarter (~Feb, May, Aug, Nov).
+
 ### `/weekly-reflection` — Weekly Reflection
 **Triggers:** "weekly reflection", "sunday chat", "weekly chat"
 **Action:** Read `journals/inbox.md`, last reflection in `archives/`, all `context/` files, `references/integrated-coach.md`. Ask guided questions by life area. Synthesize. Write reflection to `archives/YYYY-MM-DD-reflection.md`. Update `state.md`. Regenerate `dashboard.md`. Clear `inbox.md`. Commit repo.
