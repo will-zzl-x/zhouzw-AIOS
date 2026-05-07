@@ -84,6 +84,20 @@ If `state.md` hasn't been updated in more than 7 days, flag it before proceeding
 **Triggers:** "build a skill", "create a new skill", "/skill-builder"
 **Action:** 6-question interview → write the skill file to `.claude/skills/<name>/skill.md` → add entry to CLAUDE.md skill registry.
 
+### `/scm-tracker` — SCM II Behavior Tracker
+**Triggers:** "log a behavior", "scm log", "promotion moment", pasting a work situation worth capturing
+**Log mode:** Classify the moment against L5 threshold behaviors → append timestamped entry to `journals/scm-behaviors.md`.
+**Review mode (`/scm-tracker review`):** Read full behavior log → group by behavior type → output coverage gaps + promotion narrative draft + one suggested next moment to create.
+
+### `/workout-log` — Workout Log + Progression Tracker
+**Triggers:** "log workout", "log session", "just finished training", pasting session details
+**Log mode:** Parse session → append to `journals/workout-log.md` → call out PRs or milestone progress.
+**Check mode (`/workout-log check`):** Read full log → surface sessions this week, main lift progress vs. intermediate standards, trends.
+
+### `/deal-eval` — Deal Evaluator
+**Triggers:** "evaluate this deal", "run this through the filters", pasting a BizBuySell or Acquire.com listing
+**Action:** Read `context/financial-state.md`. Run hard filters first — any hit → immediate NO. If clear, run full price/return/operator/location check. Output: GO / NO / CONDITIONAL GO + one paragraph reasoning with math shown. One question to ask seller if conditional.
+
 ---
 
 ## Where Things Live
@@ -93,6 +107,8 @@ If `state.md` hasn't been updated in more than 7 days, flag it before proceeding
 | `context/` | Stable background: `about-me.md`, `priorities.md`, `relationships.md`, `work-state.md`, `financial-state.md` |
 | `references/` | Coach/mentor frameworks: `integrated-coach.md`, `schofield.md`, `perel.md`, `gottman.md`, `evans.md`, `schnarch.md`, `hormozi.md` |
 | `journals/inbox.md` | Mid-week captures; cleared each Sunday |
+| `journals/scm-behaviors.md` | SCM II behavioral moments; reviewed weekly for promotion narrative |
+| `journals/workout-log.md` | All training sessions; progress toward intermediate strength standards |
 | `archives/` | Past reflections, old context snapshots |
 | `decisions/` | Log of significant decisions made with the AIOS |
 | `.claude/skills/` | All skill definitions |
