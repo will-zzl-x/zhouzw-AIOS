@@ -1,0 +1,6 @@
+# API keys and secrets — never commit
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
