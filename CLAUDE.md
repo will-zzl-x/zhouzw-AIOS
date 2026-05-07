@@ -98,6 +98,21 @@ If `state.md` hasn't been updated in more than 7 days, flag it before proceeding
 **Triggers:** "evaluate this deal", "run this through the filters", pasting a BizBuySell or Acquire.com listing
 **Action:** Read `context/financial-state.md`. Run hard filters first — any hit → immediate NO. If clear, run full price/return/operator/location check. Output: GO / NO / CONDITIONAL GO + one paragraph reasoning with math shown. One question to ask seller if conditional.
 
+### `/morning-coffee` — Morning Coffee
+**Triggers:** "morning coffee", "plan my day", "what's my day look like"
+**Action:** Read `state.md` + `dashboard.md`. Apply weekday/weekend routing. Output: one priority + loose time block structure for the day. No lists. No affirmations.
+
+### `/health-os` — Health OS
+**Triggers:** "log sleep", "log meals", "health check", "/health-os"
+**Log modes:** Sleep log or diet log → append to `journals/health-log.md`.
+**Check mode (`/health-os check`):** Surface avg sleep, protein hit rate, trends this week vs. targets.
+
+### `/relationship-os` — Relationship OS
+**Triggers:** "relationship review", "log a touch point", "relationship check", "/relationship-os"
+**Monthly review:** Guided 4-question check-in → write to `journals/relationship-log.md`.
+**Touch point log:** Capture a meaningful moment with Elena, family, or a friend.
+**Event check:** Surface upcoming birthdays, standing events, overdue contact.
+
 ---
 
 ## Where Things Live
@@ -109,6 +124,8 @@ If `state.md` hasn't been updated in more than 7 days, flag it before proceeding
 | `journals/inbox.md` | Mid-week captures; cleared each Sunday |
 | `journals/scm-behaviors.md` | SCM II behavioral moments; reviewed weekly for promotion narrative |
 | `journals/workout-log.md` | All training sessions; progress toward intermediate strength standards |
+| `journals/health-log.md` | Sleep and diet tracking; exercise is in workout-log.md |
+| `journals/relationship-log.md` | Monthly relationship reviews and touch point log |
 | `archives/` | Past reflections, old context snapshots |
 | `decisions/` | Log of significant decisions made with the AIOS |
 | `.claude/skills/` | All skill definitions |
