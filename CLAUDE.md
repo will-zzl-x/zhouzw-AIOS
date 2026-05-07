@@ -109,7 +109,13 @@ If `state.md` hasn't been updated in more than 7 days, flag it before proceeding
 
 ### `/morning-coffee` — Morning Coffee
 **Triggers:** "morning coffee", "plan my day", "what's my day look like"
-**Action:** Read `state.md` + `dashboard.md`. Apply weekday/weekend routing. Output: one priority + loose time block structure for the day. No lists. No affirmations.
+**Action:** Read `state.md` + `dashboard.md` + `context/daily-standard.md`. Apply weekday/weekend routing. Output: one priority + loose time block structure + today's required targets. No affirmations.
+
+### `/daily-check` — Daily Check
+**Triggers:** "daily check", "am I done", "what do I need to do today", "what's left", "log done [thing]"
+**Today mode:** Show today's required targets from `context/daily-standard.md` for the current phase.
+**Log mode:** Mark a target complete → append to `journals/daily-log.md` → confirm done threshold status.
+**Done? mode:** Read today's log → answer done (2+/3 targets) or not done + what's left.
 
 ### `/health-os` — Health OS
 **Triggers:** "log sleep", "log meals", "health check", "/health-os"
@@ -128,8 +134,9 @@ If `state.md` hasn't been updated in more than 7 days, flag it before proceeding
 
 | Folder | Contents |
 |--------|----------|
-| `context/` | Stable background: `about-me.md`, `priorities.md`, `relationships.md`, `work-state.md`, `financial-state.md` |
+| `context/` | Stable background: `about-me.md`, `priorities.md`, `relationships.md`, `work-state.md`, `financial-state.md`, `daily-standard.md` |
 | `references/` | Coach/mentor frameworks: `integrated-coach.md`, `schofield.md`, `perel.md`, `gottman.md`, `evans.md`, `schnarch.md`, `hormozi.md` |
+| `journals/daily-log.md` | Daily completion log; running, not cleared — used by weekly-reflection |
 | `journals/inbox.md` | Mid-week captures; cleared each Sunday |
 | `journals/scm-behaviors.md` | SCM II behavioral moments; reviewed weekly for promotion narrative |
 | `journals/workout-log.md` | All training sessions; progress toward intermediate strength standards |

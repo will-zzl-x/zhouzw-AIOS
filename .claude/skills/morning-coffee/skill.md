@@ -12,6 +12,7 @@ Start the day with a grounding plan: one priority, one time block layout. Not a 
 - `state.md` — live context: what phase, what's active, any travel or constraints
 - `dashboard.md` — current week's movers by life area
 - `context/priorities.md` — weekday vs. weekend routing rules
+- `context/daily-standard.md` — today's required targets (what "done" looks like)
 
 ## Steps
 
@@ -20,10 +21,11 @@ Start the day with a grounding plan: one priority, one time block layout. Not a 
 3. Check for any hard constraints today: travel, appointments, vacation, unusual schedule.
 4. Identify the single most important thing to move today — the one mover from dashboard that has the most leverage given the current context.
 5. Build a loose time block structure. Do not schedule every minute. Leave air. Blocks should reflect what Will actually has to work with, not an idealized day.
-6. Output format:
+6. Read `context/daily-standard.md` and pull today's required targets for the current phase.
+7. Output format:
 
 ```
-**[Day, Date]**
+**[Day, Date] — [Phase]**
 
 **Priority:** [The one thing — specific and startable]
 
@@ -32,6 +34,11 @@ Morning   [time range] — [what]
 Midday    [time range] — [what or "free / flexible"]
 Afternoon [time range] — [what]
 Evening   [time range] — [what]
+
+**Today's targets:**
+□ [Target 1 from daily-standard]
+□ [Target 2]
+□ [Target 3]
 
 **Flag:** [Only if there's something time-sensitive from state.md that needs attention today — otherwise omit]
 ```
