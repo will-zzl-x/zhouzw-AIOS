@@ -32,7 +32,7 @@
 - Friendships: acknowledged gap, no action yet.
 
 ## Wedding
-- **Contract signed.** Clayton House Elite, Nov 5, 2027, Scottsdale.
+- **Contract signed.** Clayton House Elite, Oct 22, 2027, Scottsdale.
 - LED candles: confirmed as needed.
 - Late-night bite: Chick-fil-A chicken minis ~$300. Outside vendor permission still needs confirmation with Bailee.
 - Pre-Cana: Elena contacts St. Andrew ASAP — not started.
