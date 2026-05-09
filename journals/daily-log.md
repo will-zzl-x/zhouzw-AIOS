@@ -9,4 +9,8 @@ Format: ✓ = done, □ = planned/pending
 **2026-05-07 (Thu)** — Vacation / Destin
 ✓ Protein ≥ 150g
 ✓ Intentional time with Elena
-□ Training / steps
+✓ Arms & Shoulders BW session
+
+**2026-05-08 (Fri)** — Vacation / Destin / Birthday
+✓ Protein ≥ 150g
+□ Legs session
