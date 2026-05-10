@@ -1,23 +1,24 @@
-# Dashboard — Week of May 3, 2026
+# Dashboard — Week of May 11, 2026
+Return from Destin May 11 | NYC Cut starts May 17
 
 ## Career
-1. Run escalation scraper on work laptop — scope auth + data model first
-2. Find one moment this week to reframe a tactical problem strategically for your manager
-3. Side business: schedule ideation session with Elena
+1. **Promo doc** — advance the draft this week (career mover #1)
+2. Run escalation scraper on work laptop (Kiro prompt drafted, ready)
+3. Block 90-min strategic work Mon/Wed/Fri before checking email
 
 ## Fitness
-4. NYC Cut starts May 17 — confirm calorie targets this week
-5. Hit 5+ Ravage sessions
-6. Watch scale mid-week — expect return to 181 range after Saturday's meal
+4. Final maintenance week — hold ~181 lb baseline, no cut yet
+5. Hit 5+ Ravage sessions back at gym (resume May 12)
+6. NYC Cut prep: confirm 2,200 cal target + MFP setup before Thursday May 17
 
 ## Relationships
-7. Follow Elena's lead on intimacy — presence, not optimization
-8. One intentional thing with Elena this week (not logistics)
+7. Apply Principle 1 — pursue acquisition project visibly (also a money mover)
+8. No optimization talk. No grading. Drop the frame.
 
 ## Wedding
-9. Confirm outside vendor permission with Bailee (chicken minis)
-10. Elena contacts St. Andrew — confirm Nov 5 date + initiate pre-Cana
-11. Start photographer search (60-day window from signing)
+9. Call St. Andrew — lock Oct 22, 2027 + confirm Pre-Cana process with Elena
+10. Reach out to photographer for booking
+11. Hold hotel block to week 2 — don't take it on this week
 
-## Money
-12. Side business ideation session — buying vs. building, time constraint is 10–15 hr/week
+## Money / Side Income
+12. Set up acquisition project in AIOS (plan mode — this Sunday post-reflection)

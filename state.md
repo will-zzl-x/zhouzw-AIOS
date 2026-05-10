@@ -1,10 +1,12 @@
-# State — Last updated May 7, 2026
+# State — Last updated May 10, 2026
 
 ## Career
 - Amazon SCM I (L4). Promotion window Q3–Q4 2026.
-- On vacation May 7–11 (Destin). No Amazon work this week — weekday rule suspended.
-- Active project: Outlook escalation scraper → root cause playbook. Kiro prompt drafted, needs execution on work laptop when back.
-- Side income: acquisition mode. Elena confirmed as co-operator (10–15 hr/week combined). Pre-search phase — no listings active yet. Business types on the table: vending machines, fire extinguisher inspection. Framework: Codie Sanchez / Main Street Millionaire (in progress, reading on trip).
+- **Returning from Destin May 11.** Back at Amazon May 12 (Mon).
+- **Promo doc draft is behind** — top career priority for week 1 back. Draft started but not advanced.
+- Active project: Outlook escalation scraper → root cause playbook. Kiro prompt drafted, needs execution on work laptop.
+- Decision (May 10): AIOS will not duplicate L5 behavior tracking — Will handles that at work. AIOS career role is to hold the promo doc accountable.
+- Side income: acquisition mode. Elena confirmed as co-operator (10–15 hr/week combined). Pre-search phase. Reading Main Street Millionaire (Codie Sanchez) — Level 1 framework confirmed match for current deal box. Business types: vending machines, fire extinguisher inspection. Search window opens ~early August per 3/9/12 timeline.
 
 ## Fitness
 - Weight: ~181 lb (last logged May 3; expect return to ~181 range after Destin).
@@ -27,9 +29,11 @@
 - Steps target: 10–12k/day via beach walks
 
 ## Relationships
-- Elena: strong and stable. On Destin trip together (May 7–11) with her family.
+- Elena: strong and stable. Destin trip neutral — no tension to carry forward.
+- **New (May 10):** Working framework on desire dynamics articulated — 4 principles + bonus, written to `context/relationships.md`. Perel framework populated to `references/perel.md`. For Will's internal use only — not a system to apply to Elena, not something to discuss with her, not graded after the fact.
+- Two highest-leverage applications for week back: pursue acquisition project visibly (Principle 1), drop optimization frame entirely (Principle 4).
 - She asked to drop optimization frame around intimacy — follow her lead, presence over performance.
-- Friendships: acknowledged gap, no action yet.
+- Friendships: acknowledged gap, no action yet. Future build: friend roster + cadence in `/relationship-os`.
 
 ## Wedding
 - **Contract signed.** Clayton House Elite, Oct 22, 2027, Scottsdale.
@@ -48,3 +52,5 @@
 - $2k/mo recurring allocations.
 - Elena's $44k earmarked (wedding/car/misc).
 - Side business: acquisition focus. Elena confirmed co-operator. Vending machines and fire extinguisher inspection on the table. Pre-search, no listings yet.
+- **Codie Sanchez timeline:** 3 months learn / 9 months find + close / 12 months stabilize. Search window opens ~early August. Target close before end of 2026.
+- **Acquisition project setup pending (Plan mode after May 10 reflection)** — extending AIOS, not separate tool. Includes MCP setup for Gmail (deal alerts), Google Calendar (reminders), Playwright (on-demand listing fetch).
