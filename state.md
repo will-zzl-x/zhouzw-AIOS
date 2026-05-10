@@ -53,4 +53,4 @@
 - Elena's $44k earmarked (wedding/car/misc).
 - Side business: acquisition focus. Elena confirmed co-operator. Vending machines and fire extinguisher inspection on the table. Pre-search, no listings yet.
 - **Codie Sanchez timeline:** 3 months learn / 9 months find + close / 12 months stabilize. Search window opens ~early August. Target close before end of 2026.
-- **Acquisition project setup pending (Plan mode after May 10 reflection)** — extending AIOS, not separate tool. Includes MCP setup for Gmail (deal alerts), Google Calendar (reminders), Playwright (on-demand listing fetch).
+- **Acquisition project complete (May 10).** AIOS extension — not separate tool. MCPs configured: Gmail (full read), Google Calendar, Playwright. Files live: `context/acquisition.md`, `references/sanchez.md`, `journals/acquisition-log.md`, `/acquisition` skill (5 modes: capture, log-deal, scan-inbox, outreach, weekly-review). Pending: OAuth credentials setup to activate live Gmail + Calendar connections.

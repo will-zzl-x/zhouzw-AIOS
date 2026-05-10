@@ -1,6 +1,6 @@
 ---
 name: deal-evaluator
-description: Deal Evaluator — paste a business listing and get an instant go/no-go based on Will's hard filters and deal box. Triggered by "evaluate this deal", "run this through the filters", pasting a BizBuySell or Acquire.com listing, or "/deal-eval".
+description: Deal Evaluator — paste a business listing or provide a URL and get an instant go/no-go based on Will's hard filters and deal box. Triggered by "evaluate this deal", "run this through the filters", pasting a BizBuySell or Acquire.com listing or URL, or "/deal-eval [url]".
 ---
 
 ## Goal
@@ -36,14 +36,17 @@ Any of these → immediate NO:
 ## Steps
 
 1. Read `context/financial-state.md`.
-2. Parse the listing Will pasted: business type, asking price, SDE/cash flow, revenue trend, location, owner involvement, reason for sale, anything else stated.
-3. **Hard filter check first.** If any hard filter is triggered, stop and output:
+2. **Determine input mode:**
+   - **URL given:** Use Playwright MCP to fetch the listing page. Navigate to the URL, wait for page load, extract the visible listing text (business type, asking price, SDE/cash flow, revenue trend, location, owner involvement, reason for sale). If Playwright MCP is unavailable, ask Will to paste the listing text instead.
+   - **Text pasted:** Parse directly.
+3. Parse the listing: business type, asking price, SDE/cash flow, revenue trend, location, owner involvement, reason for sale, anything else stated.
+4. **Hard filter check first.** If any hard filter is triggered, stop and output:
    ```
    NO — [which filter] 
    
    [One sentence on what specifically triggered it and why it's disqualifying.]
    ```
-4. If no hard filters triggered, run the full evaluation:
+5. If no hard filters triggered, run the full evaluation:
 
    **Price / Return Check:**
    - Does asking price fit $200k–$500k?
@@ -67,7 +70,7 @@ Any of these → immediate NO:
    - Customer concentration: diversified or concentrated?
    - Any stated risks or red flags in the listing?
 
-5. Output:
+6. Output:
    ```
    [GO / NO / CONDITIONAL GO]
 

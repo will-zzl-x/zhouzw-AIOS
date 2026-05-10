@@ -17,6 +17,7 @@ This is the layer that closes the loop between "I have goals" and "I know I move
 - `context/daily-standard.md` — what "done" means in the current phase
 - `state.md` — current phase, training schedule, active constraints
 - `journals/daily-log.md` — what's been logged today
+- **Google Calendar MCP** (if wired, Today mode only) — today's commitments that might affect timing
 
 ## Writes
 
@@ -33,11 +34,13 @@ Triggered by: "what do I need to do today", "daily check", "morning check", "/da
    - Day type (weekday / weekend / travel / rest)
    - Any today-specific context (meetings, unusual schedule, travel day)
 
-2. Read `context/daily-standard.md` and pull today's required targets.
+2. **If Google Calendar MCP is wired:** fetch today's events. Note any meetings or commitments that affect the day's capacity.
 
-3. Read `journals/daily-log.md` — check if anything has already been logged for today.
+3. Read `context/daily-standard.md` and pull today's required targets.
 
-4. Output:
+4. Read `journals/daily-log.md` — check if anything has already been logged for today.
+
+5. Output:
 
 ```
 **[Day, Date] — [Phase]**
@@ -51,6 +54,8 @@ Today's targets:
 [✓ Already logged: [thing] — if applicable]
 
 Done threshold: [X]/[Y] to call it a solid day.
+
+[Calendar: [events if wired, or omit entirely if not]]
 ```
 
 Keep it short. This is a glance, not a report.

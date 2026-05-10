@@ -128,24 +128,35 @@ If `state.md` hasn't been updated in more than 7 days, flag it before proceeding
 **Touch point log:** Capture a meaningful moment with Elena, family, or a friend.
 **Event check:** Surface upcoming birthdays, standing events, overdue contact.
 
+### `/acquisition` — Acquisition Project
+**Triggers:** "capture acquisition notes", "log this deal", "scan deals", "draft outreach", "acquisition review", "/acquisition [mode]"
+**Modes:**
+- **`capture`** — take notes from Codie/books/podcasts → structure into `context/acquisition.md`
+- **`log-deal`** — log a deal seen (URL or pasted text) → verdict + append to `journals/acquisition-log.md`
+- **`scan-inbox`** — use Gmail MCP to scan for deal alert emails → surface ones passing hard filters
+- **`outreach`** — draft broker or seller outreach (Will sends — AIOS never sends)
+- **`weekly-review`** — read this week's acquisition-log → surface follow-up items + deal flow status
+
 ---
 
 ## Where Things Live
 
 | Folder | Contents |
 |--------|----------|
-| `context/` | Stable background: `about-me.md`, `priorities.md`, `relationships.md`, `work-state.md`, `financial-state.md`, `daily-standard.md` |
-| `references/` | Coach/mentor frameworks: `integrated-coach.md`, `schofield.md`, `perel.md`, `gottman.md`, `evans.md`, `schnarch.md`, `hormozi.md` |
+| `context/` | Stable background: `about-me.md`, `priorities.md`, `relationships.md`, `work-state.md`, `financial-state.md`, `daily-standard.md`, `acquisition.md` |
+| `references/` | Coach/mentor frameworks: `integrated-coach.md`, `schofield.md`, `perel.md`, `gottman.md`, `evans.md`, `schnarch.md`, `hormozi.md`, `sanchez.md` |
 | `journals/daily-log.md` | Daily completion log; running, not cleared — used by weekly-reflection |
 | `journals/inbox.md` | Mid-week captures; cleared each Sunday |
 | `journals/scm-behaviors.md` | SCM II behavioral moments; reviewed weekly for promotion narrative |
 | `journals/workout-log.md` | All training sessions; progress toward intermediate strength standards |
 | `journals/health-log.md` | Sleep and diet tracking; exercise is in workout-log.md |
 | `journals/relationship-log.md` | Monthly relationship reviews and touch point log |
+| `journals/acquisition-log.md` | Running deal flow log; entries via `/acquisition log-deal`, reviewed via `/acquisition weekly-review` |
 | `archives/` | Past reflections, old context snapshots |
 | `goals/` | GPS docs — one file per active goal (`<goal-slug>.md`) |
 | `decisions/` | Log of significant decisions made with the AIOS |
 | `.claude/skills/` | All skill definitions |
+| `.claude/settings.json` | MCP server registrations (Gmail, Google Calendar, Playwright) |
 
 `state.md` — live model of Will's life. Source of truth.
 `dashboard.md` — human-readable weekly view. 3 movers per life area, 12–15 total. Generated fresh each Sunday.
@@ -155,4 +166,4 @@ If `state.md` hasn't been updated in more than 7 days, flag it before proceeding
 
 ## Connections
 
-No connections wired yet. See `connections.md` once set up. Priority candidates: Google Calendar, work email (read-only).
+See `connections.md` for full status. MCPs are configured in `.claude/settings.json` — Gmail, Google Calendar, and Playwright are registered and ready to activate once OAuth credentials are added to `.env`.
