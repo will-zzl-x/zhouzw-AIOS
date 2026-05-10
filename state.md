@@ -34,10 +34,10 @@
 ## Wedding
 - **Contract signed.** Clayton House Elite, Oct 22, 2027, Scottsdale.
 - LED candles: confirmed as needed.
-- Late-night bite: Chick-fil-A chicken minis ~$300. Outside vendor permission still needs confirmation with Bailee.
+- Late-night bite: Chick-fil-A chicken minis ~$300. **Outside vendor permission confirmed by Bailee (May 10).**
 - Pre-Cana: Elena contacts St. Andrew ASAP — not started.
-- **Call St. Andrew to lock in Nov 5, 2027 date** — not done.
-- Open items: hotel room block, photographer (within 60 days of signing), St. Andrew date confirmation, Bailee outside vendor confirmation.
+- **Call St. Andrew to lock in Oct 22, 2027 date** — not done.
+- Open items: hotel room block, photographer (within 60 days of signing), St. Andrew date confirmation.
 
 ## Travel
 - **Active: Destin FL — May 7–11.** Rental house with Elena's family (6 total). Beach, bodyweight training, kitchen access. Today is Will's arrival day.
