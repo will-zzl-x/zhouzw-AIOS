@@ -6,7 +6,7 @@ Tracks what external data sources are wired to the AIOS and what's pending.
 
 | Domain | Tier | Source | Status | Notes |
 |--------|------|--------|--------|-------|
-| Calendar | 1 | Google Calendar | Not wired | Priority 1 — daily planning would improve dramatically |
+| Calendar | 1 | Google Calendar | Wiring in progress | MCP `@cocal/google-calendar-mcp` registered in `.mcp.json`; awaiting first-run OAuth. See `references/google-calendar-api.md` |
 | Comms / Email | 1 | Gmail (work read-only) | Not wired | Priority 2 — escalation monitoring |
 | Tasks | 1 | — | Not wired | Will doesn't currently use a task manager |
 | Meetings | 1 | — | Not wired | No meeting transcription set up |
