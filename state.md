@@ -1,8 +1,8 @@
-# State — Last updated May 7, 2026
+# State — Last updated May 11, 2026
 
 ## Career
 - Amazon SCM I (L4). Promotion window Q3–Q4 2026.
-- On vacation May 7–11 (Destin). No Amazon work this week — weekday rule suspended.
+- Destin trip ends today (May 11). Return to work tomorrow May 12.
 - Active project: Outlook escalation scraper → root cause playbook. Kiro prompt drafted, needs execution on work laptop when back.
 - Side income: acquisition mode. Elena confirmed as co-operator (10–15 hr/week combined). Pre-search phase — no listings active yet. Business types on the table: vending machines, fire extinguisher inspection. Framework: Codie Sanchez / Main Street Millionaire (in progress, reading on trip).
 
@@ -41,6 +41,12 @@
 ## Travel
 - **Active: Destin FL — May 7–11.** Rental house with Elena's family (6 total). Beach, bodyweight training, kitchen access. Today is Will's arrival day.
 - NYC trip: Jul 30 – Aug 5. Will + Elena. Paramount Hotel (4 nights) + friend's place Hell's Kitchen. Anchor: ESM NYC dance festival at Marriott Marquis. Confirmation G7LGXE. Book Broadway show + ESM passes before trip.
+
+## AIOS Infrastructure
+- Pushed to private repo: `https://github.com/will-zzl-x/zhouzw-AIOS`. SSH auth via `~/.ssh/github_aios`.
+- Phone access working via claude.ai/code in mobile browser.
+- Connectors not installed: Google Calendar + Gmail pending in claude.ai Settings → Connectors.
+- Build queue (highest leverage first): SCM II behavior tracker → workout log → deal evaluator → morning coffee routine.
 
 ## Money
 - $70k earmarked for income-growth investments. Not deployed.
