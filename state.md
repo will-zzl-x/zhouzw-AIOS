@@ -1,4 +1,8 @@
-# State — Last updated May 10, 2026
+# State — Last updated May 12, 2026
+
+## Daily Loop
+- **Todoist daily brief live (May 12).** `cloud/morning-brief/` generates 3–5 tasks each morning at 7am AZ; evening archive at 9pm AZ writes completions to `journals/daily-log.md`. Source of truth for "what should I do today" is now Todoist's "AIOS Daily" project, not manual logging.
+
 
 ## Career
 - Amazon SCM I (L4). Promotion window Q3–Q4 2026.

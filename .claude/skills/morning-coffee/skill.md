@@ -7,6 +7,8 @@ description: Morning Coffee — daily planning ritual. Reads state.md and dashbo
 
 Start the day with a grounding plan: one priority, one time block layout. Not a to-do list — a structure that makes it easy to start and hard to drift.
 
+**Relationship to Todoist brief:** Will's 3–5 daily tasks already land in Todoist at 7am AZ via the morning-brief Cloud Function. This skill is for *deeper* planning when Will wants it — picking the one priority, structuring time blocks. Don't duplicate the Todoist task list verbatim; reference it.
+
 ## Reads
 
 - `state.md` — live context: what phase, what's active, any travel or constraints

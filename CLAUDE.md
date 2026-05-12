@@ -46,6 +46,12 @@ Direct. Brief. No preamble. No affirmations. Push back when something is fuzzy, 
 Every new session: read `state.md` → `CLAUDE.md` → `dashboard.md`.
 If `state.md` hasn't been updated in more than 7 days, flag it before proceeding.
 
+## Daily Loop (Todoist)
+
+Will's daily brief is generated each morning at 7am AZ by `cloud/morning-brief/` and lands in the Todoist "AIOS Daily" project. He checks tasks off on his phone throughout the day. At 9pm AZ, completions are archived to `journals/daily-log.md` automatically.
+
+When answering "what should I do" or running `/daily-check`, **read Todoist first** via MCP — it's the live truth. `daily-standard.md` describes the framework; Todoist holds today's instance.
+
 ---
 
 ## Skills
@@ -156,7 +162,8 @@ If `state.md` hasn't been updated in more than 7 days, flag it before proceeding
 | `goals/` | GPS docs — one file per active goal (`<goal-slug>.md`) |
 | `decisions/` | Log of significant decisions made with the AIOS |
 | `.claude/skills/` | All skill definitions |
-| `.claude/settings.json` | MCP server registrations (Gmail, Google Calendar, Playwright) |
+| `.claude/settings.json` | MCP server registrations (Gmail, Google Calendar, Playwright, Todoist) |
+| `cloud/morning-brief/` | Google Cloud Function — generates daily Todoist brief 7am AZ, archives completions 9pm AZ |
 
 `state.md` — live model of Will's life. Source of truth.
 `dashboard.md` — human-readable weekly view. 3 movers per life area, 12–15 total. Generated fresh each Sunday.
@@ -166,4 +173,4 @@ If `state.md` hasn't been updated in more than 7 days, flag it before proceeding
 
 ## Connections
 
-See `connections.md` for full status. MCPs are configured in `.claude/settings.json` — Gmail, Google Calendar, and Playwright are registered and ready to activate once OAuth credentials are added to `.env`.
+See `connections.md` for full status. MCPs are configured in `.claude/settings.json` — Gmail, Google Calendar, Playwright, and Todoist are registered. Todoist is live (powers the daily brief loop); Gmail + Calendar activate on first use via OAuth.

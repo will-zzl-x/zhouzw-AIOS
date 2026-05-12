@@ -14,10 +14,13 @@ This is the layer that closes the loop between "I have goals" and "I know I move
 
 ## Reads
 
-- `context/daily-standard.md` — what "done" means in the current phase
+- **Todoist MCP** (primary source of truth for daily tasks) — today's brief lives in the "AIOS Daily" project, generated each morning by the cloud function
+- `context/daily-standard.md` — what "done" means in the current phase (fallback / reference)
 - `state.md` — current phase, training schedule, active constraints
-- `journals/daily-log.md` — what's been logged today
+- `journals/daily-log.md` — historical completion record (auto-populated nightly from Todoist)
 - **Google Calendar MCP** (if wired, Today mode only) — today's commitments that might affect timing
+
+**Important:** Todoist is now the live truth for what's open and what's done today. `daily-standard.md` describes the framework; Todoist holds the current instance.
 
 ## Writes
 

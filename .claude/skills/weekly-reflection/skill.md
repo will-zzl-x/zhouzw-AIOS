@@ -10,6 +10,7 @@ Run a complete weekly synthesis: surface what happened, what shifted, and what m
 ## Reads
 
 - `journals/inbox.md` — mid-week captures
+- `journals/daily-log.md` — this week's daily completions (auto-archived from Todoist nightly)
 - `archives/` — last reflection file (for continuity)
 - `context/priorities.md` — current quarter priorities
 - `context/relationships.md` — relationship context
@@ -17,6 +18,7 @@ Run a complete weekly synthesis: surface what happened, what shifted, and what m
 - `context/financial-state.md` — money context
 - `references/integrated-coach.md` — coaching voice
 - `state.md` and `dashboard.md` — current state
+- **Todoist MCP** (optional) — this week's completed tasks if richer detail than daily-log is needed
 
 ## Writes
 
@@ -54,6 +56,7 @@ Ask one question per life area. Don't ask all at once — go area by area and wa
 ### Phase 3 — Synthesize
 Based on Will's answers + the context files, identify:
 - What changed this week vs. last (state drift)
+- **Completion rates per area** from `journals/daily-log.md` — count ✓ vs □ per area across the week. Surface any area with <50% completion as a flag.
 - What's the single most important carry-forward from this week
 - Any flag worth surfacing from the coach perspective
 

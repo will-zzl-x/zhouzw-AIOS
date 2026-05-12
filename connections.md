@@ -9,7 +9,7 @@ Tracks what external data sources are wired to the AIOS and what's pending.
 | Calendar | 1 | Google Calendar | **Configured** | MCP: `@gongrzhe/server-gcalendar-mcp`. Needs OAuth credentials in `.env` to activate. |
 | Comms / Email | 1 | Gmail (full read) | **Configured** | MCP: `@gongrzhe/server-gmail-autoauth-mcp`. Full read access (not read-only). Needs OAuth credentials in `.env` to activate. |
 | Web fetch / Listings | 1 | Playwright | **Configured** | MCP: `@playwright/mcp`. Used by `/deal-eval` for URL-based listing fetch. Needs `npx playwright install` to download browsers. |
-| Tasks | 1 | — | Not wired | Will doesn't currently use a task manager |
+| Tasks | 1 | Todoist | **Wired** | MCP: `@abhiz123/todoist-mcp-server`. Daily brief auto-generated 7am AZ by `cloud/morning-brief/`. Evening archive 9pm AZ writes completions to `journals/daily-log.md`. |
 | Meetings | 1 | — | Not wired | No meeting transcription set up |
 | Knowledge | 1 | Local files | Wired | AIOS has access to all local context files |
 | Revenue / Money | 1 | Acquisition project | **Wired** | context/acquisition.md + journals/acquisition-log.md + /acquisition skill |

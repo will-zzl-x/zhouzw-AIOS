@@ -9,17 +9,20 @@ Read Will's live context and return exactly one specific action with one sentenc
 
 ## Reads
 
+- **Todoist MCP** — today's open tasks in the "AIOS Daily" project (primary pick source)
 - `state.md` — live model of Will's life
 - `dashboard.md` — current week's 3 movers per life area
 - `context/priorities.md` — weekday vs. weekend routing rules
 
 ## Steps
 
-1. Read `state.md` and `dashboard.md` in full.
-2. Check the time context: is it a weekday or weekend?
+1. **First check Todoist.** If there are open tasks in "AIOS Daily" today, pick the most leverage-aligned one for the available time. That's the answer.
+2. If Todoist is empty (already done for the day, or pre-7am), fall through to dashboard/state-based pick.
+3. Read `state.md` and `dashboard.md` in full.
+4. Check the time context: is it a weekday or weekend?
    - **Weekday:** Career movers are fair game alongside fitness and relationship.
    - **Weekend:** Side income and fitness/relationship movers only — not Amazon work.
-3. Identify the single highest-leverage action from the dashboard and state, filtered by the time context.
+5. Identify the single highest-leverage action from the dashboard and state, filtered by the time context.
 4. Output format:
    ```
    [The specific action — concrete enough to start immediately]

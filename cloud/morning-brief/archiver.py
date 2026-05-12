@@ -1,0 +1,72 @@
+"""Append completion log entries to journals/daily-log.md via the GitHub API."""
+
+import base64
+import os
+from datetime import datetime
+from zoneinfo import ZoneInfo
+
+import requests
+
+REPO = "will-zzl-x/zhouzw-aios"
+BRANCH = os.environ.get("AIOS_BRANCH", "claude/build-coding-skills-K5mpd")
+FILE_PATH = "journals/daily-log.md"
+TZ = ZoneInfo("America/Phoenix")
+
+API_BASE = f"https://api.github.com/repos/{REPO}/contents/{FILE_PATH}"
+
+
+def _headers() -> dict:
+    return {
+        "Authorization": f"token {os.environ['GITHUB_TOKEN']}",
+        "Accept": "application/vnd.github+json",
+    }
+
+
+def _fetch_file() -> tuple[str, str]:
+    """Return (current content, sha)."""
+    r = requests.get(f"{API_BASE}?ref={BRANCH}", headers=_headers(), timeout=15)
+    r.raise_for_status()
+    payload = r.json()
+    content = base64.b64decode(payload["content"]).decode()
+    return content, payload["sha"]
+
+
+def _put_file(new_content: str, sha: str, message: str) -> None:
+    body = {
+        "message": message,
+        "content": base64.b64encode(new_content.encode()).decode(),
+        "sha": sha,
+        "branch": BRANCH,
+    }
+    r = requests.put(API_BASE, headers=_headers(), json=body, timeout=15)
+    r.raise_for_status()
+
+
+def _format_entry(active: list[dict], completed: list[dict], phase: str) -> str:
+    """Format a daily-log entry. active = uncompleted today; completed = closed today."""
+    now = datetime.now(TZ)
+    header = f"**{now.strftime('%Y-%m-%d (%a)')}** — {phase}"
+    lines = [header]
+
+    for t in completed:
+        title = t.get("content", "(unknown)")
+        lines.append(f"✓ {title}")
+    for t in active:
+        title = t.get("content", "(unknown)")
+        lines.append(f"□ {title}")
+
+    return "\n".join(lines) + "\n"
+
+
+def archive(active: list[dict], completed: list[dict], phase: str = "Phase") -> None:
+    """Append today's entry to daily-log.md on GitHub."""
+    current, sha = _fetch_file()
+    entry = _format_entry(active, completed, phase)
+
+    if current.endswith("\n"):
+        new_content = current + "\n" + entry
+    else:
+        new_content = current + "\n\n" + entry
+
+    today_str = datetime.now(TZ).strftime("%Y-%m-%d")
+    _put_file(new_content, sha, f"Archive daily-log entry for {today_str}")
