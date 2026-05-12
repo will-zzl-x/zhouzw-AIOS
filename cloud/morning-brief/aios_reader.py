@@ -1,10 +1,10 @@
-"""Fetch AIOS markdown files from GitHub raw URLs."""
+"""Fetch AIOS markdown files from GitHub raw URLs or local disk (for dry-run)."""
 
 import os
 import requests
 
 GITHUB_REPO = "will-zzl-x/zhouzw-aios"
-GITHUB_BRANCH = os.environ.get("AIOS_BRANCH", "claude/build-coding-skills-K5mpd")
+GITHUB_BRANCH = os.environ.get("AIOS_BRANCH", "main")
 RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_REPO}/{GITHUB_BRANCH}"
 
 FILES = {
@@ -16,7 +16,27 @@ FILES = {
 
 
 def fetch_aios_context() -> dict[str, str]:
-    """Fetch all AIOS context files. Returns dict keyed by short name."""
+    """Fetch all AIOS context files. Returns dict keyed by short name.
+
+    When AIOS_LOCAL_PATH is set, reads from local disk (for dry-run/dev).
+    Otherwise fetches from GitHub raw URLs.
+    """
+    local_root = os.environ.get("AIOS_LOCAL_PATH")
+    if local_root:
+        return _fetch_local(local_root)
+    return _fetch_github()
+
+
+def _fetch_local(root: str) -> dict[str, str]:
+    out = {}
+    for key, path in FILES.items():
+        full = os.path.join(root, path)
+        with open(full, "r") as f:
+            out[key] = f.read()
+    return out
+
+
+def _fetch_github() -> dict[str, str]:
     token = os.environ.get("GITHUB_TOKEN")
     headers = {"Authorization": f"token {token}"} if token else {}
 
