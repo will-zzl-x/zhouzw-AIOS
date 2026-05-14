@@ -24,14 +24,28 @@ Fitness consistency and relationship quality first. Missing Ravage sessions or l
 **Risk:** Tactical weeks won't generate new stories. Block 1 hr/week to *create* a strategic moment, not wait for one.
 
 ### Fitness — "Execute the NYC Cut"
-**Win condition:** 172 lb by July 4, Ravage 4x/week minimum, no >10% strength regression on main lifts, protein ≥150g daily logged.
-**Protocol (Schofield):** Start at 1,000 cal deficit. Scale back on triggers:
+**Win condition:** 172–173 lb by Jun 27, stabilized at 175 ± 1 lb through NYC trip (Jul 30–Aug 5), Ravage 4x/week minimum, no >10% strength regression on main lifts, protein ≥150g daily logged.
+
+**Phase plan:**
+| Phase | Dates | Calories | Target |
+|---|---|---|---|
+| Aggressive Cut | May 17 – Jun 27 | ~2,000 (1,000 deficit) | 173 lb |
+| Reverse Diet | Jun 28 – Jul 12 | +250/wk → maintenance | 174–175 stabilizing |
+| Maintenance | Jul 13 – Jul 29 | ~2,800–3,000 | 175 ± 1 |
+| NYC Trip | Jul 30 – Aug 5 | Loose maintenance | Damage control |
+
+**Deficit protocol (Schofield):** Start at 1,000 cal deficit. Scale back on triggers:
 - Main lift drops >10% → drop to 750 cal deficit
 - 750 + lifts still dropping → drop to 500 cal deficit
-- Recovery suffering → add one refeed day/week (maintenance cals, fat ≤40g, carbs 350g+)
-- Below ~174 lb → drop to 500 cal deficit and hold
-- Never below BMR (~1,800–2,000 cal) — increase steps/NEAT instead
-**Tracking:** 7-day rolling average weight, not daily.
+- Below ~176 lb → add one refeed day/week (maintenance cals, fat ≤40g, carbs 350g+); align with heaviest Ravage session
+- Never below BMR (~1,800–2,000 cal) — increase steps/NEAT first
+- Scale stalls before triggers hit → push steps to 12k+ before cutting more calories
+
+**Reverse diet (Jun 28+):** Add ~250 cal/week until at maintenance. Expect 2–3 lb water/glycogen regain — normal, not fat.
+
+**NYC eating rule:** Skip bread basket OR dessert/alcohol per meal — pick one. Don't track strictly.
+
+**Tracking:** 7-day rolling average weight, not daily. Operating range: 165–181 lb (12–20% BF).
 
 ### Relationships — "Court Elena"
 **Win condition:** Architecture date 1x/month, MMA 1–2x/week locked in by May 25, acquisition project visibly in motion, NYC Cut visibly executed, zero night talks about intimacy.
