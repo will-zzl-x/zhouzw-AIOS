@@ -34,13 +34,14 @@ Fitness consistency and relationship quality first. Missing Ravage sessions or l
 **Tracking:** 7-day rolling average weight, not daily.
 
 ### Relationships — "Court Elena"
-**Win condition:** Taliesin West date this weekend, architecture date 1x/month, MMA 1–2x/week locked in by May 25, desire thoughts sent not suppressed, zero night talks about intimacy.
+**Win condition:** Architecture date 1x/month, MMA 1–2x/week locked in by May 25, acquisition project visibly in motion, NYC Cut visibly executed, zero night talks about intimacy.
+**Root cause focus:** Desire follows attraction. Attraction follows visible self-investment + presence. Don't optimize the symptom — execute the root.
 **Moves:**
 1. Architecture date 1x/month — novelty + anticipation outside domestic routine
 2. MMA 1–2x/week — solo separateness + visible self-investment
-3. Self-soothe frustration — route to `/mid-week-capture`, never vent to Elena
-4. Zero night talks about intimacy — hard rule, daylight only
-5. Desire thoughts sent — when the thought is there, send it instead of suppressing it
+3. Acquisition project visibly in motion — Saturday review, deal log activity Elena can see
+4. NYC Cut visibly executed — training adherence, physical change over the next 7 weeks
+5. Zero night talks about intimacy — hard rule, daylight only. Self-soothe frustration via `/mid-week-capture`, never vent to Elena
 
 ### Money — "Find the Business"
 **Win condition:** 1 hr Saturday afternoon listing review cadence locked, 10+ listings reviewed by June 30, 1 real broker conversation, LOI template drafted.

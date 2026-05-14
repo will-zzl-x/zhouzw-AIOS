@@ -1,4 +1,4 @@
-# State — Last updated May 12, 2026
+# State — Last updated May 14, 2026
 
 ## Daily Loop
 - **Todoist daily brief live (May 12).** `cloud/morning-brief/` generates 3–5 tasks each morning at 7am AZ; evening archive at 9pm AZ writes completions to `journals/daily-log.md`. Source of truth for "what should I do today" is now Todoist's "AIOS Daily" project, not manual logging.
@@ -35,6 +35,8 @@
 ## Relationships
 - Elena: strong and stable. Destin trip neutral — no tension to carry forward.
 - **New (May 10):** Working framework on desire dynamics articulated — 4 principles + bonus, written to `context/relationships.md`. Perel framework populated to `references/perel.md`. For Will's internal use only — not a system to apply to Elena, not something to discuss with her, not graded after the fact.
+- **Refined May 14:** Root-cause moves only. Visible self-investment (acquisition + Cut + MMA) and presence over performance. Symptom moves (desire texts) explicitly cut from the quest.
+- **Architecture date locked (May 14):** Mid-century modern driving tour in Scottsdale this weekend.
 - Two highest-leverage applications for week back: pursue acquisition project visibly (Principle 1), drop optimization frame entirely (Principle 4).
 - She asked to drop optimization frame around intimacy — follow her lead, presence over performance.
 - Friendships: acknowledged gap, no action yet. Future build: friend roster + cadence in `/relationship-os`.
@@ -43,9 +45,9 @@
 - **Contract signed.** Clayton House Elite, Oct 22, 2027, Scottsdale.
 - LED candles: confirmed as needed.
 - Late-night bite: Chick-fil-A chicken minis ~$300. **Outside vendor permission confirmed by Bailee (May 10).**
-- Pre-Cana: Elena contacts St. Andrew ASAP — not started.
-- **Call St. Andrew to lock in Oct 22, 2027 date** — not done.
-- Open items: hotel room block, photographer (within 60 days of signing), St. Andrew date confirmation.
+- **St. Andrew Oct 22, 2027 date locked (May 14).** Pre-Cana process to confirm next.
+- **Virehouse photographer reached out May 14 — pending response.**
+- Open items: hotel room block, Virehouse contract close, Pre-Cana scheduling.
 
 ## Travel
 - **Active: Destin FL — May 7–11.** Rental house with Elena's family (6 total). Beach, bodyweight training, kitchen access. Today is Will's arrival day.
