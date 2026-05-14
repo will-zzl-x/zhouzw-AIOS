@@ -24,17 +24,17 @@ Fitness consistency and relationship quality first. Missing Ravage sessions or l
 **Risk:** Tactical weeks won't generate new stories. Block 1 hr/week to *create* a strategic moment, not wait for one.
 
 ### Fitness — "Execute the NYC Cut"
-**Win condition:** Cut to 12% BF floor (~165–168 lb) or until 2 weeks before NYC (Jul 12), whichever comes first. Stabilized at end-cut weight ± 1 lb through NYC trip (Jul 30–Aug 5). Ravage 4x/week minimum, no >10% strength regression on main lifts, protein ≥150g daily logged.
+**Win condition:** Cut to 168 lb floor or until Jul 11, whichever comes first. Stabilized at end-cut weight ± 1 lb through NYC trip (Jul 30–Aug 5). Ravage 4x/week minimum, no >10% strength regression on main lifts, protein ≥150g daily logged.
 
 **Phase plan:**
 | Phase | Dates | Calories | Target |
 |---|---|---|---|
-| Aggressive Cut | May 17 – Jul 11 | ~2,000 (1,000 deficit) | 12% BF / ~165–168 lb floor |
+| Aggressive Cut | May 17 – Jul 11 | ~2,000 (1,000 deficit) | 168 lb floor |
 | Reverse + Maintain | Jul 12 – Jul 29 | +250/wk → maintenance, then hold | Stabilize at end-cut weight |
 | NYC Trip | Jul 30 – Aug 5 | Loose maintenance | Damage control |
 
-**Hard floor:** 12% BF (~165–168 lb equivalent). Do not cut below this — hunger spikes, sleep disrupts, hormonal risk per GVS. If you hit the floor before Jul 11, switch to maintenance immediately.
-**Operating range:** 165–181 lb (12–20% BF).
+**Hard floor:** 168 lb. Do not cut below this — aligns with 12% BF lower bound per GVS (hunger spikes, sleep disrupts, hormonal risk). If you hit 168 before Jul 11, switch to maintenance immediately.
+**Operating range:** 168–181 lb (12–20% BF).
 
 **Deficit protocol (Schofield):** Start at 1,000 cal deficit. Scale back on triggers:
 - Main lift drops >10% → drop to 750 cal deficit
