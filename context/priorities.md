@@ -11,17 +11,23 @@ Career first. SCM II promotion window is Q3–Q4 2026 — this quarter is the pr
 Fitness consistency and relationship quality first. Missing Ravage sessions or letting the cut slip has immediate, daily impact. Career slipping Q3→Q4 does not.
 
 **EA mode rule by time block:**
-- Weekdays: career movers are fair game alongside fitness and relationship
-- Weekends: side income and fitness/relationship movers — not Amazon work
+- Weekdays: Work Main Quest (Amazon promo + acquisition) fair game alongside fitness and relationship
+- Weekends: acquisition/listing review + fitness/relationship movers — not Amazon work
 
 ---
 
 ## Q2 Quests
 
-### Career — "Build the Promo Doc"
-**Win condition:** 5–7 LP-aligned stories with quantified impact (% reduction, $ saved, scope), reviewed by 2 cross-functional partners who'd advocate, manager-aligned by June 30.
-**Key move:** Escalation scraper = "Invent and Simplify" + "Dive Deep" story — frame with metrics, not activities.
-**Risk:** Tactical weeks won't generate new stories. Block 1 hr/week to *create* a strategic moment, not wait for one.
+### Work Main Quest — "Build the Platform"
+**Win condition (Amazon):** 5–7 LP-aligned stories with quantified impact (% reduction, $ saved, scope), reviewed by 2 cross-functional partners who'd advocate, manager-aligned by June 30.
+**Win condition (Acquisition):** Saturday listing review cadence locked, 10+ listings reviewed by June 30, 1 real broker conversation initiated, LOI template drafted.
+**Major moves:**
+1. Advance promo doc — write LP-aligned stories with metrics, manager-aligned by June 30
+2. Saturday afternoon listing review cadence locked (1 hr/week)
+3. 10+ listings reviewed by June 30
+4. 1 real broker conversation initiated
+5. LOI template drafted
+**Framework:** Codie Sanchez Level 1. See `context/acquisition.md` and `references/sanchez.md`.
 
 ### Fitness — "Execute the NYC Cut"
 **Win condition:** Cut to 168 lb floor or until Jul 11, whichever comes first. Stabilized at end-cut weight ± 1 lb through NYC trip (Jul 30–Aug 5). Ravage 4x/week minimum, no >10% strength regression on main lifts, protein ≥150g daily logged.
@@ -59,11 +65,6 @@ Fitness consistency and relationship quality first. Missing Ravage sessions or l
 4. NYC Cut visibly executed — training adherence, physical change over the next 7 weeks
 5. Zero night talks about intimacy — hard rule, daylight only. Self-soothe frustration via `/mid-week-capture`, never vent to Elena
 
-### Money — "Find the Business"
-**Win condition:** 1 hr Saturday afternoon listing review cadence locked, 10+ listings reviewed by June 30, 1 real broker conversation, LOI template drafted.
-**Q2 ambition:** In motion. Not closed. NYC Cut (May 17–Jul 4) will compress bandwidth — don't over-promise an LOI in Q2.
-**Framework:** Codie Sanchez Level 1. See `context/acquisition.md` and `references/sanchez.md`.
-
 ### Wedding — "Clear the Stack"
 **Win condition:** Virehouse contracted (engagement session included, 8hr min coverage), St. Andrew date locked via phone call, hotel block at 2 price points ($150 + $200 range) by June 30.
 **Open items:**
@@ -77,5 +78,5 @@ Fitness consistency and relationship quality first. Missing Ravage sessions or l
 
 | Day type | Fair game |
 |----------|-----------|
-| Weekday | Career, fitness, relationships |
-| Weekend | Fitness, relationships, money/acquisition — not Amazon work |
+| Weekday | Work Main Quest (Amazon + acquisition), fitness, relationships |
+| Weekend | Acquisition/listing review, fitness, relationships — not Amazon work |
