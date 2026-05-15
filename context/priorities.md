@@ -65,6 +65,13 @@ Fitness consistency and relationship quality first. Missing Ravage sessions or l
 4. NYC Cut visibly executed — training adherence, physical change over the next 7 weeks
 5. Zero night talks about intimacy — hard rule, daylight only. Self-soothe frustration via `/mid-week-capture`, never vent to Elena
 
+### Friendships — "Stay in the Circle"
+**Win condition:** 1 meaningful touchpoint per week with a close friend (call, voice memo, or in-person) — sustained for 6 weeks by June 30.
+**Major moves:**
+1. Build a short roster (5–8 people) with last-contact date — lives in `/relationship-os`
+2. Weekly Sunday: pick one person, reach out before the week ends
+3. NYC trip — deliberately see at least 1 close friend while there
+
 ### Wedding — "Clear the Stack"
 **Win condition:** Virehouse contracted (engagement session included, 8hr min coverage), St. Andrew date locked via phone call, hotel block at 2 price points ($150 + $200 range) by June 30.
 **Open items:**
