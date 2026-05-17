@@ -30,16 +30,17 @@ Fitness consistency and relationship quality first. Missing Ravage sessions or l
 **Framework:** Codie Sanchez Level 1. See `context/acquisition.md` and `references/sanchez.md`.
 
 ### Fitness — "Execute the NYC Cut"
-**Win condition:** Cut to 168 lb floor or until Jul 11, whichever comes first. Stabilized at end-cut weight ± 1 lb through NYC trip (Jul 30–Aug 5). Ravage 4x/week minimum, no >10% strength regression on main lifts, protein ≥150g daily logged.
+**Win condition:** Execute cut phase clean May 17 – Jul 11. Stabilized at end-cut weight ± 1 lb through NYC trip (Jul 30–Aug 5). Ravage 4x/week minimum, no >10% strength regression on main lifts, protein ≥150g daily logged.
+**Longer-term target:** 168 lb by suit fitting for wedding (Oct 22, 2027) — not a Q2 deadline.
 
 **Phase plan:**
 | Phase | Dates | Calories | Target |
 |---|---|---|---|
-| Aggressive Cut | May 17 – Jul 11 | ~2,000 (1,000 deficit) | 168 lb floor |
+| Aggressive Cut | May 17 – Jul 11 | ~2,000 (1,000 deficit) | As low as possible before NYC |
 | Reverse + Maintain | Jul 12 – Jul 29 | +250/wk → maintenance, then hold | Stabilize at end-cut weight |
 | NYC Trip | Jul 30 – Aug 5 | Loose maintenance | Damage control |
 
-**Hard floor:** 168 lb. Do not cut below this — aligns with 12% BF lower bound per GVS (hunger spikes, sleep disrupts, hormonal risk). If you hit 168 before Jul 11, switch to maintenance immediately.
+**Hard floor:** 168 lb. Do not cut below this — aligns with 12% BF lower bound per GVS (hunger spikes, sleep disrupts, hormonal risk).
 **Operating range:** 168–181 lb (12–20% BF).
 
 **Deficit protocol (Schofield):** Start at 1,000 cal deficit. Scale back on triggers:
@@ -49,11 +50,11 @@ Fitness consistency and relationship quality first. Missing Ravage sessions or l
 - Never below BMR (~1,800–2,000 cal) — increase steps/NEAT first
 - Scale stalls before triggers hit → push steps to 12k+ before cutting more calories
 
-**Reverse diet (Jun 28+):** Add ~250 cal/week until at maintenance. Expect 2–3 lb water/glycogen regain — normal, not fat.
+**Reverse diet (Jul 12+):** Add ~250 cal/week until at maintenance. Expect 2–3 lb water/glycogen regain — normal, not fat.
 
 **NYC eating rule:** Skip bread basket OR dessert/alcohol per meal — pick one. Don't track strictly.
 
-**Tracking:** 7-day rolling average weight, not daily. Operating range: 165–181 lb (12–20% BF).
+**Tracking:** 7-day rolling average weight, not daily. Operating range: 168–181 lb (12–20% BF).
 
 ### Relationships — "Court Elena"
 **Win condition:** Architecture date 1x/month, MMA 1–2x/week locked in by May 25, acquisition project visibly in motion, NYC Cut visibly executed, zero night talks about intimacy.

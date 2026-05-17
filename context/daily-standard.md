@@ -10,7 +10,7 @@ Updated each time a phase changes or a quarterly review runs.
 | Quest | Major Moves |
 |-------|-------------|
 | SCM II promotion (Work) | Log/create 1 L5 behavior per week; do strategic work, not just firefighting |
-| NYC Cut — 172 lb by Jul 4 (Fitness) | 150g protein daily; training 3x/week; 10k steps/day; ≤2,200 cal in deficit phase |
+| NYC Cut — execute clean through Jul 11 (Fitness) | 150g protein daily; training 3x/week; 10k steps/day; ≤2,200 cal in deficit phase |
 | Business acquisition (Side) | Active reading/research time; evaluate listings when they surface |
 
 ---
