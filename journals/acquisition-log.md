@@ -18,7 +18,7 @@ Action taken: [evaluated only / contacted broker / requested IM / submitted LOI]
 
 ## Meeting History
 
-**Apr 7, 2026** — First meeting with Dan Nguyen
+**Apr 7, 2025** — First meeting with Dan Nguyen
 - Thesis established: AI-enabled accounting/tax strategy firm acquisition
 - Dan's interest: acquire existing firm, add fractional CFO/consulting, leverage AI as competitive advantage
 - AI angle: existential risk to low-tech industry — time to capitalize is now
@@ -26,14 +26,14 @@ Action taken: [evaluated only / contacted broker / requested IM / submitted LOI]
 - Will's action items: Mike Warren Business Flipping Course, research financial services acquisitions, research AI applications in financial services
 - Next step: define deal box ($500k–$1M range TBD)
 
-**Apr 15, 2026** — Listings review meeting
+**Apr 15, 2025** — Listings review meeting
 - Reviewed 3 on-market listings:
   - $780k rev / $246k profit / $30k FFE / est. 1994 / 6 employees
   - $700k rev / $540k profit — high margin, investigate further
   - $90k rev / $90k profit / $30k FFE / est. 1983 / 2 employees — key-man risk likely
 - Status: evaluating, no contact yet
 
-**Apr 22, 2026** — Outreach + structure meeting
+**Apr 22, 2025** — Outreach + structure meeting
 - Partnership percentages, salary, waterfall milestones, and roles drafted (separate tab)
 - Outreach script for off-market sourcing completed
 - 131 leads scraped (free tier, no sharing)
@@ -41,7 +41,7 @@ Action taken: [evaluated only / contacted broker / requested IM / submitted LOI]
 - SBA lender call scheduled for Apr 28
 - Reached out to 4 on-market listings from Apr 20 — awaiting responses
 
-**Apr 28, 2026** — SBA lender call
+**Apr 28, 2025** — SBA lender call
 - Call with SBA lender completed
 - SBA approval pending
 - **Stall point:** Loan size for $500k–$1M acquisition came into focus — Will got cold feet on the debt load. Active outreach stopped. Dan partnership still intact but not moving forward until Will is comfortable with the financing.

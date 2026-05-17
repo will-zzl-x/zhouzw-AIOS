@@ -1,6 +1,6 @@
 # Acquisition Playbook
 
-Last updated: May 17, 2026
+Last updated: May 17, 2026 (meeting notes from Apr–May 2025)
 
 ---
 
@@ -65,11 +65,11 @@ This is a known constraint — not a dealbreaker, but must be resolved in deal s
 
 ## Current Status (May 2026)
 
-**Paused.** The accounting firm thesis stalled in late April after the SBA lender call surfaced the loan size required — $500k–$1M acquisition = significant debt that gave Will pause. No active outreach currently.
+**Dormant since ~May 2025.** The accounting firm thesis stalled after the SBA lender call surfaced the loan size — $500k–$1M acquisition = significant debt that gave Will pause. No outreach has happened since. It's been ~1 year.
 
-Dan Nguyen partnership remains a possibility — relationship is intact, thesis is interesting, but Will needs to get comfortable with the financing before re-engaging.
+Dan Nguyen partnership remains a possibility — relationship intact, thesis still interesting, but not actively pursued.
 
-**Current position:** Evaluating whether to re-enter the accounting firm search, pivot to a smaller/simpler deal (Codie Level 1 — vending, service businesses), or wait until post-promo window when bandwidth opens.
+**Current position (May 2026):** Q2 Work Main Quest restarts acquisition activity. Decision still open: re-enter accounting firm search with Dan, or pivot to a simpler Codie Level 1 deal (vending, service businesses) solo. Saturday review cadence is the mechanism to work through this.
 
 ---
 
