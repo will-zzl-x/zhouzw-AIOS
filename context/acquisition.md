@@ -69,7 +69,7 @@ This is a known constraint — not a dealbreaker, but must be resolved in deal s
 
 Dan Nguyen partnership remains a possibility — relationship intact, thesis still interesting, but not actively pursued.
 
-**Current position (May 2026):** Q2 Work Main Quest restarts acquisition activity. Decision still open: re-enter accounting firm search with Dan, or pivot to a simpler Codie Level 1 deal (vending, service businesses) solo. Saturday review cadence is the mechanism to work through this.
+**Current position (May 2026):** Q2 Work Main Quest restarts acquisition activity via Saturday review cadence. Primary path is Codie Level 1 solo (simpler deal, $200k–$400k, semi-absentee). The Dan Nguyen accounting firm thesis remains an option — potentially stronger if a licensed CPA joins as third partner (resolves AZ ownership law), but debt load and promotion window bandwidth are unresolved concerns. Not actively pursuing the Dan path right now.
 
 ---
 
