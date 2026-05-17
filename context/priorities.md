@@ -57,14 +57,14 @@ Fitness consistency and relationship quality first. Missing Ravage sessions or l
 **Tracking:** 7-day rolling average weight, not daily. Operating range: 168–181 lb (12–20% BF).
 
 ### Relationships — "Court Elena"
-**Win condition:** Architecture date 1x/month, MMA 1–2x/week locked in by May 25, acquisition project visibly in motion, NYC Cut visibly executed, zero night talks about intimacy.
+**Win condition:** Architecture date 1x/month, solo pursuit (MMA or bachata private lessons) on Monday anchor + 1–2 additional nights/week, NYC Cut visibly executed, zero night talks about intimacy.
 **Root cause focus:** Desire follows attraction. Attraction follows visible self-investment + presence. Don't optimize the symptom — execute the root.
 **Moves:**
 1. Architecture date 1x/month — novelty + anticipation outside domestic routine
-2. MMA 1–2x/week — solo separateness + visible self-investment
-3. Acquisition project visibly in motion — Saturday review, deal log activity Elena can see
-4. NYC Cut visibly executed — training adherence, physical change over the next 7 weeks
-5. Zero night talks about intimacy — hard rule, daylight only. Self-soothe frustration via `/mid-week-capture`, never vent to Elena
+2. Monday anchor — MMA or bachata private lesson (solo, not shared). 1–2x/week total. Ravage already counts as his.
+3. NYC Cut executed — Ravage adherence + visible physical change. Self-investment Will does FOR himself, not to display.
+4. Acquisition project — shows competence + momentum. Shared with Elena so not differentiation, but still matters.
+5. Zero night talks about intimacy — hard rule, daylight only. Self-soothe via `/mid-week-capture`, never vent to Elena.
 
 ### Friendships — "Stay in the Circle"
 **Win condition:** 1 meaningful touchpoint per week with a close friend (call, voice memo, or in-person) — sustained for 6 weeks by June 30.
