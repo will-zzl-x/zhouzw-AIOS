@@ -47,7 +47,7 @@ Done when:
 Done when:
 1. **Career** — At least one strategic action or SCM II behavior logged
 2. **Training** — Ravage session (if training day) — minimum 3x/week
-3. **Nutrition** — Protein ≥ 150g AND calories ≤ 2,000
+3. **Nutrition** — Protein ≥ 150g AND calories ~1,820 (BMR floor — at or just above)
 4. **Steps** — ≥ 10,000 (tracked via Apple Watch)
 
 Scale rule: 7-day rolling avg hits ≤176 lb → add one refeed day/week (maintenance cals, fat ≤40g, carbs 350g+). Don't react to single weigh-ins.
@@ -55,7 +55,7 @@ Scale rule: 7-day rolling avg hits ≤176 lb → add one refeed day/week (mainte
 ### NYC Cut — Weekends (May 17 – Jul 11)
 Done when:
 1. **Training** — Ravage session OR active recovery (yoga, long walk ≥ 10k steps)
-2. **Nutrition** — Protein ≥ 150g AND calories ≤ 2,000
+2. **Nutrition** — Protein ≥ 150g AND calories ~1,820 (BMR floor — at or just above)
 3. **Steps** — ≥ 10,000
 4. **Side/Relationship** — Acquisition research OR intentional time with Elena
 
