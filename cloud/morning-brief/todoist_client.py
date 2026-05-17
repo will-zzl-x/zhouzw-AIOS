@@ -1,12 +1,12 @@
-"""Todoist REST API v2 client."""
+"""Todoist API v1 (unified) client."""
 
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
 import requests
 
-API_BASE = "https://api.todoist.com/rest/v2"
+API_BASE = "https://api.todoist.com/api/v1"
 PROJECT_NAME = "AIOS Daily"
 TZ = ZoneInfo("America/Phoenix")
 
@@ -15,10 +15,22 @@ def _headers() -> dict:
     return {"Authorization": f"Bearer {os.environ['TODOIST_API_KEY']}"}
 
 
-def _get(path: str) -> list | dict:
-    r = requests.get(f"{API_BASE}{path}", headers=_headers(), timeout=15)
-    r.raise_for_status()
-    return r.json()
+def _get_paginated(path: str, params: dict | None = None) -> list:
+    """GET a paginated list endpoint, walking next_cursor until exhausted."""
+    out: list = []
+    cursor: str | None = None
+    while True:
+        p = dict(params or {})
+        if cursor:
+            p["cursor"] = cursor
+        r = requests.get(f"{API_BASE}{path}", headers=_headers(), params=p, timeout=15)
+        r.raise_for_status()
+        data = r.json()
+        out.extend(data.get("results", []))
+        cursor = data.get("next_cursor")
+        if not cursor:
+            break
+    return out
 
 
 def _post(path: str, body: dict) -> dict:
@@ -29,7 +41,7 @@ def _post(path: str, body: dict) -> dict:
 
 def get_or_create_project() -> str:
     """Return the project ID for AIOS Daily, creating it if missing."""
-    projects = _get("/projects")
+    projects = _get_paginated("/projects")
     for p in projects:
         if p["name"] == PROJECT_NAME:
             return p["id"]
@@ -39,19 +51,20 @@ def get_or_create_project() -> str:
 
 def get_today_tasks(project_id: str) -> list[dict]:
     """All active (uncompleted) tasks in the project."""
-    return _get(f"/tasks?project_id={project_id}")
+    return _get_paginated("/tasks", {"project_id": project_id})
 
 
 def get_completed_today(project_id: str) -> list[dict]:
     """Tasks completed today (Phoenix time)."""
-    today = datetime.now(TZ).strftime("%Y-%m-%d")
-    url = (
-        f"https://api.todoist.com/sync/v9/completed/get_all"
-        f"?project_id={project_id}&since={today}T00:00:00Z"
-    )
-    r = requests.get(url, headers=_headers(), timeout=15)
-    r.raise_for_status()
-    return r.json().get("items", [])
+    now = datetime.now(TZ)
+    since = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    until = since + timedelta(days=1)
+    params = {
+        "project_id": project_id,
+        "since": since.strftime("%Y-%m-%dT%H:%M:%S"),
+        "until": until.strftime("%Y-%m-%dT%H:%M:%S"),
+    }
+    return _get_paginated("/tasks/completed/by_completion_date", params)
 
 
 def clear_active_tasks(project_id: str) -> int:
