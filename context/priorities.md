@@ -36,19 +36,19 @@ Fitness consistency and relationship quality first. Missing Ravage sessions or l
 **Phase plan:**
 | Phase | Dates | Calories | Target |
 |---|---|---|---|
-| Aggressive Cut | May 17 – Jul 11 | ~2,000 (1,000 deficit) | As low as possible before NYC |
+| Aggressive Cut | May 17 – Jul 11 | ~2,000 (750 deficit — BMR floor constraint) | As low as possible before NYC |
 | Reverse + Maintain | Jul 12 – Jul 29 | +250/wk → maintenance, then hold | Stabilize at end-cut weight |
 | NYC Trip | Jul 30 – Aug 5 | Loose maintenance | Damage control |
 
 **Hard floor:** 168 lb. Do not cut below this — aligns with 12% BF lower bound per GVS (hunger spikes, sleep disrupts, hormonal risk).
 **Operating range:** 168–181 lb (12–20% BF).
 
-**Deficit protocol (Schofield):** Start at 1,000 cal deficit. Scale back on triggers:
-- Main lift drops >10% → drop to 750 cal deficit
-- 750 + lifts still dropping → drop to 500 cal deficit
-- Below ~176 lb → add one refeed day/week (maintenance cals, fat ≤40g, carbs 350g+); align with heaviest Ravage session
-- Never below BMR (~1,800–2,000 cal) — increase steps/NEAT first
-- Scale stalls before triggers hit → push steps to 12k+ before cutting more calories
+**Deficit protocol (Schofield):** Start at 750 cal deficit (~2,000 cal) — BMR floor constraint (maintenance ~2,700–2,800). Scale back on triggers:
+- Main lift drops >10% → drop to 500 cal deficit
+- 500 + lifts still dropping → reduce further, increase steps instead
+- 7-day rolling avg ≤176 lb → add one refeed day/week (maintenance cals, fat ≤40g, carbs 350g+); align with heaviest Ravage session
+- Never below BMR (~1,800 cal) — increase steps/NEAT first
+- Scale stalls + not hungry → you're not in a deficit; tighten tracking before cutting further
 
 **Reverse diet (Jul 12+):** Add ~250 cal/week until at maintenance. Expect 2–3 lb water/glycogen regain — normal, not fat.
 
