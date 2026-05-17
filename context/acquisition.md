@@ -1,123 +1,155 @@
 # Acquisition Playbook
 
-Last updated: May 10, 2026
+Last updated: May 17, 2026
+
+---
+
+## Current Deal Thesis
+
+**Target:** AI-enabled accounting / tax strategy firm acquisition.
+**Partnership:** Will + Elena (co-operators) + Dan Nguyen (fractional or hands-on CEO). Dan has deep interest in this space and is exploring the CPA path — if he pursues and obtains CPA licensure, it resolves the Arizona 51% CPA ownership requirement cleanly.
+**AI angle:** Low-tech industry facing existential AI disruption. Opportunity to acquire and modernize via AI-assisted data entry, bookkeeping, tax prep, client comms, and fractional CFO consulting add-on.
+**SBA financing:** Active. SBA lender call completed ~Apr 28. Approval pending.
+
+---
+
+## Arizona CPA Ownership Law
+
+Non-CPAs can own part of an accounting firm in Arizona, but **51% majority ownership must belong to licensed CPAs**.
+
+**Paths to compliance:**
+1. Dan pursues CPA licensure (interested — timeline TBD)
+2. Retain key CPAs as equity partners to satisfy the 51% requirement
+3. Focus on services that don't trigger the CPA-majority rule (non-audit, non-review, non-"CPA" branded services)
+4. Avoid "CPA" in the firm name + avoid audit/review engagements
+
+This is a known constraint — not a dealbreaker, but must be resolved in deal structure.
 
 ---
 
 ## Deal Box
 
-Pull from `context/financial-state.md` — this section is a quick reference only, financial-state.md is the source of truth.
-
-- **Capital available:** $70k (S&ME fund)
-- **Acquisition price range:** $200k–$500k
-- **SDE target:** $80k–$200k/year
-- **Multiple:** 2–3× SDE (Codie framework)
-- **Min cash-on-cash return:** 20%+ after debt service
-- **Financing:** SBA 7(a) preferred + seller financing
-- **Operator model:** Semi-absentee. Hired manager runs day-to-day. Will's time: 10–15 hr/week. Elena: confirmed co-operator.
-- **Location:** Remote preferred. Phoenix-area physical acceptable if manager-in-place. Relocatable preferred.
-- **Hard deadline:** Stable/sellable/remotely manageable by late 2027 (post-wedding move).
+- **Capital available:** $70k (S&ME fund) — Will's contribution
+- **Target revenue range:** $500k–$1M gross revenue
+- **Industry multiple:** ~1× gross revenue (accounting firm norm)
+- **Implied price range:** $500k–$1M
+- **Financing:** SBA 7(a) + seller financing preferred
+- **Operator model:** Dan as CEO (fractional or full-time). Will + Elena support ops. AI systems reduce headcount dependency.
+- **Location:** Arizona preferred (familiar market, CPA law already researched). Remote manageable preferred long-term.
+- **Hard deadline:** Stable and manageable by late 2027 (post-wedding move out of Tempe).
 
 ---
 
 ## Hard Filters (Auto-Disqualify)
 
-Any of these → immediate NO, no further evaluation needed:
-
-1. Requires owner to hold a license (CDL, contractor's license, etc.)
-2. Owner-operator only — no clear path to semi-absentee
-3. Single customer >30% revenue concentration
-4. Declining revenue 2+ consecutive years without clear explanation
-5. Acquisition price >$500k without exceptional seller financing
-
----
-
-## Business Types — Current Ranking
-
-| Rank | Type | Why |
-|------|------|-----|
-| 1 | Digital/online (content sites, micro-SaaS, newsletters, affiliate) | Fully remote, relocatable, no physical ops |
-| 2 | Recurring service with manager in place (cleaning, landscaping, pest control, HVAC) | Predictable revenue, manager-dependent = semi-absentee viable |
-| 3 | Semi-passive physical (laundromat, vending, ATM routes) | Lower SDE ceiling, but simple ops and relocatable |
-
-**Active candidates (pre-search):**
-- Vending machines — semi-passive, scalable, no staff at small scale, relocatable
-- Fire extinguisher inspection — recurring B2B service, compliance-driven repeat revenue
+1. Revenue declining 2+ consecutive years without clear explanation
+2. Single client >30% revenue concentration (key-man client risk)
+3. Key-man risk — one employee owns all client relationships, no path to transition
+4. Acquisition price >3× net profit without exceptional seller financing
+5. Majority CPA ownership requirement unresolvable (no CPA partners available, no equity structure)
+6. Owner unwilling to discuss any seller financing
 
 ---
 
-## Codie Sanchez Framework (Level 1)
+## Key Evaluation Criteria
 
-### Level 1 vs. Level 2 Buyer Profiles
-
-**Level 1 (Will's box):** Buying a boring business that already works.
-- Existing cash flow, existing customers, existing operations
-- Not building from scratch — buying a proven machine
-- Owner wants out (retirement, burnout, health, lifestyle change) — not distressed
-- Target: "boring but profitable" — dry cleaning, pest control, laundromats, service businesses
-
-**Level 2:** Buying to optimize, systematize, and flip. Requires operating expertise. Not the right entry point.
-
-Codie's core argument: Level 1 buyers win by being reliable, fast, and credible — not by being clever. The deal is won before it's negotiated.
-
-### 3 Things Sellers Want
-
-1. **Their life's work respected** — don't lowball the emotional value
-2. **Certainty of close** — they've been burned by tire-kickers. Pre-approval, proof of funds, no BS
-3. **Legacy continuity** — employees kept, customers served, name protected
-
-Implication: show up prepared, move fast, don't negotiate on emotion.
-
-### 3/9/12 Timeline
-
-| Phase | Duration | What happens |
-|-------|----------|--------------|
-| Learn | 3 months | Read, study, understand deal flow and evaluation |
-| Find + Close | 9 months | Active search, broker relationships, LOIs, due diligence, close |
-| Stabilize | 12 months | Ops handed off, manager in place, systems documented |
-
-**Will's current position:** In the Learn phase. Search window opens ~early August 2026.
-
-### Codie's Sourcing Hierarchy
-
-1. Direct outreach to owners (cold — highest margin deals, no competition)
-2. Broker relationships (BizBuySell, Acquire.com, business brokers)
-3. Referrals from accountants, attorneys (warm — often off-market)
-4. Inbound if you build a platform/brand (not Will's path right now)
+- **Net profit margin ≥30%** — accounting firm benchmark
+- **Asking price ~3× net profit** — reasonable multiple; 1× gross revenue = industry norm
+- **Client renewals January cadence** — understand retention rate before LOI
+- **Seller retention option** — previous owner stays on as part-time consultant (reduces key-man risk)
+- **Org structure** — prefer traditional (ops/HR/fulfillment separated) over pure partner model
+- **Businesses <$500k revenue** — higher key-man risk; scrutinize heavily
+- **Owners open to non-CPA buyers** — signals more favorable org structure
 
 ---
 
-## 3-Year Sketch (Acquisition)
+## Active Pipeline
 
-- 2026: Close first deal. Manager in place by close or within 90 days.
-- 2027: Business running without Will. Move to Dallas/Chicago.
-- 2028: Stable/growing or sold. Decision point: hold, sell, or acquire next.
+### Lead Generation
+- **131 leads scraped** (free tier — no sharing function) as of ~Apr 27
+- **4 on-market listings contacted** (~Apr 22) — awaiting responses
+- Outreach script drafted (off-market sourcing)
+- New scraper built for ongoing lead gen
+
+### Listings Reviewed (Apr 15 Meeting)
+| Revenue | Profit | FFE | Est. | Employees | Notes |
+|---|---|---|---|---|---|
+| $780k | $246k | $30k | 1994 | 6 | Established, higher headcount |
+| $700k | $540k | — | — | — | High margin — investigate |
+| $90k | $90k | $30k | 1983 | 2 | Small, key-man risk likely |
+
+### SBA
+- Lender call completed ~Apr 28
+- Approval pending — will determine financing structure
 
 ---
 
-## Outreach Scripts
+## Partnership Structure (Dan Nguyen)
 
-*Populate as Will develops them. Start from scratch — don't copy/paste generic cold emails.*
+Dan's role: Fractional or hands-on CEO. Domain expertise, client relationships, industry credibility.
+Will's role: Operations, systems, AI integration, growth.
+Elena's role: Co-operator, 10–15 hr/week combined with Will.
+
+**Compensation framework being developed:**
+- Salary + waterfall milestones by role
+- Partnership percentage TBD — see meeting notes for example structures
 
 ---
 
-## Lessons Learned
+## Sourcing Strategy
 
-*Append after each broker call, deal evaluation, or outreach. Start empty.*
+**On-market:** BizBuySell, business brokers — active outreach to listings
+**Off-market (preferred):** Direct mail/email to owners, lawyer/accountant referrals, motivated seller targeting (retirement, burnout, health)
+**Key off-market signals:** Owner tired/ready to retire, no clear successor, distressed but not declining
+
+**Broker approach:** Prefer unsophisticated/hard-to-reach brokers (less competitive listings). Always try to reach seller directly to avoid miscommunication.
 
 ---
 
-## Active Sources to Watch
+## Deal Structure Preferences
 
-- BizBuySell (alerts pending setup)
-- Acquire.com (digital/online businesses)
-- Quiet Light Brokerage (content sites, SaaS)
-- Empire Flippers (digital businesses)
+- **Seller financing preferred** — seller acts as lender, monthly payments
+- **Owner financing question:** Always ask if seller would consider owner financing
+- **Creative structures:** Seller retains equity + management fee model (grow together before full acquisition)
+- **Key clause:** Revenue protection — e.g., if revenue drops below X in 12 months post-close, reduce note dollar-for-dollar
+
+---
+
+## The Pitch Framework (Mike Warren)
+
+Three frames:
+1. **Helping frame** — here to solve their problem, we are the answer
+2. **Prizing frame** — be selective, signal you're evaluating them as much as they're evaluating you
+3. **Win-win frame** — mutual benefit, not extraction
+
+Key seller questions to uncover motivation:
+- Why do you want to sell?
+- What will you do after? What will that cost monthly? (structures owner financing conversation)
+- What's the potential of the business — and why haven't you achieved it? (reveals pain points)
+- Would you consider financing?
+- Is asking price ~3× net profit?
+
+Pain points to listen for: Marketing, People, Systems/automation, Money.
+
+---
+
+## Frameworks On File
+
+- `references/sanchez.md` — Codie Sanchez Level 1 buyer playbook (sourcing, deal structure, mindset)
+- `references/warren.md` — Mike Warren Business Flipping Course *(populate as notes come in)*
+
+---
+
+## 3-Year Sketch
+
+- **2026:** Close first deal. Dan in CEO seat. AI systems deployed. SBA closed.
+- **2027:** Business running without Will's daily involvement. Wedding + move.
+- **2028:** Stable, growing, or positioned to sell/acquire next.
 
 ---
 
 ## Gmail Label for Deal Alerts
 
-Label: `Acquisitions` (set up in Gmail when wired)
-Filter: emails from BizBuySell, Acquire.com, broker contacts → auto-label
-Scan frequency: weekly (Sunday scan with `/acquisition scan-inbox`)
+Label: `Acquisitions`
+Filter: BizBuySell, broker contacts, deal alert emails → auto-label
+Scan frequency: weekly via `/acquisition scan-inbox`
