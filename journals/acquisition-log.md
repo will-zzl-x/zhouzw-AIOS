@@ -44,7 +44,7 @@ Action taken: [evaluated only / contacted broker / requested IM / submitted LOI]
 **Apr 28, 2026** — SBA lender call
 - Call with SBA lender completed
 - SBA approval pending
-- New outreach script and scraper updates from this period
+- **Stall point:** Loan size for $500k–$1M acquisition came into focus — Will got cold feet on the debt load. Active outreach stopped. Dan partnership still intact but not moving forward until Will is comfortable with the financing.
 
 ---
 

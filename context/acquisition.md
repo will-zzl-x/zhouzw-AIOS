@@ -63,24 +63,13 @@ This is a known constraint — not a dealbreaker, but must be resolved in deal s
 
 ---
 
-## Active Pipeline
+## Current Status (May 2026)
 
-### Lead Generation
-- **131 leads scraped** (free tier — no sharing function) as of ~Apr 27
-- **4 on-market listings contacted** (~Apr 22) — awaiting responses
-- Outreach script drafted (off-market sourcing)
-- New scraper built for ongoing lead gen
+**Paused.** The accounting firm thesis stalled in late April after the SBA lender call surfaced the loan size required — $500k–$1M acquisition = significant debt that gave Will pause. No active outreach currently.
 
-### Listings Reviewed (Apr 15 Meeting)
-| Revenue | Profit | FFE | Est. | Employees | Notes |
-|---|---|---|---|---|---|
-| $780k | $246k | $30k | 1994 | 6 | Established, higher headcount |
-| $700k | $540k | — | — | — | High margin — investigate |
-| $90k | $90k | $30k | 1983 | 2 | Small, key-man risk likely |
+Dan Nguyen partnership remains a possibility — relationship is intact, thesis is interesting, but Will needs to get comfortable with the financing before re-engaging.
 
-### SBA
-- Lender call completed ~Apr 28
-- Approval pending — will determine financing structure
+**Current position:** Evaluating whether to re-enter the accounting firm search, pivot to a smaller/simpler deal (Codie Level 1 — vending, service businesses), or wait until post-promo window when bandwidth opens.
 
 ---
 
