@@ -1,6 +1,7 @@
 """Todoist API v1 (unified) client."""
 
 import os
+import time
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
@@ -10,9 +11,35 @@ API_BASE = "https://api.todoist.com/api/v1"
 PROJECT_NAME = "AIOS Daily"
 TZ = ZoneInfo("America/Phoenix")
 
+RETRY_STATUS = {429, 500, 502, 503, 504}
+MAX_ATTEMPTS = 4
+BACKOFF_SECONDS = (1, 3, 8, 20)
+
 
 def _headers() -> dict:
     return {"Authorization": f"Bearer {os.environ['TODOIST_API_KEY']}"}
+
+
+def _request(method: str, url: str, **kwargs) -> requests.Response:
+    """HTTP request with retry-with-backoff on transient 5xx/429."""
+    last_exc: Exception | None = None
+    for attempt in range(MAX_ATTEMPTS):
+        try:
+            r = requests.request(method, url, headers=_headers(), timeout=15, **kwargs)
+            if r.status_code in RETRY_STATUS and attempt < MAX_ATTEMPTS - 1:
+                time.sleep(BACKOFF_SECONDS[attempt])
+                continue
+            r.raise_for_status()
+            return r
+        except requests.exceptions.RequestException as e:
+            last_exc = e
+            if attempt < MAX_ATTEMPTS - 1:
+                time.sleep(BACKOFF_SECONDS[attempt])
+                continue
+            raise
+    if last_exc:
+        raise last_exc
+    raise RuntimeError("unreachable")
 
 
 def _get_paginated(path: str, params: dict | None = None) -> list:
@@ -23,8 +50,7 @@ def _get_paginated(path: str, params: dict | None = None) -> list:
         p = dict(params or {})
         if cursor:
             p["cursor"] = cursor
-        r = requests.get(f"{API_BASE}{path}", headers=_headers(), params=p, timeout=15)
-        r.raise_for_status()
+        r = _request("GET", f"{API_BASE}{path}", params=p)
         data = r.json()
         out.extend(data.get("results", []))
         cursor = data.get("next_cursor")
@@ -34,8 +60,7 @@ def _get_paginated(path: str, params: dict | None = None) -> list:
 
 
 def _post(path: str, body: dict) -> dict:
-    r = requests.post(f"{API_BASE}{path}", headers=_headers(), json=body, timeout=15)
-    r.raise_for_status()
+    r = _request("POST", f"{API_BASE}{path}", json=body)
     return r.json() if r.text else {}
 
 
@@ -68,16 +93,17 @@ def get_completed_today(project_id: str) -> list[dict]:
 
 
 def clear_active_tasks(project_id: str) -> int:
-    """Close (complete) all currently-active tasks. Returns count closed."""
+    """Close (complete) all currently-active tasks. Best-effort — partial failures
+    don't abort the brief. Returns count successfully closed."""
     tasks = get_today_tasks(project_id)
+    closed = 0
     for t in tasks:
-        r = requests.post(
-            f"{API_BASE}/tasks/{t['id']}/close",
-            headers=_headers(),
-            timeout=15,
-        )
-        r.raise_for_status()
-    return len(tasks)
+        try:
+            _request("POST", f"{API_BASE}/tasks/{t['id']}/close")
+            closed += 1
+        except requests.exceptions.RequestException as e:
+            print(f"WARN: failed to close task {t['id']}: {e}")
+    return closed
 
 
 def create_task(project_id: str, title: str, area: str, priority: int) -> dict:
