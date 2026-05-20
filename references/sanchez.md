@@ -27,6 +27,169 @@ Will is a Level 1 buyer. Do not try to buy a Level 2 deal.
 
 ---
 
+## Step 1: Zone of Genius
+
+Your Zone of Genius = the intersection of **Passion + Experience/Skills + Network**. The right business lives in that overlap.
+
+**Passion** — what you can engage with for hours without getting bored. What problems do you love solving?
+**Experience & Skills** — your skill stack. Not one thing — the unique combination. Top 10% in 3-4 skills = world-class stack.
+**Network** — who could help make your future business a success? Build a mental boardroom: operators, lawyers, accountants, domain experts, suppliers.
+
+**Warning:** Do not include "turning around failing businesses" as a skill. Turnarounds are hard. Only play that game if you're capitalized for it and love pain.
+
+**The filter:** There is no such thing as a good business to buy — there's only the right business *for you*. Carry your Zone of Genius as a filter when evaluating deals. If a deal doesn't fit, pass no matter how good the numbers look.
+
+**Will's Zone of Genius** *(to be completed — exercise pending)*
+- Passion: TBD
+- Experience/Skills: Supply chain, ops, process design, logistics, AI/automation, systems thinking
+- Network: TBD
+- Zone center (business type): TBD
+
+---
+
+## Step 2: Ideal Owner Experience
+
+Vision-boarding for business ownership. Answer before you start searching — defines what "winning" looks like so you recognize it.
+
+**Questions:**
+- What is the one outcome that would make you consider this a win?
+- What impact would achieving that result have on your life and business?
+- What might get in your way? How will you overcome that?
+- What geographic region do you want the business to be in?
+- Which sectors are you most comfortable in? Where does your Zone of Genius give you an unfair advantage?
+- Where can you add the most value to the business?
+- What would you need to learn to make this leap?
+- How big does the business need to be? (Revenue and profit)
+- Which businesses appeal most based on your goals, knowledge, and skill set?
+- Are you after one business or many?
+- How much do you want to work in the business?
+
+**Will's Ideal Owner Experience** *(to be completed)*
+- Geographic: Arizona preferred, remote manageable
+- Involvement: Semi-absentee with operator; 10–15 hr/week
+- One business first (Level 1), potentially platform for add-ons later
+
+---
+
+## Step 3: Deal Box (Contrarian Deal Clarity Framework)
+
+**The formula:**
+
+| Input | Description | Example |
+|---|---|---|
+| Target Income | Cash you want from the deal | $250k |
+| Min Annual Income | Floor to move forward | $120k |
+| Operator Salary | Cost of hiring someone to run it | $100k |
+| Target Business Cash Flow | Min income + operator salary | $220k |
+| Debt Service Cost | Cash flow × 0.25 | $30k |
+| Total Cash Flow Needed | Business CF + debt service | $250k |
+| Min Purchase Price | Total CF × 2 | $500k |
+| Max Purchase Price | Total CF × 4 | $1M |
+
+**Deal Box dimensions:**
+- Valuation + asking price
+- Revenue range
+- Profit range + margin
+- Sector
+- Type of seller (motivated, not just cashing out)
+- Geographic region
+- Scale (one or many)
+- Owner vs. operator involvement
+- Multiple of profit willing to pay
+- Money down comfortable with
+
+**Codie's own Deal Box (for reference):**
+- Revenue $1M–$20M (above $20M = PE competition)
+- Profit margin 30–50%, history of annual profit
+- Simple business model: digital, professional services, home services, real estate-enhanced
+- Motivated seller — not just max price
+- Owner not operator — hire someone to run it
+- Needs $300k–$350k profit (to pay $120k salary + $100k operator + cushion)
+
+**Key rule:** Keep the Deal Box narrow when starting. One sector, one city. Narrow wins.
+
+---
+
+## Seven Ds — Why Sellers Sell
+
+These are your windows to cash flow on Day 1:
+1. **Death** — estate sale, heirs don't want it
+2. **Divorce** — forced liquidity event
+3. **Disease** — health crisis, can't operate
+4. **Distress** — financial or operational pressure
+5. **Dullness** — burned out, bored, done
+6. **Departure** — moving, relocating, lifestyle change
+7. **Disagreement** — partner conflict, want out
+
+The best sellers are motivated by one of these — not just chasing the highest price.
+
+---
+
+## Seller Financing Avatar Checklist
+
+The ideal seller for owner financing has most of these:
+
+| # | Feature |
+|---|---|
+| 1 | 10+ years since the business was founded |
+| 2 | Under $1M in profit |
+| 3 | Little competition — no one else competing to buy |
+| 4 | Brick and mortar (not online) — or highly commoditized online |
+| 5 | 5+ years since the owner's been in charge |
+| 6 | Lack of successor |
+| 7 | Owner is near retirement age |
+| 8 | Business isn't applicable for bank loans |
+| 9 | Priced too high for its balance sheet |
+| 10 | Business without clean financials |
+| 11 | Business without set leadership team |
+| 12 | Distressed business |
+| 13 | Asset sale |
+| 14 | Established relationship with seller |
+| 15 | Owner wants cash flow vs. lump sum OR wants larger exit over longer time |
+| 16 | Owner has other sources of income outside the business |
+
+---
+
+## Finding Motivated Sellers — Off-Market Is the Game
+
+**Only 20% of businesses are sold online** (vs. 90% of homes). Most owners don't list because employees/customers don't know, they're too busy, or the idea of selling hasn't occurred to them yet.
+
+**"The cash goes to the door knockers, not the mouse clickers."**
+
+Off-market channels: lawyers, accountants, real estate agents, chambers of commerce, small-business incubators, walking in the door in person.
+
+**Don't be a millennial-splainer.** Don't tell them how you'll run it better. Don't come in with facts on their valuation. Don't pitch your tech superiority. Mantra: shut up and listen. These are often legacy/family businesses — the emotional component is as important as the math.
+
+---
+
+## Walking Billboard Strategy
+
+Two inputs that drive all deal flow:
+1. **Number of owners you meet**
+2. **Number of people who know you buy businesses**
+
+Increase either (ideally both) and deals surface naturally.
+
+**Script — telling people you buy:**
+> "Hey, I'm [Name]. I buy small businesses from owners in [city] that do less than $[X] in revenue and are in [sector] — think [examples] — but are ready for an exit and some cash flow."
+
+**Script — talking to owners in person:**
+> "Hey, I love this place! Do you own it? Cool! I love meeting owners because I actually buy small businesses like this… if you've ever thought about selling at the right terms, obviously. Love to stay in touch."
+
+---
+
+## 100-50-10-to-1 Rule
+
+For every business you buy:
+- **Look at 100** at a high level
+- **Analyze 50** at a secondary level (request financials, sign NDA, look under the hood)
+- **Do deep due diligence on 10** (LOI, PPM review, formal DD process)
+- **Buy 1**
+
+Average buyer in Codie's community reviews 30+ deals and starts with 20+ companies in their Deal Box. Expect to need 10–100 before finding the right one. "Nothing is ever good or bad except by comparison."
+
+---
+
 ## What Sellers Want
 
 1. **Their life's work respected** — the business is personal. Lowballing or dismissing the business alienates sellers before the deal starts.
