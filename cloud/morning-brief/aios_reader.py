@@ -4,7 +4,7 @@ import os
 import requests
 
 GITHUB_REPO = "will-zzl-x/zhouzw-aios"
-GITHUB_BRANCH = os.environ.get("AIOS_BRANCH", "main")
+GITHUB_BRANCH = os.environ.get("AIOS_BRANCH", "claude/build-coding-skills-K5mpd")
 RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_REPO}/{GITHUB_BRANCH}"
 
 FILES = {

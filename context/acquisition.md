@@ -4,12 +4,31 @@ Last updated: May 17, 2026 (meeting notes from Apr–May 2025)
 
 ---
 
-## Current Deal Thesis
+## Ultimate Goal
 
-**Target:** AI-enabled accounting / tax strategy firm acquisition.
-**Partnership:** Will + Elena (co-operators) + Dan Nguyen (fractional or hands-on CEO). Dan has deep interest in this space and is exploring the CPA path — if he pursues and obtains CPA licensure, it resolves the Arizona 51% CPA ownership requirement cleanly.
-**AI angle:** Low-tech industry facing existential AI disruption. Opportunity to acquire and modernize via AI-assisted data entry, bookkeeping, tax prep, client comms, and fractional CFO consulting add-on.
-**SBA financing:** Active. SBA lender call completed ~Apr 28. Approval pending.
+**Truly absentee ownership.** Check in once every few months or less. Not semi-absentee (10–20 hrs/week) — that's the transition phase. The end state is Will and Elena living wherever they want with no location dependency and no operational grind. Business review is quarterly financials + pricing/strategic decisions, not day-to-day management.
+
+Two paths to get there:
+
+**Path A — Build to absentee (service business with staff):**
+Elena operates year 1 (20–25 hrs/week). Year 2: hire a manager (~$50–60k salary) to take her role. Elena steps out. Monthly financial review by year 2, quarterly by year 3. Requires the business to grow to afford the manager — target $198k CF before Elena scales back.
+
+**Path B — Buy already-absentee (digital business):**
+Content site, newsletter, niche SaaS. No employees, no physical presence. Will builds systems, runs on 2–5 hrs/week from year 1. Diligence is different (traffic/revenue diversification, not ops headcount). Will's lead-gen/marketing skills are a cold zone — treat as second track, not primary.
+
+**Primary track: Path A** (service business with 2–3 employees, bookkeeping/professional services preferred). Elena's financial background is a day-1 fit. Will's AI automation angle is highest-leverage in a bookkeeping context. Absentee timeline is faster when Elena already knows the domain.
+
+---
+
+## Current Deal Thesis *(updated May 21, 2026)*
+
+**Primary:** Recurring B2B service or professional services business with 2–3 existing staff. $252k–$504k range. Elena operates year 1, Will handles systems/AI/strategy. Path to manager hire in year 2.
+
+**Secondary candidate:** Digital business (content site, newsletter) with stable recurring revenue and diversified traffic. Purely parallel track — don't let it pull focus from the primary.
+
+**Legacy thesis (accounting firm + Dan Nguyen):** Still intact as an option — Dan's connector role and the AI automation angle are real. But AZ CPA ownership law and the $500k–$1M debt load are unresolved. Not actively pursuing. Revisit if Dan obtains CPA licensure.
+
+**SBA financing:** Prior lender call completed ~Apr 28, 2025. Relationship exists — reactivate when deal is in hand.
 
 ---
 
@@ -59,23 +78,37 @@ This is a known constraint — not a dealbreaker, but must be resolved in deal s
 ## Hard Filters (Auto-Disqualify)
 
 1. Revenue declining 2+ consecutive years without clear explanation
-2. Single client >30% revenue concentration (key-man client risk)
-3. Key-man risk — one employee owns all client relationships, no path to transition
-4. Acquisition price >3× net profit without exceptional seller financing
-5. Majority CPA ownership requirement unresolvable (no CPA partners available, no equity structure)
-6. Owner unwilling to discuss any seller financing
+2. Single client >25% revenue concentration
+3. Owner is sole operator, no staff, working full-time — and Elena can't step into the work directly
+4. Requires physical presence from Will or Elena more than 1x/month (post-2027 move killer)
+5. Requires Will or Elena to hold a license (CDL, contractor's license, CPA)
+6. Acquisition price >4× SDE without exceptional seller financing
+7. Owner unwilling to discuss any seller financing
+
+---
+
+## Listing Review — Three Questions First
+
+Before looking at the numbers on any listing:
+
+1. **What does the owner do every day?** — If the answer is "everything," move on.
+2. **Who would still be there if the owner left tomorrow?** — That's the real asset you're buying.
+3. **Is the revenue still there in 12 months without the owner present?** — Recurring contracts vs. relationship-dependent.
+
+If all three hold up, open the financials.
 
 ---
 
 ## Key Evaluation Criteria
 
-- **Net profit margin ≥30%** — accounting firm benchmark
-- **Asking price ~3× net profit** — reasonable multiple; 1× gross revenue = industry norm
-- **Client renewals January cadence** — understand retention rate before LOI
-- **Seller retention option** — previous owner stays on as part-time consultant (reduces key-man risk)
-- **Org structure** — prefer traditional (ops/HR/fulfillment separated) over pure partner model
-- **Businesses <$500k revenue** — higher key-man risk; scrutinize heavily
-- **Owners open to non-CPA buyers** — signals more favorable org structure
+- **Recurring revenue ≥70%** — contracts, subscriptions, compliance-driven repeat customers. One-time revenue businesses can't run on quarterly check-ins.
+- **Owner currently working ≤25 hrs/week** OR **owner full-time but 2+ employees do the actual work** — proves semi-absentee is possible.
+- **Staff tenure 2+ years** — employees who know the job without the owner present are the real asset.
+- **Lead employee who could become manager** — year-2 manager hire from within. Cheaper and lower-risk than outside.
+- **Documented ops** — scheduling software, invoice system, SOPs. "How we do things" must not live only in the owner's head.
+- **Net profit margin ≥30%**
+- **Asking price ≤3× SDE** preferred; hard ceiling 4×
+- **Seller retention** — prior owner available 60–90 days post-close reduces transition risk
 
 ---
 
@@ -147,9 +180,9 @@ Pain points to listen for: Marketing, People, Systems/automation, Money.
 
 ## 3-Year Sketch
 
-- **2026:** Close first deal. Dan in CEO seat. AI systems deployed. SBA closed.
-- **2027:** Business running without Will's daily involvement. Wedding + move.
-- **2028:** Stable, growing, or positioned to sell/acquire next.
+- **2026:** Close first deal (Path A). Elena operating (20–25 hrs/week). Will builds AI/automation layer. Business stabilizing.
+- **2027:** Manager hire or Elena fully capable of stepping back. Wedding Oct 22 + move to Dallas/Chicago late 2027. Business must be remote-manageable before the move.
+- **2028+:** Truly absentee. Monthly financials review → quarterly check-in. Platform for second acquisition if right deal surfaces.
 
 ---
 
