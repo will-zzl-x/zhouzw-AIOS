@@ -39,11 +39,73 @@ Your Zone of Genius = the intersection of **Passion + Experience/Skills + Networ
 
 **The filter:** There is no such thing as a good business to buy — there's only the right business *for you*. Carry your Zone of Genius as a filter when evaluating deals. If a deal doesn't fit, pass no matter how good the numbers look.
 
-**Will's Zone of Genius** *(to be completed — exercise pending)*
-- Passion: TBD
-- Experience/Skills: Supply chain, ops, process design, logistics, AI/automation, systems thinking
-- Network: TBD
-- Zone center (business type): TBD
+**Will's Zone of Genius** *(drafted May 18, 2026 — skills section pending promo doc/talent review)*
+
+**Passion:**
+- Fitness (hypertrophy, meal planning, fat loss optimization, building sustainable systems around health)
+- AI/automation — integrating AI into everyday workflows and processes
+- Self-improvement systems
+- Dance (Latin), trip planning, cooking/meal prep
+- Gets lost in: building efficient systems, optimizing processes, planning
+- Gives advice on: gym consistency, meal prep, weight loss, AI for productivity, long-term relationships
+
+**Experience & Skills:** *(TODO — populate from promo doc/talent review, work laptop)*
+- Supply chain management (Amazon SCM I, L4)
+- Process design, logistics, operations
+- AI integration and automation
+- Systems building
+- [Additional skills TBD from talent review]
+
+**Network:**
+- **Dan Nguyen** — business owner, biggest connector, explored accounting/tax acquisition together (2025). Domain expertise in professional services + AI angle.
+- **Mikey Shudoma** — bank ops. Useful for SBA financing conversations, understanding lender perspective.
+- **Richard Lobo** — part of a trucking company. Operations knowledge, logistics adjacent.
+- **Jin** — real estate portfolio. Asset ownership mindset, understands passive income structures.
+- **Jake Dillard** — payroll. Understands business ops from HR/payroll side.
+
+---
+
+**Elena's Zone of Genius**
+
+**Passion:**
+- Planning (wedding, budget, financial planning — genuinely enjoys the process)
+- House hunting, home shows, interior/design aesthetics
+- Latin dancing
+- Drawing
+- Detail-oriented by nature — finds precision satisfying, not draining
+- Gives advice on: personal finance, relationships
+
+**Experience & Skills:**
+- Water resources engineer — H&H (hydraulic/hydrological) calculations, citywide floodplain analyses, roadway/drainage design
+- Report writing (drainage studies, technical documentation)
+- Program management
+- ArcGIS, Civil3D, Open Roads Designer, StormCAD
+- Mentoring programs, leadership presentations
+- Underlying capability: take complex systems → model accurately → produce clean outputs → manage program. **CFO/COO profile for a detail-heavy business.**
+
+**Network:**
+- Engineering/municipal contacts — city/county program managers, infrastructure professionals
+- Overlap with Dan's connector network via Will
+
+---
+
+**Zone of Genius Synthesis (Will + Elena combined)**
+
+| Will brings | Elena brings |
+|---|---|
+| AI/automation + systems design | Financial precision + detail orientation |
+| Operations + supply chain | Program management + technical reporting |
+| Sourcing energy + connector (via Dan) | CFO function — budgets, financials, compliance |
+| AI integration post-acquisition | Process documentation + quality control |
+
+**Business types that fit the combined zone:**
+- Tech-enabled service businesses (AI modernization angle Will can execute)
+- Bookkeeping/accounting services (Elena's financial literacy + Will's AI angle — Dan Nguyen thesis)
+- Remote professional services (digital agency, subscription service, SaaS-adjacent)
+- Home services with strong systems — cleaning, landscaping (Will's ops, Elena's PM)
+- Any business that needs: process automation (Will) + financial oversight (Elena) + remote manageability
+
+**Hard constraint:** Must be remote-manageable. Elena's ideal owner experience = absentee/flexible. Physical location dependency is a dealbreaker unless a strong operator is in place from day 1.
 
 ---
 
