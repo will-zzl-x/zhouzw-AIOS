@@ -126,10 +126,18 @@ Vision-boarding for business ownership. Answer before you start searching — de
 - Are you after one business or many?
 - How much do you want to work in the business?
 
-**Will's Ideal Owner Experience** *(to be completed)*
-- Geographic: Arizona preferred, remote manageable
-- Involvement: Semi-absentee with operator; 10–15 hr/week
-- One business first (Level 1), potentially platform for add-ons later
+**Will's Ideal Owner Experience** *(completed May 21, 2026)*
+
+- **Win condition:** Business generating >$101k/year in cash flow — surpassing Amazon total comp. Sustain 6 months → leave Amazon.
+- **Impact on life:** Financial independence from W-2. Leaves Amazon + Tempe late 2027. Gives Elena flexibility to reduce engineering hours if she wants.
+- **What might get in the way:** Promotion window at Amazon (Q3–Q4 2026 bandwidth crunch). New operator learning curve. Time — both Will and Elena working full-time during acquisition. Mitigation: keep deal simple (no turnaround), Elena handles ops, Will handles systems/AI.
+- **Geographic region:** Arizona preferred (familiar market, CPA law researched). Remote manageable is mandatory — no business where physical presence is required every day.
+- **Sectors with unfair advantage:** Tech-enabled services, bookkeeping/professional services (AI angle), home services with strong ops (Will's supply chain + automation). Anything that can be systematized.
+- **Where Will adds most value:** AI/automation layer post-acquisition, process design, ops efficiency, sourcing.
+- **What to learn:** Broker relationships, due diligence process, SBA financing mechanics, operator management. (3-month learn phase active May–August 2026.)
+- **Size:** $252k–$504k purchase price. $126k minimum annual cash flow.
+- **One business or many:** One first. Platform add-on possible after year 1 stable.
+- **Work in the business:** 5–10 hrs/week (Will). 20–25 hrs/week (Elena as operator). Goal: semi-absentee within 12 months.
 
 ---
 
@@ -167,6 +175,33 @@ Vision-boarding for business ownership. Answer before you start searching — de
 - Motivated seller — not just max price
 - Owner not operator — hire someone to run it
 - Needs $300k–$350k profit (to pay $120k salary + $100k operator + cushion)
+
+**Will's Deal Box** *(completed May 21, 2026)*
+
+| Input | Value | Notes |
+|---|---|---|
+| Target Income | $101k | Amazon total comp to surpass |
+| Operator Salary | $0 | Elena IS the operator |
+| Target Business Cash Flow | $101k | $101k + $0 |
+| Debt Service (CF × 0.25) | $25k | SBA 7(a) debt coverage |
+| **Total Cash Flow Needed** | **$126k** | |
+| **Min Purchase Price** | **$252k** | CF × 2 |
+| **Max Purchase Price** | **$504k** | CF × 4 |
+
+**Deal Box dimensions:**
+- **Price range:** $252k–$504k
+- **Revenue range:** ~$335k–$670k (assuming ≥30% margin)
+- **Profit (SDE) range:** $126k minimum; $150k+ preferred
+- **Margin floor:** 30%+ (pass on anything with <30% margins)
+- **Sectors:** Tech-enabled services, professional services (bookkeeping/admin), home services with strong ops, remote-manageable subscription services
+- **Hard pass sectors:** Restaurants, retail inventory, anything requiring Will's daily physical presence
+- **Seller type:** Motivated (7 Ds) — retirement, burnout, health. Not a price-maximizer.
+- **Geographic:** Arizona first. Remote-manageable mandatory.
+- **Scale:** One business. Not a portfolio play yet.
+- **Operator model:** Elena (20–25 hrs/week), Will (5–10 hrs/week). No outside operator hire.
+- **Multiple:** Pay ≤4× SDE. Prefer 2–3×.
+- **Down payment budget:** $25k–$50k (10–15% on SBA 7(a)). $70k total capital — keep ≥$20k reserve.
+- **Financing preference:** SBA 7(a) + seller carry. Push for seller note = revenue protection clause.
 
 **Key rule:** Keep the Deal Box narrow when starting. One sector, one city. Narrow wins.
 

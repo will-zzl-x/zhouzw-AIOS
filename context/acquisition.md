@@ -27,16 +27,25 @@ This is a known constraint — not a dealbreaker, but must be resolved in deal s
 
 ---
 
-## Deal Box
+## Deal Box *(updated May 21, 2026 — Codie Deal Clarity Worksheet)*
 
-- **Capital available:** $70k (S&ME fund) — Will's contribution
-- **Target revenue range:** $500k–$1M gross revenue
-- **Industry multiple:** ~1× gross revenue (accounting firm norm)
-- **Implied price range:** $500k–$1M
-- **Financing:** SBA 7(a) + seller financing preferred
-- **Operator model:** Dan as CEO (fractional or full-time). Will + Elena support ops. AI systems reduce headcount dependency.
-- **Location:** Arizona preferred (familiar market, CPA law already researched). Remote manageable preferred long-term.
-- **Hard deadline:** Stable and manageable by late 2027 (post-wedding move out of Tempe).
+- **Income target:** $101k/year cash flow to surpass Amazon total comp. Sustain 6 months → leave W-2.
+- **Capital available:** $70k (S&ME fund). Keep ≥$20k reserve post-close. Effective down payment: $25k–$50k.
+- **Price range:** $252k–$504k (see math below)
+- **Revenue range:** ~$335k–$670k (at ≥30% margin)
+- **Profit (SDE) floor:** $126k/year minimum
+- **Multiple:** ≤4× SDE. Prefer 2–3×.
+- **Operator model:** Elena as operator (20–25 hrs/week, no salary). Will (5–10 hrs/week). No outside hire.
+- **Financing:** SBA 7(a) + seller carry preferred. Revenue protection clause in seller note.
+- **Sectors:** Tech-enabled services, professional services, home services with strong systems. Hard pass: restaurants, retail, daily-physical-presence requirements.
+- **Location:** Arizona preferred. Remote manageable is mandatory.
+- **Hard deadline:** Stable and semi-absentee by late 2027 (pre-move out of Tempe).
+
+**Deal Clarity Math:**
+- Target Business Cash Flow = $101k (income) + $0 (operator) = $101k
+- Debt Service = $101k × 0.25 = $25k
+- Total CF Needed = $126k
+- Min Price = $252k | Max Price = $504k
 
 ---
 
