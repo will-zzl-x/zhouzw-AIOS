@@ -1,62 +1,49 @@
-# State — Last updated May 14, 2026
+# State — Last updated May 18, 2026
 
 ## Daily Loop
-- **Todoist daily brief live (May 12).** `cloud/morning-brief/` generates 3–5 tasks each morning at 7am AZ; evening archive at 9pm AZ writes completions to `journals/daily-log.md`. Source of truth for "what should I do today" is now Todoist's "AIOS Daily" project, not manual logging.
-
+- **Todoist daily brief live.** `cloud/morning-brief/` generates 3–5 tasks each morning at 7am AZ via Google Cloud Scheduler; evening archive at 9pm AZ writes completions to `journals/daily-log.md`. Source of truth for "what should I do today" is Todoist "AIOS Daily" project. API migrated to v1, retry logic added.
+- **Security note:** Anthropic API key, Todoist API key, GitHub PAT were visible in session. Rotate all three.
 
 ## Career
 - Amazon SCM I (L4). Promotion window Q3–Q4 2026.
-- **Returning from Destin May 11.** Back at Amazon May 12 (Mon).
-- **Promo doc draft is behind** — top career priority for week 1 back. Draft started but not advanced.
+- **Promo doc behind.** No LP stories drafted since returning from Destin. Top priority this week — one story with metrics, manager-aligned by June 30.
 - Active project: Outlook escalation scraper → root cause playbook. Kiro prompt drafted, needs execution on work laptop.
-- Decision (May 10): AIOS will not duplicate L5 behavior tracking — Will handles that at work. AIOS career role is to hold the promo doc accountable.
-- Side income: acquisition mode. Elena confirmed as co-operator (10–15 hr/week combined). Pre-search phase. Reading Main Street Millionaire (Codie Sanchez) — Level 1 framework confirmed match for current deal box. Business types: vending machines, fire extinguisher inspection. Search window opens ~early August per 3/9/12 timeline.
+- No SCM II behaviors logged week of May 11–18. Re-entry week.
 
 ## Fitness
-- Weight: ~181 lb (last logged May 3; expect return to ~181 range after Destin).
-- BF: ~18–20% estimated. Lean mass: ~145–149 lb.
-- Phase: **Maintenance** through May 16. NYC Cut starts May 17.
-- NYC Cut target: 172 lb / 12.5% BF by Jul 4.
-- Program: GVS Ravage — on hold during Destin (May 7–11). Bodyweight sessions at house instead.
-- Protein target: 150g/day.
-- Hard rule: morning weight 176 → deficit week. Not triggered.
-
-**Active program modifications (Week 4+, resume May 12):**
-- Lat pulldown (wide grip) replaces wide grip pull-up on Torso A + B
-- RDL: bumped to 70lb/hand (was stuck at 60lb × RPE 10)
-- Curl timing: move at least one curl variation earlier in Bro Day, before tricep/shoulder work
-
-**Destin training (May 7–11, bodyweight at house):**
-- Fri May 8: Arms & Shoulders (pike push-ups, diamond push-ups, dips, lateral raises)
-- Sat May 9: Legs (squats, Bulgarian split squats, lunges, glute bridges, calf raises)
-- Sun May 10: Torso (push-ups, decline push-ups, inverted rows, supermans, dips)
-- Steps target: 10–12k/day via beach walks
+- **NYC Cut active (started May 17).**
+- Starting weight: ~185 lb (7-day rolling avg). 3-month upward trend confirmed — not just Destin water.
+- BF: ~20–21% estimated. Lean mass: ~147 lb.
+- Cut target: execute clean through Jul 11. 168 lb is wedding suit target (Oct 2027), not Q2 deadline.
+- Calorie target: ~1,820 cal (BMR floor). Protein ≥150g. Steps ≥10k.
+- Refeed trigger: 7-day rolling avg ≤176 lb (not a spot weigh-in).
+- Abort signal: Larsen Press drops >10% → come up to ~2,000 cal immediately.
+- Hard floor: 168 lb — do not cut below.
+- Reverse diet: Jul 12–29. NYC maintenance: Jul 30–Aug 5.
+- Program: GVS Ravage Week 4. Weakness flagged: Neutral Pull-Up (BW × 2/2/1 vs. intermediate standard BW+45 × 5).
 
 ## Relationships
-- Elena: strong and stable. Destin trip neutral — no tension to carry forward.
-- **New (May 10):** Working framework on desire dynamics articulated — 4 principles + bonus, written to `context/relationships.md`. Perel framework populated to `references/perel.md`. For Will's internal use only — not a system to apply to Elena, not something to discuss with her, not graded after the fact.
-- **Refined May 14:** Root-cause moves only. Visible self-investment (acquisition + Cut + MMA) and presence over performance. Symptom moves (desire texts) explicitly cut from the quest.
-- **Architecture date locked (May 14):** Mid-century modern driving tour in Scottsdale this weekend.
-- Two highest-leverage applications for week back: pursue acquisition project visibly (Principle 1), drop optimization frame entirely (Principle 4).
-- She asked to drop optimization frame around intimacy — follow her lead, presence over performance.
-- Friendships: acknowledged gap, no action yet. Future build: friend roster + cadence in `/relationship-os`.
+- Elena: good and stable. Desire gap (1–2 week drought) — Perel structural pattern, differentiation moves are the response.
+- Solo pursuit: MMA or bachata private lessons 1–2x/week. Night TBD (Monday out — Elena has car). Ravage already counts as solo separateness.
+- Architecture date: mid-century modern Scottsdale driving tour locked (this weekend May 17–18).
+- Zero night talks about intimacy — hard rule.
+- Friendships: roster seeded (8 people). Sahil touchpoint this week.
 
 ## Wedding
 - **Contract signed.** Clayton House Elite, Oct 22, 2027, Scottsdale.
-- LED candles: confirmed as needed.
-- Late-night bite: Chick-fil-A chicken minis ~$300. **Outside vendor permission confirmed by Bailee (May 10).**
-- **St. Andrew Oct 22, 2027 date locked (May 14).** Pre-Cana process to confirm next.
-- **Virehouse photographer reached out May 14 — pending response.**
-- Open items: hotel room block, Virehouse contract close, Pre-Cana scheduling.
+- **St. Andrew Oct 22, 2027 LOCKED.** Pre-Cana process to schedule.
+- **Virehouse consult: May 19 (tomorrow).** Contract close is next step.
+- **Hotel block:** Next open action after Virehouse resolves.
+- LED candles needed. Late-night bite: Chick-fil-A chicken minis ~$300 (outside vendor approved by Bailee May 10).
 
 ## Travel
-- **Active: Destin FL — May 7–11.** Rental house with Elena's family (6 total). Beach, bodyweight training, kitchen access. Today is Will's arrival day.
-- NYC trip: Jul 30 – Aug 5. Will + Elena. Paramount Hotel (4 nights) + friend's place Hell's Kitchen. Anchor: ESM NYC dance festival at Marriott Marquis. Confirmation G7LGXE. Book Broadway show + ESM passes before trip.
+- NYC trip: Jul 30 – Aug 5. Will + Elena. Paramount Hotel (4 nights) + friend's place Hell's Kitchen. ESM NYC dance festival at Marriott Marquis. Confirmation G7LGXE. Book Broadway show + ESM passes before trip.
 
-## Money
+## Money / Acquisition
 - $70k earmarked for income-growth investments. Not deployed.
 - $2k/mo recurring allocations.
-- Elena's $44k earmarked (wedding/car/misc).
-- Side business: acquisition focus. Elena confirmed co-operator. Vending machines and fire extinguisher inspection on the table. Pre-search, no listings yet.
-- **Codie Sanchez timeline:** 3 months learn / 9 months find + close / 12 months stabilize. Search window opens ~early August. Target close before end of 2026.
-- **Acquisition project complete (May 10).** AIOS extension — not separate tool. MCPs configured: Gmail (full read), Google Calendar, Playwright. Files live: `context/acquisition.md`, `references/sanchez.md`, `journals/acquisition-log.md`, `/acquisition` skill (5 modes: capture, log-deal, scan-inbox, outreach, weekly-review). Pending: OAuth credentials setup to activate live Gmail + Calendar connections.
+- **Acquisition restart:** Zero listings reviewed. Saturday cadence starts May 23.
+- Framework: Codie Sanchez Level 1. `references/sanchez.md` fully populated (Zone of Genius, Deal Box, Seven Ds, Walking Billboard, 100-50-10-to-1 Rule).
+- **Pending:** Zone of Genius exercise, Ideal Owner Experience, Will's Deal Box — run via `/acquisition capture`.
+- Dan Nguyen accounting firm thesis: still intact, not active. Secondary option if CPA joins.
+- Search window target: early August 2026 (end of 3-month learn phase).

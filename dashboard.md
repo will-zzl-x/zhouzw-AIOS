@@ -1,24 +1,25 @@
-# Dashboard — Week of May 11, 2026
-Return from Destin May 11 | NYC Cut starts May 17
+# Dashboard — Week of May 18, 2026
+NYC Cut Day 2 | Virehouse consult tomorrow | Saturday acquisition cadence starts May 23
 
 ## Career
-1. **Promo doc** — advance the draft this week (career mover #1)
-2. Run escalation scraper on work laptop (Kiro prompt drafted, ready)
-3. Block 90-min strategic work Mon/Wed/Fri before checking email
+1. **Promo doc** — draft one LP-aligned story with metrics this week (overdue)
+2. Run escalation scraper on work laptop (Kiro prompt ready)
+3. Log one SCM II behavior before Sunday
 
 ## Fitness
-4. Final maintenance week — hold ~181 lb baseline, no cut yet
-5. Hit 5+ Ravage sessions back at gym (resume May 12)
-6. NYC Cut prep: confirm 2,200 cal target + MFP setup before Thursday May 17
+4. **NYC Cut: hit 1,820 cal every day** — protect peri-workout carbs, cut elsewhere
+5. Protein ≥150g daily + steps ≥10k
+6. Ravage sessions as scheduled — watch Larsen Press as the canary
 
 ## Relationships
-7. Apply Principle 1 — pursue acquisition project visibly (also a money mover)
-8. No optimization talk. No grading. Drop the frame.
+7. **Lock solo pursuit night** — which night, which activity (MMA or bachata lessons)
+8. **Reach out to Sahil** — call, voice memo, or in-person before Sunday
+9. Architecture date this weekend — mid-century modern Scottsdale driving tour
 
 ## Wedding
-9. Call St. Andrew — lock Oct 22, 2027 + confirm Pre-Cana process with Elena
-10. Reach out to photographer for booking
-11. Hold hotel block to week 2 — don't take it on this week
+10. **Virehouse consult tomorrow (May 19)** — push to contract close
+11. Hotel block: research 2 hotels at $150 and $200 price points (start this week)
 
-## Money / Side Income
-12. Set up acquisition project in AIOS (plan mode — this Sunday post-reflection)
+## Money / Acquisition
+12. **Saturday May 23: first listing review session** — 1 hr, lock the cadence
+13. Zone of Genius exercise: complete Passion/Skills/Network circles via `/acquisition capture`
