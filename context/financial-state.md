@@ -94,3 +94,7 @@ Last updated: May 3, 2026
 
 - Codie Sanchez (`references/sanchez.md`) — primary framework
 - Alex Hormozi (`references/hormozi.md`) — offer/value lens
+
+### Will's Capability Fit
+
+Capability inventory for acquisition fit lives at `context/work-experience.md` — distilled from the Amazon promo doc + Q2 2026 Talent Review. AIOS should pull this when scoring listings or doing zone-of-genius checks on candidate businesses.
