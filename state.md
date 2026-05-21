@@ -32,8 +32,8 @@
 ## Wedding
 - **Contract signed.** Clayton House Elite, Oct 22, 2027, Scottsdale.
 - **St. Andrew Oct 22, 2027 LOCKED.** Pre-Cana process to schedule.
-- **Virehouse consult: May 19 (tomorrow).** Contract close is next step.
-- **Hotel block:** Next open action after Virehouse resolves.
+- **Virehouse: BOOKED. Deposit paid May 18.**
+- **Hotel block:** Next open wedding action.
 - LED candles needed. Late-night bite: Chick-fil-A chicken minis ~$300 (outside vendor approved by Bailee May 10).
 
 ## Travel

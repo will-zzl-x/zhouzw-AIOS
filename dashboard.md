@@ -17,9 +17,9 @@ NYC Cut Day 2 | Virehouse consult tomorrow | Saturday acquisition cadence starts
 9. Architecture date this weekend — mid-century modern Scottsdale driving tour
 
 ## Wedding
-10. **Virehouse consult tomorrow (May 19)** — push to contract close
-11. Hotel block: research 2 hotels at $150 and $200 price points (start this week)
+10. ~~Virehouse~~ DONE — deposit paid May 18
+11. **Hotel block:** research 2 hotels at $150 and $200 price points
 
 ## Money / Acquisition
 12. **Saturday May 23: first listing review session** — 1 hr, lock the cadence
-13. Zone of Genius exercise: complete Passion/Skills/Network circles via `/acquisition capture`
+13. **Zone of Genius exercise** — Passion/Skills/Network circles via `/acquisition capture`
