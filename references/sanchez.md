@@ -178,30 +178,51 @@ Vision-boarding for business ownership. Answer before you start searching — de
 
 **Will's Deal Box** *(completed May 21, 2026)*
 
+**Household income context:** Will $101k + Elena $113.5k = $214.5k combined. Elena could scale to 20 hrs/week once business is stable.
+
+**Phase 1 — Acquisition target (Elena stays full-time, operates on the side):**
+
 | Input | Value | Notes |
 |---|---|---|
-| Target Income | $101k | Amazon total comp to surpass |
-| Operator Salary | $0 | Elena IS the operator |
-| Target Business Cash Flow | $101k | $101k + $0 |
-| Debt Service (CF × 0.25) | $25k | SBA 7(a) debt coverage |
-| **Total Cash Flow Needed** | **$126k** | |
+| Target Income | $101k | Will's comp to surpass |
+| Operator Salary | $0 | Elena as operator, keeps W-2 |
+| Target Business Cash Flow | $101k | |
+| Debt Service (CF × 0.25) | $25k | |
+| **Total CF Needed** | **$126k** | |
 | **Min Purchase Price** | **$252k** | CF × 2 |
 | **Max Purchase Price** | **$504k** | CF × 4 |
 
-**Deal Box dimensions:**
+Down payment: 10% SBA on $504k = $50k. $70k capital → $20k reserve. Feasible.
+
+**Phase 2 — Scale target (Elena drops to 20 hrs/week, ~$57k lost income):**
+
+| Input | Value | Notes |
+|---|---|---|
+| Target Income | $101k | Will's comp |
+| Elena's lost income | $57k | ~50% of $113.5k |
+| Operator Salary | $0 | Elena still the operator |
+| Target Business Cash Flow | $158k | |
+| Debt Service (CF × 0.25) | $40k | |
+| **Total CF Needed** | **$198k** | |
+| **Min Purchase Price** | **$396k** | CF × 2 |
+| **Max Purchase Price** | **$792k** | CF × 4 |
+
+Phase 2 doesn't require a different acquisition — it's the same business needing to grow into $198k CF before Elena scales back. Buy in Phase 1 range, grow into Phase 2 range.
+
+**Deal Box dimensions (active — Phase 1):**
 - **Price range:** $252k–$504k
 - **Revenue range:** ~$335k–$670k (assuming ≥30% margin)
-- **Profit (SDE) range:** $126k minimum; $150k+ preferred
-- **Margin floor:** 30%+ (pass on anything with <30% margins)
+- **Profit (SDE) floor:** $126k minimum; $150k+ preferred
+- **Margin floor:** 30%+ (pass on anything <30%)
 - **Sectors:** Tech-enabled services, professional services (bookkeeping/admin), home services with strong ops, remote-manageable subscription services
-- **Hard pass sectors:** Restaurants, retail inventory, anything requiring Will's daily physical presence
+- **Hard pass sectors:** Restaurants, retail inventory, daily-physical-presence requirements
 - **Seller type:** Motivated (7 Ds) — retirement, burnout, health. Not a price-maximizer.
-- **Geographic:** Arizona first. Remote-manageable mandatory.
+- **Geographic:** Arizona first. Remote manageable mandatory.
 - **Scale:** One business. Not a portfolio play yet.
 - **Operator model:** Elena (20–25 hrs/week), Will (5–10 hrs/week). No outside operator hire.
-- **Multiple:** Pay ≤4× SDE. Prefer 2–3×.
-- **Down payment budget:** $25k–$50k (10–15% on SBA 7(a)). $70k total capital — keep ≥$20k reserve.
-- **Financing preference:** SBA 7(a) + seller carry. Push for seller note = revenue protection clause.
+- **Multiple:** ≤4× SDE. Prefer 2–3×.
+- **Down payment:** $25k–$50k (10–15% SBA). $70k total — keep ≥$20k reserve.
+- **Financing:** SBA 7(a) + seller carry. Revenue protection clause in seller note.
 
 **Key rule:** Keep the Deal Box narrow when starting. One sector, one city. Narrow wins.
 

@@ -41,11 +41,18 @@ This is a known constraint — not a dealbreaker, but must be resolved in deal s
 - **Location:** Arizona preferred. Remote manageable is mandatory.
 - **Hard deadline:** Stable and semi-absentee by late 2027 (pre-move out of Tempe).
 
-**Deal Clarity Math:**
-- Target Business Cash Flow = $101k (income) + $0 (operator) = $101k
-- Debt Service = $101k × 0.25 = $25k
-- Total CF Needed = $126k
-- Min Price = $252k | Max Price = $504k
+**Deal Clarity Math — Phase 1 (Elena keeps W-2, operates on the side):**
+- Target Business CF = $101k + $0 (operator) = $101k
+- Debt Service = $25k → Total CF Needed = $126k
+- Price range: $252k–$504k
+
+**Phase 2 target (Elena scales to 20 hrs/week, ~$57k income lost):**
+- Target Business CF = $101k + $57k = $158k
+- Debt Service = $40k → Total CF Needed = $198k
+- Price range: $396k–$792k
+- Strategy: buy in Phase 1 range, grow into Phase 2 before Elena scales back.
+
+**Household income:** Will $101k + Elena $113.5k = $214.5k combined.
 
 ---
 
