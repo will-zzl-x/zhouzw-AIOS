@@ -4,7 +4,7 @@ Last updated: May 3, 2026
 
 ## Income
 
-- Combined gross: ~$190k/year
+- Combined gross: ~$214.5k/year ($101k Will + $113.5k Elena)
 - Combined take-home: ~$11,500–12,000/month
 - Will: Amazon SCM I (L4), Tempe AZ
 - Elena: Water resources engineer, Stanley Consultants
@@ -94,3 +94,7 @@ Last updated: May 3, 2026
 
 - Codie Sanchez (`references/sanchez.md`) — primary framework
 - Alex Hormozi (`references/hormozi.md`) — offer/value lens
+
+### Will's Capability Fit
+
+Capability inventory for acquisition fit lives at `context/work-experience.md` — distilled from the Amazon promo doc + Q2 2026 Talent Review. AIOS should pull this when scoring listings or doing zone-of-genius checks on candidate businesses.

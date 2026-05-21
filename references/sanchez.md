@@ -49,12 +49,17 @@ Your Zone of Genius = the intersection of **Passion + Experience/Skills + Networ
 - Gets lost in: building efficient systems, optimizing processes, planning
 - Gives advice on: gym consistency, meal prep, weight loss, AI for productivity, long-term relationships
 
-**Experience & Skills:** *(TODO — populate from promo doc/talent review, work laptop)*
-- Supply chain management (Amazon SCM I, L4)
-- Process design, logistics, operations
-- AI integration and automation
-- Systems building
-- [Additional skills TBD from talent review]
+**Experience & Skills:** *(populated May 21, 2026 — source: Amazon Q2 2026 Talent Review + promo doc)*
+- **Cross-functional negotiation** — led 3+ months of carrier-pricing renegotiation with Sr Director-level counterparties; ~$229k/yr structural savings, 47% per-move cost reduction. Closes senior alignment same-day.
+- **Automation / SOP-ifying tribal knowledge** — built a 6-workflow GenAI ops suite (~407 hr/yr individual capacity recovered); stress-tested in production; methodology taught to 11 stakeholders. Context Document approach: encodes role constraints + decision logic so work runs without him.
+- **Financial framing of ops decisions** — builds unit-economics models (3-scenario cost teardowns), converts operational asks into $/yr structural framing, architects DBR/WBR/QBR metrics frameworks with 49+ metric lines.
+- **Process design from ambiguity** — took primary on a 4-month-stalled $22.5M opportunity, shipped first pilot load within 3 weeks. Writes the SOP, names the Slack channel, runs the cadence. Nobody has to ask twice.
+- **Operations data infrastructure** — Redshift, DataGrip, Quicksight, SQL; root-causes per-row data bugs across multi-source tables.
+- **Supply chain & logistics** — Amazon SCM I (L4), cross-dock operations, carrier procurement, network-health diagnostics, inbound capacity matching.
+- **AI tooling** — Claude Code, Kiro, structured prompt caching, deterministic gating logic; production-grade, not demo-grade.
+- **Trust-building with external partners** — sustained multi-month carrier + 3PL relationships; carried Sr Director relationship through full renegotiation to written alignment.
+
+**Backbone gap (relevant to acquisition):** defaults to collaborate-then-follow-up rather than naming disagreement at decision time. Translated: at LOI or vendor renegotiation, watches for the moment-of-acceptance pattern — flag before committing, not after.
 
 **Network:**
 - **Dan Nguyen** — business owner, biggest connector, explored accounting/tax acquisition together (2025). Domain expertise in professional services + AI angle.
