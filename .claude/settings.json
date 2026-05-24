@@ -24,6 +24,10 @@
       "env": {
         "TODOIST_API_TOKEN": "${TODOIST_API_KEY}"
       }
+    },
+    "liftosaur": {
+      "type": "http",
+      "url": "https://www.liftosaur.com/mcp"
     }
   }
 }
