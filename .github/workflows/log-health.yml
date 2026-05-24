@@ -1,0 +1,59 @@
+name: Log Health Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      steps:
+        description: 'Step count for today'
+        required: true
+        type: number
+      calories:
+        description: 'Calories consumed (optional)'
+        required: false
+        type: number
+      protein_g:
+        description: 'Protein in grams (optional)'
+        required: false
+        type: number
+
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: claude/build-coding-skills-K5mpd
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Log health data
+        working-directory: cloud/morning-brief
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          AIOS_BRANCH: claude/build-coding-skills-K5mpd
+        run: |
+          python - <<'EOF'
+          from health_logger import log_health
+          import os
+          steps = int(os.environ['STEPS'])
+          cal = os.environ.get('CALORIES')
+          prot = os.environ.get('PROTEIN_G')
+          result = log_health(
+            steps=steps,
+            calories=int(cal) if cal else None,
+            protein_g=int(prot) if prot else None
+          )
+          print(result)
+          EOF
+        env:
+          STEPS: ${{ inputs.steps }}
+          CALORIES: ${{ inputs.calories }}
+          PROTEIN_G: ${{ inputs.protein_g }}
