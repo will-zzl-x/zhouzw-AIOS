@@ -39,6 +39,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           AIOS_BRANCH: claude/build-coding-skills-K5mpd
+          STEPS: ${{ inputs.steps }}
+          CALORIES: ${{ inputs.calories }}
+          PROTEIN_G: ${{ inputs.protein_g }}
         run: |
           python - <<'EOF'
           from health_logger import log_health
@@ -53,7 +56,3 @@ jobs:
           )
           print(result)
           EOF
-        env:
-          STEPS: ${{ inputs.steps }}
-          CALORIES: ${{ inputs.calories }}
-          PROTEIN_G: ${{ inputs.protein_g }}
