@@ -8,6 +8,34 @@ Authorities: `references/perel.md`, `references/schnarch.md` (Gottman as guardra
 
 ---
 
+## Field Guide (the actionable version)
+
+### DO
+- **Lock the solo-pursuit night this week** — recurring, non-negotiable. The single highest-leverage move; it's slipped two weeks running.
+- **Stay on the cut.** Physical discipline *is* gravity — keep it visible, don't narrate it.
+- **Keep a life she's not fully inside** — your own friends, the acquisition project, an interest that's yours alone.
+- **Take small amounts of space without explaining it.** No announcing, no justifying.
+- **Vary the routine yourself** — change default timing/availability so intimacy isn't autopilot.
+- **Be fully present when it's real** — phone gone, no performing, no narrating in your head.
+
+### DON'T
+- **Don't talk about the dynamic with her.** No "I've been thinking about us lately." Process it here, not warm.
+- **Don't grade or score** — out loud *or* in your head. She banned the optimization frame; honor it.
+- **Don't over-pursue when you feel the gap.** Chasing kills it faster. Redirect the urge into your own thing.
+- **Don't withhold affection, manufacture jealousy, or flash "options."** That's the dread line — it spends trust and forfeits the marriage's foundation.
+- **Don't watch her reaction to your changes.** The instant you're tracking her response, you've turned differentiation into a game.
+- **Don't reach for date nights / scheduled sex as the fix.** It's structural, not logistics.
+
+### MINDSETS
+- **The lever is you, not her.** Become more wantable; never try to *make* her want.
+- **Desire needs distance, love needs closeness — a marriage holds both.** Separateness is fuel, not a threat.
+- **Whoever wants more connection needs to differentiate more, not pursue harder** (Schnarch).
+- **Her initiation reading as accommodation is structural, not a defect.** Don't make it about her.
+- **Gravity compounds; manipulation decays.** Everything you build for yourself pays off regardless of the dynamic.
+- **It's slow on purpose.** Wanting a faster lever is the exact pull that makes dread seductive — that urge is your cue to hold the line, not switch frameworks.
+
+---
+
 ## G — Goal
 
 **What:** Shift the dynamic from desire-as-accommodation (Elena initiating from love-fuel / wanting to make Will happy) toward desire-as-want (hunger for Will specifically). See `perel.md` L35–37 for the diagnosed dynamic.
