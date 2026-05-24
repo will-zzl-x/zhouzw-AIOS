@@ -1,0 +1,34 @@
+name: Evening Archive
+
+on:
+  schedule:
+    - cron: '0 4 * * *'    # 9:00 PM Arizona (UTC-7, no DST = 04:00 UTC next day)
+  workflow_dispatch:        # manual trigger from GitHub Actions UI
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # writes back to journals/daily-log.md
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: claude/build-coding-skills-K5mpd
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r cloud/morning-brief/requirements.txt
+
+      - name: Run evening archive
+        working-directory: cloud/morning-brief
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          AIOS_BRANCH: claude/build-coding-skills-K5mpd
+          AIOS_LOCAL_PATH: ${{ github.workspace }}
+        run: python main.py evening
