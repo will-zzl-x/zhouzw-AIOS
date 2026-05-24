@@ -4,7 +4,7 @@ Last updated: May 3, 2026
 
 ## Income
 
-- Combined gross: ~$190k/year
+- Combined gross: ~$214.5k/year ($101k Will + $113.5k Elena)
 - Combined take-home: ~$11,500–12,000/month
 - Will: Amazon SCM I (L4), Tempe AZ
 - Elena: Water resources engineer, Stanley Consultants

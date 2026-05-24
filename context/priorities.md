@@ -8,38 +8,83 @@ Two lenses, both matter:
 Career first. SCM II promotion window is Q3–Q4 2026 — this quarter is the prep window. The behaviors that get you promoted need to be visible now.
 
 **Life satisfaction priority** (daily quality of life):
-Fitness consistency and relationship quality first. Missing Ravage sessions or letting physical intimacy with Elena go flat has immediate, daily impact. Career slipping Q3→Q4 does not.
+Fitness consistency and relationship quality first. Missing Ravage sessions or letting the cut slip has immediate, daily impact. Career slipping Q3→Q4 does not.
 
 **EA mode rule by time block:**
-- Weekdays: career movers are fair game alongside fitness and relationship
-- Weekends: side income and fitness/relationship movers — not Amazon work
+- Weekdays: Work Main Quest (Amazon promo + acquisition) fair game alongside fitness and relationship
+- Weekends: acquisition/listing review + fitness/relationship movers — not Amazon work
 
-## Life Areas
+---
 
-### Career / Income
-- **Amazon:** Demonstrate SCM II behaviors — strategic framing, cross-functional stakeholder influence, proactive risk identification, process development. Not just executing assigned work.
-- **Side income:** In ideation/pre-search phase. Weekend time is protected. No active project yet — finding and validating one is itself the current mover.
+## Q2 Quests
 
-### Fitness
-- **Program:** GVS Ravage, 6x/week target, 4x/week minimum
-- **Weight:** Maintain under 180 lbs ahead of NYC Cut (May 17)
-- **NYC Cut target:** 172 lb / 12.5% BF by July 4
-- **Training:** Hit progressive overload targets each session
-- **Sleep:** Active lever — adherence and consistency may need coaching
+### Work Main Quest — "Build the Platform"
+**Win condition (Amazon):** 5–7 LP-aligned stories with quantified impact (% reduction, $ saved, scope), reviewed by 2 cross-functional partners who'd advocate, manager-aligned by June 30.
+**Win condition (Acquisition):** Saturday listing review cadence locked, 10+ listings reviewed by June 30, 1 real broker conversation initiated, LOI template drafted.
+**Major moves:**
+1. Advance promo doc — write LP-aligned stories with metrics, manager-aligned by June 30
+2. Saturday afternoon listing review cadence locked (1 hr/week)
+3. 10+ listings reviewed by June 30
+4. 1 real broker conversation initiated
+5. LOI template drafted
+**Framework:** Codie Sanchez Level 1. See `context/acquisition.md` and `references/sanchez.md`.
 
-### Relationships
-- **Elena (primary):** Physical intimacy and genuine desire are the identified opportunity area — discussed and mutually acknowledged. Active work, not background context.
-- **Family and friendships:** Maintain; no specific sprint this quarter.
+### Fitness — "Execute the NYC Cut"
+**Win condition:** Execute cut phase clean May 17 – Jul 11. Stabilized at end-cut weight ± 1 lb through NYC trip (Jul 30–Aug 5). Ravage 4x/week minimum, no >10% strength regression on main lifts, protein ≥150g daily logged.
+**Longer-term target:** 168 lb by suit fitting for wedding (Oct 22, 2027) — not a Q2 deadline.
 
-### Money Execution
-- **$70k S&ME savings:** Earmarked for income-growth investments. Not currently deployed. Actively evaluating — deploy when the right one surfaces.
-- **Allocations:** $2k/mo recurring. No changes planned.
-- **This quarter:** Eyes open. No forced timeline.
+**Phase plan:**
+| Phase | Dates | Calories | Target |
+|---|---|---|---|
+| Aggressive Cut | May 17 – Jul 11 | ~1,820 (at BMR floor) | As low as possible before NYC |
+| Reverse + Maintain | Jul 12 – Jul 29 | +250/wk → maintenance, then hold | Stabilize at end-cut weight |
+| NYC Trip | Jul 30 – Aug 5 | Loose maintenance | Damage control |
 
-### Wedding
-- **Status:** Clayton House Elite selected. Contract signed. Deposit paid.
-- **Within 30 days of signing:** Elena contacts St. Andrew (confirm date + initiate pre-Cana). Book hotel room block. Book photographer (~$3,500).
-- **Open items:** Chick-fil-A outside vendor permission (confirm with Bailee). Hotel room block. Photographer.
-- **Full context:** See context/wedding.md if it exists.
+**Hard floor:** 168 lb. Do not cut below this — aligns with 12% BF lower bound per GVS (hunger spikes, sleep disrupts, hormonal risk).
+**Operating range:** 168–181 lb (12–20% BF).
 
-## No Hard Deadlines This Quarter Beyond Wedding Open Items
+**Deficit protocol (Schofield):** Target ~1,820 cal (BMR floor). At 20%+ BF this is aggressive but within framework.
+- Main lifts drop >10% → come up to ~2,000 cal immediately — muscle is going
+- Sleep degrades (waking at night) → come up — hormonal signal
+- 7-day rolling avg ≤176 lb → add one refeed day/week (maintenance cals, fat ≤40g, carbs 350g+); align with heaviest Ravage session
+- Scale stalls + not hungry → tighten tracking accuracy before adjusting calories
+- Never go below 1,820 — increase steps/NEAT if more deficit needed
+
+**Reverse diet (Jul 12+):** Add ~250 cal/week until at maintenance. Expect 2–3 lb water/glycogen regain — normal, not fat.
+
+**NYC eating rule:** Skip bread basket OR dessert/alcohol per meal — pick one. Don't track strictly.
+
+**Tracking:** 7-day rolling average weight, not daily. Operating range: 168–181 lb (12–20% BF).
+
+### Relationships — "Court Elena"
+**Win condition:** Architecture date 1x/month, solo pursuit (MMA or bachata private lessons) on Monday anchor + 1–2 additional nights/week, NYC Cut visibly executed, zero night talks about intimacy.
+**Root cause focus:** Desire follows attraction. Attraction follows visible self-investment + presence. Don't optimize the symptom — execute the root.
+**Moves:**
+1. Architecture date 1x/month — novelty + anticipation outside domestic routine
+2. Monday anchor — MMA or bachata private lesson (solo, not shared). 1–2x/week total. Ravage already counts as his.
+3. NYC Cut executed — Ravage adherence + visible physical change. Self-investment Will does FOR himself, not to display.
+4. Acquisition project — shows competence + momentum. Shared with Elena so not differentiation, but still matters.
+5. Zero night talks about intimacy — hard rule, daylight only. Self-soothe via `/mid-week-capture`, never vent to Elena.
+
+### Friendships — "Stay in the Circle"
+**Win condition:** 1 meaningful touchpoint per week with a close friend (call, voice memo, or in-person) — sustained for 6 weeks by June 30.
+**Major moves:**
+1. Build a short roster (5–8 people) with last-contact date — lives in `/relationship-os`
+2. Weekly Sunday: pick one person, reach out before the week ends
+3. NYC trip — deliberately see at least 1 close friend while there
+
+### Wedding — "Clear the Stack"
+**Win condition:** Virehouse contracted (engagement session included, 8hr min coverage), St. Andrew date locked via phone call, hotel block at 2 price points ($150 + $200 range) by June 30.
+**Open items:**
+- Call St. Andrew — lock Oct 22, 2027 + confirm Pre-Cana process
+- Book Virehouse — contract + engagement session
+- Hotel block — 2 hotels, 10–20 rooms each, 18 months out
+
+---
+
+## EA Mode Rule by Life Area
+
+| Day type | Fair game |
+|----------|-----------|
+| Weekday | Work Main Quest (Amazon + acquisition), fitness, relationships |
+| Weekend | Acquisition/listing review, fitness, relationships — not Amazon work |
