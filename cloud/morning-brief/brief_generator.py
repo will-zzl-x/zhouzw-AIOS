@@ -20,6 +20,7 @@ Rules:
 - Weekday rule: career moves fair game. Weekend rule: no Amazon work
 - Respect state.md constraints (travel, vacation, illness, schedule)
 - Each task: 5–10 words, action verb first, measurable when possible
+- Lifting/training and steps are ALWAYS separate tasks — never merge them into one (no "Train + 10k steps"). Emit a distinct task for the training session and a distinct task for the step target.
 - Output JSON only. No prose. No markdown. Just the JSON array.
 
 Output schema:

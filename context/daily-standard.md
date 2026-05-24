@@ -10,7 +10,7 @@ Updated each time a phase changes or a quarterly review runs.
 | Quest | Major Moves |
 |-------|-------------|
 | SCM II promotion (Work) | Log/create 1 L5 behavior per week; do strategic work, not just firefighting |
-| NYC Cut — execute clean through Jul 11 (Fitness) | 150g protein daily; training 3x/week; 10k steps/day; ≤2,200 cal in deficit phase |
+| NYC Cut — execute clean through Jul 11 (Fitness) | 150g protein daily; training 3x/week; 10k steps/day; ~1,820 cal (BMR floor) in deficit phase |
 | Business acquisition (Side) | Active reading/research time; evaluate listings when they surface |
 
 ---
@@ -62,6 +62,8 @@ Done when:
 ---
 
 ## Done Threshold
+
+**Lifting and steps are separate gates — never one combined item.** Training (Ravage) and the 10k step target are tracked and surfaced as two distinct tasks, never merged.
 
 **2 of 3 required targets hit = acceptable day.** Move on without guilt.
 **All targets hit = complete day.** Note it — consistency compounds.
