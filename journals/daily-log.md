@@ -14,3 +14,8 @@ Format: ✓ = done, □ = planned/pending
 **2026-05-08 (Fri)** — Vacation / Destin / Birthday
 ✓ Protein ≥ 150g
 □ Legs session
+
+**2026-05-25 (Mon)** — Phase
+□ Hit 150g protein and 1820 calories today
+□ Review 2-3 acquisition listings this session
+□ Reach out to Sahil via call or voice memo
