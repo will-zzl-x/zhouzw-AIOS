@@ -9,7 +9,7 @@ NYC Cut Wk2 | Promo doc drafted → in review | Hotel block 10/35 OOT
 ## Fitness
 4. **NYC Cut Wk2: let the scale steer** — don't chase 1,820; add steps before cutting cals if it stalls
 5. **Start capturing sleep data** — the open gap from Wk1
-6. Ravage — hold loads, Larsen Press as the canary; log the May 24–25 sessions
+6. Ravage Wk2 — hold loads, Larsen Press as the canary (Sun May 24 Legs B logged)
 
 ## Relationships
 7. **Lock the solo pursuit night** — MMA or bachata, just decide (slipped 2 weeks)

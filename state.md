@@ -20,7 +20,7 @@
 - Hard floor: 168 lb — do not cut below.
 - Reverse diet: Jul 12–29. NYC maintenance: Jul 30–Aug 5.
 - Program: GVS Ravage Week 5. Neutral Pull-Up trending up (2/2/1 → 3/3/2) but still flagged weak vs. BW+45×5 standard.
-- **Gap:** no sleep data flowing — next week's capture. May 24–25 sessions unlogged (Liftosaur token expired).
+- **Gap:** no sleep data flowing — next week's capture. Sun May 24 Legs B logged (manual paste — Liftosaur token expired); no May 25 session recorded yet.
 
 ## Relationships
 - Elena: improving. **Desire gap closed this week** — architecture date happened, intimate once (better than last). Differentiation approach working — keep building the separate self, don't reverse-engineer it into a tactic.

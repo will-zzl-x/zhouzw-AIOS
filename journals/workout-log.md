@@ -86,3 +86,20 @@ Running training log. All sessions logged here — GVS Ravage, bodyweight, and o
 - **Neutral pull-up trending up** (2/2/1 → 3/3/2) but still the flagged weakness vs. BW+45×5 standard; dropping bodyweight should help.
 - Curls / laterals / isolations holding or improving (hammer curl 13,9 → 15,13) — expected on a cut; pull/iso hold while push slides.
 - Frequency unchanged (8 sessions/9 days) — correct: cut volume/proximity before frequency. Textbook week-1 execution. Hold loads, don't chase PRs.
+
+---
+
+## NYC Cut — Week 2 (GVS Ravage W5D4 →) — logged via Liftosaur
+
+**Sun May 24 — W5 D4 Legs B**
+- Smith Squat 155 — 7, 6 @ 9, 7.5
+- Romanian Deadlift 70 — 5, 3 @ 10, 9.5
+- Lying Leg Curl 90 — 10, 8 @ 10
+- Leg Extension 90 — 9, 11 @ 10
+- Standing Calf Raise (BB) 115 / 135 — 20, 20 @ 6.5, 8.5
+
+**Read (Schofield lens):**
+- **Smith Squat held 155** — 7,6 vs. W4D4's 145–155 × 8,6; top-set reps up at the heavier load. Legs/push intensity sustaining into cut wk2 — no abort signal.
+- RDL reps slipped (W4D4 70 × 7,4 → 5,3 @ same load) — minor, expected on a deficit for a hinge. Watch next Legs day; not a flag yet.
+- Quad isolation holding (leg curl/ext steady). Calves left in the tank (RPE 6.5 / 8.5) — room to add load.
+- No May 25 session in the export.
