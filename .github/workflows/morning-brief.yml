@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: claude/build-coding-skills-K5mpd
+          ref: master
 
       - uses: actions/setup-python@v5
         with:
@@ -29,6 +29,6 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          AIOS_BRANCH: claude/build-coding-skills-K5mpd
+          AIOS_BRANCH: master
           AIOS_LOCAL_PATH: ${{ github.workspace }}
         run: python main.py morning

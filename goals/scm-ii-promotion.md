@@ -1,6 +1,6 @@
 # GPS: SCM II Promotion
 Created: May 8, 2026
-Next review: Weekly (scm-tracker review)
+Status (May 25): **Parked — demoted from main quest.** Career bandwidth redirected to the acquisition (the actual exit vehicle; leaving Amazon late 2027). **Behavior-logging retired.** Scope reduced to: ship the promo doc + manager-align, finish the escalation scraper, then maintain. Promotion still welcome if it comes — but it's no longer the tracked work quest. Measure by deliverables, not behavior counts.
 
 ---
 
@@ -53,5 +53,4 @@ Next review: Weekly (scm-tracker review)
 
 ## Status
 
-Active. Promotion window opens Q3 2026. This quarter is the behavior-building window.
-Q2 target: ≥12 logged L5 behaviors by June 30 (1/week minimum, 2/week ideal).
+**Parked / maintenance (May 25).** Behavior-logging retired — the ≥12-by-June-30 target is dropped. Remaining career commitment: promo doc shipped + manager-aligned, escalation scraper finished. Revisit if the promotion timeline becomes a live priority again.

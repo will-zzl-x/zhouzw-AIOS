@@ -8,7 +8,7 @@ from zoneinfo import ZoneInfo
 import requests
 
 REPO = "will-zzl-x/zhouzw-aios"
-BRANCH = os.environ.get("AIOS_BRANCH", "claude/build-coding-skills-K5mpd")
+BRANCH = os.environ.get("AIOS_BRANCH", "master")
 FILE_PATH = "journals/health-log.md"
 TZ = ZoneInfo("America/Phoenix")
 API_BASE = f"https://api.github.com/repos/{REPO}/contents/{FILE_PATH}"

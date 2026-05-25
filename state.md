@@ -5,10 +5,10 @@
 - **Security note:** Anthropic + Todoist keys rotated; two exposed GitHub PATs revoked. Resolved May 25.
 
 ## Career
-- Amazon SCM I (L4). Promotion window Q3–Q4 2026.
+- Amazon SCM I (L4). Promotion window Q3–Q4 2026 — **no longer a tracked quest.** Acquisition is the work/income main quest now; leaving Amazon late 2027.
 - **Promo doc drafted.** Open: final review pass → manager alignment (target June 30).
 - Escalation scraper: threshold logic developing on work laptop, not finished. Next: build out logic around the escalation identifier.
-- SCM II behaviors: deliberately deprioritized for the promo-doc sprint. Two-plus weeks at zero — resume logging once promo doc ships (no captures = no L5 narrative).
+- **SCM II behavior-logging retired** — measure promotion by deliverables (promo doc, scraper), not behavior counts. `goals/scm-ii-promotion.md` parked.
 
 ## Fitness
 - **NYC Cut Week 1 done (May 17–23).** 7-day avg 182.6 lb, −3.0 WoW off 185.6 — water/glycogen, expected. Not real fat loss yet.
@@ -41,7 +41,7 @@
 ## Money / Acquisition
 - $70k earmarked for income-growth investments. Not deployed.
 - $2k/mo recurring allocations.
-- **Acquisition restart:** End of Week 1, Learn phase. Zero listings reviewed. Saturday review cadence active (started May 23).
+- **Acquisition restart:** End of Week 1, Learn phase. Zero listings reviewed. Saturday review cadence active (started May 23). **Now the work/income main quest** (career bandwidth redirected from SCM II). GPS doc: `goals/acquisition.md`.
 - **Goal: truly absentee** (quarterly check-in), not just semi-absentee. Primary = Path A (service business, 2–3 staff, Elena operates yr 1 → manager hire yr 2). Path B (digital) is a parallel second track.
 - Zone of Genius, Ideal Owner Experience, and Deal Box **complete** — now live in `context/acquisition.md`. Phase 1 target: $252k–$504k price, $126k CF floor; Phase 2 (Elena scales back) grows into $198k CF.
 - Framework reference: `references/sanchez.md` (Codie Level 1 — pure framework; Will's filled-in answers moved to `acquisition.md`).

@@ -25,7 +25,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: claude/build-coding-skills-K5mpd
+          ref: master
 
       - uses: actions/setup-python@v5
         with:
@@ -38,7 +38,7 @@ jobs:
         working-directory: cloud/morning-brief
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          AIOS_BRANCH: claude/build-coding-skills-K5mpd
+          AIOS_BRANCH: master
           STEPS: ${{ inputs.steps }}
           CALORIES: ${{ inputs.calories }}
           PROTEIN_G: ${{ inputs.protein_g }}

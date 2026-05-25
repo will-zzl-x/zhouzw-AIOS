@@ -9,9 +9,11 @@ Updated each time a phase changes or a quarterly review runs.
 
 | Quest | Major Moves |
 |-------|-------------|
-| SCM II promotion (Work) | Log/create 1 L5 behavior per week; do strategic work, not just firefighting |
-| NYC Cut — execute clean through Jul 11 (Fitness) | 150g protein daily; training 3x/week; 10k steps/day; ~1,820 cal (BMR floor) in deficit phase |
-| Business acquisition (Side) | Active reading/research time; evaluate listings when they surface |
+| **Business acquisition (Work/Income)** | Learn-phase reps: Saturday deliberate deal-eval (1–2 listings → three-question test → `/deal-eval` → log the gaps); one broker / known-buyer contact; build SBA + SDE literacy. Buying is **not** a learn-phase activity. See `goals/acquisition.md`. |
+| NYC Cut — execute clean through Jul 11 (Fitness) | 150g protein daily; training 3x/week; 10k steps/day; ~1,820 cal (BMR floor) in deficit phase; track in **Cronometer** |
+| Desire-polarity / differentiation (Relationship) | Lock the recurring solo-pursuit night; keep gravity (cut, friendships, own interests) visible not narrated. See `goals/desire-polarity.md`. |
+
+**Career/Amazon — maintenance, not a tracked quest.** Ship the promo doc + manager-align, then maintain. **SCM II behavior-logging is retired** — measure promotion by real deliverables (promo doc shipped, escalation scraper finished), not weekly behavior counts. Leaving Amazon late 2027; acquisition is the actual exit vehicle.
 
 ---
 
@@ -43,11 +45,11 @@ Done when:
 2. **Nutrition** — Protein ≥ 150g
 3. **Side/Relationship** — Meaningful time on acquisition (reading, research) OR intentional time with Elena
 
-### NYC Cut — Work Days (May 17 – Jul 4)
+### NYC Cut — Work Days (May 17 – Jul 11)
 Done when:
-1. **Career** — At least one strategic action or SCM II behavior logged
+1. **Career** — Advance the promo doc, or maintain Amazon. No behavior-logging. Acquisition reps optional on weekdays.
 2. **Training** — Ravage session (if training day) — minimum 3x/week
-3. **Nutrition** — Protein ≥ 150g AND calories ~1,820 (BMR floor — at or just above)
+3. **Nutrition** — Protein ≥ 150g AND calories ~1,820 (BMR floor — at or just above; track in Cronometer)
 4. **Steps** — ≥ 10,000 (tracked via Apple Watch)
 
 Scale rule: 7-day rolling avg hits ≤176 lb → add one refeed day/week (maintenance cals, fat ≤40g, carbs 350g+). Don't react to single weigh-ins.
@@ -55,9 +57,11 @@ Scale rule: 7-day rolling avg hits ≤176 lb → add one refeed day/week (mainte
 ### NYC Cut — Weekends (May 17 – Jul 11)
 Done when:
 1. **Training** — Ravage session OR active recovery (yoga, long walk ≥ 10k steps)
-2. **Nutrition** — Protein ≥ 150g AND calories ~1,820 (BMR floor — at or just above)
+2. **Nutrition** — Protein ≥ 150g AND calories ~1,820 (track in Cronometer)
 3. **Steps** — ≥ 10,000
-4. **Side/Relationship** — Acquisition research OR intentional time with Elena
+4. **Acquisition (Saturday keystone)** — the deliberate deal-eval rep (1–2 listings through the framework)
+
+**Relationship keystones (weekly, surfaced as movers — kept off the daily 3-gate so they don't compete with side work):** lock + run the solo-pursuit night; intentional, non-logistical time with Elena.
 
 ---
 

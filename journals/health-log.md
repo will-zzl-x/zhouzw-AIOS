@@ -11,7 +11,7 @@ Sleep and diet tracking. Exercise lives in workout-log.md.
 
 ## 2026-05-24 — NYC Cut Week 1 baseline (May 17–23)
 
-**Source:** weight sheet (Drive), MacroFactor + steps screenshots.
+**Source:** weight sheet (Drive), Cronometer + steps screenshots.
 
 | Metric | Week 1 avg | Target | Note |
 |--------|-----------|--------|------|
