@@ -23,4 +23,4 @@ NYC Cut Wk2 | Promo doc drafted → in review | Hotel block 10/35 OOT
 ## Money / Acquisition
 12. **Saturday rep:** 1–2 listings → three-question test → `/deal-eval` → log what you couldn't answer (practice, not shopping)
 13. One broker contact / known-buyer signal — sourcing takes longest to warm, start now
-14. **Verify** the two exposed GitHub PATs show revoked + keys rotated — quick security close-out
+14. ~~Verify PATs revoked + keys rotated~~ DONE — resolved May 25

@@ -2,7 +2,7 @@
 
 ## Daily Loop
 - **Todoist daily brief live.** GitHub Actions runs the morning brief at 7am AZ (14:00 UTC) → 3–5 tasks to Todoist "AIOS Daily"; evening archive at 9pm AZ (04:00 UTC) writes completions to `journals/daily-log.md`. Workflows: `.github/workflows/morning-brief.yml` + `evening-archive.yml`. Secrets in GitHub repo settings (ANTHROPIC_API_KEY, TODOIST_API_KEY). Migrated off GCP Cloud Functions/Scheduler — old `cloud/morning-brief/` retained as source but no longer the trigger. Source of truth for "what should I do today" is Todoist.
-- **Security note:** Anthropic + Todoist keys + two exposed GitHub PATs reported rotated/revoked (Will: "should have been"). **Verify** the two PATs show revoked in GitHub settings — not confirmed.
+- **Security note:** Anthropic + Todoist keys rotated; two exposed GitHub PATs revoked. Resolved May 25.
 
 ## Career
 - Amazon SCM I (L4). Promotion window Q3–Q4 2026.
