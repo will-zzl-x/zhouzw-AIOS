@@ -1,6 +1,6 @@
 # Acquisition Playbook
 
-Last updated: May 17, 2026 (meeting notes from Apr–May 2025)
+Last updated: May 25, 2026 (Zone of Genius + Ideal Owner Experience moved in from sanchez.md; meeting notes from Apr–May 2025)
 
 ---
 
@@ -17,6 +17,71 @@ Elena operates year 1 (20–25 hrs/week). Year 2: hire a manager (~$50–60k sal
 Content site, newsletter, niche SaaS. No employees, no physical presence. Will builds systems, runs on 2–5 hrs/week from year 1. Diligence is different (traffic/revenue diversification, not ops headcount). Will's lead-gen/marketing skills are a cold zone — treat as second track, not primary.
 
 **Primary track: Path A** (service business with 2–3 employees, bookkeeping/professional services preferred). Elena's financial background is a day-1 fit. Will's AI automation angle is highest-leverage in a bookkeeping context. Absentee timeline is faster when Elena already knows the domain.
+
+---
+
+## Zone of Genius *(drafted May 18, 2026; skills populated May 21 from Q2 Talent Review + promo doc)*
+
+Zone of Genius = Passion × Experience/Skills × Network. The right business lives in the overlap — carry it as a filter; if a deal doesn't fit, pass no matter how good the numbers. Framework: `references/sanchez.md` (Step 1).
+
+**Will — Passion:**
+- Fitness (hypertrophy, meal planning, fat loss, sustainable health systems)
+- AI/automation — integrating AI into everyday workflows
+- Self-improvement systems; gets lost in building/optimizing systems and planning
+- Dance (Latin), trip planning, cooking/meal prep
+
+**Will — Experience & Skills:**
+- **Cross-functional negotiation** — led 3+ mo carrier-pricing renegotiation with Sr Director counterparties; ~$229k/yr structural savings, 47% per-move cost reduction. Closes senior alignment same-day.
+- **Automation / SOP-ifying tribal knowledge** — built a 6-workflow GenAI ops suite (~407 hr/yr recovered); stress-tested in production; taught to 11 stakeholders.
+- **Financial framing of ops decisions** — unit-economics models, 3-scenario cost teardowns, DBR/WBR/QBR frameworks (49+ metric lines).
+- **Process design from ambiguity** — took primary on a 4-mo-stalled $22.5M opportunity, shipped first pilot load in 3 weeks.
+- **Operations data infrastructure** — Redshift, DataGrip, Quicksight, SQL.
+- **Supply chain & logistics** — Amazon SCM I (L4), cross-dock, carrier procurement, network-health diagnostics.
+- **AI tooling** — Claude Code, Kiro, structured prompt caching, deterministic gating; production-grade, not demo-grade.
+- **Trust-building with external partners** — multi-month carrier + 3PL relationships carried to written alignment.
+
+**Will — Backbone gap (acquisition-relevant):** defaults to collaborate-then-follow-up rather than naming disagreement at decision time. At LOI / vendor renegotiation, watch for the moment-of-acceptance pattern — flag before committing, not after.
+
+**Will — Network:**
+- **Dan Nguyen** — business owner, biggest connector; explored accounting/tax acquisition together (2025). Professional services + AI angle.
+- **Mikey Shudoma** — bank ops. SBA financing + lender perspective.
+- **Richard Lobo** — trucking company. Ops/logistics adjacent.
+- **Jin** — real estate portfolio. Passive income structures.
+- **Jake Dillard** — payroll. Business ops from HR/payroll side.
+
+**Elena — Passion:** planning (wedding, budget, financial — enjoys the process), house hunting/design, Latin dancing, drawing. Detail-oriented by nature. Advises on personal finance + relationships.
+
+**Elena — Experience & Skills:** water resources engineer (H&H calcs, citywide floodplain analyses, roadway/drainage design); technical report writing; program management; ArcGIS, Civil3D, Open Roads Designer, StormCAD; mentoring + leadership presentations. Underlying capability: model complex systems → clean outputs → manage program. **CFO/COO profile for a detail-heavy business.**
+
+**Elena — Network:** engineering/municipal contacts (city/county PMs, infrastructure pros); overlap with Dan's network via Will.
+
+**Combined zone:**
+
+| Will brings | Elena brings |
+|---|---|
+| AI/automation + systems design | Financial precision + detail orientation |
+| Operations + supply chain | Program management + technical reporting |
+| Sourcing energy + connector (via Dan) | CFO function — budgets, financials, compliance |
+| AI integration post-acquisition | Process documentation + quality control |
+
+**Business types that fit:** tech-enabled services (AI modernization), bookkeeping/accounting (Elena's literacy + Will's AI — Dan thesis), remote professional services, home services with strong systems. **Hard constraint:** remote-manageable. Physical location dependency is a dealbreaker unless a strong operator is in place day 1.
+
+---
+
+## Ideal Owner Experience *(completed May 21, 2026)*
+
+What "winning" looks like — defined before searching so it's recognizable on sight. Framework: `references/sanchez.md` (Step 2).
+
+- **Win condition:** business generating >$101k/yr cash flow — surpasses Amazon total comp. Sustain 6 months → leave Amazon.
+- **Impact on life:** financial independence from W-2; leave Amazon + Tempe late 2027; gives Elena flexibility to reduce engineering hours.
+- **What might get in the way:** Amazon promo window (Q3–Q4 2026 bandwidth), new-operator learning curve, both working full-time during acquisition. Mitigation: keep deal simple (no turnaround), Elena ops, Will systems/AI.
+- **Geographic:** Arizona preferred (familiar market, CPA law researched). Remote-manageable mandatory — no daily physical presence.
+- **Sectors with unfair advantage:** tech-enabled services, bookkeeping/professional services (AI angle), home services with strong ops.
+- **Where Will adds most value:** AI/automation layer post-acquisition, process design, ops efficiency, sourcing.
+- **What to learn:** broker relationships, due diligence, SBA financing mechanics, operator management. (3-month learn phase active May–Aug 2026.)
+- **Size:** $252k–$504k purchase price; $126k min annual cash flow.
+- **One or many:** one first; platform add-on possible after year 1 stable.
+- **Work in the business:** Will 5–10 hrs/week, Elena 20–25 hrs/week. Goal: semi-absentee within 12 months, truly absentee thereafter.
 
 ---
 
@@ -56,7 +121,10 @@ This is a known constraint — not a dealbreaker, but must be resolved in deal s
 - **Multiple:** ≤4× SDE. Prefer 2–3×.
 - **Operator model:** Elena as operator (20–25 hrs/week, no salary). Will (5–10 hrs/week). No outside hire.
 - **Financing:** SBA 7(a) + seller carry preferred. Revenue protection clause in seller note.
+- **Margin floor:** 30%+ — pass on anything below.
 - **Sectors:** Tech-enabled services, professional services, home services with strong systems. Hard pass: restaurants, retail, daily-physical-presence requirements.
+- **Seller type:** Motivated (7 Ds) — retirement, burnout, health. Not a price-maximizer.
+- **Scale:** One business. Not a portfolio play yet.
 - **Location:** Arizona preferred. Remote manageable is mandatory.
 - **Hard deadline:** Stable and semi-absentee by late 2027 (pre-move out of Tempe).
 

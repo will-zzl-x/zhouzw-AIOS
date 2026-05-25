@@ -1,7 +1,7 @@
-# State — Last updated May 18, 2026
+# State — Last updated May 25, 2026
 
 ## Daily Loop
-- **Todoist daily brief live.** `cloud/morning-brief/` generates 3–5 tasks each morning at 7am AZ via Google Cloud Scheduler; evening archive at 9pm AZ writes completions to `journals/daily-log.md`. Source of truth for "what should I do today" is Todoist "AIOS Daily" project. API migrated to v1, retry logic added.
+- **Todoist daily brief live.** GitHub Actions runs the morning brief at 7am AZ (14:00 UTC) → 3–5 tasks to Todoist "AIOS Daily"; evening archive at 9pm AZ (04:00 UTC) writes completions to `journals/daily-log.md`. Workflows: `.github/workflows/morning-brief.yml` + `evening-archive.yml`. Secrets in GitHub repo settings (ANTHROPIC_API_KEY, TODOIST_API_KEY). Migrated off GCP Cloud Functions/Scheduler — old `cloud/morning-brief/` retained as source but no longer the trigger. Source of truth for "what should I do today" is Todoist.
 - **Security note:** Anthropic API key, Todoist API key, GitHub PAT were visible in session. Rotate all three.
 
 ## Career
@@ -42,8 +42,9 @@
 ## Money / Acquisition
 - $70k earmarked for income-growth investments. Not deployed.
 - $2k/mo recurring allocations.
-- **Acquisition restart:** Zero listings reviewed. Saturday cadence starts May 23.
-- Framework: Codie Sanchez Level 1. `references/sanchez.md` fully populated (Zone of Genius, Deal Box, Seven Ds, Walking Billboard, 100-50-10-to-1 Rule).
-- **Pending:** Zone of Genius exercise, Ideal Owner Experience, Will's Deal Box — run via `/acquisition capture`.
-- Dan Nguyen accounting firm thesis: still intact, not active. Secondary option if CPA joins.
-- Search window target: early August 2026 (end of 3-month learn phase).
+- **Acquisition restart:** End of Week 1, Learn phase. Zero listings reviewed. Saturday review cadence active (started May 23).
+- **Goal: truly absentee** (quarterly check-in), not just semi-absentee. Primary = Path A (service business, 2–3 staff, Elena operates yr 1 → manager hire yr 2). Path B (digital) is a parallel second track.
+- Zone of Genius, Ideal Owner Experience, and Deal Box **complete** — now live in `context/acquisition.md`. Phase 1 target: $252k–$504k price, $126k CF floor; Phase 2 (Elena scales back) grows into $198k CF.
+- Framework reference: `references/sanchez.md` (Codie Level 1 — pure framework; Will's filled-in answers moved to `acquisition.md`).
+- Dan Nguyen accounting firm thesis: intact, not active. Secondary option if a licensed CPA resolves AZ ownership law.
+- Search window opens ~August 2026 (end of 3-month learn phase).

@@ -2,6 +2,8 @@
 
 Source: *Main Street Millionaire* + Contrarian Thinking content
 
+*Pure framework. Will's filled-in answers (Zone of Genius, Ideal Owner Experience, Deal Box) live in `context/acquisition.md`.*
+
 ---
 
 ## Core Thesis
@@ -23,8 +25,6 @@ The biggest wealth transfer in American history is happening right now. Baby boo
 | **Operator model** | Owner-operator → semi-absentee | Semi-absentee from day 1 |
 | **Win condition** | Reliable, fast, credible buyer | Value-add + exit in 3–5 years |
 
-Will is a Level 1 buyer. Do not try to buy a Level 2 deal.
-
 ---
 
 ## Step 1: Zone of Genius
@@ -38,79 +38,6 @@ Your Zone of Genius = the intersection of **Passion + Experience/Skills + Networ
 **Warning:** Do not include "turning around failing businesses" as a skill. Turnarounds are hard. Only play that game if you're capitalized for it and love pain.
 
 **The filter:** There is no such thing as a good business to buy — there's only the right business *for you*. Carry your Zone of Genius as a filter when evaluating deals. If a deal doesn't fit, pass no matter how good the numbers look.
-
-**Will's Zone of Genius** *(drafted May 18, 2026 — skills section pending promo doc/talent review)*
-
-**Passion:**
-- Fitness (hypertrophy, meal planning, fat loss optimization, building sustainable systems around health)
-- AI/automation — integrating AI into everyday workflows and processes
-- Self-improvement systems
-- Dance (Latin), trip planning, cooking/meal prep
-- Gets lost in: building efficient systems, optimizing processes, planning
-- Gives advice on: gym consistency, meal prep, weight loss, AI for productivity, long-term relationships
-
-**Experience & Skills:** *(populated May 21, 2026 — source: Amazon Q2 2026 Talent Review + promo doc)*
-- **Cross-functional negotiation** — led 3+ months of carrier-pricing renegotiation with Sr Director-level counterparties; ~$229k/yr structural savings, 47% per-move cost reduction. Closes senior alignment same-day.
-- **Automation / SOP-ifying tribal knowledge** — built a 6-workflow GenAI ops suite (~407 hr/yr individual capacity recovered); stress-tested in production; methodology taught to 11 stakeholders. Context Document approach: encodes role constraints + decision logic so work runs without him.
-- **Financial framing of ops decisions** — builds unit-economics models (3-scenario cost teardowns), converts operational asks into $/yr structural framing, architects DBR/WBR/QBR metrics frameworks with 49+ metric lines.
-- **Process design from ambiguity** — took primary on a 4-month-stalled $22.5M opportunity, shipped first pilot load within 3 weeks. Writes the SOP, names the Slack channel, runs the cadence. Nobody has to ask twice.
-- **Operations data infrastructure** — Redshift, DataGrip, Quicksight, SQL; root-causes per-row data bugs across multi-source tables.
-- **Supply chain & logistics** — Amazon SCM I (L4), cross-dock operations, carrier procurement, network-health diagnostics, inbound capacity matching.
-- **AI tooling** — Claude Code, Kiro, structured prompt caching, deterministic gating logic; production-grade, not demo-grade.
-- **Trust-building with external partners** — sustained multi-month carrier + 3PL relationships; carried Sr Director relationship through full renegotiation to written alignment.
-
-**Backbone gap (relevant to acquisition):** defaults to collaborate-then-follow-up rather than naming disagreement at decision time. Translated: at LOI or vendor renegotiation, watches for the moment-of-acceptance pattern — flag before committing, not after.
-
-**Network:**
-- **Dan Nguyen** — business owner, biggest connector, explored accounting/tax acquisition together (2025). Domain expertise in professional services + AI angle.
-- **Mikey Shudoma** — bank ops. Useful for SBA financing conversations, understanding lender perspective.
-- **Richard Lobo** — part of a trucking company. Operations knowledge, logistics adjacent.
-- **Jin** — real estate portfolio. Asset ownership mindset, understands passive income structures.
-- **Jake Dillard** — payroll. Understands business ops from HR/payroll side.
-
----
-
-**Elena's Zone of Genius**
-
-**Passion:**
-- Planning (wedding, budget, financial planning — genuinely enjoys the process)
-- House hunting, home shows, interior/design aesthetics
-- Latin dancing
-- Drawing
-- Detail-oriented by nature — finds precision satisfying, not draining
-- Gives advice on: personal finance, relationships
-
-**Experience & Skills:**
-- Water resources engineer — H&H (hydraulic/hydrological) calculations, citywide floodplain analyses, roadway/drainage design
-- Report writing (drainage studies, technical documentation)
-- Program management
-- ArcGIS, Civil3D, Open Roads Designer, StormCAD
-- Mentoring programs, leadership presentations
-- Underlying capability: take complex systems → model accurately → produce clean outputs → manage program. **CFO/COO profile for a detail-heavy business.**
-
-**Network:**
-- Engineering/municipal contacts — city/county program managers, infrastructure professionals
-- Overlap with Dan's connector network via Will
-
----
-
-**Zone of Genius Synthesis (Will + Elena combined)**
-
-| Will brings | Elena brings |
-|---|---|
-| AI/automation + systems design | Financial precision + detail orientation |
-| Operations + supply chain | Program management + technical reporting |
-| Sourcing energy + connector (via Dan) | CFO function — budgets, financials, compliance |
-| AI integration post-acquisition | Process documentation + quality control |
-
-**Business types that fit the combined zone:**
-- Tech-enabled service businesses (AI modernization angle Will can execute)
-- Bookkeeping/accounting services (Elena's financial literacy + Will's AI angle — Dan Nguyen thesis)
-- Remote professional services (digital agency, subscription service, SaaS-adjacent)
-- Home services with strong systems — cleaning, landscaping (Will's ops, Elena's PM)
-- Any business that needs: process automation (Will) + financial oversight (Elena) + remote manageability
-
-**Hard constraint:** Must be remote-manageable. Elena's ideal owner experience = absentee/flexible. Physical location dependency is a dealbreaker unless a strong operator is in place from day 1.
 
 ---
 
@@ -130,19 +57,6 @@ Vision-boarding for business ownership. Answer before you start searching — de
 - Which businesses appeal most based on your goals, knowledge, and skill set?
 - Are you after one business or many?
 - How much do you want to work in the business?
-
-**Will's Ideal Owner Experience** *(completed May 21, 2026)*
-
-- **Win condition:** Business generating >$101k/year in cash flow — surpassing Amazon total comp. Sustain 6 months → leave Amazon.
-- **Impact on life:** Financial independence from W-2. Leaves Amazon + Tempe late 2027. Gives Elena flexibility to reduce engineering hours if she wants.
-- **What might get in the way:** Promotion window at Amazon (Q3–Q4 2026 bandwidth crunch). New operator learning curve. Time — both Will and Elena working full-time during acquisition. Mitigation: keep deal simple (no turnaround), Elena handles ops, Will handles systems/AI.
-- **Geographic region:** Arizona preferred (familiar market, CPA law researched). Remote manageable is mandatory — no business where physical presence is required every day.
-- **Sectors with unfair advantage:** Tech-enabled services, bookkeeping/professional services (AI angle), home services with strong ops (Will's supply chain + automation). Anything that can be systematized.
-- **Where Will adds most value:** AI/automation layer post-acquisition, process design, ops efficiency, sourcing.
-- **What to learn:** Broker relationships, due diligence process, SBA financing mechanics, operator management. (3-month learn phase active May–August 2026.)
-- **Size:** $252k–$504k purchase price. $126k minimum annual cash flow.
-- **One business or many:** One first. Platform add-on possible after year 1 stable.
-- **Work in the business:** 5–10 hrs/week (Will). 20–25 hrs/week (Elena as operator). Goal: semi-absentee within 12 months.
 
 ---
 
@@ -180,54 +94,6 @@ Vision-boarding for business ownership. Answer before you start searching — de
 - Motivated seller — not just max price
 - Owner not operator — hire someone to run it
 - Needs $300k–$350k profit (to pay $120k salary + $100k operator + cushion)
-
-**Will's Deal Box** *(completed May 21, 2026)*
-
-**Household income context:** Will $101k + Elena $113.5k = $214.5k combined. Elena could scale to 20 hrs/week once business is stable.
-
-**Phase 1 — Acquisition target (Elena stays full-time, operates on the side):**
-
-| Input | Value | Notes |
-|---|---|---|
-| Target Income | $101k | Will's comp to surpass |
-| Operator Salary | $0 | Elena as operator, keeps W-2 |
-| Target Business Cash Flow | $101k | |
-| Debt Service (CF × 0.25) | $25k | |
-| **Total CF Needed** | **$126k** | |
-| **Min Purchase Price** | **$252k** | CF × 2 |
-| **Max Purchase Price** | **$504k** | CF × 4 |
-
-Down payment: 10% SBA on $504k = $50k. $70k capital → $20k reserve. Feasible.
-
-**Phase 2 — Scale target (Elena drops to 20 hrs/week, ~$57k lost income):**
-
-| Input | Value | Notes |
-|---|---|---|
-| Target Income | $101k | Will's comp |
-| Elena's lost income | $57k | ~50% of $113.5k |
-| Operator Salary | $0 | Elena still the operator |
-| Target Business Cash Flow | $158k | |
-| Debt Service (CF × 0.25) | $40k | |
-| **Total CF Needed** | **$198k** | |
-| **Min Purchase Price** | **$396k** | CF × 2 |
-| **Max Purchase Price** | **$792k** | CF × 4 |
-
-Phase 2 doesn't require a different acquisition — it's the same business needing to grow into $198k CF before Elena scales back. Buy in Phase 1 range, grow into Phase 2 range.
-
-**Deal Box dimensions (active — Phase 1):**
-- **Price range:** $252k–$504k
-- **Revenue range:** ~$335k–$670k (assuming ≥30% margin)
-- **Profit (SDE) floor:** $126k minimum; $150k+ preferred
-- **Margin floor:** 30%+ (pass on anything <30%)
-- **Sectors:** Tech-enabled services, professional services (bookkeeping/admin), home services with strong ops, remote-manageable subscription services
-- **Hard pass sectors:** Restaurants, retail inventory, daily-physical-presence requirements
-- **Seller type:** Motivated (7 Ds) — retirement, burnout, health. Not a price-maximizer.
-- **Geographic:** Arizona first. Remote manageable mandatory.
-- **Scale:** One business. Not a portfolio play yet.
-- **Operator model:** Elena (20–25 hrs/week), Will (5–10 hrs/week). No outside operator hire.
-- **Multiple:** ≤4× SDE. Prefer 2–3×.
-- **Down payment:** $25k–$50k (10–15% SBA). $70k total — keep ≥$20k reserve.
-- **Financing:** SBA 7(a) + seller carry. Revenue protection clause in seller note.
 
 **Key rule:** Keep the Deal Box narrow when starting. One sector, one city. Narrow wins.
 
@@ -340,7 +206,7 @@ Total runway: ~24 months from start to stable asset.
 1. **Direct outreach to owners** — cold email/call. Highest margin deals because no broker = no 10% commission baked into the price. Most competitive because it requires the most work.
 2. **Broker relationships** — BizBuySell, Acquire.com, regional brokers. Most inventory. Deals are listed = competitive = pay a premium. But brokers can also bring you off-market deals if you're a known buyer.
 3. **Referrals from accountants + attorneys** — CPAs and business lawyers know who wants to sell before anyone else does. Warm = less competition.
-4. **Inbound** — build a brand (newsletter, social, podcast) that attracts sellers. Long-term play, not Will's entry path.
+4. **Inbound** — build a brand (newsletter, social, podcast) that attracts sellers. Long-term play.
 
 ---
 
@@ -389,20 +255,3 @@ SDE of $80k → Net after debt service: $41,600 → CoC return on $30k: 138%
 - **Your job is to be the most certain buyer in the room.** Not the highest — the most certain.
 - **Don't fall in love with the business.** Fall in love with the numbers. The story is the seller's job; the math is yours.
 - **Every NO is research.** Rejected LOIs tell you where your offer is miscalibrated.
-
----
-
-## Application to Will
-
-**Strengths as a buyer:**
-- Supply chain / ops background = credibility with operators
-- $70k in real capital = serious, not aspirational
-- 10–15 hr/week realistic with semi-absentee target
-- Elena as co-operator = bandwidth + accountability
-
-**Risks to manage:**
-- Learn phase: don't rush to submit LOIs before the 3-month learn window closes
-- Semi-absentee requires a manager — don't buy a business where the seller IS the manager with no succession plan
-- Phoenix → Dallas move in 2027: anything physical must be manageable remotely or sellable before the move
-
-**Current positioning:** Will is in month 1 of the Learn phase. Read, study, evaluate mock deals with `/deal-eval`, build sourcing relationships. First real LOI window opens ~August 2026.
