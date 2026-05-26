@@ -21,5 +21,5 @@ Q2 quests set · Work main: deal-ready by Aug · Life main: become my own point 
 11. Schedule Pre-Cana — still open
 
 ## Money
-12. **Set 401k to 4%** (full match, free the rest) — redirect freed cash to the acquisition fund
+12. ~~Set 401k to 4%~~ DONE (May 25) — full match captured; freed cash → acquisition fund
 13. **Max the Roth IRA via your $2k/mo** (~$583/mo, contributions stay withdrawable); open/fund the HSA modestly

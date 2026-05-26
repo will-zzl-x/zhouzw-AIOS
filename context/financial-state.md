@@ -24,8 +24,10 @@ Last updated: May 25, 2026
 
 ## Allocations
 
-- $2k/month recurring (breakdown TBD — update when known)
+- 401k: **4% pre-tax** (set May 25) — captures full employer match (50% of first 4% ≈ $2,020/yr); intentionally minimal beyond the match (liquidity-first for the acquisition)
+- $2k/month → acquisition fund; max the Roth IRA *through* this allocation (~$583/mo, contributions stay withdrawable), remainder to the taxable acquisition fund
 - $305/month auto-transfer to wedding savings
+- HSA: employer contribution + modest personal add (build toward max post-acquisition)
 
 ## Wedding Budget
 
