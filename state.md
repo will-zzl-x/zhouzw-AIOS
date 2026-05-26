@@ -6,6 +6,8 @@
 - **Side:** ship promo doc (~Jun 30) · execute the cut through Jul 11 · friend touchpoint every 2 wks.
 - **Wheel low axis (the focus):** Joy 4, Heart 5 — winning on paper, not feeling it. The Life quest targets the root.
 
+Phase: **NYC Cut** — May 17 – Jul 11 (daily gates by weekday/weekend in `daily-standard.md`)
+
 ## Daily Loop
 - **Todoist daily brief live.** GitHub Actions runs the morning brief at 7am AZ (14:00 UTC) → 3–5 tasks to Todoist "AIOS Daily"; evening archive at 9pm AZ (04:00 UTC) writes completions to `journals/daily-log.md`. Workflows: `.github/workflows/morning-brief.yml` + `evening-archive.yml`. Secrets in GitHub repo settings (ANTHROPIC_API_KEY, TODOIST_API_KEY). Migrated off GCP Cloud Functions/Scheduler — old `cloud/morning-brief/` retained as source but no longer the trigger. Source of truth for "what should I do today" is Todoist.
 - **Security note:** Anthropic + Todoist keys rotated; two exposed GitHub PATs revoked. Resolved May 25.

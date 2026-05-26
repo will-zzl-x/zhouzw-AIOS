@@ -19,6 +19,8 @@ Updated each time a phase changes or a quarterly review runs.
 
 ## Phase Definitions
 
+**CURRENT PHASE: NYC Cut (May 17 – Jul 11)** — use the "NYC Cut — Work Days / Weekends" gates below. The Vacation and Maintenance blocks are past; kept only as templates for future phases.
+
 ### Vacation / Travel (e.g., Destin May 7–11)
 Amazon work: off-limits.
 Done when:
