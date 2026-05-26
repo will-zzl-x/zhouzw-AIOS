@@ -12,6 +12,7 @@ FILES = {
     "state": "state.md",
     "daily_standard": "context/daily-standard.md",
     "dashboard": "dashboard.md",
+    "daily_log": "journals/daily-log.md",
 }
 
 

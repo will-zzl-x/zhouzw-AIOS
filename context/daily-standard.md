@@ -79,6 +79,12 @@ From `goals/desire-polarity.md` — frame-keepers, not tasks:
 - Be fully present when it's real — phone gone, no narrating
 - It's slow on purpose; wanting a faster lever is the cue to hold the line
 
+**Sufficiency cues (Joy anchor — same rotation, un-scored):**
+- What's already enough right now?
+- You enjoyed the win — now let the baseline be calm, not "not enough"
+- Savor one thing fully today, with no productivity attached
+- Worth isn't the scoreboard; you're allowed to feel fine at rest
+
 ---
 
 ## Done Threshold

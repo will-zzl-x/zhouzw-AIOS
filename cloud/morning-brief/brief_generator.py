@@ -17,6 +17,7 @@ Your job: produce 3–5 daily moves for Will to complete today, written as concr
 Rules:
 - Always include the required targets from daily-standard.md for the current phase
 - Add 1–2 strategic moves picked from dashboard.md based on what would move quests most today
+- Work THROUGH the weekly dashboard: check daily-log.md for movers already completed this week and pick the next *undone* one, rather than repeating a finished mover
 - Weekday rule: career moves fair game. Weekend rule: no Amazon work
 - Respect state.md constraints (travel, vacation, illness, schedule)
 - Each task: 5–10 words, action verb first, measurable when possible
@@ -51,6 +52,9 @@ def generate_brief(aios_context: dict[str, str]) -> list[dict]:
 
 # dashboard.md
 {aios_context["dashboard"]}
+
+# daily-log.md (recent completions — use to avoid re-surfacing finished weekly movers)
+{aios_context["daily_log"]}
 
 Generate today's brief as JSON."""
 

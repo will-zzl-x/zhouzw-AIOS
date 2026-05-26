@@ -8,6 +8,18 @@ Authorities: `references/perel.md`, `references/schnarch.md` (Gottman as guardra
 
 ---
 
+## This is your point-of-origin work — bigger than the bedroom *(added May 25 quarterly review)*
+
+The Life main quest is "become my own point of origin." Desire is just the *loudest* place the problem shows up — the same root (**worth pinned to the scoreboard**) runs the whole life: the promo you'll win and not feel, the net worth that's still "not enough," the weigh-in. So the core move generalizes:
+
+- **Kill the scoreboard everywhere, not just with Elena.** Catch the moment you reach for the external hit — a win, approval, a metric, her response — and redirect to your own internal reference ("is this who I want to be?"). Every catch-and-redirect is one rep. A muscle built by reps, not insight.
+- **Enjoying real wins is healthy — that's not the problem.** Feeling great about the raise is exactly right. The work is the *chronic baseline* "not enough" that returns once the hit fades — not the celebration.
+- **The Joy anchor (un-scored, on purpose):** once a day, anchored to something you already do (post-workout, sitting down to dinner, end of day), take ~30 seconds to register what's *already enough* right now — or savor one good thing fully. **Never track or grade it.** The instant you score it, you've rebuilt the scoreboard. The morning brief nudges it; whether you did it is nobody's metric.
+- **Decide from your own center.** The decisiveness gap is the action side — make a call and move without polling for approval. Self-validation in motion.
+- **Consider real human support.** Worth wired to external validation usually has deep roots; a differentiation (Schnarch/Crucible) or ACT therapist is a force-multiplier on the *source*, not a fallback.
+
+---
+
 ## Field Guide (the actionable version)
 
 ### DO
