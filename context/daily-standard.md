@@ -11,7 +11,7 @@ Updated each time a phase changes or a quarterly review runs.
 |-------|-------------|
 | **Business acquisition (Work/Income)** | Learn-phase reps: Saturday deliberate deal-eval (1–2 listings → three-question test → `/deal-eval` → log the gaps); one broker / known-buyer contact; build SBA + SDE literacy. Buying is **not** a learn-phase activity. See `goals/acquisition.md`. |
 | NYC Cut — execute clean through Jul 11 (Fitness) | 150g protein daily; training 3x/week; 10k steps/day; ~1,820 cal (BMR floor) in deficit phase; track in **Cronometer** |
-| Desire-polarity / differentiation (Relationship) | Lock the recurring solo-pursuit night; keep gravity (cut, friendships, own interests) visible not narrated. See `goals/desire-polarity.md`. |
+| Desire-polarity / differentiation (Relationship) | **Solo-pursuit keystone: Friday 7 AM No-Gi BJJ (Flow MMA), 1×/wk.** Keep gravity (cut, friendships, own interests) visible not narrated. Weekly 3-question check in the reflection. See `goals/desire-polarity.md`. |
 
 **Career/Amazon — maintenance, not a tracked quest.** Ship the promo doc + manager-align, then maintain. **SCM II behavior-logging is retired** — measure promotion by real deliverables (promo doc shipped, escalation scraper finished), not weekly behavior counts. Leaving Amazon late 2027; acquisition is the actual exit vehicle.
 
@@ -61,7 +61,23 @@ Done when:
 3. **Steps** — ≥ 10,000
 4. **Acquisition (Saturday keystone)** — the deliberate deal-eval rep (1–2 listings through the framework)
 
-**Relationship keystones (weekly, surfaced as movers — kept off the daily 3-gate so they don't compete with side work):** lock + run the solo-pursuit night; intentional, non-logistical time with Elena.
+**Relationship keystone (weekly, surfaced as a mover — kept off the daily 3-gate so it doesn't compete with side work):** **Friday 7 AM No-Gi BJJ (Flow MMA)** — the locked solo-pursuit, 1×/wk through the cut. Plus intentional, non-logistical time with Elena.
+
+**Cut training structure (Path A — leaning out is priority):** keep 6× Ravage; Friday BJJ is the 1× combat keystone. Don't stack lift + combat same day; don't calorie-account the combat — hold food steady, let the 7-day rolling avg steer, watch the Larsen canary. Thursday Muay Thai (2nd combat day) ramps post-Jul-11.
+
+---
+
+## Differentiation Cues (morning brief rotates one in a few mornings/week)
+
+From `goals/desire-polarity.md` — frame-keepers, not tasks:
+- The lever is you, not her — build yourself, let desire follow
+- Take small space without explaining it
+- Don't grade or score — out loud or in your head
+- Don't over-pursue when you feel the gap; redirect into your own thing
+- Desire needs distance; love needs closeness — a marriage holds both
+- Gravity compounds; manipulation decays
+- Be fully present when it's real — phone gone, no narrating
+- It's slow on purpose; wanting a faster lever is the cue to hold the line
 
 ---
 

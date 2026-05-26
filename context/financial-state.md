@@ -1,6 +1,6 @@
 # Financial State
 
-Last updated: May 3, 2026
+Last updated: May 25, 2026
 
 ## Income
 
@@ -39,24 +39,25 @@ Last updated: May 3, 2026
 
 ## Business Acquisition — Deal Box
 
+**Canonical source: `context/acquisition.md`** (full Deal Box, Paths A/B, hard filters, Zone of Genius, Ideal Owner Experience). Summary below is kept in sync — if they ever disagree, `acquisition.md` wins.
+
 ### Capital
 
-- Available: $70k (Will's S&ME fund)
-- Financing: SBA 7(a) preferred + open to seller financing
-- Target down payment: $50–70k (10–20% of deal)
-- Target acquisition price: **$200k–$500k**
+- Available: $70k (Will's S&ME fund) + $2k/mo contributions; keep ≥$20k reserve post-close
+- Financing: SBA 7(a) + seller carry preferred
+- Target down payment: $25–50k (10–15% of deal)
+- Target acquisition price (Phase 1): **$252k–$504k**
 
 ### Return Targets
 
-- Target SDE/cash flow: **$80k–$200k/year**
-- Target acquisition multiple: 2–3× SDE (Codie Sanchez framework)
-- Minimum cash-on-cash return: 20%+ after debt service
+- Cash-flow floor (Phase 1): **$126k/yr** total CF (Will's $101k income replacement + ~$25k debt service). Phase 2 (Elena scales back ~20 hr/week): grow into **$198k** CF.
+- SDE floor: $126k; net margin ≥30%
+- Target multiple: ≤4× SDE, prefer 2–3×
 
 ### Operator Model
 
-- **Semi-absentee** — hired manager runs day-to-day
-- Will's time budget: 10–15 hr/week
-- Elena: confirmed co-operator (operational capacity, not domain-specific)
+- **End state: truly absentee** (quarterly check-in), not just semi-absentee. Path A (service business, Elena operates yr 1 → manager hire yr 2) is primary; Path B (digital, absentee from day 1) is a parallel second track.
+- Will's time budget: 5–10 hr/week; Elena 20–25 hr/week as operator (Phase 1)
 - Not buying a full-time job
 
 ### Location Preference

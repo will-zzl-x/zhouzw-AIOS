@@ -1,25 +1,25 @@
 # Dashboard — Week of May 25, 2026
-NYC Cut Wk2 | Promo doc drafted → in review | Hotel block 10/35 OOT
+Q2 quests set · Work main: deal-ready by Aug · Life main: become my own point of origin · Cut Wk2
 
-## Career (maintenance — no longer the main quest)
-1. **Promo doc: final review pass → manager alignment** — it's drafted, close it out
-2. Escalation scraper — build out the escalation-identifier logic on the work laptop
+## Career / Income (Work Main Quest = acquisition; Amazon = maintenance)
+1. **Promo doc: final review → manager-align (~Jun 30)** — first sprint, hard deadline, then done
+2. **Saturday acquisition rep:** 1–2 listings → three-question test → `/deal-eval` → log the gaps (practice, not shopping)
+3. One broker / known-buyer contact — sourcing warms slowest, start now
 
-## Fitness
-4. **NYC Cut Wk2: let the scale steer** — don't chase 1,820; add steps before cutting cals if it stalls
-5. **Start capturing sleep data** — the open gap from Wk1
-6. Ravage Wk2 — hold loads, Larsen Press as the canary (Sun May 24 Legs B logged)
+## Fitness (cut — leaning out is the priority)
+4. **NYC Cut Wk2: let the scale steer** — hold ~1,820; add steps before cutting cals if it stalls
+5. **Start capturing sleep data** — the open gap (and Thursday bedtime now matters for Fri-AM BJJ)
+6. 6× Ravage held; Larsen Press = the canary (combat is not calorie-accounted)
 
-## Relationships
-7. **Lock the solo pursuit night** — MMA or bachata, just decide (slipped 2 weeks)
-8. **Call Sahil** — voice memo or call (slipped 2 weeks)
-9. Protect the separate pursuits with Elena — that's the differentiation that closed the gap this week
+## Relationships (Life Main Quest = become my own point of origin)
+7. **Friday 7 AM BJJ — book the free trial, run session 1** (the locked keystone; replaces the Fri Bro day)
+8. **3-question differentiation check** in Sunday's reflection — measure inputs, never score the night or Elena
+9. **Call Sahil** + one friend touchpoint (slipped 2 weeks)
 
 ## Wedding
-10. **Hotel block: chase the pending hotel + open 2–3 new ones** — 10/35 won't close itself
-11. Schedule Pre-Cana — open since last week
+10. **Hotel block: chase the pending hotel + open 2–3 more** — 10/35 OOT won't close itself
+11. Schedule Pre-Cana — still open
 
-## Money / Acquisition (work/income main quest)
-12. **Saturday rep:** 1–2 listings → three-question test → `/deal-eval` → log what you couldn't answer (practice, not shopping)
-13. One broker contact / known-buyer signal — sourcing takes longest to warm, start now
-14. ~~Verify PATs revoked + keys rotated~~ DONE — resolved May 25
+## Money
+12. **Set 401k to 4%** (full match, free the rest) — redirect freed cash to the acquisition fund
+13. **Max the Roth IRA via your $2k/mo** (~$583/mo, contributions stay withdrawable); open/fund the HSA modestly

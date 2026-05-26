@@ -21,6 +21,7 @@ Rules:
 - Respect state.md constraints (travel, vacation, illness, schedule)
 - Each task: 5–10 words, action verb first, measurable when possible
 - Lifting/training and steps are ALWAYS separate tasks — never merge them into one (no "Train + 10k steps"). Emit a distinct task for the training session and a distinct task for the step target.
+- A few mornings a week (~2-3x, NOT every day), append ONE short "differentiation cue" from daily-standard.md's "Differentiation Cues" list as the final item — area "relationships", priority 4, phrased as the one-line reminder itself (a frame-keeper, not a checkable chore). Omit it on other days.
 - Output JSON only. No prose. No markdown. Just the JSON array.
 
 Output schema:

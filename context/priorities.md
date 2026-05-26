@@ -1,84 +1,43 @@
-# Current Quarter — Q2 2026 (April–June)
+# Current Quarter — Q2 2026 (set in the May 25 quarterly review)
+
+Full review: `archives/2026-Q2-quarterly-review.md`. Quests below; one Work main, one Life main, side quests.
 
 ## Priority Framework
 
 Two lenses, both matter:
 
-**Strategic priority** (highest stakes, tightest deadline):
-Career first. SCM II promotion window is Q3–Q4 2026 — this quarter is the prep window. The behaviors that get you promoted need to be visible now.
+**Strategic priority** (the exit vehicle): the **acquisition Learn phase**. Career at Amazon is now *maintenance* — ship the promo doc (hard near-term deadline), then maintain. SCM II behavior-logging is retired. Leaving Amazon late 2027; the acquisition is what funds the exit.
 
-**Life satisfaction priority** (daily quality of life):
-Fitness consistency and relationship quality first. Missing Ravage sessions or letting the cut slip has immediate, daily impact. Career slipping Q3→Q4 does not.
+**Life satisfaction priority** (daily quality of life + the thing the wheel flagged): fitness consistency, relationship quality, and the **internal/self-validation work**. The quarterly review surfaced the real gap — winning on paper, not feeling it (Joy 4, Heart 5). The Life quest targets that root.
 
 **EA mode rule by time block:**
-- Weekdays: Work Main Quest (Amazon promo + acquisition) fair game alongside fitness and relationship
+- Weekdays: promo-doc sprint + acquisition reps fair game alongside fitness/relationship
 - Weekends: acquisition/listing review + fitness/relationship movers — not Amazon work
 
 ---
 
-## Q2 Quests
+## Q2/Q3 Quests
 
-### Work Main Quest — "Build the Platform"
-**Win condition (Amazon):** 5–7 LP-aligned stories with quantified impact (% reduction, $ saved, scope), reviewed by 2 cross-functional partners who'd advocate, manager-aligned by June 30.
-**Win condition (Acquisition):** Saturday listing review cadence locked, 10+ listings reviewed by June 30, 1 real broker conversation initiated, LOI template drafted.
-**Major moves:**
-1. Advance promo doc — write LP-aligned stories with metrics, manager-aligned by June 30
-2. Saturday afternoon listing review cadence locked (1 hr/week)
-3. 10+ listings reviewed by June 30
-4. 1 real broker conversation initiated
-5. LOI template drafted
-**Framework:** Codie Sanchez Level 1. See `context/acquisition.md` and `references/sanchez.md`.
+### Work Main Quest — "Deal-Ready by August"
+**Win condition:** exit Codie's 3-month Learn phase deal-ready by Aug 31 — 12+ listings run through the full framework (three-question test → `/deal-eval`, logged), 2+ real broker/known-buyer conversations, LOI template drafted + one SBA pre-qual conversation.
+**Major moves:** Saturday deliberate-rep cadence (1–2 listings → framework → log the gaps); one broker/known-buyer contact; build SBA + SDE literacy.
+**Framework:** Codie Sanchez 3/9/12 — Learn (now→Aug) → Find+Close (~Aug 2026–May 2027) → Stabilize (12 mo post-close). See `goals/acquisition.md`, `context/acquisition.md`, `references/sanchez.md`.
 
-### Fitness — "Execute the NYC Cut"
-**Win condition:** Execute cut phase clean May 17 – Jul 11. Stabilized at end-cut weight ± 1 lb through NYC trip (Jul 30–Aug 5). Ravage 4x/week minimum, no >10% strength regression on main lifts, protein ≥150g daily logged.
-**Longer-term target:** 168 lb by suit fitting for wedding (Oct 22, 2027) — not a Q2 deadline.
+### Life Main Quest — "Become My Own Point of Origin"
+**Win condition (behaviors, never feelings):** solo-pursuit keystone (Friday 7 AM No-Gi BJJ) run 8+ of ~13 weeks; weekly differentiation self-check logged in ≥10 reflections; self-soothe via `/mid-week-capture` instead of venting/grading.
+**Why:** the root under Joy 4, Heart 5, and the desire gap — worth pinned to the scoreboard. More achievement won't touch it. Measure inputs, refuse to score outputs.
+**Playbook:** `goals/desire-polarity.md` only — no new frameworks (act, don't consume).
 
-**Phase plan:**
-| Phase | Dates | Calories | Target |
-|---|---|---|---|
-| Aggressive Cut | May 17 – Jul 11 | ~1,820 (at BMR floor) | As low as possible before NYC |
-| Reverse + Maintain | Jul 12 – Jul 29 | +250/wk → maintenance, then hold | Stabilize at end-cut weight |
-| NYC Trip | Jul 30 – Aug 5 | Loose maintenance | Damage control |
+### Fitness — "Execute the NYC Cut" (side quest, in motion)
+**Win condition:** cut clean May 17 – Jul 11 at ~1,820 cal; lean mass preserved; no >10% main-lift regression (Larsen canary); protein ≥150g logged in **Cronometer**. Start capturing sleep data.
+**Training (cut version, Path A — leaning out is priority):** keep **6× Ravage**; add **1× Friday 7 AM BJJ** (the keystone). Combat is *not* a fat-loss tool (high fatigue per calorie) and not calorie-accounted — hold food steady, let the 7-day rolling avg steer, watch the canary. 2nd combat day (Thu Muay Thai) ramps **post-Jul-11**.
+**Hard floor:** 168 lb. **Refeed trigger:** 7-day rolling avg ≤176 → one refeed day/week.
 
-**Hard floor:** 168 lb. Do not cut below this — aligns with 12% BF lower bound per GVS (hunger spikes, sleep disrupts, hormonal risk).
-**Operating range:** 168–181 lb (12–20% BF).
+### Promo Doc — "Close It Out" (side quest, hard deadline)
+**Win condition:** promo doc final review → manager-aligned by ~June 30. First sprint of the quarter, then maintain. No more SCM II behavior-logging.
 
-**Deficit protocol (Schofield):** Target ~1,820 cal (BMR floor). At 20%+ BF this is aggressive but within framework.
-- Main lifts drop >10% → come up to ~2,000 cal immediately — muscle is going
-- Sleep degrades (waking at night) → come up — hormonal signal
-- 7-day rolling avg ≤176 lb → add one refeed day/week (maintenance cals, fat ≤40g, carbs 350g+); align with heaviest Ravage session
-- Scale stalls + not hungry → tighten tracking accuracy before adjusting calories
-- Never go below 1,820 — increase steps/NEAT if more deficit needed
-
-**Reverse diet (Jul 12+):** Add ~250 cal/week until at maintenance. Expect 2–3 lb water/glycogen regain — normal, not fat.
-
-**NYC eating rule:** Skip bread basket OR dessert/alcohol per meal — pick one. Don't track strictly.
-
-**Tracking:** 7-day rolling average weight, not daily. Operating range: 168–181 lb (12–20% BF).
-
-### Relationships — "Court Elena"
-**Win condition:** Architecture date 1x/month, solo pursuit (MMA or bachata private lessons) on Monday anchor + 1–2 additional nights/week, NYC Cut visibly executed, zero night talks about intimacy.
-**Root cause focus:** Desire follows attraction. Attraction follows visible self-investment + presence. Don't optimize the symptom — execute the root.
-**Moves:**
-1. Architecture date 1x/month — novelty + anticipation outside domestic routine
-2. Monday anchor — MMA or bachata private lesson (solo, not shared). 1–2x/week total. Ravage already counts as his.
-3. NYC Cut executed — Ravage adherence + visible physical change. Self-investment Will does FOR himself, not to display.
-4. Acquisition project — shows competence + momentum. Shared with Elena so not differentiation, but still matters.
-5. Zero night talks about intimacy — hard rule, daylight only. Self-soothe via `/mid-week-capture`, never vent to Elena.
-
-### Friendships — "Stay in the Circle"
-**Win condition:** 1 meaningful touchpoint per week with a close friend (call, voice memo, or in-person) — sustained for 6 weeks by June 30.
-**Major moves:**
-1. Build a short roster (5–8 people) with last-contact date — lives in `/relationship-os`
-2. Weekly Sunday: pick one person, reach out before the week ends
-3. NYC trip — deliberately see at least 1 close friend while there
-
-### Wedding — "Clear the Stack"
-**Win condition:** Virehouse contracted (engagement session included, 8hr min coverage), St. Andrew date locked via phone call, hotel block at 2 price points ($150 + $200 range) by June 30.
-**Open items:**
-- Call St. Andrew — lock Oct 22, 2027 + confirm Pre-Cana process
-- Book Virehouse — contract + engagement session
-- Hotel block — 2 hotels, 10–20 rooms each, 18 months out
+### Friendships — "Stay in the Circle" (side quest)
+**Win condition:** one real touchpoint every 2 weeks with a close friend. Also feeds the differentiation/gravity work.
 
 ---
 
@@ -86,5 +45,5 @@ Fitness consistency and relationship quality first. Missing Ravage sessions or l
 
 | Day type | Fair game |
 |----------|-----------|
-| Weekday | Work Main Quest (Amazon + acquisition), fitness, relationships |
+| Weekday | Promo-doc sprint + acquisition reps, fitness, relationships |
 | Weekend | Acquisition/listing review, fitness, relationships — not Amazon work |

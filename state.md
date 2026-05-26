@@ -1,5 +1,11 @@
 # State — Last updated May 25, 2026
 
+## Quests (Q2 — set in the May 25 quarterly review; full doc `archives/2026-Q2-quarterly-review.md`)
+- **Work main:** Exit Codie's 3-mo acquisition Learn phase deal-ready by Aug 31 (12+ framework reps, 2+ broker contacts, LOI template). `goals/acquisition.md`.
+- **Life main:** Become my own point of origin — self-validation, worth from inside not the scoreboard. Keystone: **Friday 7 AM BJJ**. Measure inputs, never score outputs. `goals/desire-polarity.md`.
+- **Side:** ship promo doc (~Jun 30) · execute the cut through Jul 11 · friend touchpoint every 2 wks.
+- **Wheel low axis (the focus):** Joy 4, Heart 5 — winning on paper, not feeling it. The Life quest targets the root.
+
 ## Daily Loop
 - **Todoist daily brief live.** GitHub Actions runs the morning brief at 7am AZ (14:00 UTC) → 3–5 tasks to Todoist "AIOS Daily"; evening archive at 9pm AZ (04:00 UTC) writes completions to `journals/daily-log.md`. Workflows: `.github/workflows/morning-brief.yml` + `evening-archive.yml`. Secrets in GitHub repo settings (ANTHROPIC_API_KEY, TODOIST_API_KEY). Migrated off GCP Cloud Functions/Scheduler — old `cloud/morning-brief/` retained as source but no longer the trigger. Source of truth for "what should I do today" is Todoist.
 - **Security note:** Anthropic + Todoist keys rotated; two exposed GitHub PATs revoked. Resolved May 25.
@@ -20,11 +26,12 @@
 - Hard floor: 168 lb — do not cut below.
 - Reverse diet: Jul 12–29. NYC maintenance: Jul 30–Aug 5.
 - Program: GVS Ravage Week 5. Neutral Pull-Up trending up (2/2/1 → 3/3/2) but still flagged weak vs. BW+45×5 standard.
+- **Training (Path A — leaning out is priority):** keep 6× Ravage + **1× Friday 7 AM BJJ** as the solo keystone. Combat isn't calorie-accounted (high fatigue per cal) — hold food steady, let the rolling avg steer, watch the Larsen canary. 2nd combat day (Thu Muay Thai) ramps post-Jul-11. Track macros in **Cronometer**.
 - **Gap:** no sleep data flowing — next week's capture. Sun May 24 Legs B logged (manual paste — Liftosaur token expired); no May 25 session recorded yet.
 
 ## Relationships
 - Elena: improving. **Desire gap closed this week** — architecture date happened, intimate once (better than last). Differentiation approach working — keep building the separate self, don't reverse-engineer it into a tactic.
-- Solo pursuit: MMA or bachata 1–2x/week — **night still not locked (slipped 2 weeks).** Lock it or pick something else. Ravage counts as solo separateness.
+- **Solo-pursuit keystone LOCKED: Friday 7 AM No-Gi BJJ (Flow MMA), 1×/wk** (recurring calendar event). The Life main quest — "become my own point of origin" (self-validation, worth from inside not the scoreboard). Weekly 3-question differentiation check in the reflection. See `goals/desire-polarity.md`.
 - Zero night talks about intimacy — hard rule.
 - Friendships: roster seeded (8 people). **Sahil touchpoint still not done (slipped 2 weeks).**
 
