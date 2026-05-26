@@ -14,3 +14,8 @@ Format: ✓ = done, □ = planned/pending
 **2026-05-08 (Fri)** — Vacation / Destin / Birthday
 ✓ Protein ≥ 150g
 □ Legs session
+
+**2026-05-26 (Tue)** — Phase
+□ Log protein 150g and calories in Cronometer
+□ Lock solo pursuit night MMA this week
+□ Chase pending hotel and email two new ones
