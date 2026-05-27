@@ -2,7 +2,7 @@ name: Morning Brief
 
 on:
   schedule:
-    - cron: '30 13 * * *'  # ~6:30 AM Arizona (UTC-7) — buffered before 7am; GitHub cron is best-effort and :00 is the most-delayed slot
+    - cron: '10 13 * * *'  # ~6:10 AM Arizona (UTC-7) — earlier buffer before 7am; off the :00 slot (GitHub's most-delayed)
   workflow_dispatch:        # manual trigger from GitHub Actions UI
 
 jobs:
