@@ -180,7 +180,30 @@ Warm up first — not an interrogation. Weave these in gently:
 - What's a typical day like?
 - **Have you considered selling? How come?**
 - What are you hoping to do next?
-- **What matters most to you — legacy? employees? customers?** (Reveals what the deal must protect.)
+- **What matters most to you — legacy? employees? customers? sale price? reputation?** (Reveals what the deal must protect.)
+
+---
+
+## Selling Yourself to the Seller
+
+The seller is evaluating **you** as much as you're evaluating them — these are small businesses built on blood, sweat, and tears, and most owners want to know their "offspring" goes to a good family. Be ready for "why do you want to buy my business?" with an honest answer (that's what the ZoG / Ideal Owner Experience exercises were for).
+
+- **Getting them to like you is the most underrated move.** We like people like us / who like what we like. Owners want to sell to someone who actually likes the thing they do. Common sense, not common practice.
+- **Lead with how you've *won*, not your duties.** Best predictor of future behavior is past behavior. Share wins, how you've leveraged strengths, and failures you learned from that paid off later. Non-braggy, no PowerPoint — prove an *upward trajectory*. Nobody cares about your job duties; how did you win?
+- **A great-fit buyer gets better terms** — when you're clearly the right person to carry it on, sellers are more willing to negotiate, or even give equity for your skills.
+- **True motivations take time to surface** — nuanced, rarely spelled out. Tease them out with subtlety and EQ across several trust-building conversations (more in negotiations).
+
+---
+
+## The Venmo Challenge — Partial Ownership in ~30 Minutes
+
+Codie's method for securing *partial* ownership of a cash-flowing business you already interact with, for ~$0, via a few conversations:
+
+1. **Open Venmo / your spending** — find the small businesses + service providers you consistently pay (cleaning, property manager, handyman). Gut check: do you actually want to help them grow?
+2. **Tally your monthly spend** with each (e.g., cleaning $2k/mo, property mgr $6.5k/mo, handyman $500/mo).
+3. **Estimate their annual revenue** — research customer volume → rough top line (e.g., $90k / $350k / $800k per year).
+4. **List how you'd add value** — owner desires fall into three buckets: **(1) make more money, (2) do less stuff, (3) do what they do smarter.** Help with any one and you provide real value. Lead with your Zone of Genius (e.g., a cleaning lady with no website/logo/social → you add value via marketing).
+5. **Have a low-key conversation** — curious, not salesy: *"Do you do a lot of this? Any employees? The reason I ask — I sometimes invest in small businesses and help them grow…"* Let it unfold.
 
 ---
 
