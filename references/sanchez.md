@@ -204,6 +204,13 @@ Codie's method for securing *partial* ownership of a cash-flowing business you a
 3. **Estimate their annual revenue** — research customer volume → rough top line (e.g., $90k / $350k / $800k per year).
 4. **List how you'd add value** — owner desires fall into three buckets: **(1) make more money, (2) do less stuff, (3) do what they do smarter.** Help with any one and you provide real value. Lead with your Zone of Genius (e.g., a cleaning lady with no website/logo/social → you add value via marketing).
 5. **Have a low-key conversation** — curious, not salesy: *"Do you do a lot of this? Any employees? The reason I ask — I sometimes invest in small businesses and help them grow…"* Let it unfold.
+6. **Do the growth math** — size the upside (Jane: $300 × 300 cleanings = $90k → $400 × 500 = $200k) and what *you'd* do to get there (e.g., refer 4 more clients/week).
+
+**The deal — sweat equity / distributing equity:** the owner keeps 100% of their existing baseline; **you take ~25% of revenue *above* that baseline** — only the incremental you helped create. (Jane grows $90k → $190k = +$100k; you keep 25% ≈ $25k/yr / ~$2,083/mo; she nets +$75k she wouldn't have had.) You build the systems **at no upfront cost**, get paid monthly once new clients come in, and get visibility into payments (their Venmo, or an automated payment system).
+
+**Why it works:** consultants do this constantly. Win-win — the owner gets growth + a raise they couldn't reach alone; you get a cut of incremental sales with **$0 down and no bankruptcy risk.** Codie used it to earn $8–15k/mo from a podcast-editing company (owner hated sales; clients worth $3k/mo each, she referred them). Same game at every level — solo cleaner to businesses doing millions. It's an exchange of *profit for value*, not a buyout.
+
+**Recap:** (1) Venmo spend — pull 2 months. (2) List all — who you pay, how much, what they do. (3) Desire to own — do you actually want part of it? (4) Owner convo — are they interested in growth/profits? (5) Offer — interpret the results + write your conclusion.
 
 ---
 
