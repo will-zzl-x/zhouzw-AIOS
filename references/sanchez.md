@@ -151,6 +151,39 @@ Off-market channels: lawyers, accountants, real estate agents, chambers of comme
 
 ---
 
+## Seven Ways to Find Motivated Sellers
+
+Pick **one** that fits you / your area and run it — don't do all at once or bounce between shiny tactics. Focus.
+
+1. **Ask the 4A Club** — your **Accountant, Attorney, Agent (real estate), Adviser (financial).** Ask each if they know anyone selling a business in your wheelhouse; then ask friends for *their* 4A contacts. Rinse + repeat monthly with check-ins, and offer a **sourcing fee** for deals they send. *Script: "Just pinging you — I'm still buying businesses. If anyone comes to mind I'd love to pay you a sourcing fee for any deals you send my way."*
+2. **Ask business owners you know** — warm leads (friends) → cold leads (local owners you've bought from). Use the biz-buying script.
+3. **Find intermediaries** — bankers, business brokers, M&A advisers. Crowd-source them: post "looking for a business broker — who's a 10/10?" Often surfaces not just brokers but actual *sellers*.
+4. **Join your local Chamber of Commerce** (uschamber.com/co/chambers) — steeped in local boring businesses; the meetings are dull but full of your target avatar.
+5. *(not yet captured — fill from book)*
+6. *(not yet captured — fill from book)*
+7. **Follow up every 45 days** — ask permission to keep them updated, set a recurring calendar reminder. Top-of-mind without being a pest. Deals can take *years* (one buyer closed a multimillion-dollar deal with an agent first contacted 8 years earlier via consistent CRM check-ins). Weed down to 5–10 contacts who give actionable intel. **Only rule: don't be a taker** — buy the coffee, send the article/meme first.
+
+**Mindset — "find your yoga class":** there are far more motivated sellers than show up online. They don't just want *out* — they want their legacy carried, employees kept, customers served, and a retirement income stream. You're the answer to all of that. Most won't be listed; you go find them.
+
+**The non-negotiable:** this takes **face time and real relationships with owners.** Ideally walk into their business and chat when they're not busy; otherwise call/email. Relationship-building, not a transaction.
+
+---
+
+## Key Questions to Ask an Owner
+
+Warm up first — not an interrogation. Weave these in gently:
+- How did you get started? What inspired this line of work? What were you doing before?
+- What do you love about the industry? Favorite part of running it?
+- If you could do it over, what would you do differently?
+- What's the toughest part of the business?
+- What's the most important thing for customers to know about you?
+- What's a typical day like?
+- **Have you considered selling? How come?**
+- What are you hoping to do next?
+- **What matters most to you — legacy? employees? customers?** (Reveals what the deal must protect.)
+
+---
+
 ## Walking Billboard Strategy
 
 Two inputs that drive all deal flow:
