@@ -35,7 +35,7 @@ Phase: **NYC Cut** — May 17 – Jul 11 (daily gates by weekday/weekend in `dai
 - Elena: improving. **Desire gap closed this week** — architecture date happened, intimate once (better than last). Differentiation approach working — keep building the separate self, don't reverse-engineer it into a tactic.
 - **Solo-pursuit keystone LOCKED: Friday 7 AM No-Gi BJJ (Flow MMA), 1×/wk** (recurring calendar event). The Life main quest — "become my own point of origin" (self-validation, worth from inside not the scoreboard). Weekly 3-question differentiation check in the reflection. See `goals/desire-polarity.md`.
 - Zero night talks about intimacy — hard rule.
-- Friendships: roster seeded (8 people). **Sahil touchpoint still not done (slipped 2 weeks).**
+- Friendships: roster seeded (8 people). **Sahil called ✓ (~May 26). Spencer next** (groomsman). Cadence: 1 real touchpoint / ~2 weeks.
 
 ## Wedding
 - **Contract signed.** Clayton House Elite, Oct 22, 2027, Scottsdale.

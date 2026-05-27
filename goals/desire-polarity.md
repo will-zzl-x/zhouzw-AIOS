@@ -17,6 +17,23 @@ The Life main quest is "become my own point of origin." Desire is just the *loud
 - **The Joy anchor (un-scored, on purpose):** once a day, anchored to something you already do (post-workout, sitting down to dinner, end of day), take ~30 seconds to register what's *already enough* right now — or savor one good thing fully. **Never track or grade it.** The instant you score it, you've rebuilt the scoreboard. The morning brief nudges it; whether you did it is nobody's metric.
 - **Decide from your own center.** The decisiveness gap is the action side — make a call and move without polling for approval. Self-validation in motion.
 - **Consider real human support.** Worth wired to external validation usually has deep roots; a differentiation (Schnarch/Crucible) or ACT therapist is a force-multiplier on the *source*, not a fallback.
+- **Inner-work consult split:** AIOS (`/council-mode` + integrated-coach + this playbook) is the day-to-day coach for reps, processing, and frame; a therapist handles the deep root. Complementary, not either/or.
+
+---
+
+## MRP passive-dread levels ↔ this ladder (de-toxified crosswalk)
+
+Will's drawn to MRP's staged structure — fine. The *passive* levels (1–5) are just "become high-value" and map onto this work. **Passive only — never active dread (jealousy/manufactured competition); that's the manipulation line and a hard anti-goal.**
+
+| MRP passive level | = here | Status |
+|---|---|---|
+| L1 Build frame / pass shit tests | Don't D.E.E.R.; hold your center; decisiveness | Phase 0/1 |
+| L2 Action plan / life in order | The AIOS, quests, GPS docs | Strong |
+| L3 Build a life apart | Friday BJJ, friendships, acquisition, own interests | Building |
+| L4 Condition availability / be busy | Take space without explaining; vary routine | Phase 2 |
+| L5 Upgrade appearance | NYC Cut + Ravage | Strong |
+
+**Cross-cutting translations:** STFU/acta-non-verba = don't narrate, be the change · kill covert contracts = kill the scoreboard · 1000-ft rope = it's slow, don't watch her reaction · *"save a man, not a marriage"* = point of origin — but Will **wants** this marriage, so do the work **for the man** and the marriage thrives as the byproduct (not a transaction to fix her).
 
 ---
 
