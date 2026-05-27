@@ -80,6 +80,11 @@ From `goals/desire-polarity.md` — frame-keepers, not tasks:
 - Gravity compounds; manipulation decays
 - Be fully present when it's real — phone gone, no narrating
 - It's slow on purpose; wanting a faster lever is the cue to hold the line
+- Be the change; don't narrate it — she sees a different man, doesn't hear about one
+- No coins in an unplugged machine — do it because you want it, not for a payout
+- Don't D.E.E.R. (defend, explain, excuse, rationalize) — justifying a decision on demand surrenders it
+- Turn the wheel; the stern follows on a long rope — stop watching the scoreboard
+- Become worth the loss by being genuinely high-value, never by manufacturing jealousy
 
 **Sufficiency cues (Joy anchor — same rotation, un-scored):**
 - What's already enough right now?
