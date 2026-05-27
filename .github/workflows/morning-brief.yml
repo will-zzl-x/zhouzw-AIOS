@@ -3,6 +3,7 @@ name: Morning Brief
 on:
   schedule:
     - cron: '10 13 * * *'  # ~6:10 AM Arizona (UTC-7) — earlier buffer before 7am; off the :00 slot (GitHub's most-delayed)
+    - cron: '40 13 * * *'  # ~6:40 AM Arizona backup — fires if GitHub drops the 6:10 tick (morning_brief clears + regenerates, so a second run is idempotent at this hour)
   workflow_dispatch:        # manual trigger from GitHub Actions UI
 
 jobs:
