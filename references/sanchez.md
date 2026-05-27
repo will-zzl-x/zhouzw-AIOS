@@ -273,6 +273,26 @@ Total runway: ~24 months from start to stable asset.
 
 ---
 
+## Evaluation Essentials — Lisa Song Sutton's "Mailbox Master Class"
+
+A case study in finding, validating, and *learning* a boring business before committing.
+
+**1. Recession-resistant filter:** ask *"what will people buy or use no matter what the market is doing?"* Lisa landed on **postal mailboxes = mini storage units** — tiny ($20/mo for a 6×6×6" box), but hundreds of them = steady recurring revenue. (Self-storage was the same idea, but too capital-heavy / saturated.)
+
+**2. Validate the thesis — operator first, then data.** She asked a friend with UPS pack-and-ship franchises: *"If you could do anything to make your store more profitable, what would it be?"* → **"Add more mailboxes."** Mailboxes are steady, recurring, year-round; shipping is ancillary and seasonal. (Franchises cap boxes; independents can line every wall — "that's the gold.") Then she confirmed with research: postal +5.3%/yr, demand tied to new-business formation, local competitors sold out with waitlists.
+
+**3. The "shadow / trainee" due-diligence move — the standout.** She found a comparable operator (a shipping center doing **$1M/yr in 1,200 sq ft**) and pitched: *"Let me shadow you for 2 weeks, document your whole operation, and deliver you a full set of SOPs. I'll also give you $10,000 and a non-compete in your area."* For two weeks she opened/closed, packed, ran the register + equipment, filled box agreements, sorted mail, and **took notes on everything.** Two payoffs:
+- **Gut-check fit:** "if I hated it behind the counter, I'd know it's not for me." (She loved it.)
+- **Learn to operate before you own:** she left knowing how to hire and run it — "10,000 hours in two weeks" — plus a complete SOP set. A low-risk way to *apply*, not just analyze.
+
+**4. Site + build-out:** target gentrifying neighborhoods with no competition; negotiate reasonable leases. Two locations ran ~**$40k total** to build out (counters, mailboxes, registers, signage, promo, packing) ≈ ~$20k/location.
+
+**5. Match the talent pool to the location:** North LV → military spouses (efficient, built-in shipping network, work-focused); South → ex-Vegas pool waitresses wanting out of the heat. Staffing is location-specific.
+
+**Transfer to acquisition:** Lisa *built* this, but the moves transfer — validate a recurring-revenue thesis with operators + data, and **embed in a comparable business to both confirm you want it and learn to run it before you buy.**
+
+---
+
 ## Evaluation Framework (Codie's Lens)
 
 **The 4 questions that matter:**
