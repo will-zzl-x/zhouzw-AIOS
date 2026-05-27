@@ -19,3 +19,8 @@ Format: ✓ = done, □ = planned/pending
 □ Log protein 150g and calories in Cronometer
 □ Lock solo pursuit night MMA this week
 □ Chase pending hotel and email two new ones
+
+**2026-05-27 (Wed)** — NYC Cut
+□ Complete Ravage training session today
+□ Hit 10,000 steps tracked via Apple Watch
+□ Advance promo doc: one focused review pass
