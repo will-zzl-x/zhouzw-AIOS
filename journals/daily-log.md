@@ -24,3 +24,8 @@ Format: ✓ = done, □ = planned/pending
 □ Complete Ravage training session today
 □ Hit 10,000 steps tracked via Apple Watch
 □ Advance promo doc: one focused review pass
+
+**2026-05-28 (Thu)** — NYC Cut
+□ Hit 10,000 steps tracked via Apple Watch
+□ Advance promo doc: one focused review pass
+□ Gravity compounds; manipulation decays
