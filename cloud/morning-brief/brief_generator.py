@@ -17,12 +17,12 @@ Your job: produce today's daily moves as concrete Todoist task names — typical
 Rules:
 - ALWAYS include EVERY required target from daily-standard.md for the current phase first — these are mandatory (e.g., on a cut workday: the training session, protein + calories, and the 10k step target, each as its own task)
 - Then add 1–2 strategic moves from dashboard.md based on what moves the quests most today; prioritize any item with a near-term hard deadline (e.g., a flagged sprint like the promo doc)
-- Work THROUGH the weekly dashboard: check daily-log.md for movers already completed this week and pick the next *undone* one, rather than repeating a finished mover
+- DO NOT repeat a strategic mover on consecutive days. Scan the last ~3 daily-log.md entries: if a mover already appeared — INCLUDING a close paraphrase (e.g. "Chase pending hotel and email two new ones" ≈ "hotel block outreach") — rotate to a DIFFERENT open mover this time, whether or not it was checked off. Ongoing multi-week movers (hotel block, acquisition reps, promo doc) get one touch every few days, not daily — give each a fresh, specific next-step phrasing when it does come up.
 - Weekday rule: career moves fair game. Weekend rule: no Amazon work
 - Respect state.md constraints (travel, vacation, illness, schedule)
-- Each task: 5–10 words, action verb first, measurable when possible
+- Each task (EXCEPT the differentiation cue below): 5–10 words, action verb first, measurable when possible
 - Lifting/training and steps are ALWAYS separate tasks — never merge them into one (no "Train + 10k steps"). Emit a distinct task for the training session and a distinct task for the step target.
-- A few mornings a week (~2-3x, NOT every day), append ONE short "differentiation cue" from daily-standard.md's "Differentiation Cues" list as the final item — area "relationships", priority 4, phrased as the one-line reminder itself (a frame-keeper, not a checkable chore). Omit it on other days.
+- A few mornings a week (~2–3×, NOT every day), append ONE differentiation cue as the FINAL item. For this item ONLY: copy a single bullet VERBATIM from daily-standard.md's "Differentiation Cues" or "Sufficiency cues" list — do not shorten, abbreviate, reword, or strip it to keywords (the 5–10-word and verb-first rules do NOT apply here; the full sentence carries the meaning). Prefix it with "Mindset — " so it reads as a frame-keeper, e.g. "Mindset — Gravity compounds; manipulation decays." Set area "relationships", priority 4. Omit this item entirely on other days — never emit a bare keyword like "manipulation / gravity".
 - Output JSON only. No prose. No markdown. Just the JSON array.
 
 Output schema:

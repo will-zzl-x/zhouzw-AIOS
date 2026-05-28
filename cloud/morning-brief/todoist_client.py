@@ -2,7 +2,7 @@
 
 import os
 import time
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
 import requests
@@ -80,10 +80,16 @@ def get_today_tasks(project_id: str) -> list[dict]:
 
 
 def get_completed_today(project_id: str) -> list[dict]:
-    """Tasks completed today (Phoenix time)."""
+    """Tasks completed during the Phoenix calendar day.
+
+    Todoist reads since/until as UTC, so we anchor on Phoenix midnight and
+    convert to UTC — otherwise the naive-local window is shifted 7h and
+    evening completions fall outside it (logged as pending, not done)."""
     now = datetime.now(TZ)
-    since = now.replace(hour=0, minute=0, second=0, microsecond=0)
-    until = since + timedelta(days=1)
+    start_local = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    end_local = start_local + timedelta(days=1)
+    since = start_local.astimezone(timezone.utc)
+    until = end_local.astimezone(timezone.utc)
     params = {
         "project_id": project_id,
         "since": since.strftime("%Y-%m-%dT%H:%M:%S"),
