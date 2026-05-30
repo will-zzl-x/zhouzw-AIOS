@@ -37,3 +37,8 @@ Format: ✓ = done, □ = planned/pending
 □ Advance promo doc: one focused review pass
 □ Open and fund HSA with modest first contribution
 □ Mindset — Be the change; don't narrate it — she sees a different man, doesn't hear about one
+
+**2026-05-29 (Fri)** — NYC Cut
+□ Attend Friday 7 AM No-Gi BJJ at Flow MMA
+□ Advance promo doc: one focused review pass
+□ Mindset — Be the change; don't narrate it — she sees a different man, doesn't hear about one
