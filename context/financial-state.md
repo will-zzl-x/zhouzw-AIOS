@@ -43,26 +43,28 @@ Last updated: May 28, 2026
 
 **Canonical source: `context/acquisition.md`** (full Deal Box, Paths A/B, hard filters, Zone of Genius, Ideal Owner Experience). Summary below is kept in sync — if they ever disagree, `acquisition.md` wins.
 
-**Active sequencing (May 31, 2026):** Phase 2-immediate — Elena scales W-2 back to ~20 hr/week **at close** (sequencing trigger #3). Underwriting must support full household income replacement on day 1 — no growth-into-Phase-2 betting.
+**Active sequencing (May 31, 2026):** **Scenario B (Codie-honest)** — Elena scales W-2 to ~20 hr/week **at close** (trigger #3); Year 1 = Will + Elena run semi-absentee; **12-month manager-hire trigger** moves business to truly-absentee Year 2. Underwriting bakes in $55k market-rate operator salary even though Elena is unpaid Year 1.
 
 ### Capital
 
 - Available: $70k (Will's S&ME fund) + $2k/mo contributions; keep ≥$20k reserve post-close
-- Financing: SBA 7(a) + seller carry preferred. Standby seller note unlocks the $550k–$750k stretch range.
+- Financing: SBA 7(a) ~10.5% / 10-yr + seller carry preferred. Standby seller note unlocks the $700k–$1.0M stretch range.
 - Effective down payment: **$50k**
-- Target acquisition price: **$400k–$550k clean / $550k–$750k stretch / $792k hard ceiling**
+- Target acquisition price: **$500k–$700k clean / $700k–$1.0M stretch / $1.0M hard ceiling**
 
 ### Return Targets
 
-- Cash-flow floor: **$198k/yr** total CF ($101k Will income replacement + $57k Elena W-2 replacement + ~$40k debt service)
-- SDE floor: **$198k**; net margin ≥30%; revenue floor ~$660k
+- Pre-debt Business CF floor: **$213k/yr** ($101k Will + $57k Elena + $55k operator)
+- SDE floor: **$286k/yr at $500k price → $367k at $1M** (see acquisition.md price-bound table)
+- Net margin ≥30%; revenue floor **$953k+**
 - Target multiple: ≤4× SDE hard ceiling, prefer 2–3×
 
 ### Operator Model
 
-- **End state: truly absentee** (quarterly check-in), not just semi-absentee. Path A (service business with manager-in-place, Elena scales into operator role at close → progress to manager-only) is primary; Path B (digital, absentee from day 1) is a parallel second track.
-- Will's time budget: 5–10 hr/week; Elena 20–25 hr/week as operator (from close)
-- Not buying a full-time job
+- **End state: truly absentee** (quarterly check-in) by Year 2. Path A (service/professional services with 2–3 staff, Elena Year-1 operator → manager hire at month 12 trigger) is primary; Path B (digital, absentee from day 1) is a parallel second track.
+- Will's time budget: 5–10 hr/week; Elena 20–25 hr/week as Year-1 operator
+- 12-month manager-hire trigger: 90-day continuous-CF test post-close, then $55k manager hired and Elena steps out
+- Not buying a job — if business can't afford $55k operator by month 12, deal failed underwriting
 
 ### Location Preference
 
@@ -93,8 +95,9 @@ Last updated: May 28, 2026
 - Owner-operator only (no path to semi-absentee)
 - Single large customer (>30% revenue concentration)
 - Declining revenue 2+ consecutive years without clear explanation
-- Acquisition price >$792k (hard absolute ceiling regardless of multiple)
-- Net margin <30% or SDE <$198k
+- Acquisition price >$1.0M (hard absolute ceiling regardless of multiple)
+- Net margin <30% or SDE <$286k (scales with deal price; see acquisition.md table)
+- Business can't afford a $55k operator by month 12 (fails "buying a job" test)
 
 ### Mentors for This Domain
 

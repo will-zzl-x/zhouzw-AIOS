@@ -15,17 +15,28 @@ Run a pasted business listing through Will's acquisition filters. Return: go/no-
 
 ## Deal Box (canonical: `context/acquisition.md`)
 
-**Active sequencing (May 31, 2026):** Phase 2-immediate — Elena scales W-2 to ~20 hr/week **at close**. Underwriting must support full household income replacement day 1.
+**Active sequencing (May 31, 2026):** Scenario B Codie-honest — Elena scales W-2 to ~20 hr/week **at close**, Year 1 operator unpaid; 12-month manager-hire trigger ($55k market rate) moves business to truly-absentee Year 2. Underwriting bakes in operator salary so the manager hire is structurally affordable, not a future cash-flow shock.
 
-**Capital:** $70k available; $50k effective down payment; ≥$20k reserve post-close. SBA 7(a) + seller financing preferred; standby seller note unlocks stretch range.
-**Price range:** $400k–$550k clean / $550k–$750k stretch (with standby seller note) / **$792k hard ceiling**.
-**SDE floor:** $198k/year.
-**Revenue floor:** $660k+ (at 30%+ margin).
+**Capital:** $70k available; $50k effective down payment; ≥$20k reserve post-close. SBA 7(a) ~10.5% / 10-yr + seller financing preferred; standby seller note unlocks stretch range.
+**Price range:** $500k–$700k clean / $700k–$1.0M stretch (with standby seller note) / **$1.0M hard ceiling**.
+**Pre-debt CF floor:** $213k/yr ($101k Will + $57k Elena + $55k operator).
+**SDE floor:** **$286k at $500k price → $367k at $1.0M** (price-scaled; pre-debt CF + debt service).
+**Revenue floor:** $953k+ (at 30% margin).
 **Margin floor:** 30%+ — pass below.
 **Multiple:** ≤4× SDE hard ceiling; prefer 2–3×.
-**Operator model:** Elena as operator (~20 hr/week from close). Will 5–10 hr/week. Manager-in-place preferred (verify they hold client relationships, not a labor title).
-**Location:** Arizona preferred. Remote-manageable mandatory before late-2027 move.
+**Operator model:** Year 1 — Elena 20 hr/week, Will 5–10 hr/week, no outside manager. Year 2 — $55k manager hired at month 12 trigger after 90-day continuous-CF test; Elena steps out.
+**Location:** Arizona preferred. Remote-manageable by late-2027 mandatory.
 **Timeline:** Close in 2026 (search/LOI window ~Aug 2026). Stable + remote-manageable by late 2027.
+
+**Price-bound math (SBA 7(a) @ 10.5% / 10-yr / $50k down):**
+
+| Deal price | Loan | Debt service | Required SDE | Multiple |
+|---|---|---|---|---|
+| $500k | $450k | $73k | $286k | 1.75× |
+| $600k | $550k | $89k | $302k | 1.99× |
+| $700k | $650k | $105k | $318k | 2.20× |
+| $800k | $750k | $122k | $335k | 2.39× |
+| $1.0M | $950k | $154k | $367k | 2.72× |
 
 ## Hard Filters (Auto-Disqualify)
 
@@ -35,11 +46,12 @@ Any of these → immediate NO:
 3. Single client >25% revenue concentration
 4. Declining revenue 2+ consecutive years without clear explanation
 5. Acquisition price >4× SDE (hard multiple ceiling)
-6. Acquisition price >$792k (hard absolute ceiling regardless of multiple — cash position binds)
+6. Acquisition price >$1.0M (hard absolute ceiling regardless of multiple — cash position binds)
 7. Net margin <30%
-8. SDE <$198k/year
-9. Requires physical presence from Will or Elena >1×/month (post-2027 move killer)
-10. Owner unwilling to discuss any seller financing
+8. SDE below the price-bound floor (look up in price-bound math table; $286k at $500k → $367k at $1M)
+9. Business can't afford a $55k operator by month 12 — fails "buying a job" test
+10. Requires physical presence from Will or Elena >1×/month (post-2027 move killer)
+11. Owner unwilling to discuss any seller financing
 
 ## Steps
 

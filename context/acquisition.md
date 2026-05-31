@@ -85,9 +85,9 @@ What "winning" looks like — defined before searching so it's recognizable on s
 
 ---
 
-## Current Deal Thesis *(updated May 31, 2026)*
+## Current Deal Thesis *(updated May 31, 2026, Scenario B)*
 
-**Primary:** Recurring B2B service or professional services business with 2–3 existing staff and a real manager-in-place (named, tenured, holds client relationships). **$400k–$550k clean / $550k–$750k stretch with standby seller note.** Elena scales W-2 to ~20 hr/week at close, takes operator role; Will handles systems/AI/strategy.
+**Primary:** Recurring B2B service or professional services business with 2–3 existing staff. **$500k–$700k clean / $700k–$1.0M stretch with standby seller note. Hard ceiling $1.0M.** SDE floor varies with price ($286k at $500k → $367k at $1M); revenue floor $953k+ at 30% margin. Elena scales W-2 to ~20 hr/week at close and runs Year 1 unpaid; manager hired ($55k) at 12-month trigger after 90-day continuous-CF test, moving the business toward truly-absentee in Year 2. Will handles systems/AI/strategy throughout.
 
 **Secondary candidate:** Digital business (content site, newsletter) with stable recurring revenue and diversified traffic. Purely parallel track — don't let it pull focus from the primary.
 
@@ -111,43 +111,58 @@ This is a known constraint — not a dealbreaker, but must be resolved in deal s
 
 ---
 
-## Deal Box *(active — Phase 2-immediate, May 31, 2026)*
+## Deal Box *(active — Scenario B Codie-honest, May 31, 2026)*
 
-**Sequencing decision (May 31, 2026):** Elena scales W-2 back to ~20 hr/week **at close** (trigger #3 — at deal funding, not at search start, not at LOI). Underwriting must support full household income replacement on day 1 of close — no growth-into-Phase-2 betting. Originally Phase 1 was the active box ($252k–$504k, $126k CF) with a plan to grow into Phase 2 before Elena scaled back; that sequencing is retired in favor of underwriting straight to Phase 2 because the bigger SDE businesses tend to have stronger ops/manager structure already in place, which is the actual constraint.
+**Sequencing decision (May 31, 2026):** Elena scales W-2 back to ~20 hr/week **at close** (trigger #3). Will and Elena run Year 1 as semi-absentee operators. **12-month manager-hire trigger** moves the business to truly-absentee in Year 2. Underwriting bakes in market-rate operator salary even though Elena is unpaid Year 1 — so the manager hire is structurally affordable, not a future cash-flow shock.
 
-- **Income target:** $158k/year cash flow ($101k Will income replacement + $57k Elena W-2 lost when she scales to ~20 hr/week at close). Sustain 6 months → Will leaves Amazon W-2.
+**Why this version (vs. earlier "Phase 2-immediate"):** prior version omitted operator salary, which contradicted Codie's Step 3 formula (Min Income + **Operator Salary** = Target Business CF). Recalibrated using Codie-honest math + current SBA rates (10.5% prime+2.75%, 10-yr).
+
+- **Income target:** $158k/yr cash flow to household ($101k Will replacement + $57k Elena W-2 lost). Sustain 6 months → Will leaves Amazon W-2.
+- **Operator salary (baked in):** **$55k/yr** — market rate for a manager covering Elena's 20 hr/week + filling owner-operator gaps. Elena fills the role unpaid Year 1; the line item exists so the Year-2 manager hire doesn't break cash flow.
+- **Target Business CF (pre-debt):** $158k + $55k = **$213k/yr minimum.**
 - **Capital available:** $70k (S&ME fund). Keep ≥$20k reserve post-close. **Effective down payment: $50k.**
-- **Price range (multiple-driven):** **$396k–$792k**
-- **Practical sweet spot (cash-binding):** **$400k–$550k** — clean SBA 10% equity injection structure; covers cleanly with $50k usable.
-- **Stretch range:** **$550k–$750k** — requires standby seller note (SBA SOP 50 10 allows up to half the equity injection to be a full-standby seller note) to cover the equity gap.
-- **Hard ceiling:** **$792k** (multiple-driven; aspirational without extraordinary deal structure).
-- **Revenue floor:** **$660k+** ($198k SDE ÷ 30% margin).
-- **Profit (SDE) floor:** **$198k/year minimum.**
+- **Financing:** SBA 7(a) at ~10.5% / 10-yr. Standby seller note unlocks the stretch range. Revenue protection clause in seller note.
+- **SDE floor:** **$286k/yr minimum** (Target CF + debt service at $500k price; floor scales with deal size, see table below).
+- **Revenue floor:** **$953k+** ($286k SDE ÷ 30% margin) — close to Codie's $1M Level 1 floor.
 - **Multiple:** ≤4× SDE hard ceiling. Prefer 2–3×.
-- **Operator model:** Elena as operator (~20 hr/week, no salary, scales in at close). Will (5–10 hr/week). No outside manager hire pre-close — manager-in-place is preferred but verify they hold the client relationships, not just a labor title.
-- **Financing:** SBA 7(a) + seller carry preferred. Revenue protection clause in seller note. Standby seller note as part of equity injection unlocks $550k–$750k range.
-- **Margin floor:** 30%+ — pass on anything below.
-- **Sectors:** Tech-enabled services, professional services, home services with strong systems. Hard pass: restaurants, retail, daily-physical-presence requirements.
-- **Seller type:** Motivated (7 Ds) — retirement, burnout, health. Not a price-maximizer.
-- **Scale:** One business. Not a portfolio play yet.
-- **Location:** Arizona preferred. Remote manageable is mandatory before late-2027 move.
-- **Hard deadline:** Stable and remote-manageable by late 2027 (pre-move out of Tempe).
+- **Operator model:** Year 1 — Elena 20 hr/week, Will 5–10 hr/week, no outside manager. Year 2 trigger — hire $55k manager once business stabilizes (90-day continuous-CF test post-close); Elena steps out, Will moves to quarterly check-in.
+- **Margin floor:** 30%+ — pass below.
+- **Sectors:** Tech-enabled services, professional services (Dan thesis re-opens here), home services with strong systems. Hard pass: restaurants, retail, daily-physical-presence requirements.
+- **Seller type:** Motivated (7 Ds). Not a price-maximizer.
+- **Scale:** One business.
+- **Location:** Arizona preferred. **Remote-manageable by late 2027 mandatory** — manager hire makes this real.
+- **Hard deadline:** Stable + remote-manageable by late 2027 (pre-move out of Tempe).
 
-**Deal Clarity Math — Phase 2-immediate:**
-- Target Business CF = $101k (Will replacement) + $57k (Elena W-2 lost) = $158k
-- Debt Service = $40k → Total CF Needed = **$198k**
-- Multiple-driven price range: $198k × 2× = $396k floor; $198k × 4× = $792k ceiling
+**Deal Clarity Math — Scenario B (Codie-honest):**
 
-**Cash-binding price reality:**
-| Deal price | SBA 10% equity needed | $50k usable covers? |
+| Codie input | Value | Source |
 |---|---|---|
-| $500k | $50k | yes — exactly |
-| $650k | $65k | $15k short — needs standby seller note |
-| $792k | $79k | $29k short — needs standby seller note + extraordinary structure |
+| Target Income | $158k | Will replacement + Elena W-2 lost |
+| Operator Salary | $55k | Year-2 manager market rate (Elena unpaid Yr 1) |
+| Target Business CF (pre-debt) | $213k | Codie Step 3 formula |
+| Debt Service (varies by price, see table) | $73k–$154k | SBA 7(a) 10.5% / 10-yr |
+| **SDE floor (varies by price)** | **$286k–$367k** | Pre-debt CF + debt service at price |
+
+**Price-bound table (SBA 7(a) @ 10.5% / 10-yr / $50k down):**
+
+| Deal price | Loan | Debt service | Required SDE | Implied multiple |
+|---|---|---|---|---|
+| $500k | $450k | $73k/yr | $286k | 1.75× |
+| $600k | $550k | $89k/yr | $302k | 1.99× |
+| $700k | $650k | $105k/yr | $318k | 2.20× |
+| $800k | $750k | $122k/yr | $335k | 2.39× |
+| $1.0M | $950k | $154k/yr | $367k | 2.72× |
+
+**Practical price ranges:**
+- **Sweet spot $500k–$700k** — clean SBA 10% equity ($50k–$70k); covers with $50k usable + minimal seller carry.
+- **Stretch $700k–$1.0M** — requires standby seller note (SBA SOP 50 10 allows up to half the equity injection from a full-standby seller note) to bridge the equity gap.
+- **Hard ceiling $1.0M** — cash-down binds beyond this regardless of multiple.
 
 **Household income:** Will $101k + Elena $113.5k = $214.5k combined → ~$157.5k after Elena scales back at close.
 
-**Pitch angle the sequencing unlocks:** Elena committing to scale into operator role at close is a real diligence signal for sellers who want the business "in good hands" — co-operator with engineering/program-management background. Use as legitimate value frame in seller conversations, not theater.
+**Pitch angle:** Elena scaling into operator role at close + concrete 12-month manager-transition plan is a real diligence signal for sellers who want the business in good hands and continuity for staff. Co-operator with engineering/program-management background, named transition timeline.
+
+**Hard line:** A deal that requires Elena to operate **beyond** Year 1 because the business can't afford a manager has failed the underwriting. That's the trap Codie's operator-salary line item exists to prevent — buying a job, calling it ownership.
 
 ---
 
@@ -159,10 +174,11 @@ This is a known constraint — not a dealbreaker, but must be resolved in deal s
 4. Requires physical presence from Will or Elena more than 1x/month (post-2027 move killer)
 5. Requires Will or Elena to hold a license (CDL, contractor's license, CPA)
 6. Acquisition price >4× SDE — hard multiple ceiling
-7. Acquisition price >$792k — hard absolute ceiling regardless of multiple (cash position binds)
+7. Acquisition price >$1.0M — hard absolute ceiling regardless of multiple (cash position binds)
 8. Net margin <30%
-9. SDE <$198k/year
-10. Owner unwilling to discuss any seller financing
+9. SDE <$286k/year (price-scaled — $286k @ $500k → $367k @ $1M; see Deal Box price-bound table)
+10. Business cannot afford a $55k market-rate operator/manager hire by month 12 — fails the "buying a job" test
+11. Owner unwilling to discuss any seller financing
 
 ---
 
