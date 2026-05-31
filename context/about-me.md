@@ -2,7 +2,7 @@
 
 ## Who I Am
 
-Will, 25 (b. May 8, 2000). Chandler, AZ. Amazon Supply Chain Manager I (L4) in Tempe. Engaged to Elena. Dog: Koda. Wedding: November 5, 2027 at Clayton House, Scottsdale.
+Will, 25 (b. May 8, 2000). Chandler, AZ. Amazon Supply Chain Manager I (L4) in Tempe. Engaged to Elena. Dog: Koda. Wedding: October 22, 2027 at Clayton House Elite, Scottsdale.
 
 ## Role and Trajectory
 
@@ -18,7 +18,7 @@ Exit plan: leave Amazon and Tempe late 2027. Destination open — Dallas or Chic
 
 **Fitness:** GVS Ravage program, 6x/week target, 4x/week minimum. NYC Cut starts May 17 — target 172 lb / 12.5% BF by July 4. Current: ~181 lb, 18–20% BF.
 
-**Wedding:** Active planning through November 2027. Clayton House Elite selected, contract signed. Open items: hotel room block, photographer, pre-Cana.
+**Wedding:** Active planning through October 2027. Clayton House Elite selected, contract signed. Open items: hotel room block, photographer, pre-Cana.
 
 ## Voice and Communication Style
 
