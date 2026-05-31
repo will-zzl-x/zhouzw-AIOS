@@ -1,25 +1,27 @@
-# Dashboard — Week of May 25, 2026
-Q2 quests set · Work main: deal-ready by Aug · Life main: become my own point of origin · Cut Wk2
+# Dashboard — Week of June 1, 2026
+Q2 quests · Work main: deal-ready by Aug · Life main: become my own point of origin · Cut Wk3
 
 ## Career / Income (Work Main Quest = acquisition; Amazon = maintenance)
 1. **Promo doc: final review → manager-align (~Jun 30)** — first sprint, hard deadline, then done
-2. **Saturday acquisition rep:** 1–2 listings → three-question test → `/deal-eval` → log the gaps (practice, not shopping)
-3. One broker / known-buyer contact — sourcing warms slowest, start now
+2. **Jeff ramp: priority next week** — kick off Mon/Tue, free Will's bandwidth for DOE push
+3. **Mechanism notes are the L5 evidence layer** — protect time for SKED Flex pitch + WEPAY_IMPORTS Matt brief over reactive Mario approvals
 
-## Fitness (cut — leaning out is the priority)
-4. **NYC Cut Wk2: let the scale steer** — hold ~1,820; add steps before cutting cals if it stalls
-5. **Start capturing sleep data** — the open gap (and Thursday bedtime now matters for Fri-AM BJJ)
-6. 6× Ravage held; Larsen Press = the canary (combat is not calorie-accounted)
+## Fitness (cut deadline holds — close gap via steps + cardio, not deficit)
+4. **Step target 12,500/day** (+25% from 10,265 W22 avg)
+5. **Add 2–3× Zone 2 cardio/wk** — 20-min, post-lift fasted or AM
+6. **BJJ trial Friday: book + run session 1** — 2 weeks open; both fitness lever AND Life-quest keystone
+7. **Sunday paste habit:** weight + sessions + steps to `journals/daily-log.md` until pipeline (task #74) builds
 
 ## Relationships (Life Main Quest = become my own point of origin)
-7. **Friday 7 AM BJJ — book the free trial, run session 1** (the locked keystone; replaces the Fri Bro day)
-8. **3-question differentiation check** in Sunday's reflection — measure inputs, never score the night or Elena
-9. **Call Sahil** + one friend touchpoint (slipped 2 weeks)
+8. **Elena: presence under stress-load** — don't reverse-engineer differentiation into a tactic
+9. **Test-plan close-the-loop with Elena** — your call on timing, but the question lives until tested
+10. **Friend cadence anchored** — Spencer ✓, group hang ✓; hold the 2-wk rhythm
+
+## Money / Acquisition (Work Main Quest)
+11. **Mon–Tue: Roland Frazier YouTube + outreach script v2** (value/opportunity frame, closes 13-mo-old action item)
+12. **Wed–Thu: Apify Google Maps scrape + Claude Code lead-enrichment** — bookkeeping/accounting, 20mi Phoenix metro
+13. **Reach out to Dan when 11+12 are done** — Frame B direct, 30-min call request
 
 ## Wedding
-10. **Hotel block: chase the pending hotel + open 2–3 more** — 10/35 OOT won't close itself
-11. Schedule Pre-Cana — still open
-
-## Money
-12. ~~Set 401k to 4%~~ DONE (May 25) — full match captured; freed cash → acquisition fund
-13. **Max the Roth IRA via your $2k/mo** (~$583/mo, contributions stay withdrawable); open/fund the HSA modestly
+14. **Hotel block: chase pending + open 2–3 more** — 25/35 OOT gap won't close itself
+15. **Schedule Pre-Cana**
