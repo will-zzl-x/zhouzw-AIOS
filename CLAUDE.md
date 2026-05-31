@@ -98,9 +98,10 @@ When answering "what should I do" or running `/daily-check`, **read Todoist firs
 | `.claude/settings.json` | MCP server registrations (Gmail, Google Calendar, Playwright, Todoist) |
 | `cloud/morning-brief/` | Google Cloud Function — generates daily Todoist brief 7am AZ, archives completions 9pm AZ |
 
-`state.md` — live model of Will's life. Source of truth.
-`dashboard.md` — human-readable weekly view. 3 movers per life area, 12–15 total. Regenerated each Sunday.
-Drift between `state.md` and `dashboard.md` is a system bug.
+`state.md` — live model of Will's life. Source of truth (narrative).
+`dashboard.md` — weekly view. **Two sections:** `Daily Consistents` (always-on, never rotated by brief) + `Major Moves This Week` (top of backlog, weekly-rotation pool). Regenerated each Sunday by `/weekly-reflection`.
+`backlog.md` — ranked catalog of ALL open strategic moves with `id / # / Title / Area / Status / Gate / Depends-on / Notes`. Multi-week persistence — items roll forward until status flips to `done`. Top-N feeds the morning brief. Sunday `/weekly-reflection` regenerates (archives `done` rows, sorts inbox, re-ranks). Mid-week `/mid-week-capture` appends to Inbox section. Daily consistents do NOT live here — they live in `dashboard.md` `Daily Consistents` section.
+Drift between `state.md` / `dashboard.md` / `backlog.md` is a system bug.
 
 ## Connections
 
