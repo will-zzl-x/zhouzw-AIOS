@@ -42,3 +42,8 @@ Format: ✓ = done, □ = planned/pending
 □ Attend Friday 7 AM No-Gi BJJ at Flow MMA
 □ Advance promo doc: one focused review pass
 □ Mindset — Be the change; don't narrate it — she sees a different man, doesn't hear about one
+
+**2026-05-31 (Sun)** — NYC Cut
+□ Hit 10,000 steps tracked via Apple Watch
+□ Run 1–2 listings through full deal-eval framework
+□ Schedule Pre-Cana: find options, pick a date
