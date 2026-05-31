@@ -6,7 +6,7 @@ Playbook + Deal Box + Paths A/B + filters: `context/acquisition.md` (this doc is
 
 ## G — Goal
 
-**What:** Complete the 3-month learn phase (May–Aug 2026) able to evaluate deals confidently, then close **one truly-absentee-capable business** (~mid-2027). Deal Box: $252k–$504k price, $126k CF floor (Phase 1), credible path to $198k CF so Elena can scale back (Phase 2). Learn-phase output = enough deliberate reps that the filter is instinctive + a live broker/sourcing relationship.
+**What:** Complete the 3-month learn phase (May–Aug 2026) able to evaluate deals confidently, then close **one truly-absentee-capable business** (~mid-2027). Deal Box: **$400k–$550k clean / $550k–$750k stretch / $792k hard ceiling**; **$198k SDE floor**, **$660k+ revenue floor**, 30%+ margin. Phase 2-immediate sequencing — Elena scales W-2 to ~20 hr/week at close. Learn-phase output = enough deliberate reps that the filter is instinctive + a live broker/sourcing relationship.
 
 **Why:** This is the actual exit vehicle from Amazon and Tempe (leaving late 2027). The end state is **truly absentee** — live wherever Will and Elena want, check in on the business quarterly. Not a side hustle; the thing that makes the exit real.
 

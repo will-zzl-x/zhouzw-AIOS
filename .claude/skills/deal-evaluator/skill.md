@@ -13,25 +13,33 @@ Run a pasted business listing through Will's acquisition filters. Return: go/no-
 - `references/hormozi.md` — offer/value lens (if available)
 - `references/sanchez.md` — Codie Sanchez framework (if available)
 
-## Deal Box (from financial-state.md)
+## Deal Box (canonical: `context/acquisition.md`)
 
-**Capital:** $70k available. SBA 7(a) + seller financing acceptable.
-**Price range:** $200k–$500k acquisition price.
-**SDE target:** $80k–$200k/year.
-**Multiple:** 2–3× SDE.
-**Minimum cash-on-cash return:** 20%+ after debt service.
-**Operator model:** Semi-absentee. Manager runs day-to-day. Will's time: 10–15 hr/week.
-**Location:** Remote preferred. Phoenix-area physical acceptable if manageable. Relocatable preferred.
-**Timeline:** Close in 2026. Must be stable/sellable/remotely manageable by late 2027 move.
+**Active sequencing (May 31, 2026):** Phase 2-immediate — Elena scales W-2 to ~20 hr/week **at close**. Underwriting must support full household income replacement day 1.
+
+**Capital:** $70k available; $50k effective down payment; ≥$20k reserve post-close. SBA 7(a) + seller financing preferred; standby seller note unlocks stretch range.
+**Price range:** $400k–$550k clean / $550k–$750k stretch (with standby seller note) / **$792k hard ceiling**.
+**SDE floor:** $198k/year.
+**Revenue floor:** $660k+ (at 30%+ margin).
+**Margin floor:** 30%+ — pass below.
+**Multiple:** ≤4× SDE hard ceiling; prefer 2–3×.
+**Operator model:** Elena as operator (~20 hr/week from close). Will 5–10 hr/week. Manager-in-place preferred (verify they hold client relationships, not a labor title).
+**Location:** Arizona preferred. Remote-manageable mandatory before late-2027 move.
+**Timeline:** Close in 2026 (search/LOI window ~Aug 2026). Stable + remote-manageable by late 2027.
 
 ## Hard Filters (Auto-Disqualify)
 
 Any of these → immediate NO:
-1. Requires owner to hold a license (CDL, contractor, etc.)
-2. Owner-operator only — no clear path to semi-absentee
-3. Single customer >30% revenue concentration
+1. Requires Will or Elena to hold a license (CDL, contractor's, CPA)
+2. Owner sole operator, no staff, full-time — and Elena can't step into the work directly
+3. Single client >25% revenue concentration
 4. Declining revenue 2+ consecutive years without clear explanation
-5. Acquisition price >$500k without exceptional seller financing
+5. Acquisition price >4× SDE (hard multiple ceiling)
+6. Acquisition price >$792k (hard absolute ceiling regardless of multiple — cash position binds)
+7. Net margin <30%
+8. SDE <$198k/year
+9. Requires physical presence from Will or Elena >1×/month (post-2027 move killer)
+10. Owner unwilling to discuss any seller financing
 
 ## Steps
 

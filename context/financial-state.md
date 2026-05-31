@@ -43,23 +43,25 @@ Last updated: May 28, 2026
 
 **Canonical source: `context/acquisition.md`** (full Deal Box, Paths A/B, hard filters, Zone of Genius, Ideal Owner Experience). Summary below is kept in sync — if they ever disagree, `acquisition.md` wins.
 
+**Active sequencing (May 31, 2026):** Phase 2-immediate — Elena scales W-2 back to ~20 hr/week **at close** (sequencing trigger #3). Underwriting must support full household income replacement on day 1 — no growth-into-Phase-2 betting.
+
 ### Capital
 
 - Available: $70k (Will's S&ME fund) + $2k/mo contributions; keep ≥$20k reserve post-close
-- Financing: SBA 7(a) + seller carry preferred
-- Target down payment: $25–50k (10–15% of deal)
-- Target acquisition price (Phase 1): **$252k–$504k**
+- Financing: SBA 7(a) + seller carry preferred. Standby seller note unlocks the $550k–$750k stretch range.
+- Effective down payment: **$50k**
+- Target acquisition price: **$400k–$550k clean / $550k–$750k stretch / $792k hard ceiling**
 
 ### Return Targets
 
-- Cash-flow floor (Phase 1): **$126k/yr** total CF (Will's $101k income replacement + ~$25k debt service). Phase 2 (Elena scales back ~20 hr/week): grow into **$198k** CF.
-- SDE floor: $126k; net margin ≥30%
-- Target multiple: ≤4× SDE, prefer 2–3×
+- Cash-flow floor: **$198k/yr** total CF ($101k Will income replacement + $57k Elena W-2 replacement + ~$40k debt service)
+- SDE floor: **$198k**; net margin ≥30%; revenue floor ~$660k
+- Target multiple: ≤4× SDE hard ceiling, prefer 2–3×
 
 ### Operator Model
 
-- **End state: truly absentee** (quarterly check-in), not just semi-absentee. Path A (service business, Elena operates yr 1 → manager hire yr 2) is primary; Path B (digital, absentee from day 1) is a parallel second track.
-- Will's time budget: 5–10 hr/week; Elena 20–25 hr/week as operator (Phase 1)
+- **End state: truly absentee** (quarterly check-in), not just semi-absentee. Path A (service business with manager-in-place, Elena scales into operator role at close → progress to manager-only) is primary; Path B (digital, absentee from day 1) is a parallel second track.
+- Will's time budget: 5–10 hr/week; Elena 20–25 hr/week as operator (from close)
 - Not buying a full-time job
 
 ### Location Preference
@@ -91,7 +93,8 @@ Last updated: May 28, 2026
 - Owner-operator only (no path to semi-absentee)
 - Single large customer (>30% revenue concentration)
 - Declining revenue 2+ consecutive years without clear explanation
-- Acquisition price >$500k without exceptional seller financing
+- Acquisition price >$792k (hard absolute ceiling regardless of multiple)
+- Net margin <30% or SDE <$198k
 
 ### Mentors for This Domain
 

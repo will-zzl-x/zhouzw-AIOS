@@ -51,8 +51,8 @@ Phase: **NYC Cut** — May 17 – Jul 11 (daily gates by weekday/weekend in `dai
 - $70k earmarked for income-growth investments. Not deployed.
 - $2k/mo recurring allocations.
 - **Acquisition restart:** End of Week 1, Learn phase. Zero listings reviewed. Saturday review cadence active (started May 23). **Now the work/income main quest** (career bandwidth redirected from SCM II). GPS doc: `goals/acquisition.md`.
-- **Goal: truly absentee** (quarterly check-in), not just semi-absentee. Primary = Path A (service business, 2–3 staff, Elena operates yr 1 → manager hire yr 2). Path B (digital) is a parallel second track.
-- Zone of Genius, Ideal Owner Experience, and Deal Box **complete** — now live in `context/acquisition.md`. Phase 1 target: $252k–$504k price, $126k CF floor; Phase 2 (Elena scales back) grows into $198k CF.
+- **Goal: truly absentee** (quarterly check-in), not just semi-absentee. Primary = Path A (service business with manager-in-place, Elena scales W-2 to ~20 hr/week at close → operator role; manager hire post-close moves toward absentee). Path B (digital) is a parallel second track.
+- Zone of Genius, Ideal Owner Experience, and Deal Box **complete** — now live in `context/acquisition.md`. **Phase 2-immediate (May 31, 2026):** $400k–$550k clean / $550k–$750k stretch / $792k hard ceiling; $198k SDE floor, $660k+ revenue, 30%+ margin. Elena scales at close, not pre-search.
 - Framework reference: `references/sanchez.md` (Codie Level 1 — pure framework; Will's filled-in answers moved to `acquisition.md`).
 - Dan Nguyen accounting firm thesis: intact, not active. Secondary option if a licensed CPA resolves AZ ownership law.
 - Search window opens ~August 2026 (end of 3-month learn phase).
