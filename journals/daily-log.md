@@ -47,3 +47,6 @@ Format: ✓ = done, □ = planned/pending
 □ Hit 10,000 steps tracked via Apple Watch
 □ Run 1–2 listings through full deal-eval framework
 □ Schedule Pre-Cana: find options, pick a date
+
+**2026-06-01 (Mon)** — NYC Cut Wk 2 ending
+□ Hit 10,000 steps tracked via Apple Watch
