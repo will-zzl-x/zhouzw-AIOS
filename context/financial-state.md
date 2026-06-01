@@ -1,6 +1,6 @@
 # Financial State
 
-Last updated: May 28, 2026
+Last updated: June 1, 2026
 
 ## Income
 
@@ -25,7 +25,7 @@ Last updated: May 28, 2026
 ## Allocations
 
 - 401k: **4% pre-tax** (set May 25) — captures full employer match (50% of first 4% ≈ $2,020/yr); intentionally minimal beyond the match (liquidity-first for the acquisition)
-- $2k/month → acquisition fund; max the Roth IRA *through* this allocation (~$583/mo, contributions stay withdrawable), remainder to the taxable acquisition fund
+- $2k/month → taxable acquisition fund (full $24k/yr); **plus** ~$583/mo *separately* → Roth IRA ($7k/yr 2026 max, contributions stay withdrawable as a liquidity backstop)
 - $305/month auto-transfer to wedding savings
 - HSA: **$0 personal, $500/yr Amazon seed only** (set May 28). Seed over-funds <$100/yr medical out-of-pocket ~5x. Ramp to $4,400 max post-acquisition or once medical-receipt tracking starts.
 

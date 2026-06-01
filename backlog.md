@@ -19,7 +19,7 @@ Ranked top-to-bottom = priority order. Top-N read by morning brief. Daily consis
 | pre-cana-schedule | 11 | Schedule Pre-Cana process | Wedding | open | open | — | St. Andrew side, no hard date |
 | july-trip-decide | 12 | July friend trip — clean pass message + offer remote logistics help | Relationships | open | deadline:2026-06-15 | — | drift = worst outcome; decide cleanly mid-June |
 | fitness-pipeline | 13 | Build fitness logging pipeline (Liftosaur + weight + steps) | AIOS-Infra | open | window:weekend | — | task #74; ends Sunday paste habit |
-| test-plan-elena | 14 | Test-plan close-the-loop with Elena | Relationships | open | your-call | — | question lives until tested; don't engineer it |
+| test-plan-elena | 14 | Test-plan close-the-loop with Elena | Relationships | done | your-call | — | resolved 2026-06-01: home test negative at 11 days late; thread closed. Reopen trigger: if her period still hasn't returned by mid-June, that's a doctor visit (thyroid/stress workup), not a re-test. |
 | escalation-scraper | 15 | Escalation scraper: build threshold logic | Career | open | open | — | parked behind promo doc + Jeff ramp; revisit Jul |
 
 ## Inbox (unranked) — sorted in next reflection
