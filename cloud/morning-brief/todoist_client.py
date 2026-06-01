@@ -1,6 +1,7 @@
 """Todoist API v1 (unified) client."""
 
 import os
+import re
 import time
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
@@ -99,21 +100,37 @@ def get_completed_today(project_id: str) -> list[dict]:
 
 
 def clear_active_tasks(project_id: str) -> int:
-    """Close (complete) all currently-active tasks. Best-effort — partial failures
-    don't abort the brief. Returns count successfully closed."""
+    """DELETE all currently-active tasks. Best-effort — partial failures
+    don't abort the brief. Returns count successfully deleted.
+
+    Why DELETE not close: closing completes the task, which makes it visible to
+    get_completed_today() at 9pm. Evening archive would then see those auto-closed
+    sm-tagged tasks and silently flip backlog.md status:done for movers Will
+    never actually finished. DELETE removes the task entirely so only Will's real
+    completions are archived."""
     tasks = get_today_tasks(project_id)
-    closed = 0
+    deleted = 0
     for t in tasks:
         try:
-            _request("POST", f"{API_BASE}/tasks/{t['id']}/close")
-            closed += 1
+            _request("DELETE", f"{API_BASE}/tasks/{t['id']}")
+            deleted += 1
         except requests.exceptions.RequestException as e:
-            print(f"WARN: failed to close task {t['id']}: {e}")
-    return closed
+            print(f"WARN: failed to delete task {t['id']}: {e}")
+    return deleted
 
 
-def create_task(project_id: str, title: str, area: str, priority: int) -> dict:
-    """Create a task in the AIOS Daily project."""
+def create_task(
+    project_id: str,
+    title: str,
+    area: str,
+    priority: int,
+    sm_id: str | None = None,
+) -> dict:
+    """Create a task in the AIOS Daily project.
+
+    If sm_id is provided, it's stored in the task description as 'sm:<id>' so
+    backlog rows can be correlated back from completions.
+    """
     body = {
         "content": title,
         "project_id": project_id,
@@ -121,4 +138,17 @@ def create_task(project_id: str, title: str, area: str, priority: int) -> dict:
         "labels": [area],
         "due_string": "today",
     }
+    if sm_id is not None:
+        body["description"] = f"sm:{sm_id}"
     return _post("/tasks", body)
+
+
+def extract_sm_id(task: dict) -> str | None:
+    """Return the strategic-mover id embedded in a Todoist task description.
+
+    Convention: strategic movers carry an exact 'sm:<id>' prefix in the task
+    description. Returns the id portion if present, else None.
+    """
+    desc = task.get("description") or ""
+    m = re.match(r"^sm:(\S+)", desc)
+    return m.group(1) if m else None

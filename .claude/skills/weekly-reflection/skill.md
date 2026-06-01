@@ -72,18 +72,24 @@ Based on Will's answers + the context files, identify:
    - Update each section with current reality
    - Note date updated
 
-3. Regenerate `dashboard.md`:
-   - 3 movers per life area for the coming week
-   - 12–15 total items
-   - Grounded in state.md + priorities.md
+3. Regenerate `dashboard.md`: Daily Consistents section + Major Moves This Week section pulling top of newly-regenerated backlog.md (rows where status != done AND eligibility filter passes today).
 
-4. Clear `journals/inbox.md` — replace content with empty stub:
+4. Regenerate `backlog.md`:
+   - Read current backlog.md (preserve existing open/in-progress/blocked entries — do NOT regenerate from scratch)
+   - Move all rows with status=='done' to archives/backlog-done.md, append a 'Completed' column with current ISO date
+   - Process the '## Inbox (unranked)' section: convert each captured item into a ranked row in the main table (assign next available rank, set status=open, set gate based on context)
+   - Re-rank the table: row order = priority. Items with hard deadlines get priority bumps if deadlines tightened.
+   - Update the 'Last sorted: YYYY-MM-DD' header timestamp
+   - Clear the Inbox section back to the empty stub comment
+   - Skill should NEVER auto-drop entries — only Will retires items, by editing backlog.md by hand or marking status:done. The reflection PROPOSES candidates for retirement (entries with no movement in 4+ weeks) but doesn't apply.
+
+5. Clear `journals/inbox.md` — replace content with empty stub:
    ```
    # Inbox
    <!-- Mid-week captures go here. Cleared each Sunday. -->
    ```
 
-5. Commit the repo with message: `weekly reflection YYYY-MM-DD`
+6. Commit the repo with message: `weekly reflection YYYY-MM-DD`
 
 ## Rules
 

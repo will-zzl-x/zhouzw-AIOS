@@ -13,6 +13,7 @@ FILES = {
     "daily_standard": "context/daily-standard.md",
     "dashboard": "dashboard.md",
     "daily_log": "journals/daily-log.md",
+    "backlog": "backlog.md",
 }
 
 
@@ -32,7 +33,7 @@ def _fetch_local(root: str) -> dict[str, str]:
     out = {}
     for key, path in FILES.items():
         full = os.path.join(root, path)
-        with open(full, "r") as f:
+        with open(full, "r", encoding="utf-8") as f:
             out[key] = f.read()
     return out
 

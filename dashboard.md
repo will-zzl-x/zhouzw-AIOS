@@ -8,7 +8,7 @@ These fire daily until status changes. Brief always emits these alongside the da
 - **BJJ trial — book the trial + run session 1 Friday Jun 5** (until session 1 happens) — Life-quest keystone, 2 weeks unbooked
 - **Sunday paste habit** (Sundays only) — 5-min weight + sessions + steps to journals/daily-log.md (until task #74 pipeline lands)
 - **Step target 12,500/day** (overrides daily-standard 10k floor — cut math requires the bump)
-- **Add 2-3× Zone 2 cardio/wk** (20-min, post-lift fasted or AM) — gap-closer for cut without further deficit
+- **Zone 2 cardio: 3× / week, ~30 min, conversational pace** — walk / bike / row (no running). Skip on Leg-lift days. For work capacity, not cut math. First lever to drop if Larsen Press canary trips below 155×5/5/5 @9.
 - **Elena: presence under stress-load** (zero night talks about intimacy — hard rule)
 - **Friend cadence: one real touchpoint every ~2 weeks** (anchored W22 — keep rhythm)
 
