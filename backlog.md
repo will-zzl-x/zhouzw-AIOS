@@ -21,6 +21,7 @@ Ranked top-to-bottom = priority order. Top-N read by morning brief. Daily consis
 | fitness-pipeline | 13 | Build fitness logging pipeline (Liftosaur + weight + steps) | AIOS-Infra | open | window:weekend | — | task #74; ends Sunday paste habit |
 | test-plan-elena | 14 | Test-plan close-the-loop with Elena | Relationships | done | your-call | — | resolved 2026-06-01: home test negative at 11 days late; thread closed. Reopen trigger: if her period still hasn't returned by mid-June, that's a doctor visit (thyroid/stress workup), not a re-test. |
 | escalation-scraper | 15 | Escalation scraper: build threshold logic | Career | open | open | — | parked behind promo doc + Jeff ramp; revisit Jul |
+| style-grooming-sprint | 16 | Style + grooming overhaul (stylist consult, wardrobe pass, tailor pieces, pair with NYC Cut haircut) | Relationships | open | deadline:2026-06-22 | — | one-shot attractiveness sprint, parallel to cut keystone reset; not a recurring keystone |
 
 ## Inbox (unranked) — sorted in next reflection
 
