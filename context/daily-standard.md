@@ -71,26 +71,28 @@ Done when:
 
 ## Differentiation Cues (morning brief rotates one in a few mornings/week)
 
-From `goals/desire-polarity.md` — frame-keepers, not tasks:
-- The lever is you, not her — build yourself, let desire follow
-- Take small space without explaining it
-- Don't grade or score — out loud or in your head
-- Don't over-pursue when you feel the gap; redirect into your own thing
-- Desire needs distance; love needs closeness — a marriage holds both
-- Gravity compounds; manipulation decays
-- Be fully present when it's real — phone gone, no narrating
-- It's slow on purpose; wanting a faster lever is the cue to hold the line
-- Be the change; don't narrate it — she sees a different man, doesn't hear about one
-- No coins in an unplugged machine — do it because you want it, not for a payout
-- Don't D.E.E.R. (defend, explain, excuse, rationalize) — justifying a decision on demand surrenders it
-- Turn the wheel; the stern follows on a long rope — stop watching the scoreboard
-- Become worth the loss by being genuinely high-value, never by manufacturing jealousy
+From `goals/desire-polarity.md`. Each cue is a frame-keeper (the aphorism) paired with a concrete behavior for the day — the morning brief copies the whole line verbatim into Todoist so it reads as an action, not a riddle:
+
+- The lever is you, not her — build yourself, let desire follow. Pick one self-investment move today (training, acquisition work, friend reach-out) and execute it without telling Elena about it.
+- Take small space without explaining it. Find one small window today to do your own thing — a walk, a podcast, an errand alone. No "I'm going to do X" preamble; just do it and come back.
+- Don't grade or score — out loud or in your head. When you catch yourself rating an interaction with Elena today (good/bad/regressing/improving), cut the thought mid-sentence and redirect to the next concrete thing in front of you.
+- Don't over-pursue when you feel the gap; redirect into your own thing. The next time you feel the pull to text-check / seek reassurance from Elena, route that energy into a workout, a work problem, or a friend instead.
+- Desire needs distance; love needs closeness — a marriage holds both. Today, lean fully into one moment of closeness AND one moment of separateness — don't try to compromise them into one balanced middle.
+- Gravity compounds; manipulation decays. Pick one thing today you'd do whether or not Elena notices, and do it without telling her about it — the work that pays off regardless of the dynamic.
+- Be fully present when it's real — phone gone, no narrating. In your next real moment with Elena today (meal, conversation, intimacy), put the phone in another room and stop the internal commentary track.
+- It's slow on purpose; wanting a faster lever is the cue to hold the line. If you notice yourself reaching for a tactical fix today (date-night logistics, "have we connected enough this week"), pause — that urge is the signal to keep doing the slow work, not switch frameworks.
+- Be the change; don't narrate it — she sees a different man, doesn't hear about one. Whatever you're working on this week (cut, boxing, acquisition), don't bring it up unprompted today. Let the work be visible without commentary.
+- No coins in an unplugged machine — do it because you want it, not for a payout. Catch one moment today where you're doing something hoping for Elena's response, and re-anchor: am I doing this because I want to, or for the payout? If the latter, do it anyway, but for you.
+- Don't D.E.E.R. (defend, explain, excuse, rationalize) — justifying a decision on demand surrenders it. The next time Elena questions a decision you made today, state it once and stop. "Yeah, that's what I'm doing" is a complete sentence; no justifying paragraph.
+- Turn the wheel; the stern follows on a long rope — stop watching the scoreboard. Make today's moves without checking for the dynamic to shift in response. The change in her lags weeks behind the change in you — watching kills it.
+- Become worth the loss by being genuinely high-value, never by manufacturing jealousy. Invest in one thing today that makes you more wantable to yourself first — workout, skill, friendship. Never the inverse: never imply other options exist to provoke desire.
 
 **Sufficiency cues (Joy anchor — same rotation, un-scored):**
-- What's already enough right now?
-- You enjoyed the win — now let the baseline be calm, not "not enough"
-- Savor one thing fully today, with no productivity attached
-- Worth isn't the scoreboard; you're allowed to feel fine at rest
+
+- What's already enough right now? Take 30 seconds today, anchored to something you already do (post-workout, sitting down to dinner, end of day), to register one thing that's already enough. Don't track it; don't score it; just notice.
+- You enjoyed the win — now let the baseline be calm, not "not enough". If you catch yourself sliding back into the "still not enough" frame today after a recent win, stop and let the baseline be calm. The win was real; the chronic not-enough is the work.
+- Savor one thing fully today, with no productivity attached. Pick a moment that isn't a means to something — coffee, the dog, a song — and let it be the thing itself. No logging, no leveraging it for anything else.
+- Worth isn't the scoreboard; you're allowed to feel fine at rest. If today you catch the "I should be doing more" reflex during downtime, recognize it as the scoreboard scoring you. Rest counts; you don't have to earn it.
 
 ---
 
