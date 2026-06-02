@@ -29,7 +29,7 @@ Will's drawn to MRP's staged structure — fine. The *passive* levels (1–5) ar
 |---|---|---|
 | L1 Build frame / pass shit tests | Don't D.E.E.R.; hold your center; decisiveness | Phase 0/1 |
 | L2 Action plan / life in order | The AIOS, quests, GPS docs | Strong |
-| L3 Build a life apart | Friday boxing class (BJJ post-cut), friendships, acquisition, own interests | Building |
+| L3 Build a life apart | Sunday 9:30 AM boxing class @ Boxout AZ (BJJ post-cut), friendships, acquisition, own interests | Building |
 | L4 Condition availability / be busy | Take space without explaining; vary routine | Phase 2 |
 | L5 Upgrade appearance | NYC Cut + Ravage + style/grooming sprint (backlog #16) | Strong |
 
