@@ -23,6 +23,12 @@ Significant decisions made with or through the AIOS. Used to avoid re-litigating
 **Trade-offs considered:** Boxing technique without sparring is lower-richness than full BJJ rolling (less live pressure / partnership). Accepted because (a) it's a 6-week swap not permanent, (b) BJJ returns Jul 12+ with Muay Thai as the 2nd combat day, and (c) any combat keystone that's unbooked for 2 weeks is failing the "actually happens" test — lower-friction substitute wins until cut ends.
 
 ---
+**2026-06-02** — Boxing keystone gym + slot finalized: Boxout AZ Sunday 9:30 AM, class-pack approach
+**Decision:** Run the cut-phase boxing keystone at **Boxout AZ (Chandler) — Sunday 9:30 AM w/ Coach Mason**, no sparring. Pricing path: burn 3 free trials → 10+2 class pack ($300, 12 classes) → reevaluate end of August (4×/mo membership at $95/mo if 1×/wk holds; 8×/mo at $125/mo if usage scales to 2×/wk post-cut).
+**Why:** The inherited "Friday 7 AM" slot didn't survive contact with Boxout's actual schedule — no 7 AM Friday class exists (Friday options are 6 AM or 5:30 PM, neither named). Sat 9 AM conflicts with the standing grocery routine. Sun 9:30 AM is the only weekend morning that doesn't conflict; weekday 6 AMs would force a planned rest day, which conflicts with the organic-rest pattern Will runs on Ravage. Class pack > membership at 1×/wk usage given recurring-billing risk before the cut even ends. Pack also flexes around natural rest weeks without paying for skips.
+**Trade-offs considered:** Sunday morning is more visible-couple-time than a stealth weekday 6 AM — leaving for ~1 hour at 9:30 is a salient absence Elena will notice every week. Accepted: that visibility is *aligned* with the desire-polarity "small space without explaining" pattern at the recurring-slot scale. The recurring nature builds gravity; the "she sees a different rhythm" effect is the mechanism, not the cost. Bookends nicely with the Sunday 7:07 PM `/weekly-reflection` auto-fire — physical reset in the morning, mental reset in the evening.
+
+---
 
 *Format for future entries:*
 

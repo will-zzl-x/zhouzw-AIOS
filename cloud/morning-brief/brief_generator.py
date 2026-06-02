@@ -138,7 +138,18 @@ Generate today's brief as JSON."""
             text = text[4:]
         text = text.strip()
 
-    tasks = json.loads(text)
+    # Defensive extraction: model sometimes adds a prose preamble or unknown
+    # fence variant. Find the JSON array bounds and parse just that slice.
+    start = text.find("[")
+    end = text.rfind("]")
+    if start == -1 or end == -1 or end < start:
+        raise ValueError(f"No JSON array found in brief output. Raw text: {text!r}")
+    text = text[start : end + 1]
+
+    try:
+        tasks = json.loads(text)
+    except json.JSONDecodeError as e:
+        raise ValueError(f"Brief output is not valid JSON ({e}). Raw text: {text!r}") from e
     if not isinstance(tasks, list) or not all(isinstance(t, dict) for t in tasks):
         raise ValueError(f"Brief output is not a list of dicts: {tasks!r}")
     return tasks
