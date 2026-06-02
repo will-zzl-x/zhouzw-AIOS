@@ -50,3 +50,10 @@ Format: ✓ = done, □ = planned/pending
 
 **2026-06-01 (Mon)** — NYC Cut Wk 2 ending
 □ Hit 10,000 steps tracked via Apple Watch
+
+**2026-06-02 (Tue)** — NYC Cut Wk 2 ending
+□ Walk 12,500 steps today
+□ Book Friday Jun 5 boxing technique trial class
+□ Draft Roland Frazier YouTube + outreach script v2
+□ Kick off Jeff ramp: align shadow plan with Colton
+□ Mindset — Gravity compounds; manipulation decays
