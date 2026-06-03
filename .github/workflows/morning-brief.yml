@@ -2,8 +2,17 @@ name: Morning Brief
 
 on:
   schedule:
-    - cron: '10 13 * * *'  # ~6:10 AM Arizona (UTC-7) — earlier buffer before 7am; off the :00 slot (GitHub's most-delayed)
-    - cron: '40 13 * * *'  # ~6:40 AM Arizona backup — fires if GitHub drops the 6:10 tick (morning_brief clears + regenerates, so a second run is idempotent at this hour)
+    # Five off-peak attempts spread across the morning. GitHub silently drops
+    # scheduled ticks on free-tier public repos during peak traffic windows
+    # (both prior 6:10 + 6:40 ticks were dropped 2026-06-03). The brief is
+    # idempotent (clears + regenerates Todoist), so multiple successful
+    # attempts just rewrite the same content — adding redundancy is free.
+    # All minutes off the :00 slot, which is GitHub's most-delayed.
+    - cron: '7 13 * * *'   # ~6:07 AM Arizona — primary
+    - cron: '23 13 * * *'  # ~6:23 AM Arizona — backup 1
+    - cron: '47 13 * * *'  # ~6:47 AM Arizona — backup 2
+    - cron: '13 14 * * *'  # ~7:13 AM Arizona — backup 3
+    - cron: '37 14 * * *'  # ~7:37 AM Arizona — backup 4 (last attempt before manual)
   workflow_dispatch:        # manual trigger from GitHub Actions UI
 
 jobs:
