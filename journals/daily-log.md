@@ -57,3 +57,10 @@ Format: ✓ = done, □ = planned/pending
 □ Draft Roland Frazier YouTube + outreach script v2
 □ Kick off Jeff ramp: align shadow plan with Colton
 □ Mindset — Gravity compounds; manipulation decays
+
+**2026-06-03 (Wed)** — NYC Cut Wk 2 ending
+□ Walk 12,500 steps today
+□ Book Friday Jun 5 boxing technique trial class
+□ Zone 2 cardio: 30 min conversational pace today
+□ Elena: full presence, no intimacy talk tonight
+□ Verify Dan thesis files resolve workflow gaps
