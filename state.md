@@ -2,7 +2,7 @@
 
 ## Quests (Q2 — set in the May 25 quarterly review; full doc `archives/2026-Q2-quarterly-review.md`)
 - **Work main:** Exit Codie's 3-mo acquisition Learn phase deal-ready by Aug 31 (12+ framework reps, 2+ broker contacts, LOI template). `goals/acquisition.md`.
-- **Life main:** Become my own point of origin — self-validation, worth from inside not the scoreboard. Keystone: **Sunday 9:30 AM boxing technique class @ Boxout AZ** (cut phase; BJJ + Thursday Muay Thai resume post-cut Jul 12+). Measure inputs, never score outputs. `goals/desire-polarity.md`.
+- **Life main:** Become my own point of origin — self-validation, worth from inside not the scoreboard. Keystone: **Sunday morning Zone 2 indoor incline treadmill (60–90 min)** (cut phase — cut-additive cardio doubling as solo-pursuit; BJJ + Thursday Muay Thai resume post-cut Jul 12+ as the embodied/skill axis). Measure inputs, never score outputs. `goals/desire-polarity.md`.
 - **Side:** ship promo doc (~Jun 30) · execute the cut through Jul 11 · friend touchpoint every 2 wks.
 - **Wheel low axis (the focus):** Joy 4, Heart 5 — winning on paper, not feeling it. The Life quest targets the root.
 
@@ -36,12 +36,12 @@ Phase: **NYC Cut Wk 2 ending** — May 17 – Jul 11 (daily gates by weekday/wee
 - Hard floor: 168 lb — do not cut below.
 - Reverse diet: Jul 12–29. NYC maintenance: Jul 30–Aug 5.
 - Program: GVS Ravage Week 6. Macros tracked in **Cronometer**.
-- **Combat keystone reset (6/1, slot finalized 6/2):** BJJ deferred to post-cut (Jul 12+) — high fatigue-per-calorie pulls recovery from the lifts on a deficit. Cut-phase keystone is now **1× Sunday 9:30 AM boxing technique class @ Boxout AZ Chandler (Coach Mason, no sparring)** — embodied/presence work at a fraction of the recovery tax. Burn 3 free trials first, then 10+2 class pack ($300, 12 classes) — no monthly membership until usage proves out. Style/grooming overhaul sprinting in parallel (next 2–3 weeks).
+- **Combat keystone reset (6/1) → boxing pivot considered (6/2 AM) → Zone 2 sub locked (6/2 PM):** BJJ deferred to post-cut (Jul 12+). Boxing technique class at Boxout AZ (Sun 9:30 AM) considered as substitute but dropped — Ravage runs 2 upper days/wk, forcing a Mon-upper-after-Sunday-boxing adjacency that compromised the Larsen canary on a 1,820 cal deficit. Cut-phase keystone is now **1× Sunday morning Zone 2 indoor incline treadmill, 60–90 min** — same recurring solo-pursuit slot, cut-additive (Schofield's preferred cut cardio per `references/schofield.md` L93), zero Ravage interference, also covers the 2–3× Zone 2/wk target. Skill/embodied combat axis returns post-Jul 11 when BJJ + Thursday Muay Thai ramp on original cadence. Style/grooming overhaul still sprinting in parallel.
 
 ## Relationships
 - **Elena (W22 read):** stressed about work, anxious, nausea earlier in the week (now improving), one ~few-hour evening 5/27 of smell sensitivity, no fatigue, no breast tenderness, appetite recovering. Pregnancy possibility from 5/28 capture still on the table — 11 days late on the pill is the part that doesn't go away as a question. Test-plan close-the-loop deferred to Will + Elena's call. Posture under stress-load: presence, not caretaking; don't reverse-engineer differentiation into a tactic.
 - **Friend cadence anchored W22.** Sahil ✓ (~5/26 from W21), Spencer ✓ this week, group hang 5/30 (Annie, Jeff, Charlie, James, Spencer, Miguel). Cleared the 2-wk rhythm twice over.
-- **Solo-pursuit keystone (cut phase, reset 6/1, slot finalized 6/2): Sunday 9:30 AM boxing technique class @ Boxout AZ (Coach Mason), no sparring, 1×/wk.** Replaces BJJ for cut sustainability — same role in the Life quest. Burn 3 free trials first, then 10+2 class pack. BJJ + Thursday Muay Thai both ramp post-Jul 11.
+- **Solo-pursuit keystone (cut phase, final 6/2): 1× Sunday morning Zone 2 indoor incline treadmill, 60–90 min**, same recurring slot. Replaces BJJ for cut sustainability — same Life quest role, zero Ravage interference, cut-additive. BJJ + Thursday Muay Thai both ramp post-Jul 11 as the embodied/skill axis returns.
 - Zero night talks about intimacy — hard rule.
 
 ## Wedding
