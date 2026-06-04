@@ -19,3 +19,13 @@ Father's Day weekend, drive trip with Elena + Koda.
 - **Cut math:** Mon–Thu + Fri AM = 5 sessions banked; Sat off (active recovery); Sun home — easy 6th session in afternoon if needed.
 
 ---
+
+**2026-06-03 — SoCal trip updates: Reggie confirmed + budget set**
+
+- **Reggie confirmed: Saturday after 4pm in Long Beach.** Studio in Long Beach proper (specific address TBD from Elena's coordination — gates Saturday dinner reservation area).
+- **Budget: $300 per person all-in for the trip** = $600 total Will + Elena (excluding Koda incidentals if any).
+- **Lodging flexibility:** OK staying further out from Huntington Beach if it makes geographic sense for the weekend as a whole (Fri arrival → Sat HB beach AM + Long Beach PM/eve → Sun HB brunch).
+- **Implication of new budget**: original Sunset Beach Father's-Day-weekend Airbnb plan likely doesn't fit $600 total. Need cheaper lodging area — see Cali trip planning notes (chat 2026-06-03).
+- **Next action**: Will + Elena pick lodging area tonight/tomorrow, book Airbnb, then chase Saturday dinner reservation in Long Beach area once Reggie's exact studio location confirms.
+
+---

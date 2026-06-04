@@ -56,6 +56,52 @@ Defined 2026-05-31, clarified 2026-06-03.
 
 ---
 
+## Elena's contribution to the partnership
+
+The operational specifics of Scenario B. Proposed split below — *Will + Elena to confirm; numbers TBD*.
+
+**Cash contribution (TBD — gap to close before Frame B message):**
+
+> [NEEDS FILL] Rough $ amount Elena is contributing as equity, source (engineering income / Roth IRA / savings), and whether it's a one-time injection at close or a sustained contribution. This is the load-bearing number Dan will ask about — needs to be a concrete answer ("Elena's putting in $X as equity at close") not a directional one ("Elena's contributing capital").
+
+**Time contribution (TBD — gap to close before Frame B message):**
+
+> [NEEDS FILL] Hours/week Elena will allocate during (a) ramp / first 90 days post-close, (b) Year 1 steady-state, (c) Year 2 truly-absentee phase. And whether her engineering work continues alongside or steps down. The time number governs which functions she can credibly own.
+
+**Proposed function split (Claude advice — Will + Elena + Dan to confirm):**
+
+Three-way founder split mapping each partner's strengths to the bookkeeping/accounting business:
+
+| Function | Owner | Why |
+|---|---|---|
+| **Strategy / direction** | Will | Cross-functional negotiation + big-picture optimization (per `context/acquisition.md`) |
+| **AI / tech modernization** | Will | The load-bearing thesis bet; Will's GenAI ops-suite background applies directly |
+| **M&A — sourcing & evaluating next deals** | Will | Acquisition energy + Frazier-pipeline ownership |
+| **Vendor / tooling relationships** | Will | Ops experience |
+| **Financial controls / compliance / reporting** | Elena | CFO/COO profile; technical reporting + modeling skills map directly |
+| **Process documentation / SOP buildout** | Elena | Documentation strength is the modernization keystone for a low-tech firm |
+| **Quality control across client books** | Elena | Detail-heavy QC mindset; bookkeeping errors have real client consequences |
+| **Firm financial planning (P&L, cash flow, hiring decisions)** | Elena | CFO function — budgets, financials, compliance |
+| **Industry / sector expertise** | Dan | Connector role + CPA network access |
+| **Client relationships (existing + reference network)** | Dan | If Dan has existing book of business — TBD on his side |
+| **CPA-on-record (if Dan licenses) OR retained-CPA management** | Dan | Owner of the AZ 51% constraint solution |
+| **Day-to-day bookkeeping production** | Hired staff (existing firm team + new hires via Year-2 manager) | Not anyone's highest-and-best use; the deal box assumes this scales independently |
+| **Client-facing tax strategy / advisory** | TBD — depends on credentialing | Requires EA or CPA license; not currently held by Will/Elena/Dan |
+
+Implications of this split:
+- **Will = CEO-ish** (strategy + tech + M&A + vendor)
+- **Elena = COO/CFO** (operations + financial controls + process + QC + firm finance)
+- **Dan = Industry lead** (sector + network + CPA constraint owner)
+- The "operator salary" baked into the Codie-honest box ($55k) maps most naturally to a **hired GM/manager** by Year 2, not to any of the three partners. Day-1 ramp leans on Will + Elena's time; Year 2 absentee state means most operational load shifts to the hired manager + Elena's continued CFO oversight.
+
+**Equity split implications (separate from cash):**
+
+If Elena's cash contribution materially reduces the debt required (the Scenario B mechanism), her equity stake should reflect both her capital contribution AND her function ownership. The original 4/22/2025 partnership-percentages spreadsheet (https://docs.google.com/spreadsheets/d/1xluGmdSojAsdBCd9kkMIf908yCZO_OSYvY8cMlFsVAs/) modeled a 2-person Will+Dan structure — needs re-modeling to a 3-person Will+Elena+Dan structure before the Frame B message goes.
+
+> [NEEDS FILL] Updated partnership-percentages model with Elena as third party. Likely worth a separate session before the message goes.
+
+---
+
 ## Anti-goals / risks
 
 - **Key-man risk** in firms <$500k — one top employee owns most of the client relationships → drives most profit, leaves on transition. Bias toward >$500k revenue + traditional separated org structure.
