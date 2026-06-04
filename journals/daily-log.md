@@ -64,3 +64,7 @@ Format: ✓ = done, □ = planned/pending
 □ Zone 2 cardio: 30 min conversational pace today
 □ Elena: full presence, no intimacy talk tonight
 □ Verify Dan thesis files resolve workflow gaps
+
+**2026-06-04 (Thu)** — NYC Cut Wk 2 ending
+□ Walk 12,500 steps today
+□ Verify Dan thesis files, close workflow gaps
