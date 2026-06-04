@@ -35,7 +35,7 @@ Father's Day weekend, drive trip with Elena + Koda.
   - **Pre-return Sun**: Lakewood Walmart (Lakewood Blvd) before departing back
   - Optional buffer: Blythe Walmart (Lovekin Blvd, ~155 mi from Chandler) if Indio/Beaumont skipped
 - **🔒 LODGING LOCKED 2026-06-03 PM: Sonesta Select HB Fountain Valley** — 9950 Slater Ave, Fountain Valley CA 92708. 3-star Sonesta, 7.5 Booking score. **$331 base + $25/night pet fee × 2 nts = $50 pet → $381 lodging total.** Won out over La Quinta NE LB/Cypress ($430 total) on both price ($49 cheaper) and total weekend drive time (~65 min less driving — Sonesta puts you ~12–15 min from HB Dog Beach Saturday AM and ~5–10 min from Sunday brunch with Lantu; only ~20–25 min to Reggie's studio for Saturday lesson).
-- **Saturday dinner = Sura (Korean BBQ), Will paying personally as a date — OUTSIDE the $600 trip budget.**
+- **Saturday dinner = Thai District (Northern Thai), Will paying personally as a date — OUTSIDE the $600 trip budget.** Address: 149 Linden Ave, Ste E, Long Beach 90802 (downtown LB, ~6 mi south of Reggie's studio). OpenTable reservations. Infatuation-reviewed. Signature: Kao Soi + Hung Lay pork curry. Budget: ~$60–80 for 2 with tip (no drinks). *Pivoted from Sura (walk-in only for parties under 4) → AMMATOLI Lebanese (Will declined Mediterranean) → Italian alternatives (Will declined) → Bebot Filipino (closed post-fire) → Thai District (verified open, Sat hrs 12pm–10:30pm).*
 - **Final trip budget @ $599 total** (= **$1 UNDER $600 cap** ✅; Sat dinner not counted per above):
   - Gas (Walmart+ optimized, ~33 gal): $110
   - Sonesta lodging + pet: $381 ($331 + $50)
@@ -46,7 +46,7 @@ Father's Day weekend, drive trip with Elena + Koda.
   - Cushion: $30
 - **Next booking actions (next 48 hr):**
   1. **Book Sonesta Select HB Fountain Valley** directly on Booking ($331 base + $25/nt pet) by Wed Jun 4
-  2. **Book Sura reservation** in Long Beach (Korean BBQ, no drinks, ~$85 with tip) for ~6:30–7:00 PM Sat Jun 20 via Resy / OpenTable, by Fri Jun 6. Pull exact address once Elena confirms Reggie studio end-time.
+  2. **Book Thai District reservation** — Sat Jun 20, 6:30 PM, 2 people via OpenTable (https://www.opentable.com/thai-district). By Fri Jun 6. Signature order: Kao Soi + Hung Lay pork curry (both distinctly Northern Thai, distinct from Cambodian Friday palate).
   3. **Optional**: Phnom Penh Noodle Shack (Cambodia Town) for Fri arrival — walk-in friendly, no reservation typically needed.
 - **Allergy plan**: pack Zyrtec, take ~90 min before Reggie's in-studio session Saturday for cat-exposure coverage.
 - **Saturday dinner cluster (for 5235 Pacific Ave)**: closest = **Bixby Knolls / Atlantic Ave** restaurants (~2 mi from studio — minimal post-lesson drive). Belmont Shore (2nd St) and Downtown LB / Pine Ave are both ~6–8 mi south = 15–20 min drive. Recommend Bixby Knolls / Atlantic Ave to stay close. Reserve 6:30–7 PM by **Fri Jun 6** — this is the date-night anchor, budget supports it.
