@@ -34,13 +34,21 @@ Father's Day weekend, drive trip with Elena + Koda.
   - **Mid-route Fri** (~250–290 mi in): Indio Walmart (Monroe St) OR Beaumont Walmart (Highland Springs Ave)
   - **Pre-return Sun**: Lakewood Walmart (Lakewood Blvd) before departing back
   - Optional buffer: Blythe Walmart (Lovekin Blvd, ~155 mi from Chandler) if Indio/Beaumont skipped
-- **Recommended lodging area**: Long Beach interior (Bixby Knolls / 90805 / 90807) or Lakewood / Bellflower. **Target ≤$140/night** to fund 3 restaurant meals (see meal plan below). Sunset Beach / HB beachfront at Father's Day rates blows the budget.
-- **Meal plan (Will wants to eat local, not groceries, for the 3 key meals):** Fri dinner + Sat lunch + Sat dinner all OUT; Sun brunch hosted by Lantu ($0); filler-only groceries (protein bars, snacks, Fri/Sat AM breakfast items) to bridge. Long Beach signature food = **Cambodian (Cambodia Town, Anaheim St)** — largest Cambodian community in the US, cheap + protein-forward (grilled meats, great for the cut). HB signature = fish tacos / surf-town seafood / brunch. Cut-aligned picks: Cambodian grilled meats, carne asada / grilled-fish tacos, seafood — all high-protein.
-  - **Fri dinner** (~arrive 4pm, casual near rental): Cambodian in Cambodia Town OR a taco spot. $45–55 for 2.
-  - **Sat lunch** (after HB Dog Beach AM, before the buffer to 4pm lesson): HB fish-taco / seafood spot. $35–45 for 2.
-  - **Sat dinner** (date-night anchor, post-lesson, Bixby Knolls / Atlantic Ave near studio): nicer sit-down. $80–100 for 2.
-- **Budget allocation @ $600 all-in:** gas ~$110 + lodging ~$280 (2 nts @ $140) + 3 meals out ~$180 + filler groceries ~$25 = ~$595. Closes if lodging holds ≤$140/night. Every $ under that = more dinner cushion.
-- **Allergy: Flonase OR Zyrtec both work for cats.** Best practice — **Zyrtec (cetirizine) ~1–2 hr before** the in-studio session for acute coverage; Flonase (nasal steroid) works best if started 1–2 days ahead (daily). For a one-off brief exposure, Zyrtec is the better single-dose option; start Flonase Thursday if using it.
+- **🔒 LODGING LOCKED 2026-06-03 PM: Sonesta Select HB Fountain Valley** — 9950 Slater Ave, Fountain Valley CA 92708. 3-star Sonesta, 7.5 Booking score. **$331 base + $75 flat pet fee = $406 lodging total.** Won out over La Quinta NE LB/Cypress ($430 total) on both price ($24 cheaper) and total weekend drive time (~65 min less driving — Sonesta puts you ~12–15 min from HB Dog Beach Saturday AM and ~5–10 min from Sunday brunch with Lantu; only ~20–25 min to Reggie's studio for Saturday lesson).
+- **Saturday dinner = Sura (Korean BBQ), Will paying personally as a date — OUTSIDE the $600 trip budget.**
+- **Final trip budget @ $624 total** (= $24 over $600 cap, defensible Father's-Day-pricing overage; Sat dinner not counted per above):
+  - Gas (Walmart+ optimized, ~33 gal): $110
+  - Sonesta lodging + pet: $406
+  - Fri dinner — Phnom Penh Noodle Shack (Cambodian), incl. tip: $35
+  - Sat lunch — HB tacos (TBD spot, casual), incl. tip: $28
+  - Sun brunch — Lantu hosting: $0
+  - Filler groceries (snacks, road): $15
+  - Cushion: $30
+- **Next booking actions (next 48 hr):**
+  1. **Book Sonesta Select HB Fountain Valley** directly on Booking ($331 + $75 pet) by Wed Jun 4
+  2. **Book Sura reservation** in Long Beach (Korean BBQ, no drinks, ~$85 with tip) for ~6:30–7:00 PM Sat Jun 20 via Resy / OpenTable, by Fri Jun 6. Pull exact address once Elena confirms Reggie studio end-time.
+  3. **Optional**: Phnom Penh Noodle Shack (Cambodia Town) for Fri arrival — walk-in friendly, no reservation typically needed.
+- **Allergy plan**: pack Zyrtec, take ~90 min before Reggie's in-studio session Saturday for cat-exposure coverage.
 - **Saturday dinner cluster (for 5235 Pacific Ave)**: closest = **Bixby Knolls / Atlantic Ave** restaurants (~2 mi from studio — minimal post-lesson drive). Belmont Shore (2nd St) and Downtown LB / Pine Ave are both ~6–8 mi south = 15–20 min drive. Recommend Bixby Knolls / Atlantic Ave to stay close. Reserve 6:30–7 PM by **Fri Jun 6** — this is the date-night anchor, budget supports it.
 - **Next actions** (Will + Elena, next 48 hr): pick lodging area together → Airbnb search with dog-friendly + kitchen + $300 max for 2 nights cap → book by Wed Jun 4. Then Friday: Elena confirms Reggie's exact studio address → Will books Saturday dinner reservation.
 
