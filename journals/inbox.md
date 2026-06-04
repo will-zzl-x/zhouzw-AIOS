@@ -22,7 +22,10 @@ Father's Day weekend, drive trip with Elena + Koda.
 
 **2026-06-03 — SoCal trip updates: Reggie confirmed + budget set**
 
-- **Reggie confirmed: Saturday after 4pm in Long Beach.** Studio in Long Beach proper (specific address TBD from Elena's coordination — gates Saturday dinner reservation area).
+- **Reggie confirmed: Saturday after 4pm in Long Beach.** Studio: **5235 Pacific Ave #A, Long Beach CA 90805** (North Long Beach / Bixby Knolls-adjacent — same zone as recommended lodging).
+- **Reggie rates (partner-provided):** 1 session $160 · 2+ sessions $155 ea · 4+ sessions $150 ea. **Outcall (Reggie travels to you, up to 25 mi): +$65/session.**
+- **Allergy note:** Reggie's household has 2 cats + a dog. If Will/Elena are cat-allergic, the in-studio session at 5235 Pacific may be an issue → outcall to the Airbnb (+$65) is the workaround. Decide based on actual allergy sensitivity.
+- **⚠ BUDGET TENSION:** a 1-session lesson at $160 (or $225 with outcall) was NOT in the original $600-all-in math. With gas (~$110) + lesson ($160) = $270 committed before any lodging/food. Leaves ~$330 for 2 nights Airbnb + all meals. Forces either (a) sub-$150/night lodging, (b) lean meals / Airbnb-kitchen cooking, or (c) revisit whether $600 all-in still holds given the lesson is a core trip anchor. **Flag for Will + Elena decision.**
 - **Budget: $300 per person ALL-IN INCLUDING GAS for the trip** = $600 total Will + Elena (Koda incidentals separate).
 - **Lodging flexibility:** OK staying further out from Huntington Beach if it makes geographic sense for the weekend as a whole (Fri arrival → Sat HB beach AM + Long Beach PM/eve → Sun HB brunch).
 - **Sunday brunch with Lantu**: Lantu hosting (assume $0 budget impact).
@@ -32,7 +35,7 @@ Father's Day weekend, drive trip with Elena + Koda.
   - **Pre-return Sun**: Lakewood Walmart (Lakewood Blvd) before departing back
   - Optional buffer: Blythe Walmart (Lovekin Blvd, ~155 mi from Chandler) if Indio/Beaumont skipped
 - **Recommended lodging area**: Long Beach interior (Bixby Knolls / 90805 / 90807) or Lakewood / Bellflower — $130–200/night dog-friendly inland gets the trip under $600 with gas. Sunset Beach / HB beachfront at Father's Day rates blows the budget.
-- **Saturday dinner cluster**: Belmont Shore (2nd Street) or Downtown LB East Village / Pine Ave — both ~10–15 min from likely Long Beach studio location, mid-tier $70–100 for 2 incl. drinks. Reserve 6:30–7 PM by **Fri Jun 6**.
+- **Saturday dinner cluster (revised for 5235 Pacific Ave)**: closest = **Bixby Knolls / Atlantic Ave** restaurants (~2 mi from studio — minimal post-lesson drive). Belmont Shore (2nd St) and Downtown LB / Pine Ave are both ~6–8 mi south = 15–20 min drive. Recommend Bixby Knolls / Atlantic Ave to stay close. Reserve 6:30–7 PM by **Fri Jun 6**. (Note: tight budget may push this to a cheaper spot or Airbnb-kitchen dinner — see budget tension above.)
 - **Next actions** (Will + Elena, next 48 hr): pick lodging area together → Airbnb search with dog-friendly + kitchen + $300 max for 2 nights cap → book by Wed Jun 4. Then Friday: Elena confirms Reggie's exact studio address → Will books Saturday dinner reservation.
 
 ---
