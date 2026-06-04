@@ -34,18 +34,18 @@ Father's Day weekend, drive trip with Elena + Koda.
   - **Mid-route Fri** (~250–290 mi in): Indio Walmart (Monroe St) OR Beaumont Walmart (Highland Springs Ave)
   - **Pre-return Sun**: Lakewood Walmart (Lakewood Blvd) before departing back
   - Optional buffer: Blythe Walmart (Lovekin Blvd, ~155 mi from Chandler) if Indio/Beaumont skipped
-- **🔒 LODGING LOCKED 2026-06-03 PM: Sonesta Select HB Fountain Valley** — 9950 Slater Ave, Fountain Valley CA 92708. 3-star Sonesta, 7.5 Booking score. **$331 base + $75 flat pet fee = $406 lodging total.** Won out over La Quinta NE LB/Cypress ($430 total) on both price ($24 cheaper) and total weekend drive time (~65 min less driving — Sonesta puts you ~12–15 min from HB Dog Beach Saturday AM and ~5–10 min from Sunday brunch with Lantu; only ~20–25 min to Reggie's studio for Saturday lesson).
+- **🔒 LODGING LOCKED 2026-06-03 PM: Sonesta Select HB Fountain Valley** — 9950 Slater Ave, Fountain Valley CA 92708. 3-star Sonesta, 7.5 Booking score. **$331 base + $25/night pet fee × 2 nts = $50 pet → $381 lodging total.** Won out over La Quinta NE LB/Cypress ($430 total) on both price ($49 cheaper) and total weekend drive time (~65 min less driving — Sonesta puts you ~12–15 min from HB Dog Beach Saturday AM and ~5–10 min from Sunday brunch with Lantu; only ~20–25 min to Reggie's studio for Saturday lesson).
 - **Saturday dinner = Sura (Korean BBQ), Will paying personally as a date — OUTSIDE the $600 trip budget.**
-- **Final trip budget @ $624 total** (= $24 over $600 cap, defensible Father's-Day-pricing overage; Sat dinner not counted per above):
+- **Final trip budget @ $599 total** (= **$1 UNDER $600 cap** ✅; Sat dinner not counted per above):
   - Gas (Walmart+ optimized, ~33 gal): $110
-  - Sonesta lodging + pet: $406
+  - Sonesta lodging + pet: $381 ($331 + $50)
   - Fri dinner — Phnom Penh Noodle Shack (Cambodian), incl. tip: $35
   - Sat lunch — HB tacos (TBD spot, casual), incl. tip: $28
   - Sun brunch — Lantu hosting: $0
   - Filler groceries (snacks, road): $15
   - Cushion: $30
 - **Next booking actions (next 48 hr):**
-  1. **Book Sonesta Select HB Fountain Valley** directly on Booking ($331 + $75 pet) by Wed Jun 4
+  1. **Book Sonesta Select HB Fountain Valley** directly on Booking ($331 base + $25/nt pet) by Wed Jun 4
   2. **Book Sura reservation** in Long Beach (Korean BBQ, no drinks, ~$85 with tip) for ~6:30–7:00 PM Sat Jun 20 via Resy / OpenTable, by Fri Jun 6. Pull exact address once Elena confirms Reggie studio end-time.
   3. **Optional**: Phnom Penh Noodle Shack (Cambodia Town) for Fri arrival — walk-in friendly, no reservation typically needed.
 - **Allergy plan**: pack Zyrtec, take ~90 min before Reggie's in-studio session Saturday for cat-exposure coverage.
