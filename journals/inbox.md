@@ -23,9 +23,16 @@ Father's Day weekend, drive trip with Elena + Koda.
 **2026-06-03 — SoCal trip updates: Reggie confirmed + budget set**
 
 - **Reggie confirmed: Saturday after 4pm in Long Beach.** Studio in Long Beach proper (specific address TBD from Elena's coordination — gates Saturday dinner reservation area).
-- **Budget: $300 per person all-in for the trip** = $600 total Will + Elena (excluding Koda incidentals if any).
+- **Budget: $300 per person ALL-IN INCLUDING GAS for the trip** = $600 total Will + Elena (Koda incidentals separate).
 - **Lodging flexibility:** OK staying further out from Huntington Beach if it makes geographic sense for the weekend as a whole (Fri arrival → Sat HB beach AM + Long Beach PM/eve → Sun HB brunch).
-- **Implication of new budget**: original Sunset Beach Father's-Day-weekend Airbnb plan likely doesn't fit $600 total. Need cheaper lodging area — see Cali trip planning notes (chat 2026-06-03).
-- **Next action**: Will + Elena pick lodging area tonight/tomorrow, book Airbnb, then chase Saturday dinner reservation in Long Beach area once Reggie's exact studio location confirms.
+- **Sunday brunch with Lantu**: Lantu hosting (assume $0 budget impact).
+- **Gas strategy:** Walmart+ membership active — fuel only at Walmart fuel stations / Murphy USA / Murphy Express for the $0.10/gal discount. Route fillups (~820 mi round trip):
+  - **Pre-departure Fri**: top off at Chandler Walmart
+  - **Mid-route Fri** (~250–290 mi in): Indio Walmart (Monroe St) OR Beaumont Walmart (Highland Springs Ave)
+  - **Pre-return Sun**: Lakewood Walmart (Lakewood Blvd) before departing back
+  - Optional buffer: Blythe Walmart (Lovekin Blvd, ~155 mi from Chandler) if Indio/Beaumont skipped
+- **Recommended lodging area**: Long Beach interior (Bixby Knolls / 90805 / 90807) or Lakewood / Bellflower — $130–200/night dog-friendly inland gets the trip under $600 with gas. Sunset Beach / HB beachfront at Father's Day rates blows the budget.
+- **Saturday dinner cluster**: Belmont Shore (2nd Street) or Downtown LB East Village / Pine Ave — both ~10–15 min from likely Long Beach studio location, mid-tier $70–100 for 2 incl. drinks. Reserve 6:30–7 PM by **Fri Jun 6**.
+- **Next actions** (Will + Elena, next 48 hr): pick lodging area together → Airbnb search with dog-friendly + kitchen + $300 max for 2 nights cap → book by Wed Jun 4. Then Friday: Elena confirms Reggie's exact studio address → Will books Saturday dinner reservation.
 
 ---

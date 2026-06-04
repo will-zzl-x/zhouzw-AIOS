@@ -43,14 +43,16 @@ Defined 2026-05-31, clarified 2026-06-03.
 
 **What actually stalled the partnership in May 2025**: not deal-box math, not financing structure abstractly — **debt-load incompatibility with Will's Amazon employment**. The cold feet wasn't "this business doesn't support the debt" — it was "I can't service $500k–$1M of acquisition debt while still tied to my W-2, and I can't yet justify leaving Amazon for the acquisition."
 
-**What changed by 2026-05-31** (Scenario B = "Elena steps in"):
+**What changed by 2026-05-31** (Scenario B = "Elena steps in" + Dan's investor network):
 
 1. **Elena's cash contribution** — additional equity from her engineering income / savings, reducing the debt required to close any deal in the box.
 2. **Elena's time contribution** — her CFO/COO profile applied directly to acquisition operations, reducing the pressure for Will to be sole operator.
+3. **Dan's investor network** — clarified 2026-06-03 — Dan's role is CEO-ish (strategy + external capital), not sector expert. His investor relationships can raise additional outside capital, which compounds the debt-reduction effect of Elena's cash.
 
 **The combination:**
 - Less debt → smaller monthly note → less financial pressure on the Amazon-exit timing.
-- A second operator-capable partner → post-acquisition workload isn't all-on-Will → the business can run alongside Will's Amazon ramp-down through the planned late-2027 exit.
+- A second operator-capable partner (Elena) → post-acquisition workload isn't all-on-Will → the business can run alongside Will's Amazon ramp-down through the planned late-2027 exit.
+- Outside capital via Dan's investor network → further reduces SBA debt requirement → makes a bigger deal box accessible at the same risk profile.
 
 **What didn't change but is sometimes confused with Scenario B**: the Codie-honest deal-box recalibration (price $500k–$1M, SDE floor $286k–$367k price-scaled, $55k operator salary baked in, 12-mo manager-hire trigger after 90-day continuous-CF test → Year 2 truly-absentee). That recalibration is real and was made the same day, but it's a **deal-quality filter**, not the stall resolution. See "Thesis core" above.
 
@@ -70,29 +72,31 @@ The operational specifics of Scenario B. Proposed split below — *Will + Elena 
 
 **Proposed function split (Claude advice — Will + Elena + Dan to confirm):**
 
-Three-way founder split mapping each partner's strengths to the bookkeeping/accounting business:
+Three-person founding partnership. **Keep it small** — sector expertise and CPA network come in via Dan's contacts (hired, retained, or referenced), NOT as additional partners. Year-2 GM hire remains staff with equity vest, not founder.
 
 | Function | Owner | Why |
 |---|---|---|
-| **Strategy / direction** | Will | Cross-functional negotiation + big-picture optimization (per `context/acquisition.md`) |
-| **AI / tech modernization** | Will | The load-bearing thesis bet; Will's GenAI ops-suite background applies directly |
+| **Strategy / direction** | Dan (CEO-ish) | Big-picture lead; sets direction; runs board-level decisions |
+| **Investor relationships / capital raising** | Dan | Brings outside capital via his investor network — reduces debt dependency further (compounds Scenario B's resolution) |
+| **External network / sector + CPA introductions** | Dan | Connector to people who have direct sector expertise + CPA licensure — Dan doesn't carry the expertise himself; he opens the doors |
+| **AI / tech modernization** | Will (COO + CTO blend) | The load-bearing thesis bet; Will's GenAI ops-suite background applies directly |
+| **Operations leadership / day-to-day execution** | Will | Cross-functional negotiation + ops experience |
 | **M&A — sourcing & evaluating next deals** | Will | Acquisition energy + Frazier-pipeline ownership |
 | **Vendor / tooling relationships** | Will | Ops experience |
-| **Financial controls / compliance / reporting** | Elena | CFO/COO profile; technical reporting + modeling skills map directly |
+| **Financial controls / compliance / reporting** | Elena (CFO) | CFO/COO profile; technical reporting + modeling skills map directly |
 | **Process documentation / SOP buildout** | Elena | Documentation strength is the modernization keystone for a low-tech firm |
 | **Quality control across client books** | Elena | Detail-heavy QC mindset; bookkeeping errors have real client consequences |
 | **Firm financial planning (P&L, cash flow, hiring decisions)** | Elena | CFO function — budgets, financials, compliance |
-| **Industry / sector expertise** | Dan | Connector role + CPA network access |
-| **Client relationships (existing + reference network)** | Dan | If Dan has existing book of business — TBD on his side |
-| **CPA-on-record (if Dan licenses) OR retained-CPA management** | Dan | Owner of the AZ 51% constraint solution |
-| **Day-to-day bookkeeping production** | Hired staff (existing firm team + new hires via Year-2 manager) | Not anyone's highest-and-best use; the deal box assumes this scales independently |
-| **Client-facing tax strategy / advisory** | TBD — depends on credentialing | Requires EA or CPA license; not currently held by Will/Elena/Dan |
+| **Day-to-day bookkeeping production** | Hired staff (existing firm team + Year-2 GM with equity vest) | Not founder-level work; the Codie-honest box's $55k operator salary maps here |
+| **Client-facing tax strategy / advisory** | Outsourced or retained CPA (NOT a founding partner) | Requires EA or CPA license; brought in via Dan's network as needed, kept off the founder cap table |
+| **CPA-on-record / AZ 51% constraint solution** | Retained CPA via Dan's network OR avoid CPA-only services | The two clean paths — **retained CPA is not a founding partner**; if path is "avoid CPA-only services," constraint goes away entirely |
 
 Implications of this split:
-- **Will = CEO-ish** (strategy + tech + M&A + vendor)
-- **Elena = COO/CFO** (operations + financial controls + process + QC + firm finance)
-- **Dan = Industry lead** (sector + network + CPA constraint owner)
-- The "operator salary" baked into the Codie-honest box ($55k) maps most naturally to a **hired GM/manager** by Year 2, not to any of the three partners. Day-1 ramp leans on Will + Elena's time; Year 2 absentee state means most operational load shifts to the hired manager + Elena's continued CFO oversight.
+- **Dan = CEO** (strategy + capital + external network)
+- **Will = COO/CTO blend** (tech + ops + M&A pipeline)
+- **Elena = CFO** (financial controls + process + QC + firm P&L)
+- The **small-partnership constraint** is the operating principle: no fourth founder. Sector expertise, CPA licensure, and bookkeeping production all come in via hired/retained/referenced relationships, not equity at the founders' table.
+- Dan's investor relationships **compound** Scenario B — Elena's cash reduces required debt AND Dan's investor network can raise additional outside capital. Together the financing picture moves further from SBA-heavy toward equity-and-creative-financing, lowering the Amazon-exit timing pressure even further.
 
 **Equity split implications (separate from cash):**
 
