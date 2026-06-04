@@ -34,7 +34,13 @@ Father's Day weekend, drive trip with Elena + Koda.
   - **Mid-route Fri** (~250–290 mi in): Indio Walmart (Monroe St) OR Beaumont Walmart (Highland Springs Ave)
   - **Pre-return Sun**: Lakewood Walmart (Lakewood Blvd) before departing back
   - Optional buffer: Blythe Walmart (Lovekin Blvd, ~155 mi from Chandler) if Indio/Beaumont skipped
-- **Recommended lodging area**: Long Beach interior (Bixby Knolls / 90805 / 90807) or Lakewood / Bellflower — $130–200/night dog-friendly inland gets the trip under $600 with gas. Sunset Beach / HB beachfront at Father's Day rates blows the budget.
+- **Recommended lodging area**: Long Beach interior (Bixby Knolls / 90805 / 90807) or Lakewood / Bellflower. **Target ≤$140/night** to fund 3 restaurant meals (see meal plan below). Sunset Beach / HB beachfront at Father's Day rates blows the budget.
+- **Meal plan (Will wants to eat local, not groceries, for the 3 key meals):** Fri dinner + Sat lunch + Sat dinner all OUT; Sun brunch hosted by Lantu ($0); filler-only groceries (protein bars, snacks, Fri/Sat AM breakfast items) to bridge. Long Beach signature food = **Cambodian (Cambodia Town, Anaheim St)** — largest Cambodian community in the US, cheap + protein-forward (grilled meats, great for the cut). HB signature = fish tacos / surf-town seafood / brunch. Cut-aligned picks: Cambodian grilled meats, carne asada / grilled-fish tacos, seafood — all high-protein.
+  - **Fri dinner** (~arrive 4pm, casual near rental): Cambodian in Cambodia Town OR a taco spot. $45–55 for 2.
+  - **Sat lunch** (after HB Dog Beach AM, before the buffer to 4pm lesson): HB fish-taco / seafood spot. $35–45 for 2.
+  - **Sat dinner** (date-night anchor, post-lesson, Bixby Knolls / Atlantic Ave near studio): nicer sit-down. $80–100 for 2.
+- **Budget allocation @ $600 all-in:** gas ~$110 + lodging ~$280 (2 nts @ $140) + 3 meals out ~$180 + filler groceries ~$25 = ~$595. Closes if lodging holds ≤$140/night. Every $ under that = more dinner cushion.
+- **Allergy: Flonase OR Zyrtec both work for cats.** Best practice — **Zyrtec (cetirizine) ~1–2 hr before** the in-studio session for acute coverage; Flonase (nasal steroid) works best if started 1–2 days ahead (daily). For a one-off brief exposure, Zyrtec is the better single-dose option; start Flonase Thursday if using it.
 - **Saturday dinner cluster (for 5235 Pacific Ave)**: closest = **Bixby Knolls / Atlantic Ave** restaurants (~2 mi from studio — minimal post-lesson drive). Belmont Shore (2nd St) and Downtown LB / Pine Ave are both ~6–8 mi south = 15–20 min drive. Recommend Bixby Knolls / Atlantic Ave to stay close. Reserve 6:30–7 PM by **Fri Jun 6** — this is the date-night anchor, budget supports it.
 - **Next actions** (Will + Elena, next 48 hr): pick lodging area together → Airbnb search with dog-friendly + kitchen + $300 max for 2 nights cap → book by Wed Jun 4. Then Friday: Elena confirms Reggie's exact studio address → Will books Saturday dinner reservation.
 
