@@ -37,10 +37,29 @@ For broader (non-Dan) acquisition context, see `context/acquisition.md`.
 
 ---
 
+## Scenario B — the resolution to the 2025 stall
+
+Defined 2026-05-31, clarified 2026-06-03.
+
+**What actually stalled the partnership in May 2025**: not deal-box math, not financing structure abstractly — **debt-load incompatibility with Will's Amazon employment**. The cold feet wasn't "this business doesn't support the debt" — it was "I can't service $500k–$1M of acquisition debt while still tied to my W-2, and I can't yet justify leaving Amazon for the acquisition."
+
+**What changed by 2026-05-31** (Scenario B = "Elena steps in"):
+
+1. **Elena's cash contribution** — additional equity from her engineering income / savings, reducing the debt required to close any deal in the box.
+2. **Elena's time contribution** — her CFO/COO profile applied directly to acquisition operations, reducing the pressure for Will to be sole operator.
+
+**The combination:**
+- Less debt → smaller monthly note → less financial pressure on the Amazon-exit timing.
+- A second operator-capable partner → post-acquisition workload isn't all-on-Will → the business can run alongside Will's Amazon ramp-down through the planned late-2027 exit.
+
+**What didn't change but is sometimes confused with Scenario B**: the Codie-honest deal-box recalibration (price $500k–$1M, SDE floor $286k–$367k price-scaled, $55k operator salary baked in, 12-mo manager-hire trigger after 90-day continuous-CF test → Year 2 truly-absentee). That recalibration is real and was made the same day, but it's a **deal-quality filter**, not the stall resolution. See "Thesis core" above.
+
+---
+
 ## Anti-goals / risks
 
 - **Key-man risk** in firms <$500k — one top employee owns most of the client relationships → drives most profit, leaves on transition. Bias toward >$500k revenue + traditional separated org structure.
-- **Debt load anxiety** — the May 2025 stall. Mitigation: prefer creative financing (owner financing, seller-as-bank, retained equity) over cash-at-close SBA loans. See Scenario B (per `journals/dan-thesis-history.md` 2026-05-31 — *full specifics need fill*).
+- **Debt load timing risk** — the May 2025 stall. Mitigated by Scenario B (Elena's cash + time, above). If Elena's contribution changes or shifts, the stall reason returns and the partnership math has to be re-thought.
 - **Hard pass sectors**: restaurants, retail, daily-physical-presence requirements. Must be remote-manageable.
 
 ---
@@ -67,7 +86,7 @@ Decided 2026-05-31. Frame B = direct reactivation ask to Dan, with the debt-load
 
 Once 1 + 2 close, Will sends Frame B. Target: 30-min call to align on (a) is Dan still in, (b) refreshed deal box, (c) division of roles in the modernized sourcing pipeline, (d) Dan's CPA-licensure status.
 
-**Hard line for the message itself**: state the Scenario B resolution to the debt-load objection upfront. That's the thing that broke the partnership 13 months ago; not addressing it directly forfeits credibility of the reactivation.
+**Hard line for the message itself**: name the actual stall reason and the actual fix. The 2025 stall was *"I can't service $500k–$1M of acquisition debt while still W-2 at Amazon"* — not *"this business doesn't support the debt."* The fix is **Elena's combined cash + time contribution**: her cash reduces the debt required, and her CFO/COO bandwidth splits the post-acquisition operational load — letting Will ramp out of Amazon on the planned late-2027 timeline rather than forcing it earlier. Naming both the precise objection and the precise resolution is the credibility lever.
 
 > Draft the actual Frame B message in `_notes/dan-reactivation-message.md` (or another working location) once Frazier script + Apify scrape close — that way the message references the modernized pipeline with real numbers.
 
@@ -127,7 +146,7 @@ Drawn from Mike Warren Business Flipping Course (Will's 4/7 action item, complet
 Items not extractable from the Google Doc or existing AIOS files:
 
 1. **Pre-2025 connector context** — how Will met Dan, Dan's background, Dan's current professional status.
-2. **Scenario B specifics** — the exact framing that resolves the debt-load objection. Critical to nail down before the Frame B reach-out so the message names the resolution upfront.
-3. **Dormancy-period touch points** — any Will-Dan contact May 2025 → June 2026. Dan's current sentiment / availability.
-4. **Dan's CPA-licensure status as of 2026** — started? Decided against? Conditional on the partnership reactivating?
-5. **Frame B message draft** — wait until Frazier script + Apify scrape close before drafting, so the message references the modernized pipeline.
+2. **Dormancy-period touch points** — any Will-Dan contact May 2025 → June 2026. Dan's current sentiment / availability.
+3. **Dan's CPA-licensure status as of 2026** — started? Decided against? Conditional on the partnership reactivating?
+4. **Frame B message draft** — wait until Frazier script + Apify scrape close before drafting, so the message references the modernized pipeline.
+5. **Elena's specific cash + time commitment** — how much capital is she contributing as equity, and what's her time allocation (hrs/wk, roles she'd own, ramp timing relative to Will's Amazon exit)? Material to know before the Frame B message so the resolution is concrete vs. directional when Dan asks.

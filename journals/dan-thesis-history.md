@@ -85,9 +85,14 @@ Per `archives/2026-Q2-quarterly-review.md` + `archives/2026-05-31-reflection.md`
 
 **Sector LOCKED**: bookkeeping/accounting (Dan re-engagement aligned with Codie Sanchez "one sector, one city" rule).
 
-**The $500k–$1M debt load objection** (root cause of the May 2025 stall) is resolved by **Scenario B**:
+**The $500k–$1M debt-load objection** (root cause of the May 2025 stall) is resolved by **Scenario B = Elena steps in**:
 
-> [NEEDS FILL] What is Scenario B specifically? Mentioned in `state.md` L66 and the 5/31 reflection but never spelled out. Likely either (a) higher revenue capacity baked into a refreshed deal box, (b) different financing structure leaning into owner-financing / creative deal terms (per Mike Warren tactics), OR (c) lower target deal size — but the specific framing isn't captured. Worth documenting explicitly before the Frame B reach-out so the message names the resolution upfront.
+- **Elena's cash contribution** — additional equity from her engineering income / savings → reduces the debt required to close any deal in the box.
+- **Elena's time contribution** — her CFO/COO profile applied to acquisition operations → reduces the pressure for Will to be sole operator → the business can run alongside Will's Amazon ramp-down through the planned late-2027 exit.
+
+The actual 2025 stall wasn't "this business doesn't support the debt" — it was "I can't service $500k–$1M of acquisition debt while still tied to my Amazon W-2." Elena's combined cash + time fixes both halves of that constraint.
+
+**Also recalibrated same day** (separate from Scenario B but adjacent): the deal box itself, against Codie's actual Step 3 formula — $500k–$1M price range, $286k–$367k SDE floor (price-scaled), $55k operator salary baked in, 12-mo manager-hire trigger after 90-day continuous-CF test → Year 2 truly-absentee. This is the deal *quality filter*, ensuring any acquired business can structurally support a hired operator. Often confused with Scenario B (because both were defined the same day) but distinct: the box recalibration is "what deals are workable," Scenario B is "why the partnership unstalls."
 
 **Reach-out frame**: B (direct ask) — see `context/dan-thesis.md`.
 
