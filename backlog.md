@@ -20,7 +20,7 @@ Ranked top-to-bottom = priority order. Top-N read by morning brief. Daily consis
 | july-trip-decide | 12 | July friend trip — clean pass message + offer remote logistics help | Relationships | parked | deadline:2026-06-15 | — | Parked 2026-06-04 per Will: no bandwidth, won't focus on it this cycle. Was surfacing in morning brief via deadline-proximity rule. Unpark + send the pass message before the deadline if bandwidth opens up; otherwise it lapses by default (which IS effectively the clean pass). |
 | fitness-pipeline | 13 | Build fitness logging pipeline (Liftosaur + weight + steps) | AIOS-Infra | open | window:weekend | — | task #74; ends Sunday paste habit |
 | test-plan-elena | 14 | Test-plan close-the-loop with Elena | Relationships | done | your-call | — | resolved 2026-06-01: home test negative at 11 days late; thread closed. Reopen trigger: if her period still hasn't returned by mid-June, that's a doctor visit (thyroid/stress workup), not a re-test. |
-| escalation-scraper | 15 | Escalation scraper: build threshold logic | Career | open | open | — | parked behind promo doc + Jeff ramp; revisit Jul |
+| escalation-scraper | 15 | Escalation scraper: build threshold logic | Career | done | open | — | Closed 2026-06-04 without AIOS action: coverage absorbed by ICT automation projects on the work laptop, or explicitly deprioritized vs. higher-leverage work (promo doc, Jeff ramp, acquisition pipeline). No need to revisit. |
 | style-grooming-sprint | 16 | Style + grooming overhaul (stylist consult, wardrobe pass, tailor pieces, pair with NYC Cut haircut) | Relationships | open | deadline:2026-06-22 | — | one-shot attractiveness sprint, parallel to cut keystone reset; not a recurring keystone |
 
 ## Inbox (unranked) — sorted in next reflection
