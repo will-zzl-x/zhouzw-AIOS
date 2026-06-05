@@ -17,7 +17,7 @@ Ranked top-to-bottom = priority order. Top-N read by morning brief. Daily consis
 | mechanism-notes-layer | 9 | Mechanism notes evidence layer (SKED Flex pitch + WEPAY_IMPORTS Matt brief) | Career | in-progress | window:Q2 | — | L5 evidence; protect over Mario reactives |
 | hotel-block-chase | 10 | Hotel block: chase pending + open 2-3 more | Wedding | in-progress | drift | — | 25/35 OOT gap; decays if untouched |
 | pre-cana-schedule | 11 | Schedule Pre-Cana process | Wedding | open | open | — | St. Andrew side, no hard date |
-| july-trip-decide | 12 | July friend trip — clean pass message + offer remote logistics help | Relationships | open | deadline:2026-06-15 | — | drift = worst outcome; decide cleanly mid-June |
+| july-trip-decide | 12 | July friend trip — clean pass message + offer remote logistics help | Relationships | parked | deadline:2026-06-15 | — | Parked 2026-06-04 per Will: no bandwidth, won't focus on it this cycle. Was surfacing in morning brief via deadline-proximity rule. Unpark + send the pass message before the deadline if bandwidth opens up; otherwise it lapses by default (which IS effectively the clean pass). |
 | fitness-pipeline | 13 | Build fitness logging pipeline (Liftosaur + weight + steps) | AIOS-Infra | open | window:weekend | — | task #74; ends Sunday paste habit |
 | test-plan-elena | 14 | Test-plan close-the-loop with Elena | Relationships | done | your-call | — | resolved 2026-06-01: home test negative at 11 days late; thread closed. Reopen trigger: if her period still hasn't returned by mid-June, that's a doctor visit (thyroid/stress workup), not a re-test. |
 | escalation-scraper | 15 | Escalation scraper: build threshold logic | Career | open | open | — | parked behind promo doc + Jeff ramp; revisit Jul |

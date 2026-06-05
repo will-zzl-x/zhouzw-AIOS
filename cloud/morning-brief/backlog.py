@@ -6,7 +6,7 @@ The backlog is a single ranked markdown table. Format:
     |---|---|---|---|---|---|---|---|
     | promo-doc-final | 1 | ... | Career | in-progress | deadline:2026-06-30 | — | ... |
 
-Status values: open / in-progress / blocked / done
+Status values: open / in-progress / blocked / parked / done
 Gate formats: deadline:YYYY-MM-DD, event:<name>, window:MM-DD..MM-DD,
               window:weekend, window:Q2, drift, your-call, open
 Depends-on:   comma-separated id list (no spaces), or "—" (em dash) for none
@@ -26,6 +26,8 @@ from typing import Iterable
 EM_DASH = "—"
 
 # Status values that count as "live" (eligible to surface).
+# `parked` and `blocked` and `done` all filter out — only open/in-progress
+# items can be promoted as Major Moves in the morning brief.
 _LIVE_STATUSES = {"open", "in-progress"}
 
 # Gates that always pass the time-window check.
