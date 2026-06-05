@@ -68,3 +68,11 @@ Format: ✓ = done, □ = planned/pending
 **2026-06-04 (Thu)** — NYC Cut Wk 2 ending
 □ Walk 12,500 steps today
 □ Verify Dan thesis files, close workflow gaps
+
+**2026-06-05 (Fri)** — NYC Cut Wk 2 ending
+□ Walk 12,500 steps today
+□ Take one unannounced 15–30 min solo block
+□ Elena: full presence, no intimacy talk tonight
+□ Advance promo doc: one focused review pass
+□ Send clean-pass message on July friend trip
+□ Mindset — Don't over-pursue when you feel the gap; redirect into your own thing. The next time you feel the pull to text-check / seek reassurance from Elena, route that energy into a workout, a work problem, or a friend instead.
