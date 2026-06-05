@@ -20,6 +20,16 @@ Father's Day weekend, drive trip with Elena + Koda.
 
 ---
 
+**2026-06-04 — SoCal trip ✅ BOOKED**
+
+- **Sonesta Select HB Fountain Valley** locked via Sonesta Travel Pass member rate (beat SAVEMORE 30% promo on this stay)
+- **Thai District** booked OpenTable for Sat Jun 20 6:30 PM
+- **Fri dinner pivoted from Phnom Penh (Cambodia Town LB) → Brodard (Vietnamese, Fountain Valley)** — kept LB Cambodian-equivalent local-iconic SE Asian theme but inside the Friday hotel zone (~5 min from Sonesta vs 25 min). Saturday LB dinner = Thai District holds.
+- Full 17-event itinerary on Google Calendar (drive blocks · Walmart+ fuel stops at Sam's Club Tempe / Indio / Lakewood · Mile Square Park morning · Bolsa Chica · Reggie · meals · Koda walks · brunch · drive home)
+- HTML trip overview generated + shared with Elena
+
+---
+
 **2026-06-03 — SoCal trip updates: Reggie confirmed + budget set**
 
 - **Reggie confirmed: Saturday after 4pm in Long Beach.** Studio: **5235 Pacific Ave #A, Long Beach CA 90805** (North Long Beach / Bixby Knolls-adjacent — same zone as recommended lodging).
