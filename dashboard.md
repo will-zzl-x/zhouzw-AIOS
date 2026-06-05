@@ -6,6 +6,8 @@ Q2 quests · Work main: deal-ready by Aug · Life main: become my own point of o
 These fire daily until status changes. Brief always emits these alongside the daily-standard.md gates — never rotated by anti-repeat. Gate-clear = surfaces.
 
 - **Solo-space rep: take one 15–30 min unannounced solo block today** (walk / errand / coffee / podcast / garage) — Phase 2 desire-polarity work (`goals/desire-polarity.md` L46, L52). Daily rep substitute through the cut (MMA returns post-Jul 11). Don't announce, don't justify, return without commentary.
+- **Phone off the nightstand at bedtime** — charge in kitchen / living room, alarm clock for wake-up. Newport's single highest-leverage digital-minimalism rule: protects sleep, eliminates first-thing-in-the-morning scroll, supports presence with Elena. (`references/newport.md`)
+- **Phone out of reach during today's deep work block** — drawer, another room, or face-down in airplane mode. If no deep work block today, skip. Defends Main Quest execution from reactive context-switching. (`references/newport.md`)
 - **Sunday paste habit** (Sundays only) — 5-min weight + sessions + steps to journals/daily-log.md (until task #74 pipeline lands)
 - **Step target 12,500/day** (overrides daily-standard 10k floor — cut math requires the bump)
 - **Zone 2 cardio: 3× / week, ~30 min, conversational pace** — walk / bike / row (no running). Skip on Leg-lift days. For work capacity, not cut math. First lever to drop if Larsen Press canary trips below 155×5/5/5 @9.
