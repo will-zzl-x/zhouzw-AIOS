@@ -156,3 +156,159 @@ Three principles for sustainable elite performance:
 - "I can't shut down at night" → install shutdown ritual
 - "I'm working on the wrong things" → check the Two-List filter; ask "is this top-5 or middle-20?"
 - "I'm exhausted but unproductive" → Slow Productivity violation — too many concurrent commitments, no recovery rhythm
+- **"I'm scrolling too much / wasting time on social media"** → invoke Digital Minimalism (below)
+
+---
+
+# Digital Minimalism (Newport 2019)
+
+Source: "Digital Minimalism: Choosing a Focused Life in a Noisy World"
+
+Added to AIOS 2026-06-04 per Will: scrolling social media is one of the biggest blockers to Main Quest execution and presence with Elena.
+
+## Core Principle
+
+> "A philosophy of technology use in which you focus your online time on a small number of carefully selected and optimized activities that strongly support things you value, and then happily miss out on everything else."
+
+Three foundational rules:
+1. **Clutter is costly.** Cluttering your time and attention with too many devices/apps/services creates an overall negative cost that can swamp the small benefits of each addition.
+2. **Optimization is important.** Choosing the right tool isn't enough — you have to think carefully about *how* you use it.
+3. **Intentionality is satisfying.** Spending time on values-aligned activities (even if "low-tech") consistently feels better than reactive consumption.
+
+## The Mechanism — Why Scrolling Wins
+
+Social media platforms aren't accidentally addictive. They're optimized — by some of the most sophisticated behavioral engineers in the world — for **intermittent variable reward** and **social approval indicators** (likes, comments, notifications). Same neurochemical pathway as gambling and addictive substances.
+
+You're not weak for losing to them. You're losing to billion-dollar attention-engineering systems designed by smart adversaries. **The only winning move is to remove yourself from the game**, not to "use willpower better."
+
+## The 30-Day Digital Declutter
+
+The signature intervention. Used by 1,600+ Newport readers in his original study.
+
+### Phase 1 — Define rules (Day 0)
+
+Identify "optional technologies" — any app/site/platform that:
+- Isn't essential for work or critical relationships
+- You'd be embarrassed to admit how much time you spend on it
+- You sometimes wish you used less
+
+For Will likely: Instagram, X/Twitter, TikTok if applicable, Reddit, YouTube (non-educational), maybe LinkedIn for non-work browsing.
+
+NOT optional (Will's keep-list):
+- Slack (Amazon work, required)
+- Email (work + acquisition outreach)
+- Texts/calls (Elena, family, friends)
+- Maps, banking, calendar, weather, etc. (utility)
+- Spotify / podcasts (high-quality leisure)
+- AIOS Claude work
+- LinkedIn / SBA / acquisition research (work-coded)
+
+### Phase 2 — 30-day total break (Days 1–30)
+
+Delete or block every optional technology for 30 full days. Cold turkey. The point isn't moderation — it's letting the dopamine system reset so you can actually evaluate what each technology adds (or doesn't) to your life.
+
+Practical execution:
+- Delete the apps from the phone
+- Use website blockers (Cold Turkey, Freedom, Opal, or iOS Screen Time with a passcode Elena holds) for browser access
+- Tell key people you're doing it so they don't expect immediate responses
+
+What will happen:
+- **Week 1**: Discomfort. Reach-for-phone impulses 50+ times/day. Boredom. Anxiety. "Phantom vibration" syndrome.
+- **Week 2**: Discomfort fades. Some clarity emerges. Real boredom forces you to fill the gap with something else.
+- **Weeks 3–4**: You discover what you actually want to do with the recovered time. Read a real book. Practice violin (Will-specific). Walk silently. Have a real conversation. This is the data you need for Phase 3.
+
+### Phase 3 — Reintroduce intentionally (Day 31+)
+
+For each optional technology, ask three questions:
+1. **Does this technology directly support something I deeply value?** (Not "is it useful for X" — does it directly support a value I'd defend to my future self?)
+2. **Is it the best way to support this value?** (Not just an acceptable way — the *best* way?)
+3. **What specific rules would let me use it intentionally without being captured by it?**
+
+Most things fail Q1 or Q2. The few that pass get reintroduced *with specific rules* — never just "I'll use less of it."
+
+Example reintroduction rules:
+- "X/Twitter: 15 min/day, desktop only, weekday lunch only, follow only 20 accounts I've explicitly chosen."
+- "Instagram: deleted from phone permanently. Browser-only if I need to look at something specific."
+- "YouTube: 30 min/day, never the homepage, only specific channel URLs."
+
+## Newport's Practical Rules That Tend to Stick
+
+The intermediate steps if a 30-day declutter feels too big:
+
+1. **Phone out of bedroom.** Charge in kitchen or living room. Buy a real alarm clock. *Single highest-impact rule for most people.* Addresses morning-scroll and pre-sleep-scroll simultaneously.
+2. **Delete social media apps from phone.** Use desktop browser only. Friction kills the impulse.
+3. **No phone during meals.** With Elena, with friends, alone. Pair with phone-parking spot near the entryway when home.
+4. **No phone in the bathroom.** Brief boredom is fine; phantom utility is not.
+5. **Phone in drawer during deep work blocks.** Or in a different room entirely.
+6. **Greyscale mode on phone.** Removes the color-engineered addictive triggers. Settings → Accessibility → Display & Text Size → Color Filters → Grayscale.
+7. **One home screen, no folder shuffling.** Apps get deleted or moved to a single utility screen. No "discovery" via swiping.
+8. **Notifications off by default.** Only humans (texts, calls) get through. Email + Slack + everything else is pull-not-push.
+9. **Scheduled email/Slack windows.** Twice a day at fixed times. Closed otherwise. Pairs with Deep Work blocks.
+
+## Solitude as a Practice
+
+Newport defines solitude as: "a subjective state in which your mind is free from input from other minds." (NOT physical isolation — input-free.)
+
+Scrolling kills solitude. Even passive scrolling fills your mind with other people's thoughts, framings, emotions. Without solitude, you can't think your own thoughts → can't process emotions → can't reach your own conclusions → can't be a self-validating "point of origin" (your Life Main Quest).
+
+**Solitude practices** (these connect directly to your Solo-space rep system):
+- Silent walk (no podcast, no music, no phone) — exactly what Schnarch self-soothing called for
+- Journaling (writing without an audience — for you)
+- Long-distance walking / running without input
+- Sitting on a porch or by a window without your phone
+
+You already have **silent treadmill walking** as your default Solo-space rep activity. That IS Newport's solitude practice. Doubling down on it (3–4×/week instead of 2×) would significantly reduce the input-saturation problem that drives scrolling.
+
+## High-Quality vs Low-Quality Leisure
+
+Newport's distinction:
+- **Low-quality leisure**: passive consumption (scrolling, Netflix-as-default, YouTube rabbit holes). Easy in the moment, leaves you feeling drained and unsatisfied.
+- **High-quality leisure**: active, skill-building, social, physical. Harder to start, but compounds — leaves you feeling alive and engaged.
+
+For Will, the high-quality leisure roster (some already in rotation):
+- Violin practice (in Solo-space rep)
+- Reading (non-instrumental — fiction, history, philosophy — already discussed in desire-polarity work)
+- Long walks / hikes
+- Real conversation with Elena (without phone)
+- Cooking together (intentional cooking, not "throwing dinner together")
+- Friend time in person (already in cadence)
+- Acquisition reading (Codie, Hormozi — Work-Main-aligned high-quality)
+
+**The trap**: when energy is low (post-Amazon day), low-quality leisure feels like all you can summon. Newport's answer: low-quality leisure should be **scheduled and bounded**, not default-mode. Decide ahead of time: "I'll watch one episode after dinner" — not "I'll scroll until I feel like stopping."
+
+## Will's Specific Application
+
+**The pattern to break**: scrolling fills boredom, between-task transitions, post-work decompression, in-bed/morning, and waiting moments. Each instance is small; the cumulative cost is measured in hours/week of attention that should be going to Main Quests + Elena + recovery.
+
+**Suggested 3-tier intervention** (pick one to start, escalate if it doesn't move the needle):
+
+**Tier 1 — Light** (start here if 30-day declutter feels too big):
+- Delete Instagram, X, TikTok, Reddit from phone (browser-only with website blockers)
+- Phone out of bedroom (alarm clock takeover)
+- Phone in drawer during the daily Deep Work block
+
+Estimated time recovered: **~7–10 hrs/week**. Should be obvious within 1 week.
+
+**Tier 2 — Medium**:
+- All Tier 1, plus:
+- Greyscale mode on phone (always)
+- One home screen, no folder shuffling
+- Notifications off for everything except texts/calls
+
+Estimated additional time recovered: **~3–5 hrs/week**.
+
+**Tier 3 — Full 30-Day Declutter**:
+- All optional tech off for 30 days (use the framework in Phase 2 above)
+- One-shot intervention; expected to permanently shift baseline
+
+Most leveraged for a long-term reset, but biggest activation cost.
+
+**Recommended starting move: Tier 1 + add the 30-day declutter to backlog as a one-shot Q3 initiative.** Tier 1 is low-cost and immediate; the declutter is a "do once and the system shifts" intervention that should be timed for a quieter window than the current cut + Amazon push.
+
+## Quick reference — when to invoke Digital Minimalism
+
+- "I'm scrolling too much" → start at Tier 1, escalate if needed
+- "I can't focus / I keep checking phone during deep work" → phone-in-drawer rule + notifications off
+- "I'm not present with Elena" → phone-free meals + bedroom-free phone + phone-parking-spot-at-door
+- "I'm tired but can't sleep / can't wake up rested" → bedroom-free phone is the single highest-leverage sleep intervention
+- "I have time but feel scattered" → solitude practice (silent walk) before deciding what to do
