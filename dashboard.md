@@ -10,6 +10,7 @@ These fire daily until status changes. Brief always emits these alongside the da
 - **Step target 12,500/day** (overrides daily-standard 10k floor — cut math requires the bump)
 - **Zone 2 cardio: 3× / week, ~30 min, conversational pace** — walk / bike / row (no running). Skip on Leg-lift days. For work capacity, not cut math. First lever to drop if Larsen Press canary trips below 155×5/5/5 @9.
 - **Elena: presence under stress-load** (zero night talks about intimacy — hard rule)
+- **Dance practice 2× / week, 15–20 min** — apply Reggie's lessons at home between sessions. Living room + playlist. Compounds the lesson investment + relationship touchpoint.
 - **Friend cadence: one real touchpoint every ~2 weeks** (anchored W22 — keep rhythm)
 
 Cut-phase fitness gates (training / protein 150g+ / cals ~1,820 / steps) → see `context/daily-standard.md`.
