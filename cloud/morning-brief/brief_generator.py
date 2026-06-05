@@ -28,10 +28,13 @@ Rules:
 
 3. MAJOR MOVES (1–2 items, sm_id REQUIRED, anti-repeat applies) —
    THEN add 1–2 Major Moves drawn ONLY from the strategic_moves list provided in the user message. That list is already pre-filtered for eligibility (status open/in-progress, gate satisfied, all blockers done) — do not invent moves and do not pull from elsewhere. Pick by, in order:
-     a. Hard deadline proximity wins — any move with gate "deadline:YYYY-MM-DD" within 14 days of today goes first.
-     b. Then window-locked items — gate "window:MM-DD..MM-DD" where today is in the window.
-     c. Then drift items — items that haven't been touched in journals/daily-log.md recently.
-     d. Then rank order (lower # = higher priority).
+     a. **Hard deadline within 7 days wins regardless of quest tag** — any move with gate "deadline:YYYY-MM-DD" within 7 days of today goes first. Deadlines override the quest filter.
+     b. **Prefer Main Quest items over Side Quest items** at every remaining tier. Each strategic_moves entry has a `quest` field with values: "work-main" / "life-main" / "side" / "not-quest". When picking 2 Major Moves, aim for one work-main AND one life-main if both are available. If only one Main Quest tier has eligible items, fill with the highest-priority side or not-quest item.
+     c. Within each quest tier (e.g. all work-main items), apply secondary priority:
+        - Hard deadline within 14 days first
+        - Then window-locked items (gate "window:MM-DD..MM-DD" where today is in window)
+        - Then drift items (no recent touch in journals/daily-log.md)
+        - Then rank order (lower # = higher priority)
    Each Major Move task MUST include the sm_id field, copied VERBATIM from the strategic_moves entry's id.
 
 4. ANTI-REPEAT (Major Moves ONLY) —
@@ -81,6 +84,7 @@ def build_strategic_moves_section(backlog_text: str, today: date) -> str:
             "id": m["id"],
             "title": m["title"],
             "area": m["area"],
+            "quest": m["quest"],
             "gate": m["gate"],
             "notes": m["notes"],
         }
@@ -90,6 +94,9 @@ def build_strategic_moves_section(backlog_text: str, today: date) -> str:
     return (
         "# strategic_moves (eligible from backlog.md, status:open or "
         "in-progress, gating-clear, depends-on satisfied)\n\n"
+        "# quest values: work-main / life-main / side / not-quest — "
+        "Main Quest items (work-main, life-main) get priority when picking "
+        "Major Moves per Rule 3.\n\n"
         f"{body}"
     )
 

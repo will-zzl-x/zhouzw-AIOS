@@ -93,23 +93,26 @@ Side quests can stack (1–3), but if you're running 5 main quests simultaneousl
 
 ---
 
-## Application to Will's AIOS
+## Application to Will's AIOS (updated 2026-06-04 — current Q2 quest map)
 
-Will's Q2 setup has 5 named quests across 5 areas. Under Abdaal's framework:
+Will's Q2 quests per `state.md` (set in the May 25 quarterly review):
 
-| Quest | Classification |
-|-------|---------------|
-| Career — "Build the Promo Doc" | **Work Main Quest** |
-| Fitness — "Execute the NYC Cut" | **Life Main Quest** |
-| Relationships — "Court Elena" | Side Quest |
-| Money — "Find the Business" | Side Quest |
-| Wedding — "Clear the Stack" | Side Quest |
+| Quest | Classification | Why this one |
+|-------|---------------|--------------|
+| Money — "Exit Codie Learn phase, deal-ready by Aug 31" | **Work Main Quest** | Acquisition is the actual exit vehicle (leaving Amazon late 2027). The promo doc was previously Work Main but plateaued in marginal value; acquisition is the leveraged path forward. |
+| Life — "Become my own point of origin" | **Life Main Quest** | Worth-pinned-to-scoreboard is the root running across every area (career, money, relationships, fitness). Killing that root unlocks the rest. Keystone: Sunday Zone 2 treadmill + daily solo-space rep + desire-polarity work. |
+| Fitness — "Execute the NYC Cut" through Jul 11 | Side Quest | Daily-attention container, not primary leverage. The cut serves Life Main Quest (point of origin's physical-discipline-as-gravity axis), not a quest in itself. |
+| Career — "Ship the promo doc" (~Jun 30) | Side Quest | Demoted from primary. Still ship it (deadline-locked) but it's no longer the lever. |
+| Relationships — "Friend cadence + Elena presence" | Side Quest | Daily Consistents on dashboard, not a focused 90-day push. |
+| Wedding — "Clear the stack" | Side Quest | Hotel block + Pre-Cana + save-the-dates — operational maintenance. |
 
-**Key implication:** Career and Fitness get equal daily presence (they're both Main Quests). Relationships, Money, and Wedding move when there's bandwidth — they don't compete with the main two on daily priority.
+**Key implication:** Money/acquisition and Life/point-of-origin get equal daily presence (they're both Main Quests). Fitness gets standard daily targets but doesn't compete with the Main Quests on priority slot allocation. Promo doc gets deadline-driven time-boxed attention as a Side Quest with a hard cutoff.
 
-**Daily targets for Will (Abdaal-aligned):**
-1. **Career** — 1 SCM II behavior logged or promo doc advanced
-2. **Fitness** — Ravage session (training day) OR 10k steps + 150g protein (off day)
-3. **Side** — one move from relationships, money, or wedding (rotate by urgency)
+**Daily targets for Will (Abdaal-aligned, current quest map):**
+1. **Acquisition (Work Main)** — 1 deal-eval rep OR 1 outreach action OR 1 listing-review session
+2. **Point of origin (Life Main)** — solo-space rep done (silent treadmill walk, violin, meditation, etc.) + a catch-and-redirect rep if one surfaces
+3. **Cut maintenance (Side)** — Ravage session (training day) + protein 150g + 10k–12.5k steps · per `context/daily-standard.md`
 
-This matches what `context/daily-standard.md` already implements.
+This expands but doesn't replace `context/daily-standard.md`'s existing 3-gate system. The cut targets remain operational daily gates; Abdaal's Main Quest targets are the **additional** quest-aligned moves the morning brief surfaces as Major Moves with quest-priority ranking.
+
+**Implementation note 2026-06-04**: `backlog.md` now carries a `Quest` column with values `work-main / life-main / side / not-quest`. The morning brief prioritizes work-main and life-main items above side items within the same eligibility tier (hard deadlines still win first).
