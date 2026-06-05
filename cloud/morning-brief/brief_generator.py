@@ -48,7 +48,7 @@ Rules:
 
 8. DIFFERENTIATION CUE (~2–3× per week, NOT every day) — On those mornings, append ONE cue as the FINAL item. For this item ONLY: copy a single bullet VERBATIM from daily-standard.md's "Differentiation Cues" or "Sufficiency cues" list — do not shorten, abbreviate, reword, or strip it to keywords (the 5–10-word and verb-first rules do NOT apply here; the full sentence carries the meaning). Prefix it with "Mindset — ". Set area "relationships", priority 4, sm_id null. Omit entirely on other days — never emit a bare keyword.
 
-9. OUTPUT — JSON array only. No prose. No markdown fences. 5–8 tasks total.
+9. OUTPUT — JSON array only. No prose before or after. No markdown fences. **Do not draft, comment, then re-output**: emit one final JSON array and stop. Emit ALL required gates from Rule 1 + ALL eligible Daily Consistents from Rule 2 + 1–2 Major Moves from Rule 3 + the optional Differentiation Cue from Rule 8 if applicable. Total count varies with how many Daily Consistents are eligible today — typically 8–14 tasks.
 
 Output schema:
 [
@@ -145,18 +145,23 @@ Generate today's brief as JSON."""
             text = text[4:]
         text = text.strip()
 
-    # Defensive extraction: model sometimes adds a prose preamble or unknown
-    # fence variant. Find the JSON array bounds and parse just that slice.
+    # Defensive extraction: model sometimes adds a prose preamble, prose
+    # postamble, or even drafts multiple JSON arrays before finalizing.
+    # Strategy:
+    #   1. Skip past any prose preamble — find the first '['
+    #   2. Use json.JSONDecoder.raw_decode() to parse ONE complete JSON value
+    #      and ignore everything after it (commentary, second drafts, etc.)
     start = text.find("[")
-    end = text.rfind("]")
-    if start == -1 or end == -1 or end < start:
+    if start == -1:
         raise ValueError(f"No JSON array found in brief output. Raw text: {text!r}")
-    text = text[start : end + 1]
+    text_from_array = text[start:]
 
     try:
-        tasks = json.loads(text)
+        decoder = json.JSONDecoder()
+        tasks, _ = decoder.raw_decode(text_from_array)
     except json.JSONDecodeError as e:
         raise ValueError(f"Brief output is not valid JSON ({e}). Raw text: {text!r}") from e
+
     if not isinstance(tasks, list) or not all(isinstance(t, dict) for t in tasks):
         raise ValueError(f"Brief output is not a list of dicts: {tasks!r}")
     return tasks
