@@ -15,7 +15,7 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | id | # | Title | Area | Quest | Status | Gate | Depends-on | Notes |
 |---|---|---|---|---|---|---|---|---|
 | promo-doc-final | 1 | Promo doc — final review → manager-align | Career | side | in-progress | deadline:2026-06-30 | — | first sprint, hard cutoff, then done |
-| frazier-script-v2 | 2 | Roland Frazier YouTube + outreach script v2 | Money | work-main | open | window:06-01..06-02 | — | closes 13-mo-old action item; gates Apify + Dan |
+| frazier-script-v2 | 2 | Roland Frazier YouTube + outreach script v2 | Money | work-main | done | window:06-01..06-02 | — | Resolved 2026-06-04: Frazier transcript ingested, full v2 outreach script + first-conversation flow captured to `context/frazier-outreach-script.md`. Closes 13-mo-old action item from May 2025. Unblocks apify-scrape (#4). |
 | jeff-ramp-kickoff | 3 | Jeff ramp kickoff (3-wk shadow→solo with Colton) | Career | not-quest | open | window:06-01..06-02 | — | frees Will's bandwidth for DOE push |
 | apify-scrape | 4 | Apify Google Maps scrape + Claude lead-enrichment | Money | work-main | blocked | window:06-03..06-04 | frazier-script-v2 | bookkeeping/accounting, 20mi Phoenix metro |
 | dan-reachout | 5 | Reach out to Dan — Frame B direct, 30-min call | Money | work-main | blocked | your-call | frazier-script-v2,apify-scrape | reactivation message, readiness-gated |
