@@ -1846,10 +1846,10 @@
         "name": "2% cottage cheese",
         "amount": "22",
         "unit": "oz",
-        "store": "Walmart"
+        "store": "Costco"
       },
       {
-        "name": "1/3 fat cream cheese",
+        "name": "Fat-free cream cheese",
         "amount": "3.3",
         "unit": "oz",
         "store": "Walmart"
@@ -2500,9 +2500,15 @@
         "store": "Costco"
       },
       {
-        "name": "Cauliflower rice (frozen, or fresh-bagged)",
-        "amount": "1",
-        "unit": "bag (~12-16oz)",
+        "name": "White rice (dry)",
+        "amount": "1.5",
+        "unit": "cups dry (~5 srv cooked at ~0.7 cup each)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Frozen pepper & onion stir-fry mix (fajita mix)",
+        "amount": "1.5",
+        "unit": "lb (~half of Costco bag)",
         "store": "Costco"
       },
       {
@@ -2512,27 +2518,21 @@
         "store": "Walmart"
       },
       {
-        "name": "Bell peppers, sliced",
-        "amount": "1",
-        "unit": "lb (~3-4 peppers, color mix)",
-        "store": "Walmart"
-      },
-      {
-        "name": "Red onion, sliced",
-        "amount": "1",
-        "unit": "medium",
-        "store": "Walmart"
-      },
-      {
         "name": "Salsa or pico de gallo",
         "amount": "1",
-        "unit": "cup (~8oz jar or fresh)",
+        "unit": "cup",
         "store": "Walmart"
       },
       {
         "name": "Shredded Mexican cheese blend",
         "amount": "0.5",
         "unit": "cup (~2oz)",
+        "store": "Walmart"
+      },
+      {
+        "name": "0% Greek yogurt (as sour-cream sub topping)",
+        "amount": "0.5",
+        "unit": "cup (~4oz total, ~1.5 Tbsp/srv)",
         "store": "Walmart"
       },
       {
@@ -2554,7 +2554,7 @@
         "store": "Walmart"
       },
       {
-        "name": "Avocado oil (peppers/onions)",
+        "name": "Avocado oil (peppers/onions saut\u00e9)",
         "amount": "1",
         "unit": "Tbsp",
         "store": "Walmart"
@@ -2574,23 +2574,20 @@
       {
         "name": "Salt",
         "amount": "0.5",
-        "unit": "tsp (or to taste)",
+        "unit": "tsp",
         "store": "Walmart"
       }
     ],
-    "notes": "M4 dinner, 5 srv. Bowl format: chipotle thigh chunks + cauli rice + black beans + sauteed peppers/onions + salsa + avocado + cheese + lime + cilantro. Macros per serving: ~450 cal / 35g protein / 18g fat / 30g carbs (beans + cauli rice + salsa are the carb sources; cauli rice swap for white rice keeps carbs reasonable on cut). Reheat: oven/microwave thighs + beans + cauli rice together; add fresh avocado + cheese + salsa cold per serving. Sub white rice for cauli rice for non-cut servings if desired. Refactored from asparagus side -> bowl format 2026-06-06 per Will preference. NEW 2026-06-06 \u2014 first cycle.",
+    "notes": "M4 dinner, 5 srv. Bowl format: chipotle thigh chunks + white rice + black beans + saut\u00e9ed frozen peppers/onions + salsa + Greek yogurt (sour-cream sub) + cheese + avocado + lime + cilantro. Macros per serving with white rice: ~570 cal / 38g protein / 16g fat / 55g carbs (rice + beans + salsa are the carb sources; switched from cauli rice to rice 2026-06-06 per Will preference). On cut: this is the heaviest M4 of the week \u2014 pair with a lighter Will-solo dinner the next day. Reheat: warm rice + beans + thighs + peppers/onions together (microwave 90s); add cold toppings per serving. Refactored from cauli rice + fresh peppers -> white rice + frozen peppers/onions + Greek yogurt 2026-06-06 per Will.",
     "on_break": false,
     "recipe_available": true,
     "recipe_steps": [
-      "Preheat oven to 400F.",
-      "Lay marinated thighs on sheet pan (no need to add oil \u2014 pre-marinated).",
-      "Bake thighs 30 min (165F internal). Let rest 5 min, slice into bite-sized chunks.",
-      "While thighs bake, heat avocado oil in skillet over medium-high heat.",
-      "Add bell peppers + red onion + cumin + chili powder + salt. Saut\u00e9 8-10 min until tender-crisp + slightly charred.",
-      "Cook cauliflower rice per bag instructions (usually 5 min skillet or 4 min microwave).",
+      "Preheat oven to 400F. Start rice: rinse, bring 1.5 cups rice + 3 cups water to boil, reduce to low, cover 18 min, rest 5 min.",
+      "Lay marinated thighs on sheet pan; bake 30 min (165F internal). Let rest 5 min, slice into chunks.",
+      "Heat avocado oil in skillet over medium-high. Add frozen pepper & onion mix + cumin + chili powder + salt; saut\u00e9 10-12 min until thawed + slightly charred.",
       "Drain + rinse black beans; warm in microwave or stovetop.",
-      "Assemble bowls: cauli rice base + black beans + saut\u00e9ed peppers/onions + chipotle thigh chunks + salsa + sliced avocado + shredded cheese + cilantro + lime wedge.",
-      "Reheat leftovers: warm thighs + beans + cauli rice together (microwave 90s); add fresh avocado/cheese/salsa cold."
+      "Assemble bowls: rice base + black beans + saut\u00e9ed peppers/onions + thigh chunks + salsa + ~1.5 Tbsp Greek yogurt + shredded cheese + avocado + cilantro + lime.",
+      "Reheat leftovers: warm rice/beans/thighs/peppers together (microwave 90s); add Greek yogurt + cheese + avocado fresh per serving."
     ]
   },
   {
