@@ -2485,7 +2485,7 @@
   },
   {
     "id": "25",
-    "name": "Costco Chipotle Marinated Chicken Thighs + Asparagus",
+    "name": "Costco Chipotle Chicken Thigh Mexican Bowls",
     "tier": null,
     "meal_slots": [
       4
@@ -2500,47 +2500,97 @@
         "store": "Costco"
       },
       {
-        "name": "Asparagus, trimmed",
+        "name": "Cauliflower rice (frozen, or fresh-bagged)",
         "amount": "1",
-        "unit": "lb (~1 bundle)",
+        "unit": "bag (~12-16oz)",
         "store": "Costco"
       },
       {
-        "name": "Olive oil (asparagus)",
+        "name": "Black beans, drained + rinsed",
+        "amount": "1",
+        "unit": "can (15oz)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Bell peppers, sliced",
+        "amount": "1",
+        "unit": "lb (~3-4 peppers, color mix)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Red onion, sliced",
+        "amount": "1",
+        "unit": "medium",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salsa or pico de gallo",
+        "amount": "1",
+        "unit": "cup (~8oz jar or fresh)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Shredded Mexican cheese blend",
+        "amount": "0.5",
+        "unit": "cup (~2oz)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Avocado, sliced",
+        "amount": "1",
+        "unit": "medium",
+        "store": "Walmart"
+      },
+      {
+        "name": "Lime, wedged",
+        "amount": "1",
+        "unit": "lime",
+        "store": "Walmart"
+      },
+      {
+        "name": "Cilantro, chopped",
+        "amount": "0.5",
+        "unit": "bunch",
+        "store": "Walmart"
+      },
+      {
+        "name": "Avocado oil (peppers/onions)",
         "amount": "1",
         "unit": "Tbsp",
         "store": "Walmart"
       },
       {
-        "name": "Salt (asparagus)",
-        "amount": "0.5",
-        "unit": "tsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Black pepper (asparagus)",
-        "amount": "0.25",
-        "unit": "tsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Lemon",
+        "name": "Cumin (peppers/onions seasoning)",
         "amount": "1",
-        "unit": "lemon",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Chili powder (peppers/onions seasoning)",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt",
+        "amount": "0.5",
+        "unit": "tsp (or to taste)",
         "store": "Walmart"
       }
     ],
-    "notes": "M4 dinner, 5 srv. Replaces #7 Salmon Milano in cycle 2026-06-06 per Will preference. Macros per serving: ~280 cal / 28g protein / 14g fat / 5g carbs (some sugar in marinade). Slightly fattier than plain chicken breast, cut-friendly. Pairs with asparagus + lemon. NEW 2026-06-06 \u2014 first cycle.",
+    "notes": "M4 dinner, 5 srv. Bowl format: chipotle thigh chunks + cauli rice + black beans + sauteed peppers/onions + salsa + avocado + cheese + lime + cilantro. Macros per serving: ~450 cal / 35g protein / 18g fat / 30g carbs (beans + cauli rice + salsa are the carb sources; cauli rice swap for white rice keeps carbs reasonable on cut). Reheat: oven/microwave thighs + beans + cauli rice together; add fresh avocado + cheese + salsa cold per serving. Sub white rice for cauli rice for non-cut servings if desired. Refactored from asparagus side -> bowl format 2026-06-06 per Will preference. NEW 2026-06-06 \u2014 first cycle.",
     "on_break": false,
     "recipe_available": true,
     "recipe_steps": [
-      "Preheat oven to 400F (or grill to medium-high).",
-      "Lay marinated thighs on sheet pan (no need to add oil \u2014 they're pre-marinated).",
-      "Toss asparagus with olive oil + salt + pepper on a second sheet pan.",
-      "Bake thighs 30 min (165F internal) or grill ~6 min per side.",
-      "Roast asparagus alongside last 12-15 min of thigh bake time.",
-      "Serve thighs with asparagus + lemon wedge.",
-      "Reheat leftovers: oven or air-fryer 325F for ~10 min (thighs reheat well; asparagus best reheated separately or eaten cold)."
+      "Preheat oven to 400F.",
+      "Lay marinated thighs on sheet pan (no need to add oil \u2014 pre-marinated).",
+      "Bake thighs 30 min (165F internal). Let rest 5 min, slice into bite-sized chunks.",
+      "While thighs bake, heat avocado oil in skillet over medium-high heat.",
+      "Add bell peppers + red onion + cumin + chili powder + salt. Saut\u00e9 8-10 min until tender-crisp + slightly charred.",
+      "Cook cauliflower rice per bag instructions (usually 5 min skillet or 4 min microwave).",
+      "Drain + rinse black beans; warm in microwave or stovetop.",
+      "Assemble bowls: cauli rice base + black beans + saut\u00e9ed peppers/onions + chipotle thigh chunks + salsa + sliced avocado + shredded cheese + cilantro + lime wedge.",
+      "Reheat leftovers: warm thighs + beans + cauli rice together (microwave 90s); add fresh avocado/cheese/salsa cold."
     ]
   },
   {
