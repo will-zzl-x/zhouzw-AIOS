@@ -2391,24 +2391,24 @@
   },
   {
     "id": "24",
-    "name": "Costco Chicken & Shrimp + Roasted Veg Bowls (M2 prep)",
+    "name": "Costco Chicken Strips & Marinated Thighs + Roasted Veg Bowls (M2 prep)",
     "tier": null,
     "meal_slots": [
       2
     ],
     "servings": 14,
-    "protein": "Chicken + Shrimp",
+    "protein": "Chicken (strips + marinated thighs)",
     "ingredients": [
       {
         "name": "Kirkland pre-cooked grilled chicken strips",
-        "amount": "1",
-        "unit": "lb (~half of 2lb pack)",
+        "amount": "1.5",
+        "unit": "lb (~8 srv at 3oz)",
         "store": "Costco"
       },
       {
-        "name": "Kirkland cooked cocktail shrimp, thawed",
-        "amount": "1",
-        "unit": "lb (half of 2lb bag)",
+        "name": "Kirkland pre-marinated chicken thighs (raw)",
+        "amount": "1.5",
+        "unit": "lb raw (~6 srv at 3oz cooked)",
         "store": "Costco"
       },
       {
@@ -2466,17 +2466,19 @@
         "store": "Walmart"
       }
     ],
-    "notes": "Batch M2 prep, 14 servings. Default split: ~8 srv chicken + ~6 srv shrimp (alternates days so it doesn't get repetitive). All starch-free, cut-aligned (~30g protein / ~200 cal per serving). All ingredients reheat well in microwave 60-90s. NEW 2026-06-06 \u2014 first cycle.",
+    "notes": "Batch M2 prep, 14 servings. Default split: ~8 srv chicken strips (zero-cook) + ~6 srv marinated chicken thighs (bake once, slice). Alternates days so it doesn't get repetitive. Strips: ~110 cal / 24g protein / 1.5g fat per 3oz. Thighs: ~170 cal / 22g protein / 9g fat per 3oz (slightly fattier than breast, still cut-aligned). All starch-free. Swapped from shrimp 2026-06-06 \u2014 saves ~$9/lb and aligns better with cut macros than carnitas. All ingredients reheat well in microwave 60-90s. NEW 2026-06-06 \u2014 first cycle.",
     "on_break": false,
     "recipe_available": true,
     "recipe_steps": [
-      "Preheat oven or air-fryer to 425F.",
+      "Preheat oven to 400F.",
       "Cut broccoli, zucchini, asparagus, bell peppers into bite-sized pieces.",
-      "Toss veg on sheet pan with 2 Tbsp avocado oil + 1 tsp salt + 0.5 tsp pepper + 1 tsp garlic powder + 1 tsp paprika.",
-      "Roast 20-25 min, tossing halfway, until tender-crisp.",
-      "While veg roasts, thaw shrimp (cold water 10 min) if frozen.",
+      "Toss veg on sheet pan #1 with 2 Tbsp avocado oil + 1 tsp salt + 0.5 tsp pepper + 1 tsp garlic powder + 1 tsp paprika.",
+      "Place marinated chicken thighs on sheet pan #2 (skip the seasoning \u2014 they're pre-marinated).",
+      "Bake both pans at 400F for ~30 min; veg should be tender-crisp, thighs should reach 165F internal.",
+      "While baking, divide chicken strips (already pre-cooked) into bowls \u2014 no extra prep needed.",
+      "Slice baked thighs into bite-sized pieces.",
       "Divide roasted veg evenly into 14 containers.",
-      "Add ~3oz chicken strips to ~8 containers, ~3oz shrimp to ~6 containers (alternate by day).",
+      "Add ~3oz chicken strips to ~8 containers, ~3oz sliced thighs to ~6 containers (alternate by day for variety).",
       "Refrigerate up to 5 days. Microwave 60-90 sec to reheat.",
       "Optional: serve with sriracha mayo, hot sauce, or Walden Farms dressing on the side."
     ]
