@@ -1,16 +1,17 @@
 ---
 name: health-os
-description: Health OS — log and review the non-exercise pillars of your health system: sleep and diet/nutrition. Exercise is handled by /workout-log. Triggered by "log sleep", "log meals", "health check", "health os", or "/health-os".
+description: Health OS — log and review the non-exercise pillars of your health system: sleep, diet/nutrition, and meal planning. Exercise is handled by /workout-log. Triggered by "log sleep", "log meals", "health check", "meal plan", "plan a cycle", "grocery list", "health os", or "/health-os".
 ---
 
 ## Goal
 
-Three modes:
+Four modes:
 1. **Sleep log** — capture last night's sleep.
 2. **Diet log** — capture today's nutrition (protein target, rough meals).
 3. **Health check** — surface how sleep and diet are trending this week vs. targets.
+4. **Meal planning** — run the weekly cook-cycle system in `meal-planning/`.
 
-Exercise tracking lives in `/workout-log`. This skill handles the other two pillars.
+Exercise tracking lives in `/workout-log`. This skill handles the other three pillars.
 
 ## Reads
 
@@ -88,6 +89,40 @@ Triggered by: "/health-os check", "health check", "how's my health this week"
 
    **Flags:** [Anything that needs attention — otherwise omit]
    ```
+
+## Steps — Meal Planning
+
+Triggered by: "meal plan", "plan a cycle", "grocery list", "what should I cook", "vet this recipe", "fill the coverage gap", "produce pairing", "cook rescue".
+
+The full system lives in `meal-planning/` (its own README + Makefile). **It is
+token-efficient by design: the weekly loop is deterministic Python — run the scripts,
+do NOT reason through serving math / grocery aggregation / scheduling yourself.** Only
+four tasks spend tokens, via the prompt templates in `meal-planning/ai/`.
+
+**Deterministic loop (NO TOKENS — run the script, report the output):**
+
+| Ask | Command (from `meal-planning/`) |
+|---|---|
+| start a new week | `make new-cycle` (or `python scripts/new_cycle.py`) |
+| what's covered / what's short | `make coverage` |
+| grocery list | `make grocery` |
+| defrost schedule | `make defrost` |
+| cook order | `make schedule` |
+| update pantry after the week | `make deplete APPLY=1` |
+| check the recipe DB | `make validate` |
+
+(`make` may be absent on Windows — fall back to `python scripts/<name>.py`.
+`recipes.json` is the source of truth; never modify recipe data.)
+
+**AI touchpoints (TOKENS — only these four):** read the matching template in
+`meal-planning/ai/` and follow its output contract:
+- **vet a new recipe** (image/URL/text → one schema-ready JSON object): `ai/vet_recipe.md`, then `make validate`.
+- **fill a coverage gap** (only after `make coverage` shows a gap): `ai/suggest_recipes.md`.
+- **homeless produce** → `ai/produce_pairing.md` (check `data/seasonal.yaml` first — usually free).
+- **cook rescue** (real-time): `ai/troubleshoot.md`.
+
+**Rule:** if a script can answer it, run the script — don't spend tokens. Surface the
+script output; only invoke an `ai/` template for the four genuinely-fuzzy tasks above.
 
 ## Rules
 

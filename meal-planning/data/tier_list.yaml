@@ -1,0 +1,44 @@
+# Elena tier list — S (best) through E, plus on_break bench.
+# tier values here mirror recipes.json `tier`; this file is the human-editable
+# ranking view. on_break entries are benched (Hoisin Chow Mein flagged in recipes.json).
+# Recipes with tier: null in recipes.json are convenience/utility (rotisserie,
+# slow-cooker, air-fryer bake) — listed under `untiered`.
+
+S:
+  - "1 — Chicken Teriyaki"
+  - "11 — NY Strip Steak & Salad"
+  - "12 — Salmon Poke Bowl"
+  - "15 — NY Strip Steak + Blue Cheese Wedge + Wasabi Mash"
+A:
+  - "3 — Hoisin Chicken Thigh Chow Mein"   # currently on_break
+  - "5 — Crispy Chicken Sandwiches"
+  - "9 — Bibimbap"
+  - "10 — Spaghetti with Meat Sauce"
+  - "18 — Three-Cheese Alfredo Pasta with Chicken"
+  - "19 — Korean BBQ Chicken Thighs + Cucumber Salad"
+B:
+  - "2 — Cheesy Chipotle Chicken Rice Bowls"
+  - "16 — Taco Salad"
+C:
+  - "4 — Mexican Chicken & Rice"
+D: []
+E: []
+
+untiered:   # tier: null — convenience / take-and-bake / utility
+  - "6 — Rotisserie Chicken + Garlic Rice"
+  - "7 — Costco Salmon Milano + Asparagus"   # currently on_break
+  - "14 — Sriracha Teriyaki Salmon + Asparagus"
+  - "17 — Big Batch Baked Ziti"
+  - "20 — Slow Cooker Shredded Chicken"
+  - "21 — Chicken & Vegetable Air-Fryer Bake"
+  - "22 — Chicken Thigh Fried Rice"
+
+on_break:   # benched — rotate back in a future cycle. Mirrors recipes.json on_break:true.
+  - "3 — Hoisin Chicken Thigh Chow Mein"   # on_break: true (authoritative)
+
+# DATA DISCREPANCY (surfaced, not fixed — recipes.json is source of truth, not modified):
+# Recipe 7 (Costco Salmon Milano) has notes "ON BREAK" but on_break: false. The
+# scripts honor the boolean, so #7 is treated ACTIVE. Flip on_break to true in
+# recipes.json if you actually want it benched. `make validate` flags this.
+notes_say_break_but_active:
+  - "7 — Costco Salmon Milano + Asparagus"

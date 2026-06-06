@@ -1,0 +1,2278 @@
+[
+  {
+    "id": "1",
+    "name": "Chicken Teriyaki",
+    "tier": "S",
+    "meal_slots": [
+      2
+    ],
+    "servings": 4,
+    "protein": "Chicken Thigh",
+    "ingredients": [
+      {
+        "name": "Chicken thighs",
+        "amount": "4",
+        "unit": "thighs (1 Costco pack)",
+        "store": "Costco"
+      },
+      {
+        "name": "Dark soy sauce",
+        "amount": "2",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Light soy sauce",
+        "amount": "3",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Garlic, minced",
+        "amount": "2-3",
+        "unit": "cloves",
+        "store": "Walmart"
+      },
+      {
+        "name": "Zero calorie sweetener (Splenda)",
+        "amount": "2",
+        "unit": "packets",
+        "store": "Walmart"
+      },
+      {
+        "name": "Five spice powder",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "White pepper",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Bok choy or gai lan",
+        "amount": "1",
+        "unit": "pack",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "White rice",
+        "amount": "1",
+        "unit": "cup dry",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "Scale to 2 packs (8 thighs) for 8 servings. Marinate 30 min to overnight.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Marinate thighs in dark soy sauce, light soy sauce, minced garlic, sweetener, five spice powder, and white pepper. Let sit 30 min to overnight.",
+      "Start 1 cup of rice in the rice cooker.",
+      "Air fry chicken at 360\u00b0F for 17 minutes.",
+      "Steam bok choy or gai lan for 11 minutes. Salt when done.",
+      "Divide into 4 containers: rice, 1 thigh, and veg."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "2",
+    "name": "Cheesy Chipotle Chicken Rice Bowls",
+    "tier": "B",
+    "meal_slots": [
+      2
+    ],
+    "servings": 5,
+    "protein": "Chicken Thigh",
+    "ingredients": [
+      {
+        "name": "Skinless chicken thighs",
+        "amount": "32",
+        "unit": "oz (~4 thighs)",
+        "store": "Costco"
+      },
+      {
+        "name": "Avocado oil",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Hot honey",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Lime",
+        "amount": "1/2",
+        "unit": "lime, juiced day-of (not in marinade)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Chipotle or ancho chili powder",
+        "amount": "to taste (heavy)",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic powder",
+        "amount": "to taste (heavy)",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Onion powder",
+        "amount": "to taste (heavy)",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Black pepper + salt",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Bell peppers",
+        "amount": "2",
+        "unit": "peppers",
+        "store": "Walmart"
+      },
+      {
+        "name": "Yellow onion",
+        "amount": "1/2",
+        "unit": "onion",
+        "store": "Walmart"
+      },
+      {
+        "name": "Oil",
+        "amount": "2",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Tomato paste",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "White rice",
+        "amount": "2",
+        "unit": "cups dry",
+        "store": "Walmart"
+      },
+      {
+        "name": "Reduced fat mozzarella",
+        "amount": "1/2",
+        "unit": "cup (2oz)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Extra sharp cheddar",
+        "amount": "1/2",
+        "unit": "cup (2oz)",
+        "store": "Walmart"
+      },
+      {
+        "name": "0% Greek yogurt (finishing)",
+        "amount": "1/2",
+        "unit": "cup (4oz)",
+        "store": "Costco"
+      },
+      {
+        "name": "Cilantro",
+        "amount": "1",
+        "unit": "handful",
+        "store": "Walmart"
+      },
+      {
+        "name": "0% Greek yogurt (sauce)",
+        "amount": "3/4",
+        "unit": "cup (6oz)",
+        "store": "Costco"
+      },
+      {
+        "name": "Milk",
+        "amount": "1/4",
+        "unit": "cup (2oz)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Honey",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Adobo sauce",
+        "amount": "3",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Smoked paprika + salt",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "585 cal / 52g protein / 57g carbs / 17g fat per serving. Air fryer only. From @stealth_health_life.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Mix chicken thighs with avocado oil, hot honey, and all dry seasonings (chipotle/ancho chili powder, garlic powder, onion powder, black pepper, salt). Toss to coat evenly. Marinate in fridge \u2014 add lime juice just before cooking.",
+      "Air fry chicken at 375\u00b0F for 20\u201325 minutes, flipping halfway, until cooked through and lightly charred. Remove and chop into bite-sized pieces.",
+      "Remove air fryer rack. Add diced bell peppers, \u00bd onion, 2 tsp oil, and 1 Tbsp tomato paste directly to the basket. Air fry at 350\u00b0F for 10\u201315 minutes, stirring once or twice, until softened and lightly browned.",
+      "Add cooked rice to the veggies in the basket (or transfer to a large bowl). Stir in \u00bd cup mozzarella, \u00bd cup cheddar, and \u00bd cup Greek yogurt until melted and creamy. Add chopped chicken and cilantro. Mix until combined.",
+      "Whisk together sauce ingredients: \u00be cup Greek yogurt, \u00bc cup milk, 1 tsp honey, 3 Tbsp adobo sauce, smoked paprika, and salt until smooth.",
+      "Divide into 5 equal servings and top each with smoky chipotle sauce."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "3",
+    "name": "Hoisin Chicken Thigh Chow Mein",
+    "tier": "A",
+    "meal_slots": [
+      2
+    ],
+    "servings": 5,
+    "protein": "Chicken Thigh",
+    "ingredients": [
+      {
+        "name": "Chicken thighs (boneless skinless)",
+        "amount": "24oz",
+        "unit": "(~4 thighs), cut into \u00bd\" cubes",
+        "store": "Costco"
+      },
+      {
+        "name": "Fresh chow mein / egg noodles",
+        "amount": "16",
+        "unit": "oz",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Soy sauce",
+        "amount": "5",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Rice vinegar",
+        "amount": "3",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Hoisin sauce",
+        "amount": "4.5",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Toasted sesame oil",
+        "amount": "2",
+        "unit": "tsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Cornstarch",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Vegetable oil",
+        "amount": "3+",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Green onions",
+        "amount": "3",
+        "unit": "stalks, cut into 1\" segments",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic",
+        "amount": "10",
+        "unit": "cloves, finely chopped",
+        "store": "Walmart"
+      },
+      {
+        "name": "Celery",
+        "amount": "3",
+        "unit": "ribs, diced",
+        "store": "Walmart"
+      },
+      {
+        "name": "Carrot",
+        "amount": "2",
+        "unit": "julienned",
+        "store": "Walmart"
+      },
+      {
+        "name": "Napa cabbage",
+        "amount": "5",
+        "unit": "cups, thinly sliced (~5 outer leaves)",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Bean sprouts",
+        "amount": "10",
+        "unit": "oz (~2.5 cups)",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Water",
+        "amount": "2",
+        "unit": "Tbsp",
+        "store": ""
+      },
+      {
+        "name": "Scallions",
+        "amount": "to taste",
+        "unit": "(garnish)",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "ON BREAK \u2014 rotate back in a future cycle. Adapted from Joshua Weissman. Protein doubled to 4 thighs, sauce scaled 1.5x, garlic bumped to 10 cloves. Veg quantities increased across the board. Dutch oven recommended given large volume. Optional toppings: fried egg, chili oil.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Whisk together soy sauce, rice vinegar, hoisin sauce, and sesame oil. Whisk in cornstarch until dissolved. Set sauce aside.",
+      "Season the wok: add a little vegetable oil, heat over medium-high until smoking, turn off heat, pour out oil, wipe down with paper towels.",
+      "Heat 3 Tbsp vegetable oil in wok over medium-high. Working in two batches, sear chicken until cooked through, stirring often, about 5\u20138 minutes per batch. Set aside.",
+      "Saut\u00e9 green onions until charred and slightly wilted (~30 seconds). Add \u00be of the garlic, stir fry until golden. Add celery and carrot, stir fry until softened (~2 minutes). Raise to high heat, add cabbage and stir fry until charred and wilted (~2 minutes).",
+      "Return chicken to wok, reduce to medium-high, stir fry 30 seconds.",
+      "Add bean sprouts, stir fry 30 seconds. Add noodles, stir fry 45 seconds. Pour in sauce and toss to coat. Add 2 Tbsp water and stir fry until noodles are glossy.",
+      "Turn off heat, stir in remaining garlic. Add more soy sauce to taste. Garnish with scallions."
+    ],
+    "on_break": true
+  },
+  {
+    "id": "4",
+    "name": "Mexican Chicken & Rice",
+    "tier": "C",
+    "meal_slots": [
+      2
+    ],
+    "servings": 4,
+    "protein": "Chicken Breast",
+    "ingredients": [
+      {
+        "name": "Chicken breast, cubed",
+        "amount": "26.5",
+        "unit": "oz (~1.6lb)",
+        "store": "Costco"
+      },
+      {
+        "name": "Oregano",
+        "amount": "2",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Paprika",
+        "amount": "2",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic powder",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Cumin",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Chili powder",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt & pepper",
+        "amount": "1",
+        "unit": "tsp each",
+        "store": "Walmart"
+      },
+      {
+        "name": "Lime",
+        "amount": "1",
+        "unit": "whole, juiced (add at liquid step, not marinade)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Olive oil",
+        "amount": "2",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Medium onion, chopped",
+        "amount": "1",
+        "unit": "onion",
+        "store": "Walmart"
+      },
+      {
+        "name": "Medium red bell pepper, chopped",
+        "amount": "1",
+        "unit": "pepper",
+        "store": "Walmart"
+      },
+      {
+        "name": "Black beans",
+        "amount": "1",
+        "unit": "can (15oz)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Canned chopped tomatoes",
+        "amount": "1",
+        "unit": "can (400g)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Dry basmati rice",
+        "amount": "1.2",
+        "unit": "cups",
+        "store": "Walmart"
+      },
+      {
+        "name": "Water or chicken stock",
+        "amount": "1",
+        "unit": "cup",
+        "store": "Walmart"
+      },
+      {
+        "name": "Cilantro",
+        "amount": "1/4",
+        "unit": "bunch, chopped (mix in) + leaves for garnish",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "450 cal / 45g protein / 47g carbs / 9g fat per serving (original macros \u2014 black beans and rice adjusted so may vary). Dutch oven recommended. Liquid ratio 2:1 \u2014 tomatoes provide ~1.5 cups + 1 cup stock = ~2.5 cups total for 1.2 cups rice. Do NOT add lime to chicken marinade \u2014 add at liquid step.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Season cubed chicken with oregano, paprika, garlic powder, cumin, chili powder, salt + pepper, and olive oil. Do NOT add lime yet.",
+      "Cook chicken in Dutch oven over medium-high 6\u20138 minutes until cooked through. Set aside.",
+      "In same Dutch oven, saut\u00e9 onion and red bell pepper over medium heat (lid off) until softened and lightly caramelized, 3\u20134 minutes.",
+      "Add 1.2 cups dry basmati rice + 1 tsp of each seasoning. Toast with veg for 1\u20132 minutes, stirring constantly.",
+      "Add 15oz can black beans, 1 can chopped tomatoes, 1 cup stock, and juice of 1 whole lime. Mix well.",
+      "Lid on, simmer on lowest heat for 12\u201315 minutes. Stir gently at 7 minutes scraping bottom to prevent sticking. Check liquid \u2014 add splash of stock if dry.",
+      "Check rice is cooked through. If not, add small splash of water, lid on 2\u20133 more minutes.",
+      "Add chicken back in, mix in chopped cilantro stems + leaves. Taste and adjust salt + pepper.",
+      "Divide into 4 containers. Garnish with cilantro leaves only."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "5",
+    "name": "Crispy Chicken Sandwiches",
+    "tier": "A",
+    "meal_slots": [
+      4
+    ],
+    "servings": 8,
+    "protein": "Chicken Breast",
+    "ingredients": [
+      {
+        "name": "Chicken breasts (~12oz each)",
+        "amount": "4",
+        "unit": "breasts, halved \u2192 8 pieces",
+        "store": "Costco"
+      },
+      {
+        "name": "Salt + garlic powder",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Flour",
+        "amount": "~1/3",
+        "unit": "cup (Station 1)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt, garlic powder, pepper",
+        "amount": "to taste",
+        "unit": "(Station 1)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Egg whites",
+        "amount": "~1/2",
+        "unit": "cup (Station 2)",
+        "store": "Costco"
+      },
+      {
+        "name": "Hot sauce",
+        "amount": "to taste",
+        "unit": "(Station 2)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Corn flakes, crushed",
+        "amount": "~2",
+        "unit": "cups (Station 3)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Oil spray",
+        "amount": "light coat",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Brioche buns",
+        "amount": "8",
+        "unit": "buns",
+        "store": "Walmart"
+      },
+      {
+        "name": "Fat free Greek yogurt",
+        "amount": "3/4",
+        "unit": "cup (sauce)",
+        "store": "Costco"
+      },
+      {
+        "name": "Sriracha",
+        "amount": "2",
+        "unit": "Tbsp + 2 tsp (sauce)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Gochujang",
+        "amount": "1",
+        "unit": "tsp (optional, sauce)",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Pickle juice",
+        "amount": "2",
+        "unit": "tsp (sauce, adjust to taste)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Idaho potatoes, cut into fries",
+        "amount": "2",
+        "unit": "large",
+        "store": "Walmart"
+      },
+      {
+        "name": "Roma tomato, sliced",
+        "amount": "2",
+        "unit": "tomatoes",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt",
+        "amount": "to taste",
+        "unit": "(tomato + fries)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic powder",
+        "amount": "1",
+        "unit": "tsp (fry seasoning)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Paprika",
+        "amount": "1",
+        "unit": "tsp (fry seasoning)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Onion powder",
+        "amount": "1/2",
+        "unit": "tsp (fry seasoning)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Black pepper",
+        "amount": "1/4",
+        "unit": "tsp (fry seasoning)",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "440 cal / 50g protein / 43g carbs / 6g fat per sandwich. From @stealth_health_life. Parcooked for meal prep \u2014 finish on reheat day. Meal 4 only, does not reheat well in microwave.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Tenderize chicken breasts until flattened. Slice each in half to make 8 pieces. Season with salt and garlic powder.",
+      "Set up dipping stations \u2014 Station 1: flour + salt, garlic powder, pepper. Station 2: egg whites + hot sauce. Station 3: crushed corn flakes.",
+      "Dredge each piece: flour \u2192 egg white/hot sauce \u2192 cornflakes, pressing firmly to fully coat.",
+      "Spray lightly with oil spray.",
+      "PARCOOK: Air fry at 400\u00b0F for 10 minutes, flipping at 5 minutes. Internal temp ~150\u00b0F. Cool and refrigerate.",
+      "REHEAT DAY-OF: Air fry at 350\u00b0F for 5\u20136 minutes until internal temp reaches 165\u00b0F.",
+      "Toast brioche buns at 400\u00b0F for 2\u20133 minutes.",
+      "Mix sauce: \u00be cup Greek yogurt + 2 Tbsp + 2 tsp Sriracha + 1 tsp Gochujang (optional) + 2 tsp pickle juice. Adjust pickle juice to taste.",
+      "Slice tomatoes, season with salt. Set aside.",
+      "TWICE FRIED FRIES: Cut potatoes into fries. Boil in salted water for 10 minutes. Drain and pat dry. Air fry at 380\u00b0F for 10 minutes (parcook). Toss with fry seasoning (1 tsp garlic powder, 1 tsp paprika, \u00bd tsp onion powder, \u00bd tsp salt, \u00bc tsp black pepper). Air fry at 400\u00b0F for 10 minutes until crispy.",
+      "Spread sauce on bun, top with chicken, sliced tomato, and pickles. Serve with fries."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "6",
+    "name": "Rotisserie Chicken + Garlic Rice",
+    "tier": null,
+    "meal_slots": [
+      3
+    ],
+    "servings": 5,
+    "protein": "Rotisserie Chicken",
+    "ingredients": [
+      {
+        "name": "Rotisserie chicken (with drippings)",
+        "amount": "1",
+        "unit": "whole",
+        "store": "Costco"
+      },
+      {
+        "name": "Short grain Japanese rice",
+        "amount": "1",
+        "unit": "cup dry (0.2 cup per serving)",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Garlic, minced",
+        "amount": "3",
+        "unit": "cloves",
+        "store": "Walmart"
+      },
+      {
+        "name": "Avocado oil",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt + pepper",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Seasonal veggie side",
+        "amount": "flex",
+        "unit": "per cycle (kale, roasted tomato + zucchini, bell pepper, etc.)",
+        "store": "varies"
+      }
+    ],
+    "notes": "Meal 3 only (you). Keep rotisserie drippings \u2014 key for moisture. Garlic rice base is consistent. Side veggie flexes per cycle based on seasonal availability and inventory. No parsley, no potatoes.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Cook 1 cup short grain rice per rice cooker instructions.",
+      "While rice cooks, heat 1 tsp avocado oil in small pan over medium. Saut\u00e9 3 cloves minced garlic 30 seconds. Toss with cooked rice, season with salt + pepper.",
+      "Prepare seasonal veggie side per cycle plan (e.g. saut\u00e9ed kale, roasted tomato + zucchini, roasted bell peppers).",
+      "Pull rotisserie chicken into 5 equal portions. Drizzle rotisserie drippings from container over each portion.",
+      "Divide into 5 containers: chicken + garlic rice + seasonal veggie."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "7",
+    "name": "Costco Salmon Milano + Asparagus",
+    "tier": null,
+    "meal_slots": [
+      4
+    ],
+    "servings": 5,
+    "protein": "Salmon",
+    "ingredients": [
+      {
+        "name": "Costco Salmon Milano with Basil Pesto Butter",
+        "amount": "1",
+        "unit": "tray (~2.25lb)",
+        "store": "Costco"
+      },
+      {
+        "name": "Asparagus, trimmed",
+        "amount": "~1.1",
+        "unit": "lb (half of 2.25lb bag)",
+        "store": "Costco"
+      },
+      {
+        "name": "Olive oil",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt + pepper",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Lemon",
+        "amount": "1",
+        "unit": "lemon",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "ON BREAK \u2014 rotate back in a future cycle. Take-and-bake \u2014 pesto butter comes pre-applied. Do NOT microwave leftovers \u2014 reheat in oven or air fryer at 325\u00b0F to preserve texture and avoid fish smell.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Preheat oven to 400\u00b0F.",
+      "Place salmon in its Costco tray (remove plastic lid) or on a foil-lined baking sheet skin side down.",
+      "Bake 15\u201320 minutes until salmon flakes easily and internal temp reaches 145\u00b0F. Baste with melted pesto butter from tray halfway through.",
+      "While salmon bakes, toss asparagus with 1 Tbsp olive oil, salt + pepper on a separate sheet pan. Roast at 400\u00b0F for 12\u201315 minutes.",
+      "Divide into 6 portions: salmon fillet + asparagus. Finish each with a squeeze of lemon."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "9",
+    "name": "Bibimbap",
+    "tier": "A",
+    "meal_slots": [
+      2,
+      4
+    ],
+    "servings": 6,
+    "protein": "Ground Beef",
+    "ingredients": [
+      {
+        "name": "Ground beef (90/10)",
+        "amount": "2",
+        "unit": "lbs",
+        "store": "Costco"
+      },
+      {
+        "name": "Soy sauce",
+        "amount": "3",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Gochugaru",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Ground ginger",
+        "amount": "1/2",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic powder",
+        "amount": "12",
+        "unit": "shakes",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt + pepper",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "White rice",
+        "amount": "1.5",
+        "unit": "cups dry",
+        "store": "Walmart"
+      },
+      {
+        "name": "Cauliflower rice",
+        "amount": "1",
+        "unit": "bag",
+        "store": "Walmart"
+      },
+      {
+        "name": "Shredded carrots",
+        "amount": "1",
+        "unit": "bag",
+        "store": "Walmart"
+      },
+      {
+        "name": "Spinach",
+        "amount": "1",
+        "unit": "bag",
+        "store": "Walmart"
+      },
+      {
+        "name": "Eggs",
+        "amount": "6",
+        "unit": "eggs (1 per serving, fried)",
+        "store": "Costco"
+      },
+      {
+        "name": "Gochujang",
+        "amount": "5/8",
+        "unit": "cup",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "No calorie sweetener",
+        "amount": "9",
+        "unit": "packets",
+        "store": "Walmart"
+      },
+      {
+        "name": "Hot water",
+        "amount": "1/2",
+        "unit": "cup (for sauce)",
+        "store": ""
+      }
+    ],
+    "notes": "A-tier. Traditional bibimbap inspired. Crispy rice step removed \u2014 cauliflower rice provides texture contrast. Store egg and sauce separately for meal prep. Fried egg replaces scrambled for better flavor \u2014 runny yolk acts as secondary sauce.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Cook 1.5 cups white rice in rice cooker.",
+      "Brown 2 lbs ground beef over medium-high. Season with salt, pepper, 3 Tbsp soy sauce, 1 Tbsp gochugaru, \u00bd tsp ground ginger, 12 shakes garlic powder. Cook through.",
+      "Microwave cauliflower rice per package instructions. Drain well, toss with 1 tsp salt. Air fry at 400\u00b0F for 8 minutes.",
+      "Saut\u00e9 shredded carrots 3 minutes over medium heat. Salt to taste.",
+      "Boil spinach 1 minute, drain, toss with salt.",
+      "Mix sauce: 5/8 cup gochujang + 9 packets sweetener + \u00bd cup hot water. Stir until combined.",
+      "Fry 1 egg per serving sunny side up or over easy.",
+      "Assemble: rice + cauliflower rice + beef + carrots + spinach. Top with fried egg and drizzle sauce.",
+      "Divide into 6 containers. Store egg and sauce separately."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "10",
+    "name": "Spaghetti with Meat Sauce",
+    "tier": "A",
+    "meal_slots": [
+      2,
+      4
+    ],
+    "servings": 6,
+    "protein": "Ground Beef",
+    "ingredients": [
+      {
+        "name": "Ground beef (90/10)",
+        "amount": "1.2",
+        "unit": "lbs",
+        "store": "Costco"
+      },
+      {
+        "name": "Ground sausage (cheapest)",
+        "amount": "8",
+        "unit": "oz",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic, grated",
+        "amount": "6",
+        "unit": "cloves",
+        "store": "Walmart"
+      },
+      {
+        "name": "Medium onion, diced",
+        "amount": "1/2",
+        "unit": "onion",
+        "store": "Walmart"
+      },
+      {
+        "name": "Crushed tomatoes",
+        "amount": "28",
+        "unit": "oz can (~800g)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Tomato paste",
+        "amount": "4",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Beef bouillon",
+        "amount": "1.5",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Water",
+        "amount": "3.4",
+        "unit": "cups (~800ml)",
+        "store": ""
+      },
+      {
+        "name": "Thin spaghetti, broken in half",
+        "amount": "16",
+        "unit": "oz",
+        "store": "Walmart"
+      },
+      {
+        "name": "Oregano",
+        "amount": "1/2",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Chili flakes",
+        "amount": "1/2",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt + pepper",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Carrots",
+        "amount": "1",
+        "unit": "lb (side)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Oil",
+        "amount": "1",
+        "unit": "Tbsp (carrots)",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "A-tier. M2 by default, overflow to M4. Reheats well in microwave. Needs large oven-safe pan. 90/10 subbed for 88/12 \u2014 slightly leaner.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Preheat oven to 425\u00b0F.",
+      "Toss carrot sticks with 1 Tbsp oil + salt. Air fry at 375\u00b0F for 20 minutes, shaking every 5 minutes until browned and soft.",
+      "In a large oven-safe pan over medium-high, saut\u00e9 grated garlic + diced onion for 1 minute.",
+      "Add ground beef + sausage. Sear 4 minutes, flip and break up until browned throughout.",
+      "Stir in tomato paste, crushed tomatoes, beef bouillon, water, oregano, chili flakes, salt + pepper. Bring to a simmer.",
+      "Stir in broken spaghetti until fully submerged.",
+      "Transfer pan to oven. Bake uncovered 16\u201318 minutes, stirring thoroughly at the 5 and 10 minute marks.",
+      "Remove from oven, rest 2 minutes.",
+      "Divide into 6 containers with air fried carrots on the side."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "11",
+    "name": "NY Strip Steak & Salad",
+    "tier": "S",
+    "meal_slots": [
+      4
+    ],
+    "servings": 2,
+    "protein": "Steak",
+    "ingredients": [
+      {
+        "name": "NY strip steaks",
+        "amount": "2",
+        "unit": "steaks",
+        "store": "Costco"
+      },
+      {
+        "name": "Salt + pepper",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic powder",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Porcini powder",
+        "amount": "1/2",
+        "unit": "tsp per steak",
+        "store": "Walmart"
+      },
+      {
+        "name": "Grape seed oil",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Butter or ghee",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Fresh rosemary",
+        "amount": "2",
+        "unit": "sprigs",
+        "store": "Walmart"
+      },
+      {
+        "name": "Greens medley",
+        "amount": "56",
+        "unit": "g + any remaining kale, torn",
+        "store": "Walmart"
+      },
+      {
+        "name": "Roma tomato, sliced top to bottom",
+        "amount": "1",
+        "unit": "tomato",
+        "store": "Walmart"
+      },
+      {
+        "name": "Avocado",
+        "amount": "1",
+        "unit": "sliced",
+        "store": "Walmart"
+      },
+      {
+        "name": "Sherry vinegar",
+        "amount": "1",
+        "unit": "Tbsp (salad dressing)",
+        "store": "Walmart"
+      },
+      {
+        "name": "EVOO",
+        "amount": "2",
+        "unit": "Tbsp (salad dressing)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Large bulb green onions",
+        "amount": "4",
+        "unit": "trimmed (side)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Avocado oil",
+        "amount": "1",
+        "unit": "tsp (green onions)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Carrot tops",
+        "amount": "1",
+        "unit": "cup packed, finely chopped (chimichurri)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic",
+        "amount": "3",
+        "unit": "cloves, minced (chimichurri)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Sherry vinegar",
+        "amount": "2",
+        "unit": "Tbsp (chimichurri)",
+        "store": "Walmart"
+      },
+      {
+        "name": "EVOO",
+        "amount": "4",
+        "unit": "Tbsp (chimichurri)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Chili flakes",
+        "amount": "1/2",
+        "unit": "tsp (chimichurri)",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "S-tier. M4 only. Porcini powder adds deep umami. Carrot top chimichurri as steak sauce. Light sherry vinegar + EVOO dressing on salad. Use greens medley immediately \u2014 most perishable.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Pat steaks dry. Season with salt, pepper, garlic powder, and \u00bd tsp porcini powder per steak.",
+      "Place steaks in freezer for 45 minutes.",
+      "Make chimichurri: finely chop 1 cup packed carrot tops, combine with 3 cloves minced garlic, 2 Tbsp sherry vinegar, 4 Tbsp EVOO, \u00bd tsp chili flakes, salt + pepper. Set aside.",
+      "Pull steaks, rest 5 minutes at room temp while cast iron heats to level 9.",
+      "Preheat oven to 200\u00b0F.",
+      "Add grape seed oil to cast iron. Sear steaks 1 minute each side.",
+      "Place rosemary under steaks, add 1 Tbsp butter/ghee on top. Transfer to oven and finish until probe thermometer hits 135\u00b0F.",
+      "While steak rests, saut\u00e9 4 large bulb green onions in same cast iron with 1 tsp avocado oil. Cook 3\u20134 minutes until charred.",
+      "Dress salad: greens medley + torn kale, 1 Tbsp sherry vinegar, 2 Tbsp EVOO, salt + pepper. Toss lightly.",
+      "Add sliced Roma tomato and avocado, toss gently.",
+      "Plate: steak + chimichurri + salad + green onions."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "12",
+    "name": "Salmon Poke Bowl",
+    "tier": "S",
+    "meal_slots": [
+      2,
+      4
+    ],
+    "servings": 4,
+    "protein": "Salmon",
+    "ingredients": [
+      {
+        "name": "Farmed skin-off salmon, diced into cubes",
+        "amount": "4",
+        "unit": "pieces (~8oz each)",
+        "store": "Costco"
+      },
+      {
+        "name": "Short grain Japanese rice",
+        "amount": "1",
+        "unit": "cup dry",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Rice vinegar",
+        "amount": "3",
+        "unit": "Tbsp (rice, cheater method) + 1 Tbsp (sauce)",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Zero calorie sweetener",
+        "amount": "1",
+        "unit": "packet (rice) + 2 packets (sauce)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/4",
+        "unit": "tsp (rice)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Soy sauce",
+        "amount": "4",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Toasted sesame oil",
+        "amount": "1.5",
+        "unit": "tsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Fresh ginger, grated",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Spring onion",
+        "amount": "1",
+        "unit": "stalk, thinly sliced on bias",
+        "store": "Walmart"
+      },
+      {
+        "name": "Togarashi",
+        "amount": "1/2",
+        "unit": "tsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Sesame seeds",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Cilantro",
+        "amount": "1",
+        "unit": "small handful",
+        "store": "Walmart"
+      },
+      {
+        "name": "Pineapple, diced",
+        "amount": "1/2",
+        "unit": "cup per bowl (2 cups total)",
+        "store": "Costco"
+      },
+      {
+        "name": "Cucumber, sliced",
+        "amount": "1/4",
+        "unit": "per bowl (1 cucumber total)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Avocado, sliced",
+        "amount": "1/4",
+        "unit": "per bowl (1 avocado total)",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "S-tier. M4 on weekdays, any slot on weekends. Batch prep rice (cheater sushi rice method), toppings, and sauce. Portion and freeze salmon individually \u2014 defrost per serving throughout the week and assemble fresh. Marinate defrosted salmon 15\u201320 min before assembling. Nigiri uses 1.5 cups dry rice with traditional fold method (separate recipe).",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Cheater sushi rice: combine 1 cup short grain rice, water per rice cooker instructions minus 3 Tbsp, 3 Tbsp rice vinegar, 1 packet sweetener, \u00bc tsp salt. Cook in rice cooker as normal.",
+      "Dice salmon into cubes.",
+      "Mix sauce: 4 Tbsp soy sauce + 1.5 tsp sesame oil + 1 Tbsp rice vinegar + 2 packets sweetener + 1 tsp grated ginger + sliced spring onion + \u00bd tsp togarashi.",
+      "Toss salmon in sauce. Marinate 15\u201320 minutes.",
+      "Slice cucumber and avocado. Dice pineapple.",
+      "Assemble in order: rice \u2192 salmon \u2192 cucumber \u2192 pineapple \u2192 avocado \u2192 sauce drizzle \u2192 1 tsp sesame seeds \u2192 togarashi \u2192 cilantro \u2192 spring onion.",
+      "Serve immediately."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "14",
+    "name": "Sriracha Teriyaki Salmon + Asparagus",
+    "tier": null,
+    "meal_slots": [
+      4
+    ],
+    "servings": 3,
+    "protein": "Salmon",
+    "ingredients": [
+      {
+        "name": "Salmon (skinless)",
+        "amount": "3",
+        "unit": "pieces (~5.92oz each)",
+        "store": "Costco"
+      },
+      {
+        "name": "Salt + pepper",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Soy sauce",
+        "amount": "1/4",
+        "unit": "cup",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Honey",
+        "amount": "3",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Rice vinegar",
+        "amount": "2",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Sriracha",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic, grated",
+        "amount": "3",
+        "unit": "cloves",
+        "store": "Walmart"
+      },
+      {
+        "name": "Fresh ginger, grated",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Toasted sesame oil",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Cornstarch",
+        "amount": "1",
+        "unit": "tsp + 1 Tbsp water (slurry)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Dry rice",
+        "amount": "0.9",
+        "unit": "cups (0.3 cup per serving)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Asparagus, trimmed",
+        "amount": "~1.1",
+        "unit": "lb",
+        "store": "Costco"
+      },
+      {
+        "name": "Olive oil",
+        "amount": "1",
+        "unit": "Tbsp (asparagus)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Lemon",
+        "amount": "1",
+        "unit": "(asparagus finish)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Sesame seeds",
+        "amount": "to taste",
+        "unit": "(garnish)",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Spring onion",
+        "amount": "to taste",
+        "unit": "(garnish)",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "M4. Skinless salmon broiled with sticky reduced sriracha teriyaki glaze. Reserve 1/3 of sauce for finishing. Without skin salmon is more delicate and cooks faster \u2014 check at 5 min.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Start 0.9 cups dry rice in rice cooker.",
+      "Make sauce: combine soy sauce, honey, rice vinegar, sriracha, grated garlic, grated ginger, and sesame oil in a small saucepan. Simmer over medium 3-4 min. Whisk in cornstarch slurry, simmer 1 min until thickened. Reserve 1/3 of sauce for finishing.",
+      "Preheat oven to 400\u00b0F. Toss asparagus with 1 Tbsp olive oil, salt + pepper on a sheet pan. Roast 12-15 min.",
+      "Pat salmon dry, season with salt + pepper. Place on parchment-lined or lightly oiled foil broiler-safe pan.",
+      "Move oven rack to upper third. Switch to broil high.",
+      "Brush salmon generously with sauce. Broil 6-8 min (check at 5), basting once halfway, until caramelized and internal temp hits 120-125\u00b0F.",
+      "Squeeze lemon on asparagus when out of oven.",
+      "Plate: rice \u2192 salmon \u2192 drizzle reserved sauce \u2192 sesame seeds + spring onion \u2192 asparagus alongside."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "15",
+    "name": "NY Strip Steak + Blue Cheese Wedge Salad + Wasabi Mashed Potato",
+    "tier": "S",
+    "meal_slots": [
+      4
+    ],
+    "servings": 2,
+    "protein": "Steak",
+    "ingredients": [
+      {
+        "name": "NY strip steaks (1lb each)",
+        "amount": "2",
+        "unit": "steaks",
+        "store": "Costco"
+      },
+      {
+        "name": "Salt + pepper",
+        "amount": "to taste",
+        "unit": "(dry brine + cook)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Grape seed oil",
+        "amount": "1",
+        "unit": "Tbsp (sear)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Butter",
+        "amount": "2",
+        "unit": "Tbsp (1 for steak top, 1 for pan sauce)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Fresh rosemary",
+        "amount": "2",
+        "unit": "sprigs",
+        "store": "Walmart"
+      },
+      {
+        "name": "Small shallot, minced",
+        "amount": "1",
+        "unit": "shallot (pan sauce)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Beef bouillon cube",
+        "amount": "1/2",
+        "unit": "tsp equivalent, dissolved in 1 Tbsp water",
+        "store": "Walmart"
+      },
+      {
+        "name": "Sherry vinegar",
+        "amount": "1.5",
+        "unit": "Tbsp (pan sauce)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Chili flakes",
+        "amount": "pinch",
+        "unit": "(pan sauce)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Iceberg lettuce, chopped",
+        "amount": "1",
+        "unit": "head",
+        "store": "Walmart"
+      },
+      {
+        "name": "Center-cut bacon",
+        "amount": "2",
+        "unit": "strips",
+        "store": "Walmart"
+      },
+      {
+        "name": "Blue cheese crumbles",
+        "amount": "4",
+        "unit": "Tbsp (2 dressing, 2 topping)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Cherry tomatoes, halved",
+        "amount": "1/2",
+        "unit": "cup",
+        "store": "Walmart"
+      },
+      {
+        "name": "Red onion, thinly sliced",
+        "amount": "2",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Chives, sliced",
+        "amount": "to taste",
+        "unit": "(garnish)",
+        "store": "Walmart"
+      },
+      {
+        "name": "0% Greek yogurt",
+        "amount": "3/4",
+        "unit": "cup (1/2 dressing, 1/4 mash)",
+        "store": "Costco"
+      },
+      {
+        "name": "Lemon juice",
+        "amount": "1",
+        "unit": "Tbsp (dressing)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Low fat milk",
+        "amount": "3",
+        "unit": "Tbsp (1 dressing, 2 mash)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic, grated",
+        "amount": "1",
+        "unit": "clove (dressing)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Russet potato, peeled + cubed",
+        "amount": "1",
+        "unit": "large",
+        "store": "Walmart"
+      },
+      {
+        "name": "Wasabi",
+        "amount": "1",
+        "unit": "tsp (adjust to taste)",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Lemon zest",
+        "amount": "1/2",
+        "unit": "lemon (mash)",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "S-tier. M4. No porcini or garlic powder on steak (burned previously). Dry brine overnight uncovered. Homemade high protein blue cheese dressing. Wasabi mashed potato with Greek yogurt + low fat milk. Pan sauce uses shallot + butter + bouillon (no pork fat).",
+    "recipe_available": true,
+    "recipe_steps": [
+      "NIGHT BEFORE: Pat steaks dry, season with salt + pepper only. Place on rack uncovered in fridge overnight.",
+      "DAY OF (30 min before eating): Pull steaks, rest at room temp 30 min, pat dry once more.",
+      "Crisp 2 strips bacon in oven at 400\u00b0F for ~15 min. Drain on paper towel, crumble. Set aside.",
+      "Make blue cheese dressing: whisk 1/2 cup Greek yogurt + 2 Tbsp blue cheese crumbles + 1 Tbsp lemon juice + 1 Tbsp milk + 1 grated garlic clove + salt + pepper. Refrigerate.",
+      "Chop iceberg, halve tomatoes, slice red onion. Set aside.",
+      "Boil cubed russet potato in salted water 15 min until fork tender. Drain. Mash with 1 Tbsp butter, 1/4 cup Greek yogurt, 2 Tbsp milk, 1 tsp wasabi, lemon zest from 1/2 lemon, salt + pepper. Keep warm on low heat, lid on.",
+      "Heat cast iron to level 9. Add 1 Tbsp grape seed oil.",
+      "Sear steaks 1 minute each side. Add rosemary under steaks and 1 Tbsp butter on top.",
+      "Transfer to 200\u00b0F oven, probe to 128-135\u00b0F depending on preference. Pull and rest 5 min.",
+      "PAN SAUCE while steaks rest: pour off excess fat, leave drippings + fond. Add 1 Tbsp butter over medium heat. Add minced shallot, saut\u00e9 1-2 min until softened and lightly golden.",
+      "Deglaze with 1.5 Tbsp sherry vinegar + dissolved bouillon (1/2 tsp beef bouillon in 1 Tbsp warm water). Scrape up fond.",
+      "Add pinch chili flakes, salt + pepper, swirl until combined and slightly reduced.",
+      "Assemble salad: plate chopped iceberg, top with bacon, 2 Tbsp blue cheese crumbles, tomatoes, red onion. Drizzle dressing. Garnish with chives.",
+      "Plate: steak + pan sauce spooned over + wedge salad alongside + wasabi mashed potato."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "16",
+    "name": "Taco Salad",
+    "tier": "B",
+    "meal_slots": [
+      4
+    ],
+    "servings": 4,
+    "protein": "Ground Beef",
+    "ingredients": [
+      {
+        "name": "Ground beef (90/10)",
+        "amount": "1.25",
+        "unit": "lbs",
+        "store": "Costco"
+      },
+      {
+        "name": "Taco seasoning packet",
+        "amount": "1",
+        "unit": "packet (or homemade)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Chili powder",
+        "amount": "2",
+        "unit": "tsp (if homemade seasoning)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Cumin",
+        "amount": "1",
+        "unit": "tsp (if homemade)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Paprika",
+        "amount": "1",
+        "unit": "tsp (if homemade)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic powder",
+        "amount": "1/2",
+        "unit": "tsp (if homemade)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Onion powder",
+        "amount": "1/2",
+        "unit": "tsp (if homemade)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/2",
+        "unit": "tsp (if homemade)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Black pepper",
+        "amount": "1/4",
+        "unit": "tsp (if homemade)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Iceberg lettuce, shredded",
+        "amount": "1",
+        "unit": "head",
+        "store": "Walmart"
+      },
+      {
+        "name": "Shredded cheese (cheddar or Mexican blend)",
+        "amount": "2",
+        "unit": "cups total (1/2 cup per bowl)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Cherry tomatoes, halved",
+        "amount": "2",
+        "unit": "cups (1/2 cup per bowl)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Red onion, diced",
+        "amount": "1/2",
+        "unit": "cup (2 Tbsp per bowl)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Jalape\u00f1o, sliced",
+        "amount": "4-8",
+        "unit": "Tbsp (1-2 per bowl, adjust to heat)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Avocado, sliced",
+        "amount": "1",
+        "unit": "whole (1/4 per bowl)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Refried beans",
+        "amount": "1",
+        "unit": "cup (1/4 cup per bowl)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salsa",
+        "amount": "1/2",
+        "unit": "cup (2 Tbsp per bowl)",
+        "store": "Walmart"
+      },
+      {
+        "name": "0% Greek yogurt",
+        "amount": "1/2",
+        "unit": "cup (2 Tbsp per bowl)",
+        "store": "Costco"
+      },
+      {
+        "name": "Tortilla strips",
+        "amount": "4",
+        "unit": "handfuls",
+        "store": "Walmart"
+      },
+      {
+        "name": "Cilantro",
+        "amount": "to taste",
+        "unit": "(garnish)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Lime",
+        "amount": "1",
+        "unit": "wedges",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "B-tier. M4. Meal prep: store beef + refried beans + lettuce + dry toppings separately. Assemble fresh per serving. Only reheat beef and beans \u2014 everything else stays cold/fresh.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Brown 1.25 lbs ground beef in skillet over medium-high heat, breaking up. Drain excess fat if needed.",
+      "Add taco seasoning + 1/4 cup water (per packet instructions, or if homemade sprinkle dry seasonings + 1/4 cup water and toss). Simmer 3-5 min until thickened. Set aside.",
+      "Warm refried beans in microwave or small pot.",
+      "Shred iceberg lettuce. Halve cherry tomatoes. Dice red onion. Slice jalape\u00f1o. Slice avocado just before serving (oxidizes fast).",
+      "Store components separately for meal prep: beef + refried beans (reheatable) / lettuce + dry toppings (cold).",
+      "ASSEMBLY (per serving): Lettuce base \u2192 beef \u2192 refried beans \u2192 tomatoes \u2192 red onion \u2192 jalape\u00f1o \u2192 avocado \u2192 cheese \u2192 salsa \u2192 Greek yogurt \u2192 tortilla strips \u2192 cilantro + lime wedge."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "17",
+    "name": "Big Batch Baked Ziti (Scaled)",
+    "tier": null,
+    "meal_slots": [
+      2,
+      4
+    ],
+    "servings": 5,
+    "protein": "Ground Beef",
+    "ingredients": [
+      {
+        "name": "Olive oil",
+        "amount": "2",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Small yellow onion, diced",
+        "amount": "1",
+        "unit": "onion",
+        "store": "Walmart"
+      },
+      {
+        "name": "Ground beef (90/10)",
+        "amount": "1.25",
+        "unit": "lbs",
+        "store": "Costco"
+      },
+      {
+        "name": "Tomato paste",
+        "amount": "2",
+        "unit": "Tbsp + 1 tsp (~2oz)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Marinara sauce (meat sauce)",
+        "amount": "16",
+        "unit": "oz (just over half a 24oz jar)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Red lentils",
+        "amount": "1/2",
+        "unit": "cup",
+        "store": "Walmart"
+      },
+      {
+        "name": "Beef bouillon cubes",
+        "amount": "2",
+        "unit": "cubes dissolved in 1.33 cups warm water",
+        "store": "Walmart"
+      },
+      {
+        "name": "Coarse kosher salt",
+        "amount": "1.5",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic powder",
+        "amount": "2",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Italian seasoning",
+        "amount": "2",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Black pepper",
+        "amount": "3/4",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Ziti pasta",
+        "amount": "11",
+        "unit": "oz",
+        "store": "Walmart"
+      },
+      {
+        "name": "2% cottage cheese",
+        "amount": "1/3",
+        "unit": "cup",
+        "store": "Walmart"
+      },
+      {
+        "name": "Part-skim ricotta",
+        "amount": "1/3",
+        "unit": "cup",
+        "store": "Walmart"
+      },
+      {
+        "name": "Parmigiano Reggiano",
+        "amount": "3",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Shredded part-skim mozzarella",
+        "amount": "2/3",
+        "unit": "cup (topping)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Marinara sauce (topping)",
+        "amount": "1/2",
+        "unit": "cup",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "M2 lunch. Scaled to 1/3 of original 15-srv recipe from @stealth_health_life. Original macros (per serving): 610 cal / 45g protein / 72g carbs / 15g fat (using 96% beef \u2014 slightly higher fat with 90/10). 90/10 beef sub. Beef bouillon subbed for bone broth. No fresh basil. 6qt Dutch oven recommended. Reheats and freezes well.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Cook diced onion in olive oil with pinch of salt in Dutch oven until softened and lightly browned.",
+      "Push onion to side or remove. Add beef, sear until browned, then break up and combine with onions.",
+      "Add tomato paste, salt, garlic powder, Italian seasoning, and black pepper. Cook until darkened (~5 min).",
+      "Add red lentils, bouillon water, and marinara sauce. Bring to boil, cover and simmer until lentils are soft and sauce is thickened (45-60 min).",
+      "Cook ziti in salted water until just al dente. Drain.",
+      "In a baking dish or foil roaster: combine pasta + meat sauce + cheese mixture (cottage cheese + ricotta + Parmigiano). Mix thoroughly. Top with 1/2 cup marinara and 2/3 cup mozzarella.",
+      "Bake uncovered at 400\u00b0F for 20-30 min until cheese is melted and browned.",
+      "Let rest 10 min. Divide into 5 servings. Freeze any not eaten within 3-4 days."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "18",
+    "name": "Three-Cheese Alfredo Pasta with Chicken",
+    "tier": "A",
+    "meal_slots": [
+      2,
+      3,
+      4
+    ],
+    "servings": 8,
+    "protein": "Chicken Breast",
+    "ingredients": [
+      {
+        "name": "Chicken breast",
+        "amount": "25",
+        "unit": "oz",
+        "store": "Costco"
+      },
+      {
+        "name": "Salt",
+        "amount": "0.75",
+        "unit": "Tbsp (chicken)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic powder",
+        "amount": "1.5",
+        "unit": "tsp (chicken)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Dried minced onion",
+        "amount": "1.5",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Black pepper",
+        "amount": "0.75",
+        "unit": "tsp (~15 grinds)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Butter",
+        "amount": "1.5",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Oil",
+        "amount": "0.75",
+        "unit": "tsp (garlic packet)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic cloves (foil packet)",
+        "amount": "8",
+        "unit": "cloves",
+        "store": "Walmart"
+      },
+      {
+        "name": "Fettuccine pasta",
+        "amount": "18.5",
+        "unit": "oz (525g)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Reserved pasta water",
+        "amount": "1/2",
+        "unit": "cup",
+        "store": ""
+      },
+      {
+        "name": "2% cottage cheese",
+        "amount": "22",
+        "unit": "oz",
+        "store": "Walmart"
+      },
+      {
+        "name": "1/3 fat cream cheese",
+        "amount": "3.3",
+        "unit": "oz",
+        "store": "Walmart"
+      },
+      {
+        "name": "Parmigiano Reggiano",
+        "amount": "3.3",
+        "unit": "oz",
+        "store": "Walmart"
+      },
+      {
+        "name": "Asiago",
+        "amount": "1.7",
+        "unit": "oz",
+        "store": "Walmart"
+      },
+      {
+        "name": "Milk",
+        "amount": "10",
+        "unit": "oz (~1.25 cups)",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "A-tier. M2/M3/M4. From Will HOF Cookbook 2025. Reheats well. Slow cooker required. Blend sauce in 2 batches due to volume. Save all chicken cooking juices to add to final pot.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Place 25 oz chicken breast in slow cooker. Top with 1.5 Tbsp butter, 1.5 Tbsp dried minced onion, 0.75 Tbsp salt, 1.5 tsp garlic powder, and 0.75 tsp black pepper.",
+      "Make foil packet: combine 8 garlic cloves + 0.75 tsp oil + pinch of salt. Seal and place in slow cooker with chicken.",
+      "Cook on HIGH 2-3 hr OR LOW 3-4 hr until chicken is easily shredded.",
+      "Remove chicken, shred thoroughly. Reserve ALL juices from slow cooker.",
+      "Cook fettuccine for HALF the box time (very al dente). Reserve 1/2 cup pasta water before draining.",
+      "Sauce \u2014 Batch 1: divide all sauce ingredients in half (11 oz cottage cheese + 1.65 oz cream cheese + 1.65 oz Parmigiano + 0.85 oz Asiago + 5 oz milk). Blend until smooth.",
+      "Sauce \u2014 Batch 2: blend remaining half of sauce ingredients. Combine both batches.",
+      "In large pot: combine partially cooked pasta + shredded chicken + all reserved juices + total blended sauce + 1/2 cup reserved pasta water.",
+      "Set heat to LOW. Stir well. Simmer gently 15-20 min until pasta finishes cooking and sauce thickens.",
+      "Divide into 8 containers."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "19",
+    "name": "Korean BBQ Chicken Thighs + Cucumber Salad",
+    "tier": "A",
+    "meal_slots": [
+      3,
+      4
+    ],
+    "servings": 3,
+    "protein": "Chicken Thigh",
+    "ingredients": [
+      {
+        "name": "Boneless skinless chicken thighs",
+        "amount": "21.33",
+        "unit": "oz (4 thighs / 1 Costco pack)",
+        "store": "Costco"
+      },
+      {
+        "name": "Black pepper",
+        "amount": "1",
+        "unit": "tsp (marinade)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Fresh garlic, minced (marinade)",
+        "amount": "2",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Ginger paste",
+        "amount": "2",
+        "unit": "tsp (marinade)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Gochujang",
+        "amount": "1.5",
+        "unit": "Tbsp (marinade)",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Sriracha",
+        "amount": "1",
+        "unit": "Tbsp (marinade)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Sesame seeds",
+        "amount": "2",
+        "unit": "tsp (marinade)",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Light soy sauce",
+        "amount": "2",
+        "unit": "Tbsp minus 1/2 tsp (marinade)",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Cucumbers, thinly sliced",
+        "amount": "3",
+        "unit": "medium (~400g, full batch)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt (cucumber salad)",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Fresh garlic, minced (cucumber)",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Gochujang (cucumber)",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Zero calorie sweetener (subbed for honey)",
+        "amount": "1 Tbsp + 1 tsp",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Rice vinegar (cucumber)",
+        "amount": "2",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Sesame seeds (cucumber)",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Chili flakes (cucumber)",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Light soy sauce (cucumber)",
+        "amount": "1 Tbsp + 2 tsp",
+        "unit": "",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Dry basmati rice",
+        "amount": "0.7",
+        "unit": "cup (about 0.23 cup per serving)",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "A-tier (estimate). M3/M4 shared. Source: Instagram reel @C95Yi1vI4NB. Marinate chicken overnight for best flavor. Cucumber salad is a batch \u2014 flavor improves through the week. Store cucumbers separately for reheating; warm chicken + rice on low heat in pan.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Combine all marinade ingredients with 21.33 oz chicken thighs. Marinate overnight (ideal) or minimum 30 min.",
+      "Make cucumber salad: thinly slice 3 medium cucumbers. Combine with 1 tsp salt + 1 tsp minced garlic + 1 Tbsp gochujang + 1 Tbsp + 1 tsp sweetener + 2 Tbsp rice vinegar + 1 Tbsp sesame seeds + 1 tsp chili flakes + 1 Tbsp + 2 tsp light soy sauce. Mix and refrigerate \u2014 keeps a week.",
+      "Cook 0.7 cup dry basmati rice in rice cooker.",
+      "Air fry chicken at 400\u00b0F for 12-13 min (if sheet pan isn't full) or 16-18 min for full pan. Watch for nice char.",
+      "Slice or chop chicken as desired. Divide into 3 containers: chicken + rice. Store cucumber salad separately (serve cold).",
+      "Reheat: warm chicken + rice on low heat in a pan. Add cold cucumber salad on top."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "20",
+    "name": "Slow Cooker Shredded Chicken",
+    "tier": null,
+    "meal_slots": [
+      2,
+      3
+    ],
+    "servings": 8,
+    "protein": "Chicken Breast",
+    "ingredients": [
+      {
+        "name": "Raw chicken breast",
+        "amount": "3.3",
+        "unit": "lbs (~5-6 breasts)",
+        "store": "Costco"
+      },
+      {
+        "name": "Chicken stock or water + 2 bouillon cubes",
+        "amount": "1",
+        "unit": "cup",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic powder",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Black pepper",
+        "amount": "1/2",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Onion powder (optional)",
+        "amount": "1/2",
+        "unit": "tsp",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "M2/M3. Zero-effort base recipe \u2014 sauce per portion as you eat. Pairs with G Hughes BBQ, low cal ketchup, sriracha, salsa, hot sauce, Greek yogurt sauce, mustard. M2 (Will, starch-free): chicken + frozen veg + sauce. M3: chicken + potato or rice + frozen veg + sauce. Reheats moist and absorbs sauce well.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Place 3.3 lbs raw chicken breast in slow cooker.",
+      "Add 1 cup chicken stock (or water + 2 dissolved bouillon cubes), 1 tsp salt, 1 tsp garlic powder, 1/2 tsp black pepper, 1/2 tsp onion powder.",
+      "Cook on LOW 4 hours until chicken easily shreds.",
+      "Remove chicken, shred with forks. Discard or reserve cooking liquid.",
+      "Portion into 8 containers with frozen veg medley.",
+      "Sauce per portion as you eat \u2014 keep low cal sauces stocked."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "21",
+    "name": "Chicken & Vegetable Air-Fryer Bake",
+    "tier": null,
+    "meal_slots": [
+      2,
+      3
+    ],
+    "servings": 6,
+    "protein": "Chicken (thigh + breast)",
+    "ingredients": [
+      {
+        "name": "Chicken thighs, cut into chunks",
+        "amount": "4",
+        "unit": "thighs (freezer stock)",
+        "store": "Costco"
+      },
+      {
+        "name": "Chicken breasts, cut into chunks",
+        "amount": "2",
+        "unit": "breasts (freezer stock)",
+        "store": "Costco"
+      },
+      {
+        "name": "Large zucchini, diced",
+        "amount": "1",
+        "unit": "large",
+        "store": "Walmart"
+      },
+      {
+        "name": "Celery, sliced",
+        "amount": "2-3",
+        "unit": "stalks",
+        "store": "Walmart"
+      },
+      {
+        "name": "Kale, de-stemmed and torn",
+        "amount": "1",
+        "unit": "bunch",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic powder",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Paprika",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt + pepper",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Olive oil spray",
+        "amount": "as needed",
+        "unit": "",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "Starch-free. M2 (Will, starch-free) + M3. Uses up remaining freezer chicken (4 thighs + 2 breasts) plus loose produce (zucchini, celery, 1 kale bunch). Sauce per portion with low-cal sauces (G Hughes BBQ, hot sauce, sriracha, salsa). Reheats in microwave.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Cut 4 thighs + 2 breasts into bite-size chunks. Season with garlic powder, paprika, salt, pepper, and a light olive oil spray.",
+      "Dice 1 large zucchini, slice 2-3 celery stalks, tear 1 de-stemmed kale bunch.",
+      "Air fry chicken at 400\u00b0F in batches, ~12-15 min, until cooked through (165\u00b0F) and lightly charred. Set aside.",
+      "Air fry zucchini + celery at 400\u00b0F for 8-10 min, shaking halfway. Add kale for the last 2-3 min to wilt and crisp.",
+      "Combine chicken + veg. Divide into 6 containers.",
+      "Sauce per portion as you eat \u2014 keep low-cal sauces stocked."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "22",
+    "name": "Chicken Thigh Fried Rice",
+    "tier": null,
+    "meal_slots": [
+      2,
+      4
+    ],
+    "servings": 6,
+    "protein": "Chicken Thigh + Egg",
+    "ingredients": [
+      {
+        "name": "Chicken thighs, diced",
+        "amount": "4",
+        "unit": "thighs (~21 oz)",
+        "store": "Costco"
+      },
+      {
+        "name": "Egg whites",
+        "amount": "16",
+        "unit": "oz",
+        "store": "Walmart"
+      },
+      {
+        "name": "Whole eggs",
+        "amount": "2",
+        "unit": "",
+        "store": "Costco"
+      },
+      {
+        "name": "Day-old cooked rice (chilled)",
+        "amount": "1.8",
+        "unit": "cups dry, cooked + chilled overnight",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic, minced",
+        "amount": "4",
+        "unit": "cloves",
+        "store": "Walmart"
+      },
+      {
+        "name": "Fresh ginger, grated",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Green onion, sliced (whites + greens separate)",
+        "amount": "1",
+        "unit": "big bunch",
+        "store": "Walmart"
+      },
+      {
+        "name": "Celery, diced",
+        "amount": "2-3",
+        "unit": "stalks",
+        "store": "Walmart"
+      },
+      {
+        "name": "Cilantro, chopped",
+        "amount": "to taste",
+        "unit": "(garnish)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Soy sauce",
+        "amount": "4",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Oyster sauce",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Toasted sesame oil",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "White pepper",
+        "amount": "1/2",
+        "unit": "tsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Sriracha",
+        "amount": "to taste",
+        "unit": "(optional)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Avocado oil",
+        "amount": "as needed",
+        "unit": "(cooking)",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "Mostly Elena. M2/M4. Lightened to 1.8 cups dry rice for the cut (~5.4 cups cooked, 6 servings). Day-old chilled rice is essential \u2014 cook 1.8 cups the day before and chill uncovered overnight. Reheats well. Uses up green onion, celery, cilantro.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Day before: cook 1.8 cups rice, spread on a tray, chill uncovered in fridge overnight.",
+      "Scramble 16 oz egg whites + 2 whole eggs in wok or large skillet with a little avocado oil. Remove and set aside.",
+      "Sear diced thighs in avocado oil over high heat until cooked through (165\u00b0F). Remove and set aside.",
+      "Stir-fry minced garlic + grated ginger + green onion whites + diced celery 1-2 min.",
+      "Add cold rice, break up clumps, stir-fry 3-4 min to crisp.",
+      "Add soy sauce + oyster sauce + sesame oil + white pepper (+ sriracha if using). Toss to coat.",
+      "Return egg + chicken, add green onion greens. Toss to combine and heat through.",
+      "Garnish with cilantro. Divide into 6 containers."
+    ],
+    "on_break": false
+  }
+]

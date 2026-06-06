@@ -1,0 +1,44 @@
+# Sample cycle (Sat 2026-06-07 -> Sat 2026-06-14). Demoable: every make target
+# runs against this file with zero AI calls. Written by `make new-cycle` normally;
+# this one is hand-seeded so the loop works immediately.
+date: "2026-06-07"
+grocery_day: "2026-06-06"   # Walmart Fri-night order; Costco Sat AM
+
+# Dining-out / covered meals (flexible — assigned to slot with greatest deficit).
+exceptions:
+  - { date: "2026-06-08", member: Will, slot: M4, reason: "dinner out (Vietnamese — refeed)" }
+  - { date: "2026-06-11", member: Both, slot: M4, reason: "covered — Elena's parents" }
+
+# Leftover servings carried from the prior cycle (reduce what we need to cook).
+carryover:
+  - { recipe_id: "20", servings: 2, note: "shredded chicken from last cycle, M3" }
+
+# Selected recipes for the week: planned servings + which member/slot they feed.
+selections:
+  - recipe_id: "1"    # Chicken Teriyaki (S, M2) — shared lunch prep
+    planned_servings: 8
+    slot_assignments:
+      - { member: Will,  slot: M2, servings: 5 }
+      - { member: Elena, slot: M2, servings: 3 }
+  - recipe_id: "11"   # NY Strip Steak & Salad (S, M4) — shared dinner
+    planned_servings: 2
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 2 }
+  - recipe_id: "12"   # Salmon Poke Bowl (S, M2/M4) — shared dinner
+    planned_servings: 4
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 4 }
+  - recipe_id: "20"   # Slow Cooker Shredded Chicken (M2/M3) — Will solo convenience
+    planned_servings: 8
+    slot_assignments:
+      - { member: Will, slot: M3, servings: 5 }
+      - { member: Will, slot: M2, servings: 3 }
+  - recipe_id: "9"    # Bibimbap (A, M2/M4) — shared
+    planned_servings: 6
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 4 }
+      - { member: Elena, slot: M2, servings: 2 }
+
+# Inventory snapshot at cycle start (deplete.py diffs against this; optional —
+# falls back to data/inventory.json if absent).
+inventory_snapshot: []
