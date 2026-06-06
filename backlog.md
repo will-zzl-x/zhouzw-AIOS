@@ -36,3 +36,7 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 ## Inbox (unranked) — sorted in next reflection
 
 <!-- Mid-week captures land here. /mid-week-capture appends with date + area + gate. Sunday absorbs them into the ranked table. -->
+
+- **2026-06-06 · AIOS-Infra · not-quest · gate: window:weekend** — `meal-planning/scripts/grocery.py`: read `cycle.inventory_snapshot` like `deplete.py` does. First real cycle (2026-06-06) had ~20 false-positive buy items because grocery.py only checks `data/inventory.json`, not the cycle's snapshot field. Hand-validated in `cycles/2026-06-06-grocery.md` this run. Full retro: `meal-planning/cycles/2026-06-06-retro.md` #1. Also fold in #2 from retro while there (name fuzzy match + unit conversion table — "Salt 1.5 tsp" doesn't match "Salt 26 oz" in inventory). ~2 hr task.
+
+- **2026-06-06 · AIOS-Infra · not-quest · gate: window:weekend** — `meal-planning/scripts/defrost.py`: skip the defrost calc when the protein is on the cycle's grocery list (raw) for the same date as `cycle.date` — i.e. fresh-buy cycles. First real cycle (2026-06-06) was all fresh-buy and the script still emitted "move 2026-06-04" stage dates that had already passed. Detection rule: if protein appears in any `selection.ingredients` with `store != ""` AND inventory doesn't already hold it frozen → skip. Full retro: `meal-planning/cycles/2026-06-06-retro.md` #3. ~30 min task.
