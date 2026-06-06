@@ -2274,5 +2274,211 @@
       "Garnish with cilantro. Divide into 6 containers."
     ],
     "on_break": false
+  },
+  {
+    "id": "23",
+    "name": "Walmart Beef Burgers + Oven Fries",
+    "tier": null,
+    "meal_slots": [
+      4
+    ],
+    "servings": 4,
+    "protein": "Beef",
+    "ingredients": [
+      {
+        "name": "Beef patties (93/7)",
+        "amount": "4",
+        "unit": "patties",
+        "store": "Walmart"
+      },
+      {
+        "name": "Low-cal sandwich bread (as buns)",
+        "amount": "8",
+        "unit": "slices (2 per serving)",
+        "store": "Walmart"
+      },
+      {
+        "name": "American or cheddar cheese slices",
+        "amount": "4",
+        "unit": "slices",
+        "store": "Walmart"
+      },
+      {
+        "name": "Russet potatoes (fries)",
+        "amount": "1",
+        "unit": "lb",
+        "store": "Walmart"
+      },
+      {
+        "name": "Avocado oil (fries)",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt (burger/fries)",
+        "amount": "1",
+        "unit": "tsp total",
+        "store": "Walmart"
+      },
+      {
+        "name": "Black pepper (burger/fries)",
+        "amount": "0.5",
+        "unit": "tsp total",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic powder (fries)",
+        "amount": "0.5",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Paprika (fries)",
+        "amount": "0.5",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Romaine or iceberg lettuce",
+        "amount": "0.25",
+        "unit": "head",
+        "store": "Walmart"
+      },
+      {
+        "name": "Roma tomato, sliced",
+        "amount": "1",
+        "unit": "tomato",
+        "store": "Walmart"
+      },
+      {
+        "name": "Red onion, sliced thin",
+        "amount": "0.5",
+        "unit": "onion",
+        "store": "Walmart"
+      },
+      {
+        "name": "Dill pickles",
+        "amount": "1",
+        "unit": "jar (or to taste)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Mustard",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Ketchup",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "M4 only \u2014 toasted bread reheats poorly, do not microwave leftovers. 93/7 lean keeps cal in cut-zone (~600 cal/serving with bun + fries + cheese). Air-fry fries 425F 20-25 min; pan-sear patties ~4 min/side for medium. NEW 2026-06-06 \u2014 first cycle.",
+    "on_break": false,
+    "recipe_available": true,
+    "recipe_steps": [
+      "Cut potatoes into fries (1/2 in thick). Toss with avocado oil + 0.5 tsp salt + 0.5 tsp garlic powder + 0.5 tsp paprika + black pepper.",
+      "Air-fry or oven-bake fries at 425F for 20-25 min, tossing halfway, until crisp.",
+      "While fries cook, season patties with 0.5 tsp salt + black pepper. Pan-sear over medium-high heat ~4 min per side for medium.",
+      "Add cheese slices to patties in the last minute to melt.",
+      "Toast bread slices (pan or toaster).",
+      "Assemble: bread + lettuce + patty/cheese + tomato + onion + pickle + mustard + ketchup.",
+      "Serve immediately with fries."
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Costco Chicken & Shrimp + Roasted Veg Bowls (M2 prep)",
+    "tier": null,
+    "meal_slots": [
+      2
+    ],
+    "servings": 14,
+    "protein": "Chicken + Shrimp",
+    "ingredients": [
+      {
+        "name": "Kirkland pre-cooked grilled chicken strips",
+        "amount": "1",
+        "unit": "lb (~half of 2lb pack)",
+        "store": "Costco"
+      },
+      {
+        "name": "Kirkland cooked cocktail shrimp, thawed",
+        "amount": "1",
+        "unit": "lb (half of 2lb bag)",
+        "store": "Costco"
+      },
+      {
+        "name": "Broccoli florets",
+        "amount": "1",
+        "unit": "lb",
+        "store": "Costco"
+      },
+      {
+        "name": "Zucchini",
+        "amount": "1",
+        "unit": "lb (~3 medium)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Asparagus, trimmed",
+        "amount": "0.5",
+        "unit": "lb",
+        "store": "Costco"
+      },
+      {
+        "name": "Bell peppers",
+        "amount": "0.5",
+        "unit": "lb (~2 peppers)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Avocado oil (roasting veg)",
+        "amount": "2",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt (veg)",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Black pepper (veg)",
+        "amount": "0.5",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic powder (veg)",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Paprika (veg)",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "Batch M2 prep, 14 servings. Default split: ~8 srv chicken + ~6 srv shrimp (alternates days so it doesn't get repetitive). All starch-free, cut-aligned (~30g protein / ~200 cal per serving). All ingredients reheat well in microwave 60-90s. NEW 2026-06-06 \u2014 first cycle.",
+    "on_break": false,
+    "recipe_available": true,
+    "recipe_steps": [
+      "Preheat oven or air-fryer to 425F.",
+      "Cut broccoli, zucchini, asparagus, bell peppers into bite-sized pieces.",
+      "Toss veg on sheet pan with 2 Tbsp avocado oil + 1 tsp salt + 0.5 tsp pepper + 1 tsp garlic powder + 1 tsp paprika.",
+      "Roast 20-25 min, tossing halfway, until tender-crisp.",
+      "While veg roasts, thaw shrimp (cold water 10 min) if frozen.",
+      "Divide roasted veg evenly into 14 containers.",
+      "Add ~3oz chicken strips to ~8 containers, ~3oz shrimp to ~6 containers (alternate by day).",
+      "Refrigerate up to 5 days. Microwave 60-90 sec to reheat.",
+      "Optional: serve with sriracha mayo, hot sauce, or Walden Farms dressing on the side."
+    ]
   }
 ]

@@ -1,0 +1,47 @@
+# Cycle Sat 2026-06-06 -> Sat 2026-06-13
+# Built collaboratively with Claude 2026-06-06 (first real cycle).
+date: "2026-06-06"
+grocery_day: "2026-06-06"   # all Sat AM: Costco + Walmart same day
+
+# Dining-out / covered meals (subtract from need).
+exceptions:
+  - { date: "2026-06-06", member: Both, slot: M4, reason: "birthday party (Sat dinner covered)" }
+
+# Leftover ready servings from prior cycle.
+carryover:
+  - { recipe_id: "19", servings: 2, note: "Korean BBQ Chicken Thighs leftover -> Will M3" }
+
+# Selected recipes for the week.
+selections:
+  # Three-Cheese Alfredo with Chicken — Will has the 25oz chicken on hand
+  - recipe_id: "18"
+    planned_servings: 8
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 4 }   # 2 shared dinner nights
+      - { member: Will, slot: M3, servings: 4 }   # 4 weekday work lunches
+
+  # Costco Salmon Milano + Asparagus
+  - recipe_id: "7"
+    planned_servings: 5
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 4 }   # 2 shared dinner nights
+      - { member: Will, slot: M4, servings: 1 }   # 1 leftover Will-solo dinner
+
+  # NEW #23 — Walmart Beef Burgers + Oven Fries (first cycle for this recipe)
+  - recipe_id: "23"
+    planned_servings: 4
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 4 }   # 2 shared dinner nights (M4 only — no leftover reheat)
+
+  # NEW #24 — Costco Chicken & Shrimp + Roasted Veg Bowls (M2 prep, first cycle)
+  - recipe_id: "24"
+    planned_servings: 14
+    slot_assignments:
+      - { member: Both, slot: M2, servings: 14 }  # splits 7/7 -> Will M2 + Elena M2 fully covered
+
+# Inventory snapshot at cycle start (items Will already has on hand for this cycle).
+# Reduces grocery list — these don't need to be bought.
+inventory_snapshot:
+  - { name: "Chicken breast", amount: "25", unit: "oz", note: "for #18 Alfredo — already on hand" }
+  - { name: "Low-cal sandwich bread (as buns)", amount: "8", unit: "slices", note: "for #23 Burgers — already on hand" }
+  - { name: "Russet potatoes (fries)", amount: "1", unit: "lb", note: "for #23 Burgers — already on hand" }
