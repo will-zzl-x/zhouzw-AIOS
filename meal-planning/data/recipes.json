@@ -2418,21 +2418,9 @@
         "store": "Costco"
       },
       {
-        "name": "Zucchini",
-        "amount": "1",
-        "unit": "lb (~3 medium)",
-        "store": "Walmart"
-      },
-      {
-        "name": "Asparagus, trimmed",
-        "amount": "0.5",
-        "unit": "lb",
-        "store": "Costco"
-      },
-      {
-        "name": "Bell peppers",
-        "amount": "0.5",
-        "unit": "lb (~2 peppers)",
+        "name": "Frozen mixed veg medley (broccoli/cauliflower/carrots/etc)",
+        "amount": "2",
+        "unit": "lb (replaces fresh zucchini + bell pepper + asparagus)",
         "store": "Walmart"
       },
       {
@@ -2466,7 +2454,7 @@
         "store": "Walmart"
       }
     ],
-    "notes": "Batch M2 prep, 14 servings. Default split: ~8 srv breaded chicken chunks (reheat air-fryer 400F 5-7 min for crisp, or microwave 60s if texture not critical) + ~6 srv marinated chicken thighs (bake once 400F 30 min, slice). Alternates days for variety. MACRO NOTE: breaded chunks ~190 cal / 18g protein / 7g fat / 8g carbs per 3oz \u2014 violates strict M2 starch-free guideline, adds ~64g carbs + ~640 cal across the week. Track in Cronometer honestly; consider air-frying to crisp the breading rather than microwaving. Thighs ~170 cal / 22g protein / 9g fat per 3oz, still cut-friendly. Swapped from grilled chicken strips 2026-06-06 per Will preference.",
+    "notes": "Batch M2 prep, 14 servings. Default split: ~8 srv breaded chicken chunks (reheat air-fryer 400F 5-7 min for crisp, or microwave 60s if texture not critical) + ~6 srv marinated chicken thighs (bake once 400F 30 min, slice). Alternates days for variety. MACRO NOTE: breaded chunks ~190 cal / 18g protein / 7g fat / 8g carbs per 3oz \u2014 violates strict M2 starch-free guideline, adds ~64g carbs + ~640 cal across the week. Track in Cronometer honestly; consider air-frying to crisp the breading rather than microwaving. Thighs ~170 cal / 22g protein / 9g fat per 3oz, still cut-friendly. Swapped from grilled chicken strips 2026-06-06 per Will preference. Veg simplified 2026-06-06: fresh zucchini/asparagus/bell-peppers -> single frozen veg medley (using Will's 4lb freezer stock).",
     "on_break": false,
     "recipe_available": true,
     "recipe_steps": [
@@ -2509,7 +2497,7 @@
         "name": "Frozen pepper & onion stir-fry mix (fajita mix)",
         "amount": "1.5",
         "unit": "lb (~half of Costco bag)",
-        "store": "Costco"
+        "store": "Walmart"
       },
       {
         "name": "Black beans, drained + rinsed",
@@ -2537,7 +2525,7 @@
       },
       {
         "name": "Avocado, sliced",
-        "amount": "1",
+        "amount": "2",
         "unit": "medium",
         "store": "Walmart"
       },

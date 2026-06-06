@@ -168,13 +168,6 @@
     "freshness_date": "2026-10-01"
   },
   {
-    "item": "0% Greek yogurt",
-    "quantity": 32,
-    "unit": "oz",
-    "location": "fridge",
-    "freshness_date": "2026-06-20"
-  },
-  {
     "item": "Eggs",
     "quantity": 18,
     "unit": "eggs",
@@ -277,6 +270,41 @@
     "quantity": 3,
     "unit": "lb",
     "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Dried minced onion",
+    "quantity": 4,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Asiago cheese",
+    "quantity": 4,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null
+  },
+  {
+    "item": "Fettuccine pasta",
+    "quantity": 25,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Mustard",
+    "quantity": 12,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null
+  },
+  {
+    "item": "Dill pickles",
+    "quantity": 1,
+    "unit": "jar",
+    "location": "fridge",
     "freshness_date": null
   }
 ]
