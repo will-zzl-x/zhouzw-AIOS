@@ -45,9 +45,16 @@ selections:
     slot_assignments:
       - { member: Will, slot: M3, servings: 3 }   # 1 closes the M3 gap, 2 buffer
 
+  # NEW #27 — Roasted Tomato Soup + Low-Cal Grilled Cheese (lean M4 buffer; flex into M2)
+  - recipe_id: "27"
+    planned_servings: 5
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 5 }   # shared lean dinners; buffer lets Will overflow M2 -> M1 and backfill M2 with M4 surplus
+
 # Inventory snapshot at cycle start (items Will already has on hand for this cycle).
 # Reduces grocery list — these don't need to be bought.
 inventory_snapshot:
   - { name: "Chicken breast", amount: "25", unit: "oz", note: "for #18 Alfredo — already on hand" }
   - { name: "Low-cal sandwich bread (as buns)", amount: "8", unit: "slices", note: "for #23 Burgers — already on hand" }
   - { name: "Russet potatoes (fries)", amount: "1", unit: "lb", note: "for #23 Burgers — already on hand" }
+  - { name: "Low-cal sandwich bread (for grilled cheese)", amount: "10", unit: "slices", note: "for #27 Tomato Soup + GC — same loaf as burger buns" }

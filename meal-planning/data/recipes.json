@@ -2638,5 +2638,126 @@
       "Garnish with cucumber slices or capers if using.",
       "Eat fresh, or pack components separately and assemble at work (toasted bread reheats poorly)."
     ]
+  },
+  {
+    "id": "27",
+    "name": "Roasted Tomato Soup + Low-Cal Grilled Cheese",
+    "tier": null,
+    "meal_slots": [
+      4
+    ],
+    "servings": 5,
+    "protein": "Cheese / Dairy (low-cal lean meal)",
+    "ingredients": [
+      {
+        "name": "Roma tomatoes (for roasted soup)",
+        "amount": "4",
+        "unit": "medium",
+        "store": "Walmart"
+      },
+      {
+        "name": "Yellow onions",
+        "amount": "2",
+        "unit": "medium",
+        "store": "Walmart"
+      },
+      {
+        "name": "Red bell pepper",
+        "amount": "1",
+        "unit": "pepper",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic bulbs (whole, for roasting)",
+        "amount": "2",
+        "unit": "bulbs",
+        "store": "Walmart"
+      },
+      {
+        "name": "Tomato paste",
+        "amount": "2",
+        "unit": "Tbsp (~66g, half of 6oz can)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Chicken or vegetable stock",
+        "amount": "200",
+        "unit": "mL (~0.85 cup)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Nonfat milk (replaces Milk50 in original recipe)",
+        "amount": "260",
+        "unit": "mL total (~1.1 cups — 240mL soup + 20mL white sauce)",
+        "store": "Walmart"
+      },
+      {
+        "name": "0% Greek yogurt (white-sauce swirl)",
+        "amount": "40",
+        "unit": "g (~3 Tbsp — pulls from #25's tub)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Dried thyme",
+        "amount": "1.5",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Dried basil",
+        "amount": "1.5",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Black pepper",
+        "amount": "0.5",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Olive oil (for roasting veg)",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Low-cal sandwich bread (grilled cheese)",
+        "amount": "10",
+        "unit": "slices (2 per srv — likely on hand)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Reduced-fat sliced cheese (cheddar or American, ~50 cal/slice)",
+        "amount": "5",
+        "unit": "slices (1 per grilled cheese)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Cooking spray (for grilled cheese)",
+        "amount": "as needed",
+        "unit": "",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "M4 dinner, 5 srv. Roasted tomato soup (adapted from @cooklikeimbook — nonfat milk swapped in for Milk50) + 1 low-cal grilled cheese per serving. Per serving: ~256 cal / 14g protein / 8g fat / 25g carbs (soup ~116 cal + grilled cheese ~140 cal). Leanest M4 of the week — cut-friendly buffer dinner. Soup keeps 4 days fridge or freezes well; grilled cheese made fresh per serving. Nonfat milk + Greek yogurt cut fat vs heavy cream; roasted whole garlic bulbs add depth without extra cal. Bread + cooking spray on hand from burger cycle; reduced-fat sliced cheese needs grocery add. Added to cycle 2026-06-06 — first cycle. Will's note: M4 buffer lets him overflow flexibility into M2 (eat planned M2 as M1 some days, fall back to soup+gc for dinner).",
+    "on_break": false,
+    "recipe_available": true,
+    "recipe_steps": [
+      "Preheat oven to 425F. Halve tomatoes, quarter onions, deseed + halve bell pepper, slice across the top of each garlic bulb to expose cloves.",
+      "Toss veg with olive oil + salt; roast on sheet pan 30 min until edges char.",
+      "Squeeze roasted garlic cloves out of bulbs into a blender; add roasted tomatoes + onions + bell pepper + tomato paste + thyme + basil + black pepper.",
+      "Blend with stock until smooth (~60 sec). Transfer to pot.",
+      "Stir in 240mL nonfat milk; simmer 5 min on low (do not boil — nonfat milk curdles).",
+      "White-sauce swirl: mix 40g Greek yogurt + 20mL nonfat milk; swirl on top of each bowl when serving.",
+      "Grilled cheese (per srv): spray pan with cooking spray, place 1 cheese slice between 2 slices low-cal bread, grill medium-low 2-3 min/side until golden + melted.",
+      "Plate: 1 bowl soup (~240mL) + 1 grilled cheese per serving. Reheat soup leftovers in microwave 90s; make grilled cheese fresh each time."
+    ]
   }
 ]
