@@ -2542,5 +2542,66 @@
       "Serve thighs with asparagus + lemon wedge.",
       "Reheat leftovers: oven or air-fryer 325F for ~10 min (thighs reheat well; asparagus best reheated separately or eaten cold)."
     ]
+  },
+  {
+    "id": "26",
+    "name": "Canned Salmon + Hummus on Toasted Bread (Quick M3 Lunch)",
+    "tier": null,
+    "meal_slots": [
+      3,
+      4
+    ],
+    "servings": 3,
+    "protein": "Salmon (canned)",
+    "ingredients": [
+      {
+        "name": "Canned wild salmon (drained, in water, no salt added)",
+        "amount": "3",
+        "unit": "cans (3oz drained each)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Hummus (any flavor)",
+        "amount": "6",
+        "unit": "Tbsp total (~half of 10oz tub)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Low-cal sandwich bread (toasted)",
+        "amount": "6",
+        "unit": "slices (2 per srv) \u2014 likely on hand",
+        "store": "Walmart"
+      },
+      {
+        "name": "Lemon (juice, optional)",
+        "amount": "0.5",
+        "unit": "lemon",
+        "store": "Walmart"
+      },
+      {
+        "name": "Black pepper",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Cucumber slices or capers (optional garnish)",
+        "amount": "0.5",
+        "unit": "cucumber or 1 Tbsp capers",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "Quick M3 lunch assembly, 3 servings. Solves Will M3 gap in cycle 2026-06-06 + 2 srv buffer. Per serving: ~280 cal / 23g protein / 11g fat / 24g carbs. Bread is fine for M3 (only M1/M2 are starch-free). Omega-3 boost from canned salmon (~3g/can). Cheap: ~$2/can salmon + ~$4 hummus tub + bread on hand. Assemble on-the-go: toast bread, spread hummus, top with drained salmon + black pepper + lemon. If meal-prepping: package toasted bread + hummus + salmon separately, assemble at work. NEW 2026-06-06 \u2014 first cycle.",
+    "on_break": false,
+    "recipe_available": true,
+    "recipe_steps": [
+      "Drain canned salmon, flake with a fork in a small bowl.",
+      "Add lemon juice + black pepper to taste. Stir.",
+      "Toast bread slices (toaster or pan).",
+      "Spread 1 Tbsp hummus per slice (2 Tbsp per srv).",
+      "Top with ~3oz salmon mix per srv (split across 2 slices).",
+      "Garnish with cucumber slices or capers if using.",
+      "Eat fresh, or pack components separately and assemble at work (toasted bread reheats poorly)."
+    ]
   }
 ]

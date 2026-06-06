@@ -39,6 +39,12 @@ selections:
     slot_assignments:
       - { member: Both, slot: M2, servings: 14 }  # splits 7/7 -> Will M2 + Elena M2 fully covered
 
+  # NEW #26 — Canned Salmon + Hummus on Toasted Bread (closes Will M3 gap + buffer)
+  - recipe_id: "26"
+    planned_servings: 3
+    slot_assignments:
+      - { member: Will, slot: M3, servings: 3 }   # 1 closes the M3 gap, 2 buffer
+
 # Inventory snapshot at cycle start (items Will already has on hand for this cycle).
 # Reduces grocery list — these don't need to be bought.
 inventory_snapshot:
