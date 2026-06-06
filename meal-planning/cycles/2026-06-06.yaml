@@ -31,7 +31,8 @@ selections:
   - recipe_id: "23"
     planned_servings: 4
     slot_assignments:
-      - { member: Both, slot: M4, servings: 4 }   # 2 shared dinner nights (M4 only — no leftover reheat)
+      - { member: Will, slot: M3, servings: 2 }   # Sat lunch today (Will + Elena share, or Will + leftover)
+      - { member: Both, slot: M4, servings: 2 }   # 1 shared dinner night mid-week (M4 only — no leftover reheat)
 
   # NEW #24 — Costco Breaded Chicken Chunks & Marinated Thighs + Roasted Veg Bowls (M2 prep, first cycle)
   - recipe_id: "24"
