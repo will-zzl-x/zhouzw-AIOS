@@ -20,12 +20,12 @@ selections:
       - { member: Both, slot: M4, servings: 4 }   # 2 shared dinner nights
       - { member: Will, slot: M3, servings: 4 }   # 4 weekday work lunches
 
-  # NEW #25 — Costco Chipotle Marinated Chicken Thighs + Asparagus (replaces Salmon Milano)
+  # NEW #25 — Costco Chipotle Pre-Cooked Thigh Meat Mexican Bowls (2lb bag yields ~6 srv)
   - recipe_id: "25"
-    planned_servings: 5
+    planned_servings: 6
     slot_assignments:
       - { member: Both, slot: M4, servings: 4 }   # 2 shared dinner nights
-      - { member: Will, slot: M4, servings: 1 }   # 1 leftover Will-solo dinner
+      - { member: Will, slot: M4, servings: 2 }   # 2 leftover Will-solo dinners (2lb bag yielded extra srv vs the 1.5lb estimate)
 
   # NEW #23 — Walmart Beef Burgers + Oven Fries (first cycle for this recipe)
   - recipe_id: "23"

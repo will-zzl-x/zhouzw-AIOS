@@ -2391,13 +2391,13 @@
   },
   {
     "id": "24",
-    "name": "Costco Breaded Chicken Chunks & Marinated Thighs + Roasted Veg Bowls (M2 prep)",
+    "name": "Costco Breaded Chicken Chunks & Roasted Pork Loin + Veg Bowls (M2 prep)",
     "tier": null,
     "meal_slots": [
       2
     ],
     "servings": 14,
-    "protein": "Chicken (breaded chunks + marinated thighs)",
+    "protein": "Chicken (breaded chunks, 8 srv) + Pork loin (6 srv)",
     "ingredients": [
       {
         "name": "Kirkland lightly breaded chicken breast chunks (frozen, pre-cooked)",
@@ -2406,9 +2406,9 @@
         "store": "Costco"
       },
       {
-        "name": "Kirkland pre-marinated chicken thighs (raw)",
+        "name": "Boneless pork loin, cubed (raw)",
         "amount": "1.5",
-        "unit": "lb raw (~6 srv at 3oz cooked)",
+        "unit": "lb raw (~6 srv at 3oz cooked) — leaner sub for marinated thighs (Costco doesn't carry the marinated variant)",
         "store": "Costco"
       },
       {
@@ -2454,21 +2454,22 @@
         "store": "Walmart"
       }
     ],
-    "notes": "Batch M2 prep, 14 servings. Default split: ~8 srv breaded chicken chunks (reheat air-fryer 400F 5-7 min for crisp, or microwave 60s if texture not critical) + ~6 srv marinated chicken thighs (bake once 400F 30 min, slice). Alternates days for variety. MACRO NOTE: breaded chunks ~190 cal / 18g protein / 7g fat / 8g carbs per 3oz \u2014 violates strict M2 starch-free guideline, adds ~64g carbs + ~640 cal across the week. Track in Cronometer honestly; consider air-frying to crisp the breading rather than microwaving. Thighs ~170 cal / 22g protein / 9g fat per 3oz, still cut-friendly. Swapped from grilled chicken strips 2026-06-06 per Will preference. Veg simplified 2026-06-06: fresh zucchini/asparagus/bell-peppers -> single frozen veg medley (using Will's 4lb freezer stock).",
+    "notes": "Batch M2 prep, 14 servings. Default split: ~8 srv breaded chicken chunks (reheat air-fryer 400F 5-7 min for crisp, or microwave 60s if texture not critical) + ~6 srv roasted pork loin cubes (oven 425F ~18-20 min to 145F internal, season w/ garlic powder + paprika + cumin + S/P + avocado oil). Alternates days for variety. MACRO NOTE: breaded chunks ~190 cal / 18g protein / 7g fat / 8g carbs per 3oz \u2014 violates strict M2 starch-free guideline, adds ~64g carbs + ~640 cal across the week. Track in Cronometer honestly; consider air-frying to crisp the breading rather than microwaving. Pork loin ~150 cal / 28g protein / 4g fat per 3oz cooked \u2014 leaner + higher-protein than thighs would have been. Pork loin swapped in 2026-06-06 (Costco doesn't carry the marinated chicken thigh variant; pork loin is ~$3-4/lb at Costco vs ~$10/lb for premium thighs). Pork loin also adds protein variety vs all-chicken/beef week. Veg: frozen mixed medley + fresh broccoli florets, roasted on shared sheet pan with veg seasonings.",
     "on_break": false,
     "recipe_available": true,
     "recipe_steps": [
-      "Preheat oven to 400F.",
-      "Cut broccoli, zucchini, asparagus, bell peppers into bite-sized pieces.",
-      "Toss veg on sheet pan #1 with 2 Tbsp avocado oil + 1 tsp salt + 0.5 tsp pepper + 1 tsp garlic powder + 1 tsp paprika.",
-      "Place marinated chicken thighs on sheet pan #2 (skip the seasoning \u2014 they're pre-marinated).",
-      "Bake both pans at 400F for ~30 min; veg should be tender-crisp, thighs should reach 165F internal.",
-      "Slice baked thighs into bite-sized pieces.",
+      "Preheat oven to 425F.",
+      "Cube pork loin into ~1-inch pieces. Toss in bowl with 1 Tbsp avocado oil + 1 tsp garlic powder + 1 tsp paprika + 0.5 tsp cumin + 0.5 tsp salt + 0.25 tsp black pepper.",
+      "Cut broccoli florets into bite-sized pieces (frozen veg medley goes in straight from bag \u2014 no cutting).",
+      "Sheet pan #1 (veg): toss frozen veg medley + fresh broccoli with 1 Tbsp avocado oil + 0.5 tsp salt + 0.25 tsp pepper + 0.5 tsp garlic powder + 0.5 tsp paprika.",
+      "Sheet pan #2 (pork): spread cubed seasoned pork loin in single layer.",
+      "Roast both pans at 425F: pork loin ~18-20 min (pull at 145F internal), veg ~25 min until tender-crisp + slightly charred edges.",
+      "Rest pork loin 5 min before portioning (keeps juices in).",
       "Breaded chunks: keep frozen. Reheat per-serving from frozen \u2014 air-fryer 400F 5-7 min for crisp texture, or microwave 60-90s if texture not critical.",
       "Divide roasted veg evenly into 14 containers.",
-      "Add ~3oz breaded chunks to ~8 containers, ~3oz sliced thighs to ~6 containers (alternate by day for variety).",
-      "Refrigerate up to 5 days (containers with thighs) \u2014 keep breaded chunks frozen separately and add per-serving day-of for best texture.",
-      "Optional: serve with sriracha mayo, hot sauce, or Walden Farms dressing on the side."
+      "Add ~3oz breaded chunks to ~8 containers, ~3oz pork loin cubes to ~6 containers (alternate by day for variety).",
+      "Refrigerate up to 5 days (containers with pork loin) \u2014 keep breaded chunks frozen separately and add per-serving day-of for best texture.",
+      "Optional: serve with sriracha mayo, hot sauce, Frank's Buffalo, BBQ, or Walden Farms dressing on the side."
     ]
   },
   {
@@ -2478,13 +2479,13 @@
     "meal_slots": [
       4
     ],
-    "servings": 5,
+    "servings": 6,
     "protein": "Chicken Thigh",
     "ingredients": [
       {
         "name": "Kirkland chipotle marinated chicken thigh meat (pre-cooked, pre-diced)",
-        "amount": "1.5",
-        "unit": "lb (~5 srv at ~5oz) — deli/refrigerated section",
+        "amount": "2",
+        "unit": "lb bag (~6 srv at ~5oz) — deli/refrigerated section",
         "store": "Costco"
       },
       {
