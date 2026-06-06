@@ -20,8 +20,8 @@ selections:
       - { member: Both, slot: M4, servings: 4 }   # 2 shared dinner nights
       - { member: Will, slot: M3, servings: 4 }   # 4 weekday work lunches
 
-  # Costco Salmon Milano + Asparagus
-  - recipe_id: "7"
+  # NEW #25 — Costco Chipotle Marinated Chicken Thighs + Asparagus (replaces Salmon Milano)
+  - recipe_id: "25"
     planned_servings: 5
     slot_assignments:
       - { member: Both, slot: M4, servings: 4 }   # 2 shared dinner nights
@@ -33,7 +33,7 @@ selections:
     slot_assignments:
       - { member: Both, slot: M4, servings: 4 }   # 2 shared dinner nights (M4 only — no leftover reheat)
 
-  # NEW #24 — Costco Chicken & Shrimp + Roasted Veg Bowls (M2 prep, first cycle)
+  # NEW #24 — Costco Breaded Chicken Chunks & Marinated Thighs + Roasted Veg Bowls (M2 prep, first cycle)
   - recipe_id: "24"
     planned_servings: 14
     slot_assignments:
