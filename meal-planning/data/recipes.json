@@ -2482,9 +2482,9 @@
     "protein": "Chicken Thigh",
     "ingredients": [
       {
-        "name": "Kirkland chipotle marinated chicken thighs (raw)",
-        "amount": "2",
-        "unit": "lb raw (~5 srv at ~6oz cooked)",
+        "name": "Kirkland chipotle marinated chicken thigh meat (pre-cooked, pre-diced)",
+        "amount": "1.5",
+        "unit": "lb (~5 srv at ~5oz) — deli/refrigerated section",
         "store": "Costco"
       },
       {
@@ -2566,15 +2566,15 @@
         "store": "Walmart"
       }
     ],
-    "notes": "M4 dinner, 5 srv. Bowl format: chipotle thigh chunks + white rice + black beans + saut\u00e9ed frozen peppers/onions + salsa + Greek yogurt (sour-cream sub) + cheese + avocado + lime + cilantro. Macros per serving with white rice: ~570 cal / 38g protein / 16g fat / 55g carbs (rice + beans + salsa are the carb sources; switched from cauli rice to rice 2026-06-06 per Will preference). On cut: this is the heaviest M4 of the week \u2014 pair with a lighter Will-solo dinner the next day. Reheat: warm rice + beans + thighs + peppers/onions together (microwave 90s); add cold toppings per serving. Refactored from cauli rice + fresh peppers -> white rice + frozen peppers/onions + Greek yogurt 2026-06-06 per Will.",
+    "notes": "M4 dinner, 5 srv. Bowl format: pre-cooked chipotle thigh chunks + white rice + black beans + air-fried frozen peppers/onions + salsa + Greek yogurt (sour-cream sub) + cheese + avocado + lime + cilantro. Macros per serving with white rice: ~570 cal / 38g protein / 16g fat / 55g carbs (rice + beans + salsa are the carb sources). On cut: this is the heaviest M4 of the week \u2014 pair with a lighter Will-solo dinner the next day. Reheat: warm rice + beans + thighs + peppers/onions together (microwave 90s); add cold toppings per serving. Workflow: Instant Pot rice + air fryer P&O mix + just-heat pre-cooked thighs = fast assembly. Refactored from raw marinated thighs -> pre-cooked pre-diced thigh meat 2026-06-06 per Will (Costco deli/refrigerated section product).",
     "on_break": false,
     "recipe_available": true,
     "recipe_steps": [
-      "Preheat oven to 400F. Start rice: rinse, bring 1.5 cups rice + 3 cups water to boil, reduce to low, cover 18 min, rest 5 min.",
-      "Lay marinated thighs on sheet pan; bake 30 min (165F internal). Let rest 5 min, slice into chunks.",
-      "Heat avocado oil in skillet over medium-high. Add frozen pepper & onion mix + cumin + chili powder + salt; saut\u00e9 10-12 min until thawed + slightly charred.",
+      "Instant Pot rice: rinse 1.5 cups white rice, add 1.5 cups water, manual HIGH pressure 4 min, natural release 10 min, fluff.",
+      "Air fryer P&O: toss frozen pepper & onion mix with avocado oil + cumin + chili powder + salt; air fry 400F 12-15 min, shake halfway, until slightly charred.",
+      "Pre-cooked thigh meat: warm in microwave 90 sec or skillet 3-4 min \u2014 it's already cooked + diced.",
       "Drain + rinse black beans; warm in microwave or stovetop.",
-      "Assemble bowls: rice base + black beans + saut\u00e9ed peppers/onions + thigh chunks + salsa + ~1.5 Tbsp Greek yogurt + shredded cheese + avocado + cilantro + lime.",
+      "Assemble bowls: rice base + black beans + air-fried peppers/onions + thigh chunks + salsa + ~1.5 Tbsp Greek yogurt + shredded cheese + avocado + cilantro + lime.",
       "Reheat leftovers: warm rice/beans/thighs/peppers together (microwave 90s); add Greek yogurt + cheese + avocado fresh per serving."
     ]
   },
