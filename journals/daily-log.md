@@ -82,3 +82,14 @@ Format: ✓ = done, □ = planned/pending
 □ Take one unannounced 15–30 min solo block
 □ Advance promo doc: one focused review pass
 □ Book stylist consult, start wardrobe pass
+
+**2026-06-07 (Sun)** — NYC Cut Wk 2 ending
+□ Complete Ravage session or 12,500-step active recovery
+□ Walk 12,500 steps today
+□ Run 1–2 listings through full deal-eval framework
+□ Take one unannounced 15–30 min solo block today
+□ Phone in drawer during today's deep work block
+□ Zone 2 cardio: 30 min conversational pace today
+□ Dance practice: 15–20 min apply Reggie's lessons
+□ Hotel block: call pending hotel, pitch 2 new ones
+□ Mindset — Take small space without explaining it. Find one small window today to do your own thing — a walk, a podcast, an errand alone. No "I'm going to do X" preamble; just do it and come back.
