@@ -3,10 +3,10 @@
 ## Quests (Q2 — set in the May 25 quarterly review; full doc `archives/2026-Q2-quarterly-review.md`)
 - **Work main:** Exit Codie's 3-mo acquisition Learn phase deal-ready by Aug 31 (12+ framework reps, 2+ broker contacts, LOI template). `goals/acquisition.md`.
 - **Life main:** Become my own point of origin — self-validation, worth from inside not the scoreboard. Keystone: **Sunday morning Zone 2 indoor incline treadmill (60–90 min)** (cut phase — cut-additive cardio doubling as solo-pursuit; BJJ + Thursday Muay Thai resume post-cut Jul 12+ as the embodied/skill axis). Measure inputs, never score outputs. `goals/desire-polarity.md`.
-- **Side:** ship promo doc (~Jun 30) · execute the cut through Jul 11 · friend touchpoint every 2 wks.
+- **Side:** ship promo doc (~Jun 30, **top priority — above acquisition, incl. weekends**) · execute the cut through Jul 11 · friend touchpoint every 2 wks.
 - **Wheel low axis (the focus):** Joy 4, Heart 5 — winning on paper, not feeling it. The Life quest targets the root.
 
-Phase: **NYC Cut Wk 2 ending** — May 17 – Jul 11 (daily gates by weekday/weekend in `daily-standard.md`)
+Phase: **NYC Cut Wk 4 starting** — May 17 – Jul 11 (daily gates by weekday/weekend in `daily-standard.md`)
 
 ## Daily Loop
 - **Todoist daily brief live.** GitHub Actions runs the morning brief at 7am AZ (14:00 UTC) → 3–5 tasks to Todoist "AIOS Daily"; evening archive at 9pm AZ (04:00 UTC) writes completions to `journals/daily-log.md`. Workflows: `.github/workflows/morning-brief.yml` + `evening-archive.yml`. Secrets in GitHub repo settings (ANTHROPIC_API_KEY, TODOIST_API_KEY). Source of truth for "what should I do today" is Todoist.
@@ -24,15 +24,16 @@ Phase: **NYC Cut Wk 2 ending** — May 17 – Jul 11 (daily gates by weekday/wee
 - **SCM II behavior-logging retired** — measure promotion by deliverables, not behavior counts. `goals/scm-ii-promotion.md` parked.
 
 ## Fitness
-- **NYC Cut Wk 2 ending (May 17–31).** Wk1 avg 182.6 → Wk2 avg 182.2 (essentially flat) → 5/31 single read 179.8.
+- **NYC Cut Wk 4 starting (May 17 base).** Weekly avgs: 182.6 (5/17) → 182.2 (5/24) → 180.5 (5/31) → 180.4 (6/7, 1 read). ~2.2 lb in 3 wks = **~0.73 lb/wk — behind pace.**
 - BF: ~20–21% estimated. Lean mass: ~147 lb.
-- **Cut target HOLDS: 172 by Jul 4.** Caloric floor is at BMR on non-eat-out days (no further cut available). Closing the math via steps + cardio.
+- **Cut target RE-BASELINED 6/7: ~177 by Jul 4** (was 172 — unrealistic at ~0.73 lb/wk with cals already at BMR floor; 172 would need ~2.1 lb/wk). Levers left = steps (12,500) + Zone 2 only. Hard floor still 168. NYC (Jul 30) remains the real deadline — more runway there.
+- **Lifting strong (Wk ending 6/6): 5 sessions.** Larsen Press 155 × 6 top set HELD @RPE9 (back-offs softened 6,6,6 → 6,4,4 — deeper-deficit fatigue, canary still green). Neutral pull-up slight regression (4,3 → 3,3,1 @ +2.25lb) — still the weak point.
 - **Step target +25%: 12,500/day** (was 10,265 W22 avg). Add **2–3× Zone 2 cardio/wk** (20-min, post-lift fasted or AM).
 - Wk2 sessions: 11 in 15 days (above 6×/wk target). Steps held at 10,265/day (71.85k/wk total).
-- **Larsen Press canary green getting greener:** 155 × 6,4,5 @9–9.5 pre-cut → 155 × 6,6,6 @9 on 5/30. Top-set rep PR on the cut.
-- **Neutral pull-up:** 4/2/2 on 5/30 (top-set rep PR for that load). Still flagged weak vs. BW+45×5 standard but moving the right direction.
+- **Larsen Press canary:** 155 × 6,6,6 @9 on 5/30 → 155 × 6,4,4 @9 on 6/5 (top set held, back-offs softening on the deeper deficit). Watch — abort if top set drops to 5/5/5.
+- **Neutral pull-up:** +2.25lb × 3,3,1 on 6/5 (down from 4,3 on 6/2). Weak vs. BW+45×5 standard; slight regression under the cut.
 - **Abort signal:** Larsen 155×5/5/5 @9 → re-baseline target to 176 by Jul 11 / full target by NYC Jul 30.
-- Refeed trigger: 7-day rolling avg ≤176 lb (currently ~181.7).
+- Refeed trigger: 7-day rolling avg ≤176 lb (currently ~180.4).
 - Hard floor: 168 lb — do not cut below.
 - Reverse diet: Jul 12–29. NYC maintenance: Jul 30–Aug 5.
 - Program: GVS Ravage Week 6. Macros tracked in **Cronometer**.
@@ -66,3 +67,11 @@ Phase: **NYC Cut Wk 2 ending** — May 17 – Jul 11 (daily gates by weekday/wee
 - Framework reference: `references/sanchez.md`. Mike Warren `references/warren.md` + Roland Frazier `references/frazier.md` (workflow-generated, quality unverified per task #73).
 - **Dan Nguyen partnership thesis:** Scenario B = **Elena steps in** (cash + time) resolves the original $500k–$1M debt-load objection that put it dormant May 2025 — the stall wasn't deal-box math, it was debt-load incompatibility with Will's Amazon W-2. Elena's cash reduces the debt required; her CFO/COO bandwidth splits post-acquisition operational load → no forced early Amazon exit. **Reactivation = next-week move.** Reach-out frame B (direct ask). AZ CPA 51% paths kept open (retain CPAs as equity ≥51% OR dodge CPA-only services — decided when concrete deal forces it). Roland Frazier value/opportunity outreach script v2 + Apify Google Maps scrape + Claude Code lead-enrichment owed before message goes. Prep work Mon–Thu, message readiness-gated. **Thesis files reconstructed 2026-06-03**: `journals/dan-thesis-history.md` (chronological) + `context/dan-thesis.md` (strategic). Remaining gaps: Elena's specific cash + time commitment (to make the resolution concrete vs. directional), Dan's current sentiment / CPA status.
 - Search window opens ~August 2026 (end of 3-month learn phase).
+- **Main Street Accelerator course started 6/7** — Will + **Elena co-working** (Elena onboarded with full AIOS repo access, scoped to acquisition project; her CLI prompt delivered). Running notes: `journals/main-street-accelerator.md` (framework-anchored, deltas + apply-to-thesis per module). Mode mirrors wedding-planning co-work.
+- **Apify scrape now UNBLOCKED** (Frazier script v2 done). This is the work-main-quest unlock — converts at-risk quest into sourcing volume. Claude can draft the Apify Google Maps config + Claude Code enrichment script (bookkeeping/accounting, 20mi Phoenix metro) → feeds `/deal-eval` + Dan/solo outreach.
+- **Work main quest AT RISK (6/7 quest check):** infra building (accelerator, Elena, Frazier) but reps + broker contacts + sourcing volume still light vs. 100/50/10/1. Recovery move = build the Apify scrape this week.
+
+## Life / Digital Minimalism
+- **Tier 1 launched (wk of 6/1):** deleted X / TikTok / Reddit, IG blocker installed, alarm clock bought, phone-off-nightstand habit in progress. `references/newport.md`.
+- **#1 attention sink = YouTube 15h21m/wk (Shorts).** Fix: Brave browser "Block YouTube Shorts" toggle + delete YouTube app — keeps YouTube for real content via browser, kills the Shorts leak. ~5 min, highest-leverage remaining Tier 1 step.
+- Screen-time top 5 (wk of 6/1): YouTube 15h21m · Claude 9h58m (productive) · Zoom 4h54m (work) · Google Maps 4h47m · Instagram 3h.
