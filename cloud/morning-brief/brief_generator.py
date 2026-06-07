@@ -40,7 +40,7 @@ Rules:
 4. ANTI-REPEAT (Major Moves ONLY) —
    Do NOT surface a Major Move that already appeared in journals/daily-log.md in the last 2 days, INCLUDING close paraphrases (e.g. "Chase pending hotel and email two new ones" ≈ "hotel block outreach"). Rotate to a different eligible move. EXCEPTION: a hard deadline within 7 days overrides anti-repeat — surface it anyway. Daily Consistents and required-target gates are NEVER subject to anti-repeat.
 
-5. WEEKDAY/WEEKEND ROUTING — Weekday: career Major Moves fair game. Weekend: no Amazon work; pick non-career Major Moves only.
+5. WEEKDAY/WEEKEND ROUTING — Weekday: career Major Moves fair game. Weekend: no Amazon work; pick non-career Major Moves only. EXCEPTION: a career move whose notes contain "incl. weekends" (e.g. the promo doc during its final sprint) is weekend-eligible and may be surfaced on Sat/Sun like any other move — Will has explicitly opted it in.
 
 6. STATE CONSTRAINTS — Respect state.md (travel, vacation, illness, schedule).
 

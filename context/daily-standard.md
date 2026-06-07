@@ -10,7 +10,7 @@ Updated each time a phase changes or a quarterly review runs.
 | Quest | Major Moves |
 |-------|-------------|
 | **Business acquisition (Work/Income)** | Learn-phase reps: Saturday deliberate deal-eval (1–2 listings → three-question test → `/deal-eval` → log the gaps); one broker / known-buyer contact; build SBA + SDE literacy. Buying is **not** a learn-phase activity. See `goals/acquisition.md`. |
-| NYC Cut — execute clean through Jul 11 (Fitness) | 150g protein daily; training 3x/week; 10k steps/day; ~1,820 cal (BMR floor) in deficit phase; track in **Cronometer** |
+| NYC Cut — execute clean through Jul 11 (Fitness) | 150g protein daily; training 3x/week; 12,500 steps/day (raised from 10k 6/7 — primary cut lever); ~1,820 cal (BMR floor) in deficit phase; track in **Cronometer** |
 | Desire-polarity / differentiation (Relationship) | **Solo-pursuit keystone (cut phase): Sunday morning Zone 2 indoor incline treadmill, 60–90 min, 1×/wk.** BJJ + Thursday Muay Thai resume post-cut (Jul 12+) as the embodied/skill axis. Keep gravity (cut, friendships, own interests) visible not narrated. Weekly 3-question check in the reflection. See `goals/desire-polarity.md`. |
 
 **Career/Amazon — maintenance, not a tracked quest.** Ship the promo doc + manager-align, then maintain. **SCM II behavior-logging is retired** — measure promotion by real deliverables (promo doc shipped, escalation scraper finished), not weekly behavior counts. Leaving Amazon late 2027; acquisition is the actual exit vehicle.
@@ -52,15 +52,15 @@ Done when:
 1. **Career** — Advance the promo doc, or maintain Amazon. No behavior-logging. Acquisition reps optional on weekdays.
 2. **Training** — Ravage session (if training day) — minimum 3x/week
 3. **Nutrition** — Protein ≥ 150g AND calories ~1,820 (BMR floor — at or just above; track in Cronometer)
-4. **Steps** — ≥ 10,000 (tracked via Apple Watch)
+4. **Steps** — ≥ 12,500 (raised from 10k 6/7 — steps are now a primary cut lever; tracked via Apple Watch)
 
 Scale rule: 7-day rolling avg hits ≤176 lb → add one refeed day/week (maintenance cals, fat ≤40g, carbs 350g+). Don't react to single weigh-ins.
 
 ### NYC Cut — Weekends (May 17 – Jul 11)
 Done when:
-1. **Training** — Ravage session OR active recovery (yoga, long walk ≥ 10k steps)
+1. **Training** — Ravage session OR active recovery (yoga, long walk ≥ 12.5k steps)
 2. **Nutrition** — Protein ≥ 150g AND calories ~1,820 (track in Cronometer)
-3. **Steps** — ≥ 10,000
+3. **Steps** — ≥ 12,500
 4. **Acquisition (Saturday keystone)** — the deliberate deal-eval rep (1–2 listings through the framework)
 
 **Relationship keystone (weekly, surfaced as a mover — kept off the daily 3-gate so it doesn't compete with side work):** **Sunday morning Zone 2 indoor incline treadmill, 60–90 min** — cut-phase solo-pursuit, 1×/wk. Replaces BJJ for cut sustainability (BJJ and a boxing-class substitute both incompatible with the 6× Ravage / 1,820 cal recovery budget — Zone 2 is cut-additive, not subtractive). BJJ resumes post-cut Jul 12+. Plus intentional, non-logistical time with Elena.
