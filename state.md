@@ -26,12 +26,22 @@ Phase: **NYC Cut Wk 4 starting** — May 17 – Jul 11 (daily gates by weekday/w
 ## Fitness
 - **NYC Cut Wk 4 starting (May 17 base).** Weekly avgs: 182.6 (5/17) → 182.2 (5/24) → 180.5 (5/31) → 180.4 (6/7, 1 read). ~2.2 lb in 3 wks = **~0.73 lb/wk — behind pace.**
 - BF: ~20–21% estimated. Lean mass: ~147 lb.
-- **Cut target RE-BASELINED 6/7: ~177 by Jul 4** (was 172 — unrealistic at ~0.73 lb/wk with cals already at BMR floor; 172 would need ~2.1 lb/wk). Levers left = steps (12,500) + Zone 2 only. Hard floor still 168. NYC (Jul 30) remains the real deadline — more runway there.
-- **Lifting strong (Wk ending 6/6): 5 sessions.** Larsen Press 155 × 6 top set HELD @RPE9 (back-offs softened 6,6,6 → 6,4,4 — deeper-deficit fatigue, canary still green). Neutral pull-up slight regression (4,3 → 3,3,1 @ +2.25lb) — still the weak point.
+- **Cut target RE-BASELINED 6/7 (twice): ~174–175 by Jul 11.** Original 172 by Jul 4 → unworkable at BMR floor + 5wk runway. First pass re-baselined to 177 by Jul 4 (wrong date — Jul 11 is cut-end, not Jul 4). Final: **~174–175 by Jul 11** assuming inputs actually fire (scenario C below). NYC Jul 30 lands ~177–178 after locked Jul 12–29 reverse adds ~3 lb back. Hard floor still 168.
+- **Why re-baseline (the real reason):** last week's inputs were under-fired, not metabolism stuck. Steps avg 9,165/day (target 12,500 — 0/7 days hit), Z2 14 min total (target 60+ min). The deficit pace ~0.73 lb/wk is what you get when the only two non-food levers don't fire. Fitness pipeline (#74) would have surfaced this 3 weeks ago.
+- **This week's INPUT prescription (scenario C, standard):**
+  - **Steps: 12,500/day, no exceptions** — schedule deliberate evening walk on grocery/cook days (last Sat: 6,173 ⚠️)
+  - **Sunday Z2: 60–90 min** (today)
+  - **One weekday Z2: 20 min, post-lift fasted AM, walk/bike/incline** (Tue or Thu, off-leg days)
+  - Decision Jun 14: all canary lights green → continue C. Any tripped → drop to scenario B (Sun Z2 only, accept ~177 endpoint).
+- **Lifting strong (Wk ending 6/6): 5 sessions.** Larsen Press 155 × 6 top set HELD @RPE9 (back-offs softened 6,6,6 → 6,4,4 — deeper-deficit fatigue). Neutral pull-up slight regression (4,3 → 3,3,1 @ +2.25lb).
 - **Step target +25%: 12,500/day** (was 10,265 W22 avg). Add **2–3× Zone 2 cardio/wk** (20-min, post-lift fasted or AM).
 - Wk2 sessions: 11 in 15 days (above 6×/wk target). Steps held at 10,265/day (71.85k/wk total).
-- **Larsen Press canary:** 155 × 6,6,6 @9 on 5/30 → 155 × 6,4,4 @9 on 6/5 (top set held, back-offs softening on the deeper deficit). Watch — abort if top set drops to 5/5/5.
-- **Neutral pull-up:** +2.25lb × 3,3,1 on 6/5 (down from 4,3 on 6/2). Weak vs. BW+45×5 standard; slight regression under the cut.
+- **Canary upgraded 6/7 → 3-lift model** (single-lift Larsen rule was too narrow — top-set "holding" masked back-off + recovery slippage). Watch all three:
+  1. **Larsen top set ≥ 155 × 5 @9** *(strength)* — currently 155 × 6 ✅
+  2. **Larsen back-offs ≥ 5 reps each set** *(volume)* — currently 6,4,4 ⚠️ (was 6,6,6 on 5/30)
+  3. **Neutral pull-up not below 3,3,1** *(recovery)* — currently 3,3,1 🔴 (regressed from 4,3 on 6/2; weak vs BW+45×5 standard)
+  - **Currently 1 green / 1 yellow / 1 red.** Any 2 yellow OR any 1 red sustained → drop to scenario B (Sun Z2 only). All 3 green by Jun 14 → continue C.
+- **Old single-lift abort rule deprecated 6/7** (was: "Larsen 155×5/5/5 @9 → re-baseline to 176 by Jul 11"). Replaced by 3-lift model above.
 - **Abort signal:** Larsen 155×5/5/5 @9 → re-baseline target to 176 by Jul 11 / full target by NYC Jul 30.
 - Refeed trigger: 7-day rolling avg ≤176 lb (currently ~180.4).
 - Hard floor: 168 lb — do not cut below.
