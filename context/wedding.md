@@ -1,6 +1,6 @@
 # Wedding
 
-Last updated: 2026-05-16
+Last updated: 2026-06-07
 
 ## The Basics
 
@@ -50,7 +50,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 ## Open Items (Priority Order)
 
 1. **Photographer** — meeting 5/18. $3,160 est. Groom pays. Confirm videography (first dance) free per quote. Flag no-drone rule at St. Andrew.
-2. **Hotel room block** — not started. 86% OOT guests; need 30–40 rooms (gross, inclusive of the ~6 bridal party rooms — Airbnb-for-bridal-party idea considered and dropped 6/2/26). Must be secured before save-the-dates. Ask for courtesy block first.
+2. **Hotel room block** — IN PROGRESS (see "Hotel Block — Current State" below). Booking via Engine. Courtesy blocks only. Target ~33–36 rooms (guest-math derived 6/7). Must be finalized before save-the-dates.
 3. **Wedding website** — not started. Must be live by mid-August 2026 (URL → QR code → save-the-date design → print → send).
 4. **Pre-Cana** — Elena contacts St. Andrew. Not started. Urgent — has scheduling lead time.
 5. **Guest list complete** — missing last names/emails for several entries. Needed before save-the-dates.
@@ -58,6 +58,36 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 7. **Elena's dress** — begin shopping by fall 2026. St. Andrew requires covered shoulders, no plunging neckline or back.
 8. **St. Andrew $400 balance** — due November 12, 2026.
 9. **Wedding insurance** — recommended by Wedgewood. Not purchased.
+
+## Hotel Block — Current State (updated 2026-06-07)
+
+**Booking platform:** Engine (formerly HotelEngine). All blocks courtesy (0% attrition, individual cancellation only, 30-day cutoff). Rooming-list cutoff Sep 20, 2027.
+
+**Guest-math room target (derived 6/7 from guest sheet):**
+- ~108 OOT invited × 75% acceptance = ~81 OOT attending
+- ~14 local × 100% = ~14 attending (locals drive home, no room)
+- −10 alt-accommodation (Elena's parents + others doing AirBnB/staying with family)
+- ~71 OOT needing lodging ÷ ~2 people/room ≈ **~36 rooms ceiling; ~30–33 realistic** (swing = how many of the 9 families-with-kids self-book AirBnBs)
+- **Target: ~33–36 rooms.** Aunt Lesa's family AirBnB NOT assumed (count them in need until confirmed).
+
+**Block status:**
+
+| Hotel | Tier | Rooms | Rate | Status |
+|-------|------|-------|------|--------|
+| Courtyard Marriott (Old Town) | Budget/solo | 10 single | ~$159 | ✅ SIGNED |
+| Element by Marriott SkySong | Mid-value | 9 double | $199 (incl. breakfast/laundry/kitchenette) | Sign 6/7 (deadline today) |
+| Premium (The Remi OR Hotel Valley Ho) | Premium | 12–15 | TBD | CHASE — re-RFP via Engine + direct group-sales call. Both ghosted Engine this week. No backup tier, so push hard + ask 15 for margin. |
+
+**Secured after Element = 19 rooms; +12–15 premium → 31–34 total (covers target).**
+
+**DECLINED (do not pursue):**
+- Senna House Curio (Hilton) — not a "hell yes," $372/night + $45 parking, premium but lukewarm
+- Courtyard Salt River — 15 SINGLE rooms (couples can't book) + redundant 2nd Courtyard
+- Papago Scottsdale by Reside — 25 doubles, overkill, dropped 6/7
+
+**Transport plan:** Uber/Lyft guest credits (not a shuttle). Budget line currently $1,000 est — **likely 2–3× low**; ~33–36 rooms × 2 rides × ~$30–40 ≈ $2,500–3,200 actual. Re-estimate.
+
+**None of the hotels are walkable to venue** (all 3–6 mi from Clayton House) — guests rideshare regardless; closer hotel = cheaper guest rides.
 
 ## Key Constraints
 
