@@ -5,17 +5,19 @@ Q2 quests · Work main: deal-ready by Aug 31 · Life main: become my own point o
 
 These fire daily until status changes. Brief always emits these alongside the daily-standard.md gates — never rotated by anti-repeat. Gate-clear = surfaces.
 
-- **Solo-space rep: take one 15–30 min unannounced solo block today** (walk / errand / coffee / podcast / garage) — Phase 2 desire-polarity work (`goals/desire-polarity.md` L46, L52). Daily rep substitute through the cut (MMA returns post-Jul 11). Don't announce, don't justify, return without commentary.
 - **Phone off the nightstand at bedtime** — charge in kitchen / living room, alarm clock for wake-up. Newport's single highest-leverage rule: protects sleep, kills first-thing scroll, supports presence with Elena. (`references/newport.md`)
-- **No YouTube Shorts** — Shorts feed limit set to 0 min (YouTube app → Settings → Time management → Shorts feed limit). Keeps the app + Premium background play; kills the #1 attention sink (15h/wk). Defend daily. (`references/newport.md`)
-- **Phone out of reach during today's deep work block** — drawer, another room, or face-down airplane mode. If no deep work block today, skip. (`references/newport.md`)
+- **Step target 12,500/day, no exceptions** (last wk: 9,165 avg, 0/7 days hit). Grocery/cook days need a deliberate evening walk to clear floor.
+- **Zone 2 cardio: scenario C this week** — Sunday 60–90 min keystone (flexible to Sat rest day) + **1 weekday 20-min Z2** (Tue or Thu, off-leg days, post-lift fasted AM). Walk / bike / row / incline (no running). (`references/schofield.md` L130)
+- **Desire-build rep today** — ONE move from `goals/desire-polarity.md`: lead something without asking "what do you want" / initiate confident non-sexual touch / pursue your own interest visibly / hold your ground in a small disagreement / don't narrate your inner life in real time. Active build, not passive avoid. Quality > quantity — one genuine move beats five performed ones.
 - **Sunday paste habit** (Sundays only) — 5-min weight + sessions + steps to journals/daily-log.md (until task #74 pipeline lands)
-- **Step target 12,500/day, no exceptions** (last wk: 9,165 avg, 0/7 days hit — the input that didn't fire). Grocery/cook days need a deliberate evening walk to clear floor.
-- **Zone 2 cardio: scenario C this week** — Sunday 60–90 min keystone (flexible to Sat rest day) + **1 weekday 20-min Z2** (Tue or Thu, off-leg days, post-lift fasted AM). Last wk: 14 min total — way under. Walk / bike / row / incline (no running). (`references/schofield.md` L130)
-- **Lifting canary (3-lift model, upgraded 6/7):** Larsen top set ≥155×5 @9 ✅ + back-offs ≥5 reps ⚠️ + neutral pull-up not below 3,3,1 🔴. Any 2 yellow OR 1 sustained red → drop to scenario B (Sun Z2 only).
-- **Elena: presence under stress-load** (zero night talks about intimacy — hard rule)
-- **Dance practice 2× / week, 15–20 min** — apply Reggie's lessons at home. Compounds the lesson + relationship touchpoint.
 - **Friend cadence: one real touchpoint every ~2 weeks** (anchored W22 — keep rhythm)
+
+### Reference-only (already structurally handled — do NOT surface as Todoist tasks)
+- **Lifting canary (3-lift model):** Larsen top set ≥155×5 @9 + back-offs ≥5 reps + neutral pull-up not below 3,3,1. Any 2 yellow OR 1 sustained red → drop to scenario B (Sun Z2 only). Watch weekly via workout log, not daily.
+- **YouTube Shorts:** structurally killed via app Settings → Time management → Shorts feed 0 min. Don't need a daily reminder.
+- **Phone during deep work blocks:** already habituated.
+- **Dance practice:** already scheduled, not a gate.
+- **No intimacy talk at night** (preserved as a hard rule, but not a daily surfaced task) — replaced operationally by the Desire-build rep above, which is the positive-construction version.
 
 Cut-phase fitness gates (training / protein 150g+ / cals ~1,820 / steps) → see `context/daily-standard.md`.
 
