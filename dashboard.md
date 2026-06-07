@@ -7,7 +7,7 @@ These fire daily until status changes. Brief always emits these alongside the da
 
 - **Solo-space rep: take one 15–30 min unannounced solo block today** (walk / errand / coffee / podcast / garage) — Phase 2 desire-polarity work (`goals/desire-polarity.md` L46, L52). Daily rep substitute through the cut (MMA returns post-Jul 11). Don't announce, don't justify, return without commentary.
 - **Phone off the nightstand at bedtime** — charge in kitchen / living room, alarm clock for wake-up. Newport's single highest-leverage rule: protects sleep, kills first-thing scroll, supports presence with Elena. (`references/newport.md`)
-- **No YouTube Shorts** — YouTube via Brave browser only (Shorts blocked), app deleted. #1 attention sink (15h/wk) — defend it daily. (`references/newport.md`)
+- **No YouTube Shorts** — Shorts feed limit set to 0 min (YouTube app → Settings → Time management → Shorts feed limit). Keeps the app + Premium background play; kills the #1 attention sink (15h/wk). Defend daily. (`references/newport.md`)
 - **Phone out of reach during today's deep work block** — drawer, another room, or face-down airplane mode. If no deep work block today, skip. (`references/newport.md`)
 - **Sunday paste habit** (Sundays only) — 5-min weight + sessions + steps to journals/daily-log.md (until task #74 pipeline lands)
 - **Step target 12,500/day** (overrides daily-standard 10k floor — cut math now leans on steps + Zone 2 as the only levers left)

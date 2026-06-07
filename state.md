@@ -73,5 +73,5 @@ Phase: **NYC Cut Wk 4 starting** — May 17 – Jul 11 (daily gates by weekday/w
 
 ## Life / Digital Minimalism
 - **Tier 1 launched (wk of 6/1):** deleted X / TikTok / Reddit, IG blocker installed, alarm clock bought, phone-off-nightstand habit in progress. `references/newport.md`.
-- **#1 attention sink = YouTube 15h21m/wk (Shorts).** Fix: Brave browser "Block YouTube Shorts" toggle + delete YouTube app — keeps YouTube for real content via browser, kills the Shorts leak. ~5 min, highest-leverage remaining Tier 1 step.
+- **#1 attention sink = YouTube 15h21m/wk (Shorts).** Fix (Premium-safe): YouTube app → Settings → Time management → **Shorts feed limit → 0 min**. Keeps the app + Premium background play (Will uses YT for screen-off audio); kills the Shorts feed. Native, free. (Brave rejected — breaks Premium background play. UnTrap $3.99 Safari ext = web-only fallback if the 0-min toggle hasn't rolled to his account.)
 - Screen-time top 5 (wk of 6/1): YouTube 15h21m · Claude 9h58m (productive) · Zoom 4h54m (work) · Google Maps 4h47m · Instagram 3h.
