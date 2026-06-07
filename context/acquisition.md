@@ -85,15 +85,42 @@ What "winning" looks like — defined before searching so it's recognizable on s
 
 ---
 
-## Current Deal Thesis *(updated May 31, 2026, Scenario B)*
+## Current Deal Thesis *(updated June 7, 2026 — dual-track refinement)*
 
-**Primary:** Recurring B2B service or professional services business with 2–3 existing staff. **$500k–$700k clean / $700k–$1.0M stretch with standby seller note. Hard ceiling $1.0M.** SDE floor varies with price ($286k at $500k → $367k at $1M); revenue floor $953k+ at 30% margin. Elena scales W-2 to ~20 hr/week at close and runs Year 1 unpaid; manager hired ($55k) at 12-month trigger after 90-day continuous-CF test, moving the business toward truly-absentee in Year 2. Will handles systems/AI/strategy throughout.
+**DUAL-TRACK STRATEGY (active 6/7):** Two parallel acquisition pipelines, whichever closes first wins.
 
-**Secondary candidate:** Digital business (content site, newsletter) with stable recurring revenue and diversified traffic. Purely parallel track — don't let it pull focus from the primary.
+### Track 1 — Dan-partnered (bookkeeping/accounting)
+- **Deal size:** $500k–$1M with standby seller note. Hard ceiling $1M.
+- **Sector:** LOCKED bookkeeping/accounting per Codie one-sector-one-city rule
+- **Why this size range:** Larger because Dan provides CPA cover for AZ 51% ownership rule + connector network compensates for slower close cycle
+- **SDE floor:** $286k at $500k → $367k at $1M; revenue floor $953k+ at 30% margin
+- **Cash required:** Up to ~$100k down + ~$20k reserve (Elena's $100k taxable may bridge if larger)
+- **Status:** Dan reach-out blocked on Apify scrape + Elena commitment clarity (per `context/dan-thesis.md`)
 
-**Legacy thesis (accounting firm + Dan Nguyen):** Still intact as an option — Dan's connector role and the AI automation angle are real. But AZ CPA ownership law and the $500k–$1M debt load are unresolved. Not actively pursuing. Revisit if Dan obtains CPA licensure.
+### Track 2 — Solo (Zone of Genius sectors)
+- **Deal size:** $300–$500k MAX (smaller cash flow constraints, smaller debt service)
+- **Sector:** OPEN — based on combined Will + Elena Zone of Genius (see Step 1 below); narrow to top 2-3 candidates
+- **Why this size range:** No Dan CPA cover so avoid sectors requiring licensure; smaller deals more accessible (less PE competition under $500k); faster close cycle
+- **SDE floor:** ~$253k at $300k → ~$286k at $500k; revenue floor ~$843-952k at 30% margin
+- **Cash required:** ~$50k down + ~$20k reserve = **covered by $70k S&ME alone** (Elena's $100k taxable preserved for home/bridge)
+- **Status:** Independent pipeline — Apify scrape parameters configurable to chosen sector
 
-**SBA financing:** Prior lender call completed ~Apr 28, 2025. Relationship exists — reactivate when deal is in hand.
+### Solo Track candidate sectors (verify against Zone of Genius)
+- Light commercial services (cleaning, equipment maintenance, light fleet)
+- HVAC / plumbing / electrical (recurring-contract operators)
+- Pool service / landscaping (route-based)
+- Specialty distribution (B2B niche distributor — Will's SCM background)
+- Compliance / regulatory services (Elena's engineering + regulatory navigation)
+- Property management (small portfolio operator)
+
+### Operator model (both tracks)
+Elena scales W-2 to ~20 hr/week at close, runs Year 1 unpaid co-operator; manager hired ($55k) at 12-month trigger after 90-day continuous-CF test, moving the business toward truly-absentee in Year 2. Will handles systems/AI/strategy throughout. **Elena scale-back planning: `goals/elena-scale-back.md`. Recommended Scenario A2 (Industry Transition) has Elena take a 20-25 hr/wk operator role at a small business in whichever track's sector becomes active — builds operator skills + sources deals via Walking Billboard + bridges income simultaneously.**
+
+**Secondary candidate (parallel to both tracks):** Digital business (content site, newsletter) with stable recurring revenue and diversified traffic. Purely parallel — don't let it pull focus.
+
+**SBA financing:** Prior lender call completed ~Apr 28, 2025. Relationship exists — reactivate when deal is in hand. Track 1 may use standby seller note for stretch zone; Track 2 likely doesn't need it (smaller deal).
+
+**Apify scrape:** Toolkit shipped 2026-06-07 in `sourcing/`. Currently configured for bookkeeping/accounting (Track 1). Swap search strings to chosen Track 2 sector once Will + Elena narrow Zone of Genius.
 
 ---
 
