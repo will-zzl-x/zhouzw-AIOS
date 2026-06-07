@@ -6,6 +6,8 @@ grocery_day: "2026-06-06"   # all Sat AM: Costco + Walmart same day
 # Dining-out / covered meals (subtract from need).
 exceptions:
   - { date: "2026-06-06", member: Both, slot: M4, reason: "birthday party (Sat dinner covered)" }
+  - { date: "2026-06-07", member: Both, slot: M4, reason: "Kura sushi dinner (Sun dinner covered)" }
+  - { date: "2026-06-10", member: Both, slot: M4, reason: "Dink N Dine pickleball shared meal (placeholder day — adjust if needed)" }
 
 # Leftover ready servings from prior cycle.
 carryover:
