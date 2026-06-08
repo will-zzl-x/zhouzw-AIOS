@@ -93,3 +93,9 @@ Format: ✓ = done, □ = planned/pending
 □ Dance practice: 15–20 min apply Reggie's lessons
 □ Hotel block: call pending hotel, pitch 2 new ones
 □ Mindset — Take small space without explaining it. Find one small window today to do your own thing — a walk, a podcast, an errand alone. No "I'm going to do X" preamble; just do it and come back.
+
+**2026-06-08 (Mon)** — NYC Cut Wk 4 starting
+□ Walk 12,500 steps today
+□ Zone 2: 60–90 min indoor incline treadmill this morning
+□ Phone in drawer during today's deep work block
+□ Build Liftosaur + weight + steps logging pipeline
