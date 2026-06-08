@@ -40,27 +40,59 @@ Most people optimize for the wrong variable (net worth) because money is easier 
 **Will + Elena application:** SoCal trip (Jun 19-21), NYC trip (Jul 30 - Aug 5), wedding/honeymoon (Oct 2027) all count. Re-do the math on the post-cut reverse-diet NYC trip: don't optimize the budget to the dollar — the memory dividend curve says spend a little more for the experience that compounds.
 
 ### Survival Threshold (the foundational formula)
-This is the minimum wealth you need so survival is no longer a worry — *not* the goal, just the threshold below which spending decisions are existentially constrained.
+This is the minimum wealth you'd need to **stop earning entirely from today onward** and still survive — *not* the goal, just the floor below which spending decisions are existentially constrained.
 
-**Formula:** `Survival threshold ≈ 0.7 × yearly cost of living × years left to live`
+**Formula:** `Survival threshold ≈ 0.7 × annual cost of living × years left to live`
 
-The `0.7` is Perkins's heuristic assuming ~3-4% real returns continue: you only need 70% of total years × annual cost because interest covers the rest. Higher returns → lower factor (5% return ≈ 0.58). Zero return → 1.0 (full amount needed).
+The `0.7` is Perkins's heuristic assuming ~3-4% real returns: you only need 70% of (total years × annual cost) because interest covers the rest. Higher real return → lower factor (5% real ≈ 0.58). Zero return → 1.0 (full amount needed).
 
-**Will + Elena worked example (post-acquisition, age ~30):**
-- Annual cost of living: ~$95k (current lifestyle joint)
-- Years left (to age 90): ~60
-- Survival threshold ≈ 0.7 × $95k × 60 = **$3.99M in today's dollars**
+**Critical distinction (the thing I got wrong on first draft):** the survival threshold is NOT the same as the coast number we use for retirement planning.
+- **Coast number** ($266k today for $110k lifestyle at 6% real over 34 yrs to Elena 65) = enough invested today that the portfolio compounds to support retirement *starting at age 65* — **assumes you keep earning until 65**.
+- **Survival threshold** = enough invested today that you can stop ALL income *right now* and live off the savings until death.
 
-…but that assumes Will + Elena both fully retire at 30. Realistically, acquisition CF replaces income through ~50s, so survival threshold is closer to whatever covers age 60-90: 0.7 × $95k × 30 = **~$2.0M**. **That's roughly your current coast number ($2.18M for $120k lifestyle at age 65), not coincidentally.**
+For young earners (Will 26, Elena 31), the survival threshold is huge because there are 60+ years to fund. The coast number is much smaller because the portfolio only has to cover post-retirement years.
+
+**Will + Elena — worked examples at $110k lifestyle, 6% real return:**
+
+| Earnings stop at | Years to fund | Survival threshold at that age | Today's equivalent (compounded back at 6%) | Today's status ($435k combined) |
+|---|---|---|---|---|
+| **Age 65 (traditional retirement)** | 25 | $1.93M | ~$266k | **Past coast** ($169k over) ✓ |
+| **Age 50 (early — acquisition exit / saved)** | 40 | $3.08M | ~$870k | $435k short |
+| **Age 30 (right now, no acquisition)** | 60 | $4.62M | $4.62M | $4.19M short |
+
+**What the table actually means:** the question "can we stop contributing today?" depends on WHEN you plan to stop earning income.
+- Want traditional age-65 retirement → **you're already past coast.** Could meaningfully cut contributions now.
+- Want age-50 retirement (via savings only, no acquisition) → keep contributing for ~10-15 more years.
+- Want to stop earning today → not financially viable without lifestyle compression.
+
+The honest answer for your current path (Elena scale-back + W-2 to ~50 + maybe acquisition): **you're solidly past coast for age-65 retirement, and on track to over-shoot if no contributions cut by mid-40s.** See `goals/elena-scale-back.md` for the year-by-year projection that quantifies this.
 
 ### Net Worth Peak (the date, not the number)
-Perkins's central provocation: **your net worth should peak between age 45 and 60 and then deliberately decline.** If it keeps climbing into your 60s/70s, you cannot die with zero.
+Perkins's central provocation: **your net worth should peak between age 45 and 60 and then deliberately decline.** If it keeps climbing into your 60s/70s, you mathematically cannot die with zero.
 
 **The peak should be a date you set deliberately, not a number you hit and accidentally drift past.**
 
-**Will + Elena's range:** healthy, no-kids, target lifestyle $100-110k → **peak likely sometime age 50-60.** From there, the curve should *actively decline* — meaningful spending in late 40s through 70s, drawing down to near-zero by 90.
+**Will + Elena projection summary** (from the year-by-year model in `goals/elena-scale-back.md`):
 
-**Implication for current planning:** **the $4-5M portfolio we projected (Elena 65 at current contribution rate) is OVER PEAK.** That's wealth you accumulated past the point of usefulness, then died with. The Die With Zero argument is to **cut contributions earlier than the typical retirement-planning frame suggests**, freeing money for now/mid-life spending.
+| Scenario | Projected NW at 50 | Projected NW at 65 | Optimal peak per Perkins | Verdict |
+|---|---|---|---|---|
+| **No acquisition + low lifestyle** | $3.85M | $6.50M (peak) | ~$2.5-3M at age 50-55 | **Over-save by $500k-1M by 50** |
+| **No acquisition + high lifestyle** | $2.55M | $3.25M (peak at 60) | ~$3-3.5M at age 50-55 | Roughly in line |
+| **With acquisition + lifestyle moderate** | $4.50M (peak) | $4.20M (declining) | ~$3M at age 50 | **Over-save by $1.5M by 50** |
+
+**Suggested contribution-cut triggers — Scenario A (no acquisition):**
+- Age ~35: stop Elena's HSA contributions (frees ~$4-5k/yr to lifestyle/Time Buckets)
+- Age ~42: stop Will's Roth IRA
+- Age ~45: stop ALL retirement contributions
+- After 45: 100% focus on Rule 7 Time Buckets — directed spending toward experiences
+
+**Suggested contribution-cut triggers — Scenario B (acquisition):**
+- 2027 close: stop Will's W-2 401k automatically (no Amazon W-2 anymore)
+- Through age ~40: keep Roth IRAs running (low cost, high optionality)
+- Age ~42: stop ALL retirement contributions
+- Business CF + portfolio compounding does the work from there
+
+**The reframe:** the $4-7M portfolios both scenarios project at age 65 are *not* the goal — they're the autopilot trap Perkins is yelling about. Each dollar over the optimal peak is a dollar of life-energy converted to money you never spent.
 
 ### Time Buckets
 **Place experiences in the life-decade where they yield maximum fulfillment.** Don't make a single bucket list — make ~5-10 buckets, fill each with appropriate experiences.

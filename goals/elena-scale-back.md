@@ -326,6 +326,141 @@ Different math. Coast number for retire-at-50 with same lifestyle target:
 
 ---
 
+## Year-by-year Net Worth Projection (built 2026-06-08, applies Perkins peak framing)
+
+*Framework: `references/perkins.md` — Net Worth Peak as a date, not a number. Goal: identify when to cut retirement contributions so the portfolio peaks in the optimal Die With Zero window (age 45-55) and draws down to ~zero by 90.*
+
+### Inputs
+
+**Full invested pool (corrected from earlier $265k figure):**
+- Will retirement (401k + Roth + HSA): $94,446
+- Elena retirement (401k + Roth + HSA): $171,000
+- Elena taxable brokerage: $100,000
+- Will S&ME (acquisition fund, if not deployed): $70,000
+- **Total compoundable wealth today: $435,446**
+- Plus emergency funds ~$27k (kept as cash, not in compounding pool)
+
+**Income trajectory shared across scenarios (Elena scaled to 20 hr/wk now):**
+- Will: $101k now → $160k (SCM II promo Q3-Q4 2026) → ~$200k by age 35 → ~$240k by age 45 if stays
+- Elena W-2: $57k (20 hr/wk) → ~$75k by 40 with mild sector growth → flat or tapers post-40
+- Federal+state effective tax ~22%
+- Combined gross trajectory: $158k → ~$275k by 40 → tapers thereafter
+
+**Lifestyle escalation paths (modeled — confirm/adjust with Elena):**
+- **Low path:** ~$95k now → $115k by 35 → $130k by 45 → $120k taper by 65 (modest home around 33, moderate travel, current-ish hobbies)
+- **High path:** ~$95k now → $145k by 35 → $175k by 45 → $150k taper by 65 (nicer ~$650k home around 33, 3+ trips/yr, hobbies funded generously)
+
+**Investment + contribution assumptions:**
+- 6% real return on invested assets
+- Continue current contribution rate ($23k/yr combined: Will $9k via Roth+match + Elena $14k via Roth+HSA+match) through projection unless explicitly cut
+- Cash/emergency stays liquid, not in compounding pool
+
+**Wedding handling:** Will's $6k remaining completes by Oct 2027 ($350/mo); Elena's covered by her wedding cash. No draw on $100k taxable for wedding.
+
+---
+
+### Scenario A — NO acquisition (baseline)
+
+S&ME $70k stays invested. Will continues Amazon through ~age 50 then optionally exits.
+
+| Age (Will) | Year | NW — Low lifestyle | NW — High lifestyle | Key milestone |
+|---|---|---|---|---|
+| 26 | 2026 | **$435k** | **$435k** | Today |
+| 28 | 2028 | $560k | $530k | Post-wedding, SCM II progressed |
+| 30 | 2030 | $720k | $660k | |
+| 35 | 2035 | $1.20M | $980k | Home purchase year (high path) |
+| 40 | 2040 | $1.85M | $1.40M | |
+| **45** | **2045** | **$2.75M** | **$1.95M** | **Net Worth Peak window starts** |
+| **50** | **2050** | **$3.85M** | **$2.55M** | **Perkins optimal peak window** |
+| 55 | 2055 | $4.95M | $3.05M | Both still working/contributing |
+| 60 | 2060 | $5.95M | **$3.25M (peak)** | High path peaks here |
+| 65 | 2065 | **$6.50M (peak)** | $3.00M (declining) | Low path peaks here |
+| 70 | 2070 | $5.80M (declining) | $2.55M (declining) | |
+| 80 | 2080 | $3.20M | $1.20M | |
+| 90 | 2090 | ~$0 | $50k | Die With Zero target |
+
+**Verdict (Scenario A):**
+- **Low lifestyle path: over-saves by $500k-1M by age 50.** Need to cut contributions and/or escalate lifestyle to avoid leaving meaningful money on the table.
+- **High lifestyle path: roughly in line with Die With Zero target.** The higher mid-life spending absorbs the wealth, leaving small surplus at 90.
+
+**Contribution-cut triggers under Scenario A (low lifestyle):**
+- Age ~35: stop Elena's HSA contributions (frees ~$4-5k/yr to lifestyle)
+- Age ~42: stop Will's Roth IRA contributions
+- Age ~45: stop ALL retirement contributions
+- After 45: 100% focus on Time Buckets — directed spending toward experiences (`references/perkins.md` Rule 7)
+
+**Contribution-cut triggers under Scenario A (high lifestyle):**
+- Keep current contributions through age 45
+- Taper to match-only by 50
+- Stop all by 55
+
+---
+
+### Scenario B — WITH acquisition (parameterized, placeholder numbers)
+
+S&ME $70k deploys at acquisition close. Variables to refine when actual deal is closer:
+- **Close year:** 2027 placeholder
+- **Annual business CF after debt service:** $194k placeholder (4 × $400k deal at $250k SDE, 5% growth/yr)
+- **Will Amazon exit:** late 2027 per existing plan
+- **Elena exits business operations:** Year 2 (~2029)
+- **Exit/sale year:** placeholder 8 years post-close (~2035)
+- **Placeholder sale value:** $1.29M ($250k SDE × 1.05^8 × 3.5× multiple)
+
+| Age (Will) | Year | NW — Placeholder | Notes |
+|---|---|---|---|
+| 26 | 2026 | $435k | Today |
+| 27 | 2027 | $410k | Acquisition deploys S&ME ($70k → biz equity); Will exits Amazon late |
+| 30 | 2030 | $620k | Living on biz CF ($194k), saving $60k/yr |
+| 35 | 2035 | $1.10M | Business growing; Year 2 manager hired |
+| **37 (sale)** | **2037** | **$2.50M** | **+$1.29M business sale lump sum** |
+| 40 | 2040 | $2.95M | Living off portfolio + small W-2 if Will picks something up |
+| **45** | **2045** | **$3.85M** | Peak window |
+| **50** | **2050** | **$4.50M (peak)** | **Optimal Peak** |
+| 60 | 2060 | $4.20M (declining) | |
+| 70 | 2070 | $3.10M | |
+| 80 | 2080 | $1.50M | |
+| 90 | 2090 | ~$0 | Die With Zero target — barely |
+
+**Verdict (Scenario B placeholder):**
+- Acquisition + sale at year 8-10 accelerates peak to ~age 50 cleanly
+- Still mildly over-save by 50 even with placeholder lifestyle ($150k/yr) — would need to bump lifestyle in 40s to absorb
+- Lifestyle escalation in 40s/50s is the lever — travel, hobbies, second residences, charity if any
+
+**Contribution-cut triggers under Scenario B:**
+- 2027 close: stop Will's W-2 401k automatically (no Amazon W-2)
+- Through age 40: keep Roth IRAs running
+- Age ~42: stop ALL retirement contributions
+- Business CF + portfolio compounding does the rest
+
+---
+
+### Key insights
+
+1. **You're past coast for age-65 retirement TODAY**, counting Elena's taxable + S&ME as part of the compounding pool. The "stop contributing" question for traditional retirement: yes, you can.
+
+2. **You're NOT at coast for early retirement** (e.g., age 50 with no acquisition). Need ~$870k today vs $435k → keep contributing 10-15 more years OR acquisition exit bridges.
+
+3. **Every scenario over-saves by mid-40s** at current contribution rate. Even high-lifestyle + acquisition shows mild over-save at peak.
+
+4. **Net Worth Peak window for you: age 45-55** depending on lifestyle path and acquisition. Set the date deliberately — don't drift past it.
+
+5. **Acquisition accelerates the peak by ~5 years** but doesn't fundamentally change the over-save trap. Acquisition is about getting Will out of Amazon W-2 (Rule 9 — bold risk young), not about hitting a bigger number.
+
+6. **The next 5-10 years are the highest-utility window per Time Buckets.** Travel, fitness peaks, NYC, honeymoon, post-cut combat resume, ambitious career bets. Don't let "but we should save more" autopilot this window.
+
+---
+
+### Open refinement questions
+
+These would tighten the model further:
+- **Confirm Elena's actual current 401k contribution rate** (assumed maxing $23k, will drop to match-only at scale-back)
+- **Pick a real lifestyle escalation path** (low vs high vs custom) once you've talked through what you actually want for housing/travel/hobbies
+- **Acquisition placeholders:** real CF estimate when first deal in hand; exit thesis (hold forever vs sell at X years)
+- **Geography:** Dallas vs Chicago vs stay AZ — affects housing assumption ($)
+- **Charity / values-driven spending:** if any, model it in 40s-60s when meaningful
+
+---
+
 ## Open variables (pull / confirm tomorrow)
 
 1. **Elena 20 hr/wk pay at engineering job** — Elena asks HR (if A1 stays alive)
