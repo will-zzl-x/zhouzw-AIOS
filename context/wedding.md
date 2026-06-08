@@ -91,6 +91,29 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 
 ## Key Constraints
 
+## Weekend Itinerary — Meal Anchors (locked 2026-06-08)
+
+**Friday Oct 22, 2027** — Wedding day
+- Rehearsal/welcome dinner: **Virehouse** (already booked; confirm scope — rehearsal only OR rehearsal+welcome)
+- Reception dinner: Clayton House catering (locked)
+
+**Saturday Oct 23, 2027** — Post-wedding day
+- **Brunch (TBD — choose by Spring 2027):** Working candidates:
+  - *Pair A (all Old Town, zero Uber):* **The Mission Old Town** Sat brunch (chef-driven Mexican brunch, walkable)
+  - *Pair B (Camelback corridor, 1 Uber):* **The Henry — Camelback** (Fox Restaurant Concepts, top-tier brunch)
+  - *Pair C (resort day):* **Hearth '61 at Mountain Shadows** (chef-driven, resort vibe)
+- **Saturday dinner (LOCKED):** **Brat Haüs Old Town** — 3950 N Drinkwater Blvd
+  - Format: **No-host, ~20 ppl, family-style/communal**
+  - Cuisine: German beer hall — bratwurst, schnitzel, pretzels, shared plates, lively
+  - Why: walking distance from Old Town hotel block (Courtyard + premium), communal-table format literally drives mingling by design (Oktoberfest energy), $25-40/pp, splits checks easily
+  - Announcement format: "Sat 7pm Brat Haüs Old Town — separate checks, beer hall vibes, come if you're around. Walking distance from the hotels."
+  - Reservation: needed by Spring 2027 (~6 months out); confirm 20-top + split-check policy when booking
+
+**Sunday Oct 24, 2027** — Departures
+- No formal event; some guests may breakfast at hotel before heading out
+
+---
+
 - St. Andrew: no drones on premises; all photography must clear within 30 min after ceremony; dress code (covered shoulders, no plunging neckline/back) applies to bride and bridesmaids
 - Clayton House: no open flame (LED candles OK); no outside food/beverage without written permission; guest count locked after Final Meeting (Oct 12, 2027)
 - October in Scottsdale = peak season — hotel block rates will be high; lock in early
