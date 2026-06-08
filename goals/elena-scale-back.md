@@ -73,6 +73,8 @@ Re-evaluate when Elena steps back from her W-2 engineering career — currently 
 
 ## Die With Zero coast math (conservative)
 
+*Framework reference: `references/perkins.md` — Bill Perkins, Die With Zero. Specifically Rule 6 (no autopilot saving), Rule 8 (peak as a date not a number), and the survival threshold formula `0.7 × annual cost × years left`.*
+
 ### Withdrawal rate
 - Trinity Rule (4%) preserves principal forever → not what you want
 - Die With Zero spend-to-zero over ~25 retirement years (65-90)
