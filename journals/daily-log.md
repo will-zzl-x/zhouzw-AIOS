@@ -99,3 +99,12 @@ Format: ✓ = done, □ = planned/pending
 □ Zone 2: 60–90 min indoor incline treadmill this morning
 □ Phone in drawer during today's deep work block
 □ Build Liftosaur + weight + steps logging pipeline
+
+**2026-06-09 (Tue)** — NYC Cut Wk 4 starting
+□ Walk 12,500 steps today
+□ Phone off nightstand — charge in kitchen tonight
+□ Desire-polarity rep: one move from DO list today
+□ Friend cadence: reach out to one close friend today
+□ Run Apify scrape: bookkeeping leads, 20mi Phoenix
+□ Promo doc: one focused final-review pass today
+□ Mindset — Don't grade or score — out loud or in your head. When you catch yourself rating an interaction with Elena today (good/bad/regressing/improving), cut the thought mid-sentence and redirect to the next concrete thing in front of you.
