@@ -23,6 +23,28 @@ deal-ready by Aug 31 — 12+ framework reps, 2+ broker contacts, LOI template.
 
 ---
 
+## Solo-track focus (updated 2026-06-08)
+
+Will + Elena are running parallel acquisition tracks (`context/acquisition.md` dual-track strategy). The Dan track ($500k-$1M bookkeeping) leverages Dan's network for sourcing + CPA cover. **The Solo track ($300-500k, Zone of Genius sector — open pending the framework in `context/sector-evaluation-framework.md`) needs operator + sourcing skills that the accelerator should explicitly build.**
+
+**Priority modules for Solo track** (do these first; rest of curriculum after):
+
+| Priority | Module category | Why it matters for Solo track |
+|---|---|---|
+| 1 | **Sourcing — Walking Billboard** | Solo has no Dan network; Elena's apprenticeship + visible "in the industry" presence is THE sourcing edge |
+| 2 | **100/50/10/1 funnel discipline** | Volume-based sourcing requires actual reps; solo path needs sustained pipeline activity |
+| 3 | **Seven Ds (why sellers sell)** | Off-market deal-flow recognition; solo path lives or dies on off-market signal detection |
+| 4 | **Selling yourself to the seller** | Without Dan's CPA credibility, Will + Elena's "real buyers" pitch needs to be tight |
+| 5 | **Evaluation framework / Mailbox Master Class** | Solo deals are typically dirtier; need sharper DD instinct |
+| 6 | **SBA 7(a) basics** | Smaller solo deals = simpler financing but you still need to know the mechanics |
+| 7 | **Venmo Challenge (partial ownership)** | Could be the actual on-ramp for Elena's apprenticeship → operator-track-with-buy-option |
+
+Modules less critical for Solo track (still cover, lower priority):
+- Zone of Genius (already done in `context/acquisition.md`)
+- Ideal Owner Experience (already done)
+- Deal Box (already Codie-honest in `context/acquisition.md`)
+- Mindset Principles (good but not urgent)
+
 ## Module log
 
 ### [ ] Core Thesis / Why Boring Businesses

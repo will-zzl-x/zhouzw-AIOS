@@ -1,0 +1,52 @@
+{
+  "_comment": "Apify 'Google Maps Scraper' actor (compass/crawler-google-places). Paste this into the actor's JSON input editor on apify.com. Bookkeeping/accounting sourcing, ~20mi Phoenix metro. Type x city matrix gives controlled radius coverage (Google caps ~120 results/search, so split by city). Est. ~40 searches x up to 120 = a few thousand raw rows before enrichment dedupes/filters.",
+
+  "searchStringsArray": [
+    "bookkeeping service Phoenix AZ",
+    "bookkeeping service Tempe AZ",
+    "bookkeeping service Chandler AZ",
+    "bookkeeping service Mesa AZ",
+    "bookkeeping service Gilbert AZ",
+    "bookkeeping service Scottsdale AZ",
+    "bookkeeping service Glendale AZ",
+    "bookkeeping service Peoria AZ",
+    "accounting firm Phoenix AZ",
+    "accounting firm Tempe AZ",
+    "accounting firm Chandler AZ",
+    "accounting firm Mesa AZ",
+    "accounting firm Gilbert AZ",
+    "accounting firm Scottsdale AZ",
+    "accounting firm Glendale AZ",
+    "accounting firm Peoria AZ",
+    "tax preparation service Phoenix AZ",
+    "tax preparation service Tempe AZ",
+    "tax preparation service Chandler AZ",
+    "tax preparation service Mesa AZ",
+    "tax preparation service Gilbert AZ",
+    "tax preparation service Scottsdale AZ",
+    "payroll service Phoenix AZ",
+    "payroll service Tempe AZ",
+    "payroll service Chandler AZ",
+    "payroll service Mesa AZ",
+    "payroll service Scottsdale AZ",
+    "small business accountant Phoenix AZ",
+    "small business accountant Chandler AZ",
+    "small business accountant Scottsdale AZ"
+  ],
+
+  "maxCrawledPlacesPerSearch": 120,
+  "language": "en",
+  "countryCode": "us",
+  "skipClosedPlaces": true,
+  "scrapePlaceDetailPage": true,
+  "scrapeContacts": true,
+  "maximumLeadsEnrichmentRecords": 0,
+  "scrapeReviewsPersonalData": false,
+  "maxReviews": 0,
+  "maxImages": 0,
+  "maxQuestions": 0,
+
+  "_field_note": "scrapeContacts pulls emails + socials from each place's website (extra credits but worth it for outreach). Set to false to save credits if you only want phone/website. scrapePlaceDetailPage must stay true to get website/phone/category reliably.",
+
+  "_alternative_radius_strategy": "If you'd rather use a true circular radius instead of the city matrix, replace searchStringsArray with just the business types (no city) and add: \"customGeolocation\": { \"type\": \"Point\", \"coordinates\": [-111.9261, 33.3528], \"radiusKm\": 32 } — centered on Tempe/Chandler line (~Will's base), 32km ~= 20mi. The city matrix above is more reliable for coverage; the radius is cleaner geographically. Don't use both."
+}

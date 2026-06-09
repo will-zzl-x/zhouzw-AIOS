@@ -1,9 +1,60 @@
 # Goal: Elena scale-back / coast FIRE / die-with-zero alignment
 
-Created 2026-06-07. Owner: Will + Elena (joint planning doc).
-Last reviewed: 2026-06-07.
+Created 2026-06-07. Updated 2026-06-08 with locked baseline.
+Owner: Will + Elena (joint planning doc).
 
 ---
+
+## LOCKED BASELINE (decided 2026-06-08)
+
+**Plan:**
+- **Elena exits engineering by mid-2027** (within 12 months) — fully out, not 20hr scale-back
+- **Will continues Amazon W-2** through SCM II promotion (Q3-Q4 2026) and exits late 2027 per existing plan
+- **Acquisition close target: late 2027 / early 2028** (load-bearing for the bridge)
+- **Lifestyle target: $100k/yr** in retirement
+- **Retirement age:** Will retires at 55 (2055); Elena fully retired from W-2 from her ~50 onward (2044)
+- **Contributions:** Continue current rate through Elena's exit mid-2027; then Will solo ($9k/yr) until acquisition CF makes contributions optional
+- **Tax-efficient: keep maxing Roth + HSA** (cap space is use-it-or-lose-it); only Elena's 401k above match is "freed" — small dollar amount
+- **Age gap correction:** Elena is 6 years older than Will (her 32 / his 26 in 2026)
+
+**Why this works financially:**
+- Combined invested NW today: $435k (Will retirement $94k + Will S&ME $70k + Elena retirement $171k + Elena taxable $100k)
+- At Elena's exit (mid-2027): ~$488k combined
+- Compounding through Will-55 retirement (2055): **~$3.1M** in today's $ at 6% real
+- Die With Zero need at $100k lifestyle / Will-55: **$2.45M**
+- **Over-save: ~$650k cushion** even with Elena contributing $0 from mid-2027 onward
+
+**Why this works psychologically:**
+- Elena gets clear timeline (12 months until exit)
+- She develops "next thing" in parallel — apprenticeship + acquisition prep — before fully leaving
+- Will's promotion + acquisition CF bridges the income gap
+- Both transition to business operator life late 2027
+
+**Bridge math during gap (mid-2027 Elena exit → late 2027/early 2028 acquisition close):**
+- Will pre-promotion: $6,300/mo net | $8,333/mo lifestyle target → $2k/mo short
+- Will post-promotion: $9,200/mo net → covers lifestyle with small buffer
+- Worst case: 6-12 months at $2k/mo gap = $12-24k drawn from Elena's $100k taxable (manageable)
+
+**Mid-life experience spending bump:**
+- $1,000/mo extra to spend NOW (Die With Zero — see `references/perkins.md`) from cash flow surplus, not retirement contributions
+- Specifically a "Time Bucket fund" earmarked for travel, premium fitness/dance, dining upgrades, hobbies, generous giving
+
+**Load-bearing assumptions / risks:**
+- Will SCM II promotion on schedule
+- Will keeps Amazon employment through acquisition close
+- Acquisition closes on target ~late 2027/early 2028
+- Elena develops "next thing" before exit (apprenticeship/shadow → operator role)
+
+**Decision retired from this doc:**
+- Whether Elena scales to 20hr first or just exits → answered: just exits when ready
+- Whether to reduce retirement contributions broadly → answered: max tax-advantaged, 401k stays at match level
+- Whether the financial math works → answered: yes, with cushion
+
+**Active work moves to:** acquisition execution (Apify scrape both tracks + accelerator + Elena apprenticeship/shadow exploration + Dan reach-out when leads in hand)
+
+---
+
+## The original analysis (preserved for context)
 
 ## The goal in one paragraph
 

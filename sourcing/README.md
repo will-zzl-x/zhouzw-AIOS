@@ -16,18 +16,40 @@ Dan/solo outreach.
    costs a few dollars of credits at most.
 2. Find the **"Google Maps Scraper"** actor (by Compass / `compass/crawler-google-places`).
 
-## Run the scrape
+## Dual-track configuration
+
+There are now TWO scrape configs because the dual-track strategy targets different deal sizes:
+
+| File | Track | Target deal size | Review sweet spot in scoring |
+|---|---|---|---|
+| `apify-input-dan-bookkeeping.json` | Dan-partnered bookkeeping/accounting | $500k–$1M | 30-150 reviews (more established) |
+| `apify-input-solo-template.json` | Solo, Zone of Genius sector | $300–$500k | 10-80 reviews (smaller owner-op) |
+| `apify-input.json` | (legacy — same as Dan-bookkeeping) | $500k–$1M | (default) |
+
+For the SOLO track, the template needs you to fill in search terms after picking
+a sector. See `context/sector-evaluation-framework.md` for the Zone-of-Genius
+sector-picking exercise that needs to happen first.
+
+## Run the scrape (either track)
 1. Open the actor → **JSON input editor** (toggle from the form view).
-2. Paste the contents of `apify-input.json` (delete the `_comment` / `_field_note`
-   / `_alternative_*` helper keys first — they're just notes, Apify ignores
-   underscore keys but cleaner to strip).
+2. Paste the appropriate config (`apify-input-dan-bookkeeping.json` for Dan
+   track OR your filled-in solo template). Delete the `_comment` / `_field_note`
+   / `_alternative_*` / `_*_status` helper keys first — Apify ignores underscore
+   keys but cleaner to strip.
 3. **Start**. Wait for it to finish (a few min to ~30 min depending on volume).
-4. **Export** the dataset as **JSON** (preferred) or CSV → save into `sourcing/leads/`.
+4. **Export** the dataset as **JSON** (preferred) or CSV → save into `sourcing/leads/`
+   with a track-identifying name (e.g., `leads/dan-2026-06-08.json` or
+   `leads/solo-hvac-2026-06-08.json`).
 
 ## Enrich + rank (local, zero tokens)
+Specify the matching mode:
 ```
 cd sourcing
-python enrich.py leads/dataset.json
+# Dan-partnered $500k-$1M target:
+python enrich.py leads/dan-2026-06-08.json --mode dan --out leads-ranked-dan
+
+# Solo $300-500k target:
+python enrich.py leads/solo-hvac-2026-06-08.json --mode solo --out leads-ranked-solo-hvac
 ```
 Outputs:
 - `leads-ranked.csv` — full ranked list (all kept leads)

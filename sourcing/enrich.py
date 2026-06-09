@@ -82,9 +82,15 @@ def category_ok(cat, name):
     return any(c in blob for c in KEEP_CATEGORIES)
 
 
-def score(row):
+def score(row, mode="solo"):
     """Acquisition-fit heuristic, 0-100. Maps-only proxies for 'established but
-    owner-operated' — the profile most likely to be a motivated, buyable firm."""
+    owner-operated' — the profile most likely to be a motivated, buyable firm.
+
+    Mode:
+      - "solo"  → target $300-500k deals. Smaller owner-operated firms.
+                  Sweet spot: 10-80 reviews (real biz, not big firm).
+      - "dan"   → target $500k-$1M deals (Dan-partnered bookkeeping/accounting).
+                  Sweet spot: 30-150 reviews (more established, more SDE)."""
     name = g(row, "title", "name")
     reviews = to_int(g(row, "reviewsCount", "reviews", "totalReviews"))
     rating = to_float(g(row, "totalScore", "rating", "stars"))
@@ -94,16 +100,27 @@ def score(row):
 
     s, flags = 0, []
 
-    # Review-count sweet spot: established (real business) but not a big firm/chain.
-    # Peak 10-80 reviews ~ owner-operated small firm.
-    if 10 <= reviews <= 80:
-        s += 35
-    elif 5 <= reviews < 10 or 80 < reviews <= 150:
-        s += 22
-    elif reviews > 150:
-        s += 8; flags.append("large/established — maybe >owner-op")
-    else:  # <5
-        s += 8; flags.append("thin reviews — verify it's real")
+    # Review-count sweet spot is mode-dependent — smaller deal targets want
+    # smaller firms (10-80 reviews); larger deal targets (Dan-partnered) want
+    # mid-sized established firms (30-150 reviews).
+    if mode == "dan":
+        if 30 <= reviews <= 150:
+            s += 35
+        elif 15 <= reviews < 30 or 150 < reviews <= 250:
+            s += 22
+        elif reviews > 250:
+            s += 8; flags.append("very large — may exceed $1M cap")
+        else:  # <15
+            s += 8; flags.append("thin reviews for Dan-track size")
+    else:  # solo mode (default)
+        if 10 <= reviews <= 80:
+            s += 35
+        elif 5 <= reviews < 10 or 80 < reviews <= 150:
+            s += 22
+        elif reviews > 150:
+            s += 8; flags.append("large/established — may exceed $500k solo cap")
+        else:  # <5
+            s += 8; flags.append("thin reviews — verify it's real")
 
     # Healthy reputation.
     if rating >= 4.5:
@@ -145,7 +162,11 @@ def main():
     ap.add_argument("input", help="Apify export (.json or .csv)")
     ap.add_argument("--out", default="leads-ranked", help="output file prefix")
     ap.add_argument("--min-reviews", type=int, default=0, help="drop below this review count")
+    ap.add_argument("--mode", choices=["solo", "dan"], default="solo",
+                    help="solo = target $300-500k owner-op (10-80 review sweet spot); "
+                         "dan = target $500k-$1M Dan-partnered bookkeeping (30-150 review sweet spot)")
     args = ap.parse_args()
+    print(f"Scoring mode: {args.mode} ({'$500k-$1M Dan-partnered' if args.mode == 'dan' else '$300-500k solo'})")
 
     rows = load(args.input)
     print(f"Loaded {len(rows)} raw rows")
@@ -168,7 +189,7 @@ def main():
             dropped_cat += 1; continue
         if to_int(g(r, "reviewsCount", "reviews", "totalReviews")) < args.min_reviews:
             dropped_rev += 1; continue
-        sc, flags = score(r)
+        sc, flags = score(r, mode=args.mode)
         kept.append({
             "score": sc,
             "name": name,

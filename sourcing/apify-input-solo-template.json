@@ -1,0 +1,88 @@
+{
+  "_comment": "Apify 'Google Maps Scraper' actor (compass/crawler-google-places). SOLO-TRACK TEMPLATE — fill in after Will + Elena pick top 2-3 Zone of Genius sectors. Replace the searchStringsArray entries below with sector-specific terms across the 8 Phoenix metro cities. See context/sector-evaluation-framework.md for the picking exercise.",
+
+  "_sector_pick_status": "OPEN — need Will + Elena 30-min Zone of Genius re-read to narrow",
+
+  "_candidate_sectors_with_example_search_terms": {
+    "light_commercial_services": [
+      "commercial cleaning service",
+      "office cleaning company",
+      "janitorial service"
+    ],
+    "hvac_services": [
+      "HVAC service company",
+      "air conditioning repair",
+      "commercial HVAC"
+    ],
+    "plumbing_services": [
+      "plumbing company",
+      "commercial plumbing",
+      "plumbing contractor"
+    ],
+    "electrical_services": [
+      "electrical contractor",
+      "commercial electrical",
+      "electrician service"
+    ],
+    "pool_service_routes": [
+      "pool cleaning service",
+      "pool maintenance company"
+    ],
+    "landscape_routes": [
+      "landscaping service",
+      "lawn care company",
+      "commercial landscaping"
+    ],
+    "pest_control_routes": [
+      "pest control service",
+      "commercial pest control"
+    ],
+    "specialty_distribution": [
+      "specialty wholesale",
+      "B2B distributor",
+      "industrial supply"
+    ],
+    "compliance_regulatory": [
+      "environmental compliance",
+      "safety consulting",
+      "regulatory consulting"
+    ],
+    "property_management": [
+      "property management company",
+      "commercial property management"
+    ]
+  },
+
+  "_cities_to_search": [
+    "Phoenix AZ",
+    "Tempe AZ",
+    "Chandler AZ",
+    "Mesa AZ",
+    "Gilbert AZ",
+    "Scottsdale AZ",
+    "Glendale AZ",
+    "Peoria AZ"
+  ],
+
+  "_to_use": "Once sector picked: (1) take 3-5 best search terms for that sector, (2) cross with 8 cities = 24-40 search strings, (3) paste into searchStringsArray below, (4) strip the underscore-prefixed comment keys (Apify ignores them but cleaner), (5) run.",
+
+  "searchStringsArray": [
+    "FILL THIS IN AFTER SECTOR PICK — see _to_use note above"
+  ],
+
+  "maxCrawledPlacesPerSearch": 120,
+  "language": "en",
+  "countryCode": "us",
+  "skipClosedPlaces": true,
+  "scrapePlaceDetailPage": true,
+  "scrapeContacts": true,
+  "maximumLeadsEnrichmentRecords": 0,
+  "scrapeReviewsPersonalData": false,
+  "maxReviews": 0,
+  "maxImages": 0,
+  "maxQuestions": 0,
+
+  "_field_note": "scrapeContacts pulls emails + socials from each place's website (extra credits but worth it for outreach). Set to false to save credits if you only want phone/website. scrapePlaceDetailPage must stay true to get website/phone/category reliably.",
+
+  "_solo_track_deal_box": "Target $300-500k purchase price. SDE floor ~$253k at $300k → ~$286k at $500k. Revenue floor ~$843k-$952k at 30% margin. Smaller deal than Dan track ($500k-$1M) because no Dan CPA cover + simpler operationally. See context/acquisition.md for full deal box."
+}
