@@ -108,3 +108,12 @@ Format: ✓ = done, □ = planned/pending
 □ Run Apify scrape: bookkeeping leads, 20mi Phoenix
 □ Promo doc: one focused final-review pass today
 □ Mindset — Don't grade or score — out loud or in your head. When you catch yourself rating an interaction with Elena today (good/bad/regressing/improving), cut the thought mid-sentence and redirect to the next concrete thing in front of you.
+
+**2026-06-10 (Wed)** — NYC Cut Wk 4 starting
+□ Walk 12,500 steps today
+□ Zone 2: 20 min post-lift fasted walk or incline
+□ Phone off nightstand — charge in kitchen tonight
+□ Desire-polarity rep: one move from DO list today
+□ Run Apify scrape: bookkeeping leads, 20mi Phoenix
+□ Hotel block: sign Element, re-RFP Remi and Valley Ho
+□ Mindset — Be fully present when it's real — phone gone, no narrating. In your next real moment with Elena today (meal, conversation, intimacy), put the phone in another room and stop the internal commentary track.
