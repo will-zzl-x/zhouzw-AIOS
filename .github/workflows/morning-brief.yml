@@ -2,17 +2,20 @@ name: Morning Brief
 
 on:
   schedule:
-    # Five off-peak attempts spread across the morning. GitHub silently drops
-    # scheduled ticks on free-tier public repos during peak traffic windows
-    # (both prior 6:10 + 6:40 ticks were dropped 2026-06-03). The brief is
-    # idempotent (clears + regenerates Todoist), so multiple successful
-    # attempts just rewrite the same content — adding redundancy is free.
+    # Five off-peak attempts spread across the early morning. GitHub silently
+    # drops scheduled ticks on free-tier public repos during peak traffic
+    # windows, and observed delays of 2+ hours have made even 7am-window
+    # backups land too late. Shifted entire bank 2 hours earlier (2026-06-10)
+    # — primary 4:07am AZ, last attempt 5:37am AZ. With observed ~2hr delays,
+    # brief still lands by ~7:30am AZ at worst. The brief is idempotent
+    # (clears + regenerates Todoist), so multiple successful attempts just
+    # rewrite the same content — adding redundancy is free.
     # All minutes off the :00 slot, which is GitHub's most-delayed.
-    - cron: '7 13 * * *'   # ~6:07 AM Arizona — primary
-    - cron: '23 13 * * *'  # ~6:23 AM Arizona — backup 1
-    - cron: '47 13 * * *'  # ~6:47 AM Arizona — backup 2
-    - cron: '13 14 * * *'  # ~7:13 AM Arizona — backup 3
-    - cron: '37 14 * * *'  # ~7:37 AM Arizona — backup 4 (last attempt before manual)
+    - cron: '7 11 * * *'   # ~4:07 AM Arizona — primary
+    - cron: '23 11 * * *'  # ~4:23 AM Arizona — backup 1
+    - cron: '47 11 * * *'  # ~4:47 AM Arizona — backup 2
+    - cron: '13 12 * * *'  # ~5:13 AM Arizona — backup 3
+    - cron: '37 12 * * *'  # ~5:37 AM Arizona — backup 4 (last attempt before manual)
   workflow_dispatch:        # manual trigger from GitHub Actions UI
 
 jobs:
