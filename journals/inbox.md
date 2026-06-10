@@ -16,16 +16,16 @@
 - Sun 9/13 — slow morning, **Red Rock Loop Rd + Crescent Moon Picnic Site scenic drive ~10am-1pm**, cabin lunch + rest, light cabin dinner, **Sedona Stargazing tour 7-9pm**, hot tub under stars
 - Mon 9/14 — remote work 7-noon on cabin patio (she lounges/sleeps in), **Black Cow brunch on way out**, drive 1pm, arrive PHX 3pm
 
-**Cabin spec** (Vrbo/Airbnb): West Sedona, private outdoor hot tub, fireplace, patio with southern sky view, strong WiFi (work Mon AM), no shared walls. $200-275/night.
+**Cabin spec** (Vrbo/Airbnb): West Sedona / Page Springs / Cornville, private outdoor hot tub (non-negotiable), patio with southern sky view, strong WiFi (work Mon AM), no shared walls. Target $150-180/night. OK to skip fireplace + accept smaller/older property if reviews 4.7+.
 
 **Reservations to make**:
-1. Vrbo/Airbnb cabin — **this week**
+1. Vrbo/Airbnb cabin — **shortlist now (free), BOOK early July** for cashflow timing
 2. Cucina Rustica (Village of Oak Creek) 7:30pm Sat 9/12 — mid-July via OpenTable, mention birthday
 3. Sedona Stargazing tour 7pm Sun 9/13 — mid-July
 4. Dog sitter Fri 9/11 eve → Mon 9/14 PM (3 nights @ $30) — late July
 
 **Restaurants intentionally limited to 2 total**: Cucina Rustica (Sat birthday — Lisa Dahl's best Italian, swapped from Cress after Will flagged Cress reviews as overpriced/mixed) + Black Cow (Mon brunch on way out). All other meals from grocery stop en route to cabin (Whole Foods West Sedona). Pink Jeep tour cut as the lowest-impact-on-desire-goal item; Sunday afternoon = free scenic drive instead.
 
-**Budget**: ~$1,460 all in (down from $1,835 after Pink Jeep cut + food tightening + Cress→Cucina Rustica swap).
+**Budget**: ~$1,280 all in (down from $1,835 after Pink Jeep cut + food tightening + Cress→Cucina Rustica swap + cabin tier reduction $225→$165/night). Cabin paid in July for cashflow.
 
 **Add to backlog at next Sunday reflection** (life-main, Relationships, deadline 2026-07-20 for all reservations locked).
