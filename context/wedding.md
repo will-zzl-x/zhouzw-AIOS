@@ -65,7 +65,10 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 ## Open Items (Priority Order)
 
 1. **Photographer** — meeting 5/18. $3,160 est. Groom pays. Confirm videography (first dance) free per quote. Flag no-drone rule at St. Andrew.
-2. **Hotel room block** — not started. 86% OOT guests; need 30–40 rooms (gross, inclusive of the ~6 bridal party rooms). Must be secured before save-the-dates. Ask for courtesy block first. Two hotels pitched to guests alongside the villa: **Courtyard by Marriott** (~$192/night) and **Element by Westin at SkySong** (~$241/night, roomier). Both rates and drive times to Clayton House are unverified placeholders — confirm before sending to guests.
+2. **Hotel room block** — not started. 86% OOT guests; need 30–40 rooms (gross, inclusive of the ~6 bridal party rooms). Must be secured before save-the-dates. Ask for courtesy block first. Two hotels pitched to guests alongside the villa (addresses + distances verified 6/11/26; rates are typical-market estimates — Oct 2027 not yet bookable, and a negotiated block rate would supersede):
+- **Courtyard by Marriott Scottsdale Old Town** — 3311 N Scottsdale Rd, 85251. ~1 mi to Clayton House (≈4-min drive / ≈20-min walk — NOT a 10-min walk). KAYAK: typically ~$247/night; recent bookings $384–$607; off-season floor ~$85. October = peak — expect $250–400/night for a Fri/Sat.
+- **Element Scottsdale at SkySong** — 1345 N Scottsdale Rd, 85257. ~3.4 mi to Clayton House (≈10-min drive), 2.1–2.3 mi to Old Town. All-suite, free breakfast + free on-site parking (earlier "$14/night parking" claim was wrong). Typical ~$230–260/night; expect similar or higher for Oct weekend.
+- Ceremony drive (all lodging → St. Andrew, Chandler): ~18 mi via Loop 101, 22–25 min off-peak, 30–40 min Friday afternoon.
 3. **Wedding website** — not started. Must be live by mid-August 2026 (URL → QR code → save-the-date design → print → send).
 4. **Pre-Cana** — Elena contacts St. Andrew. Not started. Urgent — has scheduling lead time.
 5. **Guest list complete** — missing last names/emails for several entries. Needed before save-the-dates.
