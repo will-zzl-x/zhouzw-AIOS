@@ -32,6 +32,32 @@
 
 ---
 
+## 2026-06-10 — Dual-track meal planning (Will cut + Elena palatability)
+
+**Architecture decision**: Will's cut-optimized recipes stay intact; Elena's palatability-driven preferences get parallel/forked recipes, not in-place modifications to Will's.
+
+**Mechanism**: Recipes get a `for` field — values: `"will"`, `"elena"`, `"both"` (default if unset = both).
+- `"both"` — single shared prep, both eat the same
+- `"will"` — Will-preferred when forked (Elena uses her variant in this slot)
+- `"elena"` — Elena-preferred when forked (Will uses his own variant)
+
+**Today's deltas to `meal-planning/data/recipes.json`**:
+- `#18 Alfredo` — creaminess upgrades (4% cottage cheese flex, 1/3 reduced-fat cream cheese, milk 10→6 oz, blend 90 sec full smooth, more pasta water buffer). Stays `"both"` — Will's macros barely affected (~+15-20 cal/srv).
+- `#25 Chipotle` — fresh toppings flagged SERVE-TIME ONLY in instructions (avocado/Greek yogurt/salsa/cilantro/lime stay separate from Tupperware). Stays `"both"`.
+- `#19 KBBQ` — tagged `"for": "will"` because Elena flagged the gochujang chicken marinade as too heavy.
+- **NEW #28 Bittman Chinese Steamed Chicken + Cucumber Salad** — `"for": "elena"`, Will-compatible (leaner than KBBQ). Elena's replacement protein for #19 slot.
+- **NEW #29 Goat Cheese + Crackers Snack Plate** — `"for": "elena"`, M3 light option Elena requested. Not cut-optimized; Will alternative for same slot = #26 salmon hummus toast.
+- **NEW #30 Strawberry Protein Shake** — `"for": "both"`, M1 or M3. Cut-friendly base (skim + whey + frozen strawberries) + optional Elena richer variant notes (whole milk + banana + Greek yogurt) inline.
+
+**Still TODO (cycle-level changes)**:
+- `cycles/*.yaml` schema needs a per-slot fork structure when Will and Elena eat different recipes — e.g., slot M4 Tue = `{will: 19, elena: 28}` instead of single recipe ID. Defer to next system-fix sprint.
+- `coverage.py` needs to track per-eater servings when slots are forked. Defer.
+- `grocery.py` aggregation already handles arbitrary recipe list (no change needed).
+
+**For now**: Will picks recipes per cycle the old way (single recipe per slot) but can intentionally pick Elena-preferred recipes for slots where she cares. The forked-slot YAML upgrade unlocks "Will eats #19, Elena eats #28 on the same Tue night" — needs work.
+
+---
+
 ## 2026-06-10 — Zone of Genius sector pick IN PROGRESS (Solo Track)
 
 **Decision (in flight)**: Initial 4-sector pick (pool, pest, janitorial, irrigation) widened to ~10-12 candidate sectors after Will pushed back ("not sure those are the best fit, stay even more open to start"). Scrape-broad / outreach-focus architecture remains: scrape all candidates (marginal cost negligible), focus Elena apprenticeship + Walking Billboard + 100/50/10/1 outreach on TOP 2-3 based on (a) scrape yields per sector, (b) Elena's gut response to actual lead lists.

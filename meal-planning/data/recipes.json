@@ -1899,6 +1899,7 @@
     ],
     "servings": 3,
     "protein": "Chicken Thigh",
+    "for": "will",
     "ingredients": [
       {
         "name": "Boneless skinless chicken thighs",
@@ -2768,5 +2769,105 @@
       "Grilled cheese (per srv): spray pan with cooking spray, place 1 cheese slice between 2 slices low-cal bread, grill medium-low 2-3 min/side until golden + melted.",
       "Plate: 1 bowl soup (~240mL) + 1 grilled cheese per serving. Reheat soup leftovers in microwave 90s; make grilled cheese fresh each time."
     ]
+  },
+  {
+    "id": "28",
+    "name": "Bittman Chinese Steamed Chicken + Cucumber Salad",
+    "tier": "A",
+    "meal_slots": [3, 4],
+    "servings": 3,
+    "protein": "Chicken Breast",
+    "for": "elena",
+    "ingredients": [
+      {"name": "Boneless skinless chicken breast", "amount": "21", "unit": "oz (3x 7oz breasts)", "store": "Costco"},
+      {"name": "Kosher salt (chicken)", "amount": "1.5", "unit": "tsp", "store": "Walmart"},
+      {"name": "Fresh ginger, sliced (steaming)", "amount": "2", "unit": "inches sliced", "store": "Walmart"},
+      {"name": "Fresh ginger, finely grated (sauce)", "amount": "1", "unit": "Tbsp", "store": "Walmart"},
+      {"name": "Scallions, thinly sliced (sauce)", "amount": "1", "unit": "bunch (~6-8 scallions)", "store": "Walmart"},
+      {"name": "Garlic clove, minced (sauce, optional)", "amount": "1", "unit": "clove", "store": "Walmart"},
+      {"name": "Grapeseed oil (for heating)", "amount": "3", "unit": "Tbsp", "store": "Walmart"},
+      {"name": "Light soy sauce (sauce)", "amount": "2", "unit": "Tbsp", "store": "Asian Mart"},
+      {"name": "Toasted sesame oil (sauce)", "amount": "1", "unit": "tsp", "store": "Asian Mart"},
+      {"name": "Zero-calorie sweetener (sauce)", "amount": "1", "unit": "tsp", "store": "Walmart"},
+      {"name": "White pepper (sauce, optional)", "amount": "0.25", "unit": "tsp", "store": "Walmart"},
+      {"name": "Dry white rice", "amount": "1", "unit": "cup (~3 srv cooked at ~0.7 cup each)", "store": "Walmart"},
+      {"name": "Cucumbers, thinly sliced (cucumber salad)", "amount": "3", "unit": "medium (~400g)", "store": "Walmart"},
+      {"name": "Salt (cucumber salad)", "amount": "1", "unit": "tsp", "store": "Walmart"},
+      {"name": "Fresh garlic, minced (cucumber salad)", "amount": "1", "unit": "tsp", "store": "Walmart"},
+      {"name": "Gochujang (cucumber salad)", "amount": "1", "unit": "Tbsp", "store": "Asian Mart"},
+      {"name": "Zero-calorie sweetener (cucumber salad)", "amount": "1 Tbsp + 1 tsp", "unit": "", "store": "Walmart"},
+      {"name": "Rice vinegar (cucumber salad)", "amount": "2", "unit": "Tbsp", "store": "Asian Mart"},
+      {"name": "Sesame seeds (cucumber salad)", "amount": "1", "unit": "Tbsp", "store": "Asian Mart"},
+      {"name": "Chili flakes (cucumber salad)", "amount": "1", "unit": "tsp", "store": "Walmart"},
+      {"name": "Light soy sauce (cucumber salad)", "amount": "1 Tbsp + 2 tsp", "unit": "", "store": "Asian Mart"}
+    ],
+    "notes": "ELENA-PREFERRED replacement for KBBQ #19 (Elena flagged gochujang chicken marinade as too heavy 2026-06-10). Bittman classic steamed chicken with ginger-scallion-oil sauce; keeps KBBQ's cucumber salad on the side; white rice base. M3/M4 lunch/dinner, 3 srv. Per srv: ~480 cal / 50g protein / 16g fat / 38g carbs. WILL-COMPATIBLE — leaner than KBBQ (steamed not pan-seared, controlled oil from sauce only); can replace KBBQ in his cut too if he wants. KBBQ #19 stays in rotation as Will-only option if he prefers gochujang. SCALLION-SAUCE TECHNIQUE: hot oil 'tempers' raw scallions/ginger — adds depth without extra cooking step.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Salt chicken breasts on all sides; rest 10-15 min while you set up the steamer.",
+      "Set up steamer: bamboo basket over wok OR steamer basket over pot with 2 inches simmering water.",
+      "Place chicken on heatproof plate; lay sliced ginger on top.",
+      "Steam covered HIGH 12-15 min until chicken reaches 165F internal temp.",
+      "Rest chicken 5 min covered, then slice thinly across the grain into strips.",
+      "Cook white rice while chicken steams: Instant Pot (1 cup rice + 1 cup water, manual HIGH 4 min, NR 10 min) OR stovetop.",
+      "Make scallion sauce: in heatproof bowl combine scallions + grated ginger + minced garlic. Heat 3 Tbsp grapeseed oil in small pan until shimmering / just smoking. Pour hot oil over scallion mix — it should sizzle and bloom. Stir in soy sauce + sesame oil + sweetener + white pepper. Taste, adjust.",
+      "Cucumber salad: thinly slice (or smash + slice) cucumbers; toss with 1 tsp salt; rest 10 min to draw water; squeeze gently. Add garlic + gochujang + sweetener + rice vinegar + sesame seeds + chili flakes + soy sauce. Stir well, taste.",
+      "Plate: rice base + sliced chicken on top + drizzle scallion sauce generously + cucumber salad on side.",
+      "Pack: 3 containers. Keep scallion sauce SEPARATE in a small condiment cup (fresher pour at reheat, doesn't go limp). Cucumber salad keeps crunchy 2-3 days."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "29",
+    "name": "Goat Cheese + Crackers Snack Plate",
+    "tier": null,
+    "meal_slots": [3],
+    "servings": 3,
+    "protein": "Goat Cheese",
+    "for": "elena",
+    "ingredients": [
+      {"name": "Plain goat cheese (chèvre log)", "amount": "5", "unit": "oz (~1.7 oz/srv)", "store": "Walmart"},
+      {"name": "Crackers (Triscuit / Ritz / water crackers — any preferred)", "amount": "24", "unit": "crackers (~8/srv)", "store": "Walmart"},
+      {"name": "Honey or fig jam (optional drizzle)", "amount": "1", "unit": "Tbsp", "store": "Walmart"},
+      {"name": "Fresh thyme or cracked black pepper (optional garnish)", "amount": "to taste", "unit": "", "store": "Walmart"}
+    ],
+    "notes": "ELENA-PREFERRED snack/light M3 option added 2026-06-10. ~210 cal/srv (5oz goat cheese + 24 crackers / 3 servings + optional drizzle). No cook, no reheat, no meal prep. Standalone snack OR pair with cucumber slices + apple wedges for a fuller M3 lunch. NOT cut-optimized for Will (high fat per protein at ~10g protein/srv); Elena-eat by default. Will alternative for same slot: #26 salmon/hummus toast (protein-dense). Honey drizzle adds 15 cal but lifts flavor. Goat cheese has less lactose than cow cheese — easier digestion for some.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Slice goat cheese into rounds (or just bring tub + spreader knife).",
+      "Fan crackers on a plate.",
+      "Top each cracker with a goat cheese slice or spread.",
+      "Optional drizzle: honey or fig jam across the top.",
+      "Optional garnish: cracked black pepper or fresh thyme leaves.",
+      "Pack: keep cheese in original tub, crackers in zip-top bag, assemble at lunch (crackers go stale if pre-assembled)."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "30",
+    "name": "Strawberry Protein Shake",
+    "tier": "A",
+    "meal_slots": [1, 3],
+    "servings": 1,
+    "protein": "Whey Protein",
+    "for": "both",
+    "ingredients": [
+      {"name": "Strawberry or vanilla whey protein powder", "amount": "1", "unit": "scoop (~30g, ~120 cal, ~24g protein)", "store": "Costco"},
+      {"name": "Frozen strawberries", "amount": "1", "unit": "cup (~5oz frozen, ~50 cal)", "store": "Walmart"},
+      {"name": "Milk — skim (Will/cut) or whole (Elena/richer)", "amount": "8", "unit": "oz (~1 cup)", "store": "Walmart"},
+      {"name": "Ice cubes (optional, for thickness)", "amount": "0.5", "unit": "cup", "store": ""},
+      {"name": "Banana (optional, Elena richer version)", "amount": "0.5", "unit": "banana (~50 cal)", "store": "Walmart"},
+      {"name": "Plain Greek yogurt (optional, Elena richer + protein boost)", "amount": "2", "unit": "Tbsp", "store": "Costco"}
+    ],
+    "notes": "PER-SERVING recipe (scale x2 if making for both at once). CUT-FRIENDLY BASE for Will: skim milk + whey + frozen strawberries + ice = ~250 cal / 30g protein / 2g fat / 30g carbs. ELENA RICHER VARIANT: whole milk + 1/2 banana + 2 Tbsp Greek yogurt = ~400 cal / 35g protein / 6g fat / 50g carbs. M1 breakfast or M3 snack. Excellent post-workout. Will: skim milk, no banana, no Greek yogurt. Elena: whole milk + banana + Greek yogurt for thickness. Drink immediately — whey can separate after 1 hr.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Combine in blender: whey protein + frozen strawberries + milk + ice (optional).",
+      "For Elena richer version: also add 1/2 banana + 2 Tbsp Greek yogurt.",
+      "Blend HIGH 30-45 sec until smooth and thick.",
+      "Pour into glass or shaker bottle.",
+      "Drink immediately. If pre-making: best within 30 min; whey separates after 1 hr."
+    ],
+    "on_break": false
   }
 ]
