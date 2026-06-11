@@ -12,9 +12,9 @@ members:
   - id: Will
     on_cut: true
     slots:
-      M1: protein bar / light    # breakfast — light, starch-free
+      M1: lean protein + veg     # breakfast — eggs/egg whites/chicken + spinach/microgreens/asparagus. Starch-free. NO shakes for M1.
       M2: microwave lunch        # reheatable only
-      M3: microwave solo work meal  # reheatable only, Will-only convenience stack
+      M3: microwave solo work meal  # reheatable only, Will-only convenience stack. Shakes OK here.
       M4: dinner                 # home-cooked, shared with Elena
   - id: Elena
     on_cut: false
