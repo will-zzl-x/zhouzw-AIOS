@@ -46,7 +46,7 @@ Note: Clayton House final payment cannot be personal check or ACH — debit/cred
 ## Villa Solara — Group House (booked)
 
 - **Villa Solara — Old Town Ultra-Luxe Estate**, 6541 E 2nd St, Scottsdale AZ 85251 (Old Town)
-- Entire home — 6 BR / 7 beds / 5.5 baths, sleeps 14. ~5 min from Old Town; walkable to Clayton House reception
+- Entire home — 6 BR / 7 beds / 5.5 baths, sleeps 14. In Old Town. **~6 min drive / 31 min walk to Clayton House reception** (not realistically walkable in wedding attire — rideshare/rental car).
 - **Stay:** Thu Oct 21 (4 PM check-in) → Sun Oct 24 (10 AM checkout) = 3 nights. Thursday covers rehearsal day.
 - Reservation conf. HMKK892PCH (12 guests). Cancellation: free before Sep 21, 2027; partial refund before Oct 14, 2027.
 - **Elena fronted the full booking cost.** Guests pay Will + Elena back by **Dec 31, 2026.**
@@ -65,7 +65,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 ## Open Items (Priority Order)
 
 1. **Photographer** — meeting 5/18. $3,160 est. Groom pays. Confirm videography (first dance) free per quote. Flag no-drone rule at St. Andrew.
-2. **Hotel room block** — not started. 86% OOT guests; need 30–40 rooms (gross, inclusive of the ~6 bridal party rooms). Must be secured before save-the-dates. Ask for courtesy block first. Two hotels pitched to guests alongside the villa: **Courtyard by Marriott** (~$192/night, walkable to Clayton House) and **Element by Westin at SkySong** (~$241/night, roomier, short drive).
+2. **Hotel room block** — not started. 86% OOT guests; need 30–40 rooms (gross, inclusive of the ~6 bridal party rooms). Must be secured before save-the-dates. Ask for courtesy block first. Two hotels pitched to guests alongside the villa: **Courtyard by Marriott** (~$192/night) and **Element by Westin at SkySong** (~$241/night, roomier). Both rates and drive times to Clayton House are unverified placeholders — confirm before sending to guests.
 3. **Wedding website** — not started. Must be live by mid-August 2026 (URL → QR code → save-the-date design → print → send).
 4. **Pre-Cana** — Elena contacts St. Andrew. Not started. Urgent — has scheduling lead time.
 5. **Guest list complete** — missing last names/emails for several entries. Needed before save-the-dates.
