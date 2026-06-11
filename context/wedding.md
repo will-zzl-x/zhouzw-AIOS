@@ -43,6 +43,21 @@ Note: Clayton House final payment cannot be personal check or ACH — debit/cred
 | Clayton House – Final Meeting | Tue October 12, 2027 at 2:00 PM | TBD |
 | Rehearsal / Drop-off | Thu October 21, 2027 at 10:00 AM | In person |
 
+## Villa Solara — Group House (booked)
+
+- **Villa Solara — Old Town Ultra-Luxe Estate**, 6541 E 2nd St, Scottsdale AZ 85251 (Old Town)
+- Entire home — 6 BR / 7 beds / 5.5 baths, sleeps 14. ~5 min from Old Town; walkable to Clayton House reception
+- **Stay:** Thu Oct 21 (4 PM check-in) → Sun Oct 24 (10 AM checkout) = 3 nights. Thursday covers rehearsal day.
+- Reservation conf. HMKK892PCH (12 guests). Cancellation: free before Sep 21, 2027; partial refund before Oct 14, 2027.
+- **Elena fronted the full booking cost.** Guests pay Will + Elena back by **Dec 31, 2026.**
+
+**Guest split (agreed pricing):**
+- **$850/couple** or **$425/single** for the full weekend
+- = $283.33/couple/night or $141.61/person/night
+- Will + Elena pay **$985** (~1.16× a couple's share — took on extra for the larger primary suite)
+
+**Rental cars:** Will + Elena plan to rent cars for the house group — getting around Old Town and driving down to the St. Andrew ceremony in Chandler (~30 min). **Rental cost is separate, not included in the $850/couple.**
+
 ## What's Included at Clayton House
 
 Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wedding cake, DJ & MC, day-of coordination, florals, linens, chairs, lighting. Invitations credit: $575 at invitationsbywedgewood.com (code sent ~April 2027).
@@ -50,7 +65,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 ## Open Items (Priority Order)
 
 1. **Photographer** — meeting 5/18. $3,160 est. Groom pays. Confirm videography (first dance) free per quote. Flag no-drone rule at St. Andrew.
-2. **Hotel room block** — not started. 86% OOT guests; need 30–40 rooms (gross, inclusive of the ~6 bridal party rooms — Airbnb-for-bridal-party idea considered and dropped 6/2/26). Must be secured before save-the-dates. Ask for courtesy block first.
+2. **Hotel room block** — not started. 86% OOT guests; need 30–40 rooms (gross, inclusive of the ~6 bridal party rooms). Must be secured before save-the-dates. Ask for courtesy block first. Two hotels pitched to guests alongside the villa: **Courtyard by Marriott** (~$192/night, walkable to Clayton House) and **Element by Westin at SkySong** (~$241/night, roomier, short drive).
 3. **Wedding website** — not started. Must be live by mid-August 2026 (URL → QR code → save-the-date design → print → send).
 4. **Pre-Cana** — Elena contacts St. Andrew. Not started. Urgent — has scheduling lead time.
 5. **Guest list complete** — missing last names/emails for several entries. Needed before save-the-dates.
