@@ -99,28 +99,45 @@ What "winning" looks like — defined before searching so it's recognizable on s
 
 ### Track 2 — Solo (Zone of Genius sectors)
 - **Deal size:** $300–$500k MAX (smaller cash flow constraints, smaller debt service)
-- **Sector:** OPEN — based on combined Will + Elena Zone of Genius (see Step 1 below); narrow to top 2-3 candidates
+- **Sector:** **IN PROGRESS 2026-06-10** — initial 4-sector pick (pool, pest, janitorial, irrigation) widened to ~10-12 candidate sectors for broader scrape. Scrape-broad, outreach-focus architecture (see below). Final sector list pending Will's pick.
 - **Why this size range:** No Dan CPA cover so avoid sectors requiring licensure; smaller deals more accessible (less PE competition under $500k); faster close cycle
 - **SDE floor:** ~$253k at $300k → ~$286k at $500k; revenue floor ~$843-952k at 30% margin
 - **Cash required:** ~$50k down + ~$20k reserve = **covered by $70k S&ME alone** (Elena's $100k taxable preserved for home/bridge)
-- **Status:** Independent pipeline — Apify scrape parameters configurable to chosen sector
+- **Status:** Apify scrape config populated with initial 4 sectors; widening to ~10-12 in flight
 
-### Solo Track candidate sectors (verify against Zone of Genius)
-- Light commercial services (cleaning, equipment maintenance, light fleet)
-- HVAC / plumbing / electrical (recurring-contract operators)
-- Pool service / landscaping (route-based)
-- Specialty distribution (B2B niche distributor — Will's SCM background)
-- Compliance / regulatory services (Elena's engineering + regulatory navigation)
-- Property management (small portfolio operator)
+### Solo Track sector picks (in progress 2026-06-10)
+
+**Architecture: scrape broad (10-12 sectors), focus narrow (2-3 sectors for Elena apprenticeship + outreach).** Marginal Apify cost is negligible (~$5-10 total); human attention is expensive. Let scrape yields per sector + Elena's gut response to actual lead names narrow to top 2-3 for the Walking Billboard + 100/50/10/1 outreach grind. **The act of looking at lead names across many sectors IS the Zone of Genius narrowing — more honest than guessing on framework dimensions.**
+
+**Current ranked candidate list** (final pick pending Will's add/drop from this menu):
+
+1. HOA management services — Elena program management bullseye + 5,000+ Phoenix HOAs
+2. Water treatment / softener service — Elena water credential; Phoenix hard-water market
+3. MSP / IT managed services — Will tech/AI angle, monthly recurring king
+4. Specialty distribution (B2B niche) — Will SCM home turf
+5. Office plant care / interior landscaping — Underrated niche, high margins, quiet competition
+6. Mat rental services — Boring = less competition, sub-$500k common
+7. Document destruction / shredding routes — Simple ops, premium recurring, compliance-driven growth
+8. Window cleaning commercial routes — Recurring B2B, sub-$500k common
+9. Pool service routes — High sourcing volume, Elena water angle
+10. Pest control routes — Highest recurring rev structure
+11. Vending / micro-market routes — Semi-absentee bullseye
+12. Coffee/water service routes — Boring B2B recurring
+
+**Hard-filter check (all 12 pass):** No sector requires ownership license Will/Elena don't hold; routes/contracts allow absentee operation post-2027 move; margins ≥30% achievable in well-run operators; no inherent customer concentration; operator-identity gut check varies by sector.
+
+**Geographic scope:** Phoenix metro core 5 cities (Phoenix, Mesa, Scottsdale, Chandler, Tempe). Radii capture Gilbert/Glendale/Peoria/Surprise via overlap.
+
+**Sectors dropped from earlier framework:** HVAC/plumbing/electrical (typically >$1M, contractor license required), property management residential (capital intensive, AZ real estate license), compliance/regulatory consulting (hard to source), landscape/lawn care (commodity pricing pressure).
 
 ### Operator model (both tracks)
-Elena scales W-2 to ~20 hr/week at close, runs Year 1 unpaid co-operator; manager hired ($55k) at 12-month trigger after 90-day continuous-CF test, moving the business toward truly-absentee in Year 2. Will handles systems/AI/strategy throughout. **Elena scale-back planning: `goals/elena-scale-back.md`. Recommended Scenario A2 (Industry Transition) has Elena take a 20-25 hr/wk operator role at a small business in whichever track's sector becomes active — builds operator skills + sources deals via Walking Billboard + bridges income simultaneously.**
+Elena scales W-2 to ~20 hr/week at close, runs Year 1 unpaid co-operator; manager hired ($55k) at 12-month trigger after 90-day continuous-CF test, moving the business toward truly-absentee in Year 2. Will handles systems/AI/strategy throughout. **Elena scale-back planning: `goals/elena-scale-back.md`. Recommended Scenario A2 (Industry Transition) has Elena take a 20-25 hr/wk operator role at a small business in whichever of the top 2-3 sectors becomes the apprenticeship focus — builds operator skills + sources deals via Walking Billboard + bridges income simultaneously.**
 
 **Secondary candidate (parallel to both tracks):** Digital business (content site, newsletter) with stable recurring revenue and diversified traffic. Purely parallel — don't let it pull focus.
 
 **SBA financing:** Prior lender call completed ~Apr 28, 2025. Relationship exists — reactivate when deal is in hand. Track 1 may use standby seller note for stretch zone; Track 2 likely doesn't need it (smaller deal).
 
-**Apify scrape:** Toolkit shipped 2026-06-07 in `sourcing/`. Currently configured for bookkeeping/accounting (Track 1). Swap search strings to chosen Track 2 sector once Will + Elena narrow Zone of Genius.
+**Apify scrape:** Toolkit shipped 2026-06-07 in `sourcing/`. **Solo template populated 2026-06-10** with 4 sectors × 3 terms × 5 Phoenix metro cities = 60 search strings ready to run. Dan template still configured for bookkeeping/accounting (Track 1).
 
 ---
 

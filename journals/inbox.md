@@ -29,3 +29,40 @@
 **Budget**: ~$1,280 all in (down from $1,835 after Pink Jeep cut + food tightening + Cress→Cucina Rustica swap + cabin tier reduction $225→$165/night). Cabin paid in July for cashflow.
 
 **Add to backlog at next Sunday reflection** (life-main, Relationships, deadline 2026-07-20 for all reservations locked).
+
+---
+
+## 2026-06-10 — Zone of Genius sector pick IN PROGRESS (Solo Track)
+
+**Decision (in flight)**: Initial 4-sector pick (pool, pest, janitorial, irrigation) widened to ~10-12 candidate sectors after Will pushed back ("not sure those are the best fit, stay even more open to start"). Scrape-broad / outreach-focus architecture remains: scrape all candidates (marginal cost negligible), focus Elena apprenticeship + Walking Billboard + 100/50/10/1 outreach on TOP 2-3 based on (a) scrape yields per sector, (b) Elena's gut response to actual lead lists.
+
+**Current ranked candidate menu** (final pick pending Will's add/drop):
+1. HOA management — Elena program mgmt bullseye, 5,000+ Phoenix HOAs
+2. Water treatment / softener service — Elena water differentiator
+3. MSP / IT managed services — Will tech + AI angle
+4. Specialty distribution (B2B niche) — Will SCM home turf
+5. Office plant care / interior landscaping — Underrated niche
+6. Mat rental services — Boring B2B recurring
+7. Document destruction routes — Premium recurring, compliance growth
+8. Window cleaning commercial routes — B2B recurring
+9. Pool service routes — High sourcing volume
+10. Pest control routes — Recurring rev king (despite saturation)
+11. Vending / micro-market routes — Semi-absentee bullseye
+12. Coffee/water service routes — Boring B2B recurring
+
+**Geographic scope**: Phoenix metro core 5 cities (Phoenix, Mesa, Scottsdale, Chandler, Tempe). Radii capture Gilbert/Glendale/Peoria/Surprise via overlap.
+
+**Licensure stance**: OK if seller or hired employee holds operator license. Doesn't gate ownership.
+
+**Dropped (post-broader review)**: HVAC, plumbing, electrical (deal size + contractor licenses); property management residential (capital + AZ real estate license); compliance/regulatory consulting (hard to source); landscape/lawn care (commodity pricing).
+
+**Files updated (initial checkpoint)**:
+- `context/acquisition.md` Track 2 section — IN PROGRESS, candidate menu published
+- `sourcing/apify-input-solo-template.json` — populated with initial 4 sectors (60 strings); will widen to final list once Will picks
+- Inbox capture (this entry)
+
+**Unblocks backlog**:
+- #5 apify-scrape-solo — partially unblocked; awaiting final sector list before scrape
+- #7 elena-apprenticeship — still pending top-2-3 narrowing post-scrape
+
+**Next move**: Will picks final ~8-12 sector list from the candidate menu → I update Apify config → Will runs scrape → enrich.py --mode solo → per-sector yield review + Elena gut response → narrow to top 2-3 for apprenticeship/outreach focus.
