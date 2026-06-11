@@ -32,6 +32,33 @@
 
 ---
 
+## 2026-06-10 — Modular meal-prep pattern (the working design)
+
+**The pattern**: cook once, fork at the plate. Three layers — protein, bulk veg, carb — bulk-cooked, then each person assembles their bowl with different ratios + different add-ons:
+
+| Layer | Will (cut) | Elena (palatable) |
+|---|---|---|
+| Protein | Same portion (~5 oz lean) | Same portion (~5 oz) |
+| Bulk veg | 2x volume (fills the plate) | 1x normal |
+| Carb | 1/3 portion or skip | Full portion |
+| Fat adds | Skip — low-cal sauces only | Cheese / avocado / oil / sour cream / butter |
+| Flavor lift | Acid + heat + herbs (salsa, hot sauce, lime, cilantro, vinegar) | Fat + richness (parmesan, feta, olive oil, butter, tahini) |
+
+**Encoded in recipes.json today** (no schema change — dual assembly captured in `notes` + `recipe_steps`):
+- **#28 Modular Bittman Chinese Steamed Chicken Bowl** — converted from 3-srv Elena-only to 10-srv `for: both`. Will gets bok choy/spinach stir-fry bulk + 0.3 cup rice + light scallion-sauce drizzle; Elena gets 0.75 cup rice + full scallion-sauce pour. Cucumber salad SHARED. KBBQ #19 stays as Will-only gochujang option.
+- **#31 Modular Slow-Cooker Chicken + Sheet-Pan Veg + Rice (NEW)** — 10 srv, `for: both`. Will gets 2 cups veg + 0.3 cup rice + sriracha/hot sauce; Elena gets 1 cup veg + 0.75 cup rice + avocado/Greek yogurt/cheese. **Salsa SHARED** (Elena wants it too — not a low-cal Will sub).
+- **#32 Modular Mediterranean Lemon Chicken + Roasted Veg + Tzatziki Fork (NEW)** — 10 srv, `for: both`. Merged the Mediterranean (Set 4) + Greek lemon chicken (Set 6) ideas per Will's brief — uses lean chicken instead of salmon for the Mediterranean profile. Will gets 2 cups veg + tzatziki only; Elena gets 1 cup veg + farro + pita + feta + olives + olive oil drizzle. Tzatziki SHARED (nonfat Greek yogurt — creaminess without fat).
+
+**Rejected from the brainstorm**: ground turkey tacos (not interesting), lean beef chili (no).
+
+**Salmon Mediterranean**: NOT done as a modular — Will wanted leaner protein for that profile, so #32 is chicken-based. Salmon stays as #26 canned salmon/hummus toast (M3 quick lunch).
+
+**Open**: 6 more modular sets could be added later (sheet-pan salmon w/ low-cal dressing fork, stuffed peppers, etc.). Hold for now — let these 3 prove out over 2-3 cycles before expanding.
+
+**System work still pending (deferred)**: cycle YAML schema upgrade for forked-slot expression; `coverage.py` per-eater serving counts. Modular recipes currently report 10 servings total — Will and Elena each take 5. Coverage today treats it as "10 srv pool" which is correct enough.
+
+---
+
 ## 2026-06-10 — Dual-track meal planning (Will cut + Elena palatability)
 
 **Architecture decision**: Will's cut-optimized recipes stay intact; Elena's palatability-driven preferences get parallel/forked recipes, not in-place modifications to Will's.
