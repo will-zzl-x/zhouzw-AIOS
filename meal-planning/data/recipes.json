@@ -1843,13 +1843,13 @@
         "store": ""
       },
       {
-        "name": "2% cottage cheese (or 4% small-curd for creamier finish)",
+        "name": "2% cottage cheese (small curd)",
         "amount": "22",
         "unit": "oz",
         "store": "Costco"
       },
       {
-        "name": "1/3 reduced-fat cream cheese (Neufch\u00e2tel \u2014 adds creaminess vs fat-free)",
+        "name": "1/3 reduced-fat cream cheese (Neufch\u00e2tel)",
         "amount": "3.3",
         "unit": "oz",
         "store": "Walmart"
@@ -1867,13 +1867,13 @@
         "store": "Walmart"
       },
       {
-        "name": "Milk (whole or evaporated for creamier finish)",
+        "name": "Milk",
         "amount": "6",
         "unit": "oz (~0.75 cup) \u2014 reduced from 10 oz to cut dilution",
         "store": "Walmart"
       }
     ],
-    "notes": "A-tier. M2/M3/M4. From Will HOF Cookbook 2025. Reheats well. Slow cooker required. Blend sauce in 2 batches due to volume. Save all chicken cooking juices to add to final pot. CREAMINESS UPGRADE 2026-06-10 (Elena feedback): cottage cheese flex 2%\u21924% small-curd, cream cheese fat-free\u21921/3 reduced-fat Neufch\u00e2tel, milk 10oz\u21926oz to cut dilution, blend FULL 90 sec per batch (not just till mixed \u2014 graininess = under-blending), supplement with reserved pasta water for adjusting texture at the end. Net calorie impact ~+15-20 cal/srv across 8 servings; mouthfeel gain large.",
+    "notes": "A-tier. M2/M3/M4. From Will HOF Cookbook 2025. Reheats well. Slow cooker required. Blend sauce in 2 batches due to volume. Save all chicken cooking juices to add to final pot. CREAMINESS UPGRADE 2026-06-10 (Elena feedback): kept 2% small-curd cottage cheese for cal control, recipe data corrected to 1/3 reduced-fat cream cheese (what Will actually uses, not fat-free), milk 10oz\u21926oz to cut dilution, blend FULL 90 sec per batch (not just till mixed \u2014 graininess = under-blending), supplement with reserved pasta water for adjusting texture at the end. Macros effectively unchanged from Will's current actual prep.",
     "recipe_available": true,
     "recipe_steps": [
       "Place 25 oz chicken breast in slow cooker. Top with 1.5 Tbsp butter, 1.5 Tbsp dried minced onion, 0.75 Tbsp salt, 1.5 tsp garlic powder, and 0.75 tsp black pepper.",
@@ -2010,7 +2010,7 @@
         "store": "Walmart"
       }
     ],
-    "notes": "A-tier (estimate). M3/M4 shared. Source: Instagram reel @C95Yi1vI4NB. Marinate chicken overnight for best flavor. Cucumber salad is a batch \u2014 flavor improves through the week. Store cucumbers separately for reheating; warm chicken + rice on low heat in pan.",
+    "notes": "A-tier (estimate). M3/M4 shared. Source: Instagram reel @C95Yi1vI4NB. Marinate chicken overnight for best flavor. Cucumber salad is a batch \u2014 flavor improves through the week. Store cucumbers separately for reheating; warm chicken + rice on low heat in pan. SIDE-DISH NOTE 2026-06-10 (Elena flagged): the cucumber salad IS the green companion for this recipe \u2014 do NOT add a second green side. Specifically: (1) do NOT reuse #1 Chicken Teriyaki's gai lan side on the same plate (cross-contamination flavor clash) and (2) do NOT freelance gai lan + oyster sauce as an extra side (Elena flagged the oyster-sauce gai lan as off-putting). If you want a separate green side on a different night, use bok choy with garlic + sesame oil + soy (skip oyster sauce), broccolini, or just extra cucumber salad. Recipe tagged for=will because Elena prefers #28 Bittman Chinese Steamed Chicken (cleaner prep, same cucumber salad on side).",
     "recipe_available": true,
     "recipe_steps": [
       "Combine all marinade ingredients with 21.33 oz chicken thighs. Marinate overnight (ideal) or minimum 30 min.",
@@ -2568,23 +2568,22 @@
         "store": "Walmart"
       }
     ],
-    "notes": "M4 dinner, 5 srv. Bowl format: pre-cooked chipotle thigh chunks + white rice + black beans + air-fried frozen peppers/onions + salsa + Greek yogurt (sour-cream sub) + cheese + avocado + lime + cilantro. Macros per serving with white rice: ~570 cal / 38g protein / 16g fat / 55g carbs (rice + beans + salsa are the carb sources). On cut: this is the heaviest M4 of the week \u2014 pair with a lighter Will-solo dinner the next day. Reheat: warm rice + beans + thighs + peppers/onions together (microwave 90s); add cold toppings per serving. Workflow: Instant Pot rice + air fryer P&O mix + just-heat pre-cooked thighs = fast assembly. Refactored from raw marinated thighs -> pre-cooked pre-diced thigh meat 2026-06-06 per Will (Costco deli/refrigerated section product). PACKING FIX 2026-06-10 (Elena feedback \u2014 fresh items in Tupperware got soggy/wilted/brown): PACK ONLY THE COOKED ITEMS in the meal-prep Tupperware (chicken + rice + beans + peppers/onions + shredded cheese). Add FRESH TOPPINGS at serving time only \u2014 keep avocado/Greek yogurt/salsa/cilantro/lime in separate small containers or per-day fresh. See updated recipe_steps for the split.",
+    "notes": "M4 dinner, 5 srv. Bowl format: pre-cooked chipotle thigh chunks + white rice (mixed w/ cilantro + lime juice) + black beans + air-fried frozen peppers/onions + salsa + Greek yogurt (sour-cream sub) + cheese + avocado. Macros per serving with white rice: ~570 cal / 38g protein / 16g fat / 55g carbs (rice + beans + salsa are the carb sources). On cut: this is the heaviest M4 of the week \u2014 pair with a lighter Will-solo dinner the next day. Workflow: Instant Pot rice + air fryer P&O mix + just-heat pre-cooked thighs = fast assembly. Refactored from raw marinated thighs -> pre-cooked pre-diced thigh meat 2026-06-06 per Will (Costco deli/refrigerated section product). PACKING FIX 2026-06-10 (Elena feedback \u2014 fresh items in Tupperware got soggy/wilted/brown): CILANTRO + LIME juice get mixed INTO the rice at prep (cilantro-lime rice holds up fine 3-4 days). PACK in Tupperware: cilantro-lime rice + black beans + peppers/onions + thigh chunks + shredded cheese. KEEP SEPARATE (serve-time only \u2014 these brown/wilt by day 2): avocado, Greek yogurt, salsa/pico.",
     "on_break": false,
     "recipe_available": true,
     "recipe_steps": [
       "PREP DAY \u2014 cooked components only:",
       "Instant Pot rice: rinse 1.5 cups white rice, add 1.5 cups water, manual HIGH pressure 4 min, natural release 10 min, fluff.",
+      "Cilantro-lime rice: while rice is still warm, fold in chopped cilantro (1/2 bunch) + juice of 1 lime + pinch salt. Stir gently. Let cool before packing.",
       "Air fryer P&O: toss frozen pepper & onion mix with avocado oil + cumin + chili powder + salt; air fry 400F 12-15 min, shake halfway, until slightly charred.",
       "Pre-cooked thigh meat: warm in microwave 90 sec or skillet 3-4 min \u2014 it's already cooked + diced.",
       "Drain + rinse black beans; warm in microwave or stovetop.",
-      "PACK Tupperware: rice base + black beans + peppers/onions + thigh chunks + shredded cheese. NOTHING ELSE.",
-      "FRESH TOPPING STAGING (do NOT pack in meal-prep containers \u2014 they soggy/brown/wilt by day 2):",
+      "PACK Tupperware: cilantro-lime rice + black beans + peppers/onions + thigh chunks + shredded cheese.",
+      "SERVE-TIME ONLY (do NOT pack \u2014 they soggy/brown/wilt by day 2):",
       "  - Avocado: slice fresh per meal (1/4 avocado per day). Keep whole avocados in fridge, slice morning-of.",
-      "  - Greek yogurt: dollop from the big tub at serving time. Don't pre-portion into the Tupperware.",
+      "  - Greek yogurt: dollop from the big tub at serving time.",
       "  - Salsa/pico: keep in small condiment cups OR add at serving from the jar. Never in the main container.",
-      "  - Cilantro: keep chopped in a small airtight container, sprinkle at serving. Wilts by day 3 if packed.",
-      "  - Lime: wedge per day at serving, or pre-juice into salsa container.",
-      "SERVING DAY: microwave the Tupperware (rice/beans/thighs/peppers/cheese) 90 sec; add fresh toppings on top after heating.",
+      "SERVING DAY: microwave the Tupperware (rice/beans/thighs/peppers/cheese) 90 sec; add avocado + Greek yogurt + salsa on top after heating.",
       "Hot eats: assemble all the above as a fresh bowl, no pre-pack needed."
     ]
   },
