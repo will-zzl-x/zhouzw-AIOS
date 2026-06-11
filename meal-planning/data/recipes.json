@@ -2846,7 +2846,7 @@
     "id": "30",
     "name": "Strawberry Protein Shake",
     "tier": "A",
-    "meal_slots": [1, 3],
+    "meal_slots": [3],
     "servings": 1,
     "protein": "Whey Protein",
     "for": "both",
@@ -2858,7 +2858,7 @@
       {"name": "Banana (optional, Elena richer version)", "amount": "0.5", "unit": "banana (~50 cal)", "store": "Walmart"},
       {"name": "Plain Greek yogurt (optional, Elena richer + protein boost)", "amount": "2", "unit": "Tbsp", "store": "Costco"}
     ],
-    "notes": "PER-SERVING recipe (scale x2 if making for both at once). CUT-FRIENDLY BASE for Will: skim milk + whey + frozen strawberries + ice = ~250 cal / 30g protein / 2g fat / 30g carbs. ELENA RICHER VARIANT: whole milk + 1/2 banana + 2 Tbsp Greek yogurt = ~400 cal / 35g protein / 6g fat / 50g carbs. M1 breakfast or M3 snack. Excellent post-workout. Will: skim milk, no banana, no Greek yogurt. Elena: whole milk + banana + Greek yogurt for thickness. Drink immediately — whey can separate after 1 hr.",
+    "notes": "PER-SERVING recipe (scale x2 if making for both at once). M3 snack slot — Will prefers lean protein + veg for M1 not a shake (config.yaml Will.M1 = 'lean protein + veg'); Elena may still use as M1 if she wants. CUT-FRIENDLY BASE for Will: skim milk + whey + frozen strawberries + ice = ~250 cal / 30g protein / 2g fat / 30g carbs. ELENA RICHER VARIANT: whole milk + 1/2 banana + 2 Tbsp Greek yogurt = ~400 cal / 35g protein / 6g fat / 50g carbs. Will: skim milk, no banana, no Greek yogurt. Elena: whole milk + banana + Greek yogurt for thickness. Drink immediately — whey can separate after 1 hr.",
     "recipe_available": true,
     "recipe_steps": [
       "Combine in blender: whey protein + frozen strawberries + milk + ice (optional).",
