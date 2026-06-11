@@ -117,3 +117,10 @@ Format: ✓ = done, □ = planned/pending
 □ Run Apify scrape: bookkeeping leads, 20mi Phoenix
 □ Hotel block: sign Element, re-RFP Remi and Valley Ho
 □ Mindset — Be fully present when it's real — phone gone, no narrating. In your next real moment with Elena today (meal, conversation, intimacy), put the phone in another room and stop the internal commentary track.
+
+**2026-06-11 (Thu)** — NYC Cut Wk 4 starting
+□ Walk 12,500 steps today
+□ Zone 2: 20 min post-lift fasted walk or incline
+□ Phone off nightstand — charge in kitchen tonight
+□ Desire-polarity rep: one move from DO list today
+□ Zone of Genius sector-pick: Will + Elena, 30–45 min
