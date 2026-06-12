@@ -37,7 +37,7 @@ Note: Clayton House final payment cannot be personal check or ACH — debit/cred
 
 | Meeting | Date | Format |
 |---------|------|--------|
-| Photographer | Mon May 18, 2026 | TBD |
+| Photographer | Mon May 18, 2026 | Booked, deposit paid |
 | Clayton House – Planning Meeting | Thu June 24, 2027 at 10:00 AM | In person |
 | Clayton House – Details Meeting | Tue September 7, 2027 at 12:00 PM | By phone |
 | Clayton House – Final Meeting | Tue October 12, 2027 at 2:00 PM | TBD |
@@ -64,13 +64,13 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 
 ## Open Items (Priority Order)
 
-1. **Photographer** — meeting 5/18. $3,160 est. Groom pays. Confirm videography (first dance) free per quote. Flag no-drone rule at St. Andrew.
+1. **Photographer — BOOKED**, deposit paid (post 5/18 meeting). $3,160 est. total, groom pays. Still confirm: videography (first dance) free per quote, no-drone rule at St. Andrew flagged to photographer.
 2. **Hotel room block — BOTH SIGNED** (Courtyard 5/28/26, Element 6/10/26). 19 rooms/night × 3 nights = **57 room nights** across two properties (vs. 30–40 target — inclusive of bridal-party rooms). Both **cut off Tue Sep 21, 2027**. Individuals book + pay their own. Tax 13.97%. Commission routed via Hotel Engine, LLC.
 - **Courtyard by Marriott Scottsdale Old Town** — 3311 N Scottsdale Rd, 85251. Ref M-WGJX5HE / HE-226261. **$155/night Run of House × 10 rooms × 3 nights.** $15/night self-parking, WiFi incl. Booking: ResLink, (800) 321-2211 x1, (480) 429-7785. Sales: Ruby Grieme, ruby.grieme@marriott.com, (949) 892-2128. ~1 mi to Clayton House (~4-min drive / ~15–20 min walk).
 - **Element Scottsdale at SkySong** — 1345 N Scottsdale Rd, 85257. Watson-Zhou Wedding Block (DocuSign 71D8A884…). **$199/night Studio (2 Queen + Sofa) × 9 rooms × 3 nights.** $14/night parking. Sales: Rebecca Potter, rebecca.potter@elementskysong.com, (623) 244-3126. ~3.4 mi to Clayton House (~10-min drive).
 - **Ceremony drive** (all lodging → St. Andrew, Chandler): ~18 mi via Loop 101, 22–25 min off-peak; budget 30–40 min Friday afternoon.
 - **2-night Fri+Sat all-in:** Courtyard ≈ **$383** ($155×2 + tax + $15×2 parking) · Element ≈ **$481** ($199×2 + tax + $14×2 parking).
-3. **Wedding website** — not started. Must be live by mid-August 2026 (URL → QR code → save-the-date design → print → send).
+3. **Wedding website** — Elena building it. Must be live by mid-August 2026 (URL → QR code → save-the-date design → print → send).
 4. **Pre-Cana** — Elena contacts St. Andrew. Not started. Urgent — has scheduling lead time.
 5. **Guest list complete** — missing last names/emails for several entries. Needed before save-the-dates.
 6. **Save-the-dates** — send late September 2026 (12 months out). QR code to wedding website on card.
