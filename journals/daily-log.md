@@ -124,3 +124,9 @@ Format: ✓ = done, □ = planned/pending
 □ Phone off nightstand — charge in kitchen tonight
 □ Desire-polarity rep: one move from DO list today
 □ Zone of Genius sector-pick: Will + Elena, 30–45 min
+
+**2026-06-12 (Fri)** — NYC Cut Wk 4 starting
+□ Walk 12,500 steps today
+□ Zone 2: 20 min post-lift fasted incline or walk
+□ Phone off nightstand — charge in kitchen tonight
+□ Run Apify scrape, save export, enrich leads
