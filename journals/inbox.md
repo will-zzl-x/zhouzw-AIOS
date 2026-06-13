@@ -35,7 +35,8 @@ Large friend-group trip (originally Summer2026Trip group chat, ~14 people). Coun
 *Confirmed:*
 | Person | Phase | Origin | Notes |
 |---|---|---|---|
-| Will (solo — Elena OUT) | P1 only (7/2–7/7), bunking OK | PHX | Elena out 6/12; Will firm on P1-only, no private room needed |
+| Will | P1 only (7/2–7/7) | PHX | locked |
+| Elena | TBD — reconsidering after cook+cut math | PHX | bailed 6/12 at $3,510 baseline; cook+cut path is $2,670-2,910 combined w/ Will, may bring her back. If she joins, needs 1 private queen room |
 | Daniel Zheng | P1 only | SF | his stated preference |
 | Dhanush Bathala | 7/4 AM–7/12 (partial P1 + full P2) | DTW | PTO locked |
 | Daniel Kong + Annie Chen | P2 only | Chicago area | sharing a bed |
@@ -73,7 +74,8 @@ Large friend-group trip (originally Summer2026Trip group chat, ~14 people). Coun
 | Full-trip, Orlando origin (James) | ~$2,850 |
 | Full-trip, unknown/other (Charlie) | ~$2,800 |
 | Dhanush (partial P1 + full P2, DTW origin) | ~$2,335 |
-| **Will (solo, P1 only, PHX, cook+cut — LOCKED)** | **~$1,335** |
+| **Will solo, P1 only, PHX, cook+cut** | **~$1,335** (Option B) / ~$1,455 (Option A) |
+| **Will + Elena combined, P1 only, PHX, cook+cut** | **~$2,670** (Option B) / ~$2,910 (Option A) |
 
 Flight basis (PHX confirmed $500–600, anchor = $550; holiday premium — Canada Day + July 4th both fall in this window, all rough): Seattle ~$400; Chicago ~$475; SF ~$425; DTW ~$475; NYC ~$500; Orlando ~$600 (likely needs a connection); unknown-origin default $550.
 
@@ -133,7 +135,7 @@ Flight basis (PHX confirmed $500–600, anchor = $550; holiday premium — Canad
 7. Group dinner reservations
 8. Day-by-day itinerary skeleton (drafted, ready as Sunday-call strawman)
 
-**Status of Elena's attendance:** OUT as of 6/12. Priced out at $1,755 baseline; even the cook+cut path at $1,335 didn't clear. Will going solo.
+**Status of Elena's attendance:** TBD as of 6/12 → reconsidering 6/12 PM. Bailed at $3,510 baseline (Will+Elena). Cook+cut path lands at $2,670 combined (Option B Canmore) or $2,910 (Option A in-park) — $600-900 cheaper than what made her bail. Decision pending Elena's review of full breakdown. If she joins, needs 1 private queen room (impacts Option B sleeping config — only 1 private King master available).
 
 **Trip-shape decision LOCKED (6/12):** Banff icons trip (Moraine Lake, Lake Louise, Banff Gondola, Lake Agnes, Johnston Canyon). Base in Banff/Canmore corridor — Invermere ruled out (~2h each way to Banff = 4h/day driving overhead, kills daily icon access).
 
