@@ -1,0 +1,63 @@
+# Cycle Sat 2026-06-06 -> Sat 2026-06-13
+# Built collaboratively with Claude 2026-06-06 (first real cycle).
+date: "2026-06-06"
+grocery_day: "2026-06-06"   # all Sat AM: Costco + Walmart same day
+
+# Dining-out / covered meals (subtract from need).
+exceptions:
+  - { date: "2026-06-06", member: Both, slot: M4, reason: "birthday party (Sat dinner covered)" }
+  - { date: "2026-06-07", member: Both, slot: M4, reason: "Kura sushi dinner (Sun dinner covered)" }
+  - { date: "2026-06-13", member: Both, slot: M4, reason: "Dink N Dine pickleball shared meal (cycle-end Sat dinner covered)" }
+
+# Leftover ready servings from prior cycle.
+carryover:
+  - { recipe_id: "19", servings: 2, note: "Korean BBQ Chicken Thighs leftover -> Will M3" }
+
+# Selected recipes for the week.
+selections:
+  # Three-Cheese Alfredo with Chicken — Will has the 25oz chicken on hand
+  - recipe_id: "18"
+    planned_servings: 8
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 4 }   # 2 shared dinner nights
+      - { member: Will, slot: M3, servings: 4 }   # 4 weekday work lunches
+
+  # NEW #25 — Costco Chipotle Pre-Cooked Thigh Meat Mexican Bowls (2lb bag yields ~6 srv)
+  - recipe_id: "25"
+    planned_servings: 6
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 4 }   # 2 shared dinner nights
+      - { member: Will, slot: M4, servings: 2 }   # 2 leftover Will-solo dinners (2lb bag yielded extra srv vs the 1.5lb estimate)
+
+  # NEW #23 — Walmart Beef Burgers + Oven Fries (first cycle for this recipe)
+  - recipe_id: "23"
+    planned_servings: 4
+    slot_assignments:
+      - { member: Will, slot: M3, servings: 2 }   # Sat lunch today (Will + Elena share, or Will + leftover)
+      - { member: Both, slot: M4, servings: 2 }   # 1 shared dinner night mid-week (M4 only — no leftover reheat)
+
+  # NEW #24 — Costco Breaded Chicken Chunks & Marinated Thighs + Roasted Veg Bowls (M2 prep, first cycle)
+  - recipe_id: "24"
+    planned_servings: 14
+    slot_assignments:
+      - { member: Both, slot: M2, servings: 14 }  # splits 7/7 -> Will M2 + Elena M2 fully covered
+
+  # NEW #26 — Canned Salmon + Hummus on Toasted Bread (closes Will M3 gap + buffer)
+  - recipe_id: "26"
+    planned_servings: 3
+    slot_assignments:
+      - { member: Will, slot: M3, servings: 3 }   # 1 closes the M3 gap, 2 buffer
+
+  # NEW #27 — Roasted Tomato Soup + Low-Cal Grilled Cheese (lean M4 buffer; flex into M2)
+  - recipe_id: "27"
+    planned_servings: 5
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 5 }   # shared lean dinners; buffer lets Will overflow M2 -> M1 and backfill M2 with M4 surplus
+
+# Inventory snapshot at cycle start (items Will already has on hand for this cycle).
+# Reduces grocery list — these don't need to be bought.
+inventory_snapshot:
+  - { name: "Chicken breast", amount: "25", unit: "oz", note: "for #18 Alfredo — already on hand" }
+  - { name: "Low-cal sandwich bread (as buns)", amount: "8", unit: "slices", note: "for #23 Burgers — already on hand" }
+  - { name: "Russet potatoes (fries)", amount: "1", unit: "lb", note: "for #23 Burgers — already on hand" }
+  - { name: "Low-cal sandwich bread (for grilled cheese)", amount: "10", unit: "slices", note: "for #27 Tomato Soup + GC — same loaf as burger buns" }

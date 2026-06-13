@@ -28,16 +28,19 @@ Rules:
 
 3. MAJOR MOVES (1–2 items, sm_id REQUIRED, anti-repeat applies) —
    THEN add 1–2 Major Moves drawn ONLY from the strategic_moves list provided in the user message. That list is already pre-filtered for eligibility (status open/in-progress, gate satisfied, all blockers done) — do not invent moves and do not pull from elsewhere. Pick by, in order:
-     a. Hard deadline proximity wins — any move with gate "deadline:YYYY-MM-DD" within 14 days of today goes first.
-     b. Then window-locked items — gate "window:MM-DD..MM-DD" where today is in the window.
-     c. Then drift items — items that haven't been touched in journals/daily-log.md recently.
-     d. Then rank order (lower # = higher priority).
+     a. **Hard deadline within 7 days wins regardless of quest tag** — any move with gate "deadline:YYYY-MM-DD" within 7 days of today goes first. Deadlines override the quest filter.
+     b. **Prefer Main Quest items over Side Quest items** at every remaining tier. Each strategic_moves entry has a `quest` field with values: "work-main" / "life-main" / "side" / "not-quest". When picking 2 Major Moves, aim for one work-main AND one life-main if both are available. If only one Main Quest tier has eligible items, fill with the highest-priority side or not-quest item.
+     c. Within each quest tier (e.g. all work-main items), apply secondary priority:
+        - Hard deadline within 14 days first
+        - Then window-locked items (gate "window:MM-DD..MM-DD" where today is in window)
+        - Then drift items (no recent touch in journals/daily-log.md)
+        - Then rank order (lower # = higher priority)
    Each Major Move task MUST include the sm_id field, copied VERBATIM from the strategic_moves entry's id.
 
 4. ANTI-REPEAT (Major Moves ONLY) —
    Do NOT surface a Major Move that already appeared in journals/daily-log.md in the last 2 days, INCLUDING close paraphrases (e.g. "Chase pending hotel and email two new ones" ≈ "hotel block outreach"). Rotate to a different eligible move. EXCEPTION: a hard deadline within 7 days overrides anti-repeat — surface it anyway. Daily Consistents and required-target gates are NEVER subject to anti-repeat.
 
-5. WEEKDAY/WEEKEND ROUTING — Weekday: career Major Moves fair game. Weekend: no Amazon work; pick non-career Major Moves only.
+5. WEEKDAY/WEEKEND ROUTING — Weekday: career Major Moves fair game. Weekend: no Amazon work; pick non-career Major Moves only. EXCEPTION: a career move whose notes contain "incl. weekends" (e.g. the promo doc during its final sprint) is weekend-eligible and may be surfaced on Sat/Sun like any other move — Will has explicitly opted it in.
 
 6. STATE CONSTRAINTS — Respect state.md (travel, vacation, illness, schedule).
 
@@ -45,7 +48,7 @@ Rules:
 
 8. DIFFERENTIATION CUE (~2–3× per week, NOT every day) — On those mornings, append ONE cue as the FINAL item. For this item ONLY: copy a single bullet VERBATIM from daily-standard.md's "Differentiation Cues" or "Sufficiency cues" list — do not shorten, abbreviate, reword, or strip it to keywords (the 5–10-word and verb-first rules do NOT apply here; the full sentence carries the meaning). Prefix it with "Mindset — ". Set area "relationships", priority 4, sm_id null. Omit entirely on other days — never emit a bare keyword.
 
-9. OUTPUT — JSON array only. No prose. No markdown fences. 5–8 tasks total.
+9. OUTPUT — JSON array only. No prose before or after. No markdown fences. **Do not draft, comment, then re-output**: emit one final JSON array and stop. Emit ALL required gates from Rule 1 + ALL eligible Daily Consistents from Rule 2 + 1–2 Major Moves from Rule 3 + the optional Differentiation Cue from Rule 8 if applicable. Total count varies with how many Daily Consistents are eligible today — typically 8–14 tasks.
 
 Output schema:
 [
@@ -81,6 +84,7 @@ def build_strategic_moves_section(backlog_text: str, today: date) -> str:
             "id": m["id"],
             "title": m["title"],
             "area": m["area"],
+            "quest": m["quest"],
             "gate": m["gate"],
             "notes": m["notes"],
         }
@@ -90,6 +94,9 @@ def build_strategic_moves_section(backlog_text: str, today: date) -> str:
     return (
         "# strategic_moves (eligible from backlog.md, status:open or "
         "in-progress, gating-clear, depends-on satisfied)\n\n"
+        "# quest values: work-main / life-main / side / not-quest — "
+        "Main Quest items (work-main, life-main) get priority when picking "
+        "Major Moves per Rule 3.\n\n"
         f"{body}"
     )
 
@@ -138,18 +145,23 @@ Generate today's brief as JSON."""
             text = text[4:]
         text = text.strip()
 
-    # Defensive extraction: model sometimes adds a prose preamble or unknown
-    # fence variant. Find the JSON array bounds and parse just that slice.
+    # Defensive extraction: model sometimes adds a prose preamble, prose
+    # postamble, or even drafts multiple JSON arrays before finalizing.
+    # Strategy:
+    #   1. Skip past any prose preamble — find the first '['
+    #   2. Use json.JSONDecoder.raw_decode() to parse ONE complete JSON value
+    #      and ignore everything after it (commentary, second drafts, etc.)
     start = text.find("[")
-    end = text.rfind("]")
-    if start == -1 or end == -1 or end < start:
+    if start == -1:
         raise ValueError(f"No JSON array found in brief output. Raw text: {text!r}")
-    text = text[start : end + 1]
+    text_from_array = text[start:]
 
     try:
-        tasks = json.loads(text)
+        decoder = json.JSONDecoder()
+        tasks, _ = decoder.raw_decode(text_from_array)
     except json.JSONDecodeError as e:
         raise ValueError(f"Brief output is not valid JSON ({e}). Raw text: {text!r}") from e
+
     if not isinstance(tasks, list) or not all(isinstance(t, dict) for t in tasks):
         raise ValueError(f"Brief output is not a list of dicts: {tasks!r}")
     return tasks

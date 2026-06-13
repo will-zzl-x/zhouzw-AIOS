@@ -1,0 +1,28 @@
+# Cached seasonal produce for Chandler, AZ (low desert, USDA 9b) by month.
+# So produce-pairing questions cost ZERO tokens for the common case — the AI
+# template ai/produce_pairing.md only runs for genuinely ambiguous leftovers.
+# "peak" = local/abundant/cheap; "good" = reliably available + in season.
+
+region: Chandler, AZ (Sonoran low desert)
+note: >
+  AZ low-desert growing is inverted vs. most of the US — peak local produce is
+  fall through spring; high summer (Jun-Aug) is hot-crop + imports. Citrus is a
+  winter signature. Use this for seasonal veggie sides (recipe 6) and to fill
+  produce gaps without an AI call.
+
+months:
+  January:   { peak: [citrus, kale, broccoli, cauliflower, carrots, beets, spinach, cabbage], good: [bell pepper, celery, fennel] }
+  February:  { peak: [citrus, kale, broccoli, carrots, peas, lettuce, spinach, artichoke], good: [bell pepper, asparagus, cabbage] }
+  March:     { peak: [asparagus, peas, lettuce, spinach, artichoke, carrots, strawberries], good: [citrus, broccoli, kale] }
+  April:     { peak: [asparagus, strawberries, lettuce, peas, spring onion, zucchini], good: [carrots, spinach, herbs] }
+  May:       { peak: [zucchini, summer squash, cucumber, tomatoes, peppers, green beans], good: [strawberries, herbs, eggplant] }
+  June:      { peak: [tomatoes, zucchini, cucumber, peppers, eggplant, melon, green beans], good: [okra, herbs, corn] }
+  July:      { peak: [melon, okra, peppers, eggplant, tomatoes (heat-set), basil], good: [zucchini, cucumber, corn] }
+  August:    { peak: [okra, melon, peppers, eggplant, basil, black-eyed peas], good: [tomatoes, sweet potato greens] }
+  September: { peak: [tomatoes (fall set), peppers, eggplant, okra, zucchini, cucumber], good: [melon, beans, herbs] }
+  October:   { peak: [zucchini, cucumber, peppers, broccoli, cauliflower, lettuce, spinach], good: [tomatoes, kale, carrots] }
+  November:  { peak: [kale, broccoli, cauliflower, carrots, lettuce, spinach, citrus (early)], good: [bell pepper, cabbage, beets] }
+  December:  { peak: [citrus, kale, broccoli, cauliflower, carrots, spinach, cabbage], good: [bell pepper, fennel, beets] }
+
+# Pantry/recipe staples that aren't seasonal (always assume available year-round):
+year_round: [garlic, onion, ginger, rice, potato, frozen veg medley, lemon, lime]

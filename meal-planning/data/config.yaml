@@ -1,0 +1,107 @@
+# Meal-planning system config — household, members, slots, stores, equipment, rules.
+# DETERMINISTIC scripts read this; no AI. Edit freely as the system evolves.
+
+household:
+  location: Chandler, AZ
+  cycle: Sat-to-Sat
+  grocery:
+    walmart_order: Friday night   # online order
+    costco_run: Saturday morning
+
+members:
+  - id: Will
+    on_cut: true
+    slots:
+      M1: lean protein + veg     # breakfast — eggs/egg whites/chicken + spinach/microgreens/asparagus. Starch-free. NO shakes for M1.
+      M2: microwave lunch        # reheatable only
+      M3: microwave solo work meal  # reheatable only, Will-only convenience stack. Shakes OK here.
+      M4: dinner                 # home-cooked, shared with Elena
+  - id: Elena
+    on_cut: false
+    slots:
+      M1: protein bar
+      M2: microwave lunch        # shared/A-tier vetted recipes
+      M4: dinner shared          # shared with Will
+
+# Slot rules — drive coverage + cook_schedule + reheatability checks.
+slots:
+  M2: { reheat: microwave, overflow_to: [M3, M4] }
+  M3: { reheat: microwave, overflow_to: [M4] }
+  M4: { reheat: home-cooked, overflow_to: [] }   # salmon: oven/air-fryer 325F, NEVER microwave
+reheat_rules:
+  salmon: "325F oven or air fryer — NEVER microwave"
+  dining_out: "flexible; assign to slot with greatest deficit"
+
+# Cut constraints (Will) — used by suggest_recipes AI template + coverage notes.
+cut:
+  protein_per_day_g: 150
+  protein_per_feeding_g: 45
+  m1_m2: starch-free / low-carb     # save calories for fruit at M3
+  low_cal_sauces:
+    - G Hughes BBQ
+    - low-cal ketchup
+    - sriracha
+    - hot sauce
+    - salsa
+    - mustard
+    - Greek-yogurt blends
+  dining_out: >
+    carb-forward low-fat refeed. Japanese / Vietnamese / Korean best.
+    Mediterranean OK if lean-ordered (grilled protein + rice/pita; go easy on
+    hummus/falafel/gyro/oil).
+
+# Meal-type split — which recipe pool feeds which meals.
+meal_type_split:
+  shared:        # M4 + Elena M2
+    slots: [M4]
+    pool: A/S-tier vetted recipes
+  solo_convenience:  # Will M3 + Will M2
+    slots: [M3]
+    pool:
+      - rotisserie
+      - slow-cooker shredded chicken
+      - canned salmon + Greek yogurt bowls
+      - air-fryer chicken+veg bakes
+      - low-cal sauces
+
+stores: [Costco, Walmart, Asian Mart]
+
+equipment:
+  - air fryer
+  - rice cooker
+  - 6qt enameled Dutch oven
+  - wok
+  - instant pot
+  - slow cooker
+  - Ninja Creami Deluxe
+  - cast iron
+stove: electric (burner max 9)
+
+# Defrost lead times (hours) by protein — defrost.py reads these.
+defrost_lead_hours:
+  beef: [12, 18]
+  thighs: [12, 18]
+  chicken thigh: [12, 18]
+  breast: [18, 24]
+  chicken breast: [18, 24]
+  steak: [12, 18]
+  ground beef: [12, 18]
+move_lead_nights: 2   # move from freezer 2 nights before first cook
+
+# Cooking rules — surfaced as notes by cook_schedule.py; not enforced logic.
+cooking_rules:
+  - avocado oil for high-heat; olive oil low-heat or air-fryer
+  - dry-brine steaks overnight uncovered on a rack
+  - dissolve bouillon in warm water first
+  - electric-stove Dutch oven preheat 60-90s max, water-drop test (burn risk)
+  - always break down rotisserie Saturday
+  - day-old chilled rice for fried rice
+  - air-fried kale goes limp in storage; sauté for batch containers, air-fry only fresh-day
+
+# Cook-ordering weights for cook_schedule.py (lower = cook earlier).
+cook_priority:
+  freshness_urgency: 0    # most-perishable first
+  marinade_lead: 1        # needs overnight marinade
+  slow_or_long_simmer: 2  # slow-cooker / long braise started early
+  rotisserie_saturday: 3  # rotisserie breakdown is a Saturday anchor
+  standard: 4

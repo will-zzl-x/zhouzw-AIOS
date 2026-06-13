@@ -29,7 +29,7 @@ Will's drawn to MRP's staged structure — fine. The *passive* levels (1–5) ar
 |---|---|---|
 | L1 Build frame / pass shit tests | Don't D.E.E.R.; hold your center; decisiveness | Phase 0/1 |
 | L2 Action plan / life in order | The AIOS, quests, GPS docs | Strong |
-| L3 Build a life apart | Sunday 9:30 AM boxing class @ Boxout AZ (BJJ post-cut), friendships, acquisition, own interests | Building |
+| L3 Build a life apart | Sunday Zone 2 treadmill block (BJJ + Muay Thai post-cut), friendships, acquisition, own interests | Building |
 | L4 Condition availability / be busy | Take space without explaining; vary routine | Phase 2 |
 | L5 Upgrade appearance | NYC Cut + Ravage + style/grooming sprint (backlog #16) | Strong |
 
@@ -62,6 +62,33 @@ Will's drawn to MRP's staged structure — fine. The *passive* levels (1–5) ar
 - **Her initiation reading as accommodation is structural, not a defect.** Don't make it about her.
 - **Gravity compounds; manipulation decays.** Everything you build for yourself pays off regardless of the dynamic.
 - **It's slow on purpose.** Wanting a faster lever is the exact pull that makes dread seductive — that urge is your cue to hold the line, not switch frameworks.
+
+---
+
+## Solo-space rep — what to actually do with the time
+
+The daily 15–30 min unannounced solo block (`dashboard.md` Daily Consistents) is the operationalization of the "take small space without explaining it" DO. The framework filter for what to spend the time on comes from Perel + Schnarch:
+
+- **Perel: build interior life.** Activities you do because *you* find them interesting, not for performance / outcome / Elena's notice. The test: would you do this if Elena never asked about it?
+- **Schnarch: build self-soothing capacity.** Activities that train you to be alone with your own thoughts without distraction. The test: are you filling silence or building tolerance for it?
+
+**Will's solo-space rotation (chosen 2026-06-03):**
+
+| Activity | Frequency | Framework lens | Notes |
+|---|---|---|---|
+| **Treadmill walk (no phone / podcast / music — silent)** | Default — most days when nothing else fits | Schnarch self-soothing rep | Indoor only (per Will preference); pairs with the Zone 2 target; the silence is the point — don't fill it |
+| **Violin practice** | 1–2× / wk | Perel interior life + distinctive skill | Cut-compatible (zero recovery cost); compounds across years; an identity vector Elena isn't part of |
+| **Meditation / breathwork** | 1–2× / wk | Schnarch self-soothing (deeper rep) | 10–20 min sufficient; just-be is the muscle being trained |
+| **Style/grooming sprint moves** | While `backlog #16` active (deadline 6/22) | Direct attractiveness lever — adjacent to polarity work | Try a piece, schedule the stylist, pick up tailored item, browse with intent |
+
+**Hard anti-patterns** (fail both Perel and Schnarch filters):
+- Phone / social media — no interior life built, no self-soothing rep
+- Work email / Slack — work-coded, blurs identity
+- Acquisition reading / Hormozi / Codie — work-coded; serves a different quest, not desire-polarity
+- Anything done *for* Elena (planning dates, picking gifts) — outcome-coded, not solo work
+- Audiobooks / podcasts during the silent walk slot — defeats the Schnarch rep; save those for non-solo-space time
+
+**The rotation IS the gravity.** Don't let Elena pattern-match "Will does X every Tuesday at 7 PM." Vary the activity AND the timing within the week — that's the unpredictability that builds polarity vs. the predictability that flattens it back into routine.
 
 ---
 

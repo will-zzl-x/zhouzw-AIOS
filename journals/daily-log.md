@@ -50,3 +50,92 @@ Format: ✓ = done, □ = planned/pending
 
 **2026-06-01 (Mon)** — NYC Cut Wk 2 ending
 □ Hit 10,000 steps tracked via Apple Watch
+
+**2026-06-02 (Tue)** — NYC Cut Wk 2 ending
+□ Walk 12,500 steps today
+□ Book Friday Jun 5 boxing technique trial class
+□ Draft Roland Frazier YouTube + outreach script v2
+□ Kick off Jeff ramp: align shadow plan with Colton
+□ Mindset — Gravity compounds; manipulation decays
+
+**2026-06-03 (Wed)** — NYC Cut Wk 2 ending
+□ Walk 12,500 steps today
+□ Book Friday Jun 5 boxing technique trial class
+□ Zone 2 cardio: 30 min conversational pace today
+□ Elena: full presence, no intimacy talk tonight
+□ Verify Dan thesis files resolve workflow gaps
+
+**2026-06-04 (Thu)** — NYC Cut Wk 2 ending
+□ Walk 12,500 steps today
+□ Verify Dan thesis files, close workflow gaps
+
+**2026-06-05 (Fri)** — NYC Cut Wk 2 ending
+□ Walk 12,500 steps today
+□ Take one unannounced 15–30 min solo block
+□ Elena: full presence, no intimacy talk tonight
+□ Advance promo doc: one focused review pass
+□ Send clean-pass message on July friend trip
+□ Mindset — Don't over-pursue when you feel the gap; redirect into your own thing. The next time you feel the pull to text-check / seek reassurance from Elena, route that energy into a workout, a work problem, or a friend instead.
+
+**2026-06-05 (Fri)** — NYC Cut Wk 2 ending
+□ Walk 12,500 steps today
+□ Take one unannounced 15–30 min solo block
+□ Advance promo doc: one focused review pass
+□ Book stylist consult, start wardrobe pass
+
+**2026-06-07 (Sun)** — NYC Cut Wk 2 ending
+□ Complete Ravage session or 12,500-step active recovery
+□ Walk 12,500 steps today
+□ Run 1–2 listings through full deal-eval framework
+□ Take one unannounced 15–30 min solo block today
+□ Phone in drawer during today's deep work block
+□ Zone 2 cardio: 30 min conversational pace today
+□ Dance practice: 15–20 min apply Reggie's lessons
+□ Hotel block: call pending hotel, pitch 2 new ones
+□ Mindset — Take small space without explaining it. Find one small window today to do your own thing — a walk, a podcast, an errand alone. No "I'm going to do X" preamble; just do it and come back.
+
+**2026-06-08 (Mon)** — NYC Cut Wk 4 starting
+□ Walk 12,500 steps today
+□ Zone 2: 60–90 min indoor incline treadmill this morning
+□ Phone in drawer during today's deep work block
+□ Build Liftosaur + weight + steps logging pipeline
+
+**2026-06-09 (Tue)** — NYC Cut Wk 4 starting
+□ Walk 12,500 steps today
+□ Phone off nightstand — charge in kitchen tonight
+□ Desire-polarity rep: one move from DO list today
+□ Friend cadence: reach out to one close friend today
+□ Run Apify scrape: bookkeeping leads, 20mi Phoenix
+□ Promo doc: one focused final-review pass today
+□ Mindset — Don't grade or score — out loud or in your head. When you catch yourself rating an interaction with Elena today (good/bad/regressing/improving), cut the thought mid-sentence and redirect to the next concrete thing in front of you.
+
+**2026-06-10 (Wed)** — NYC Cut Wk 4 starting
+□ Walk 12,500 steps today
+□ Zone 2: 20 min post-lift fasted walk or incline
+□ Phone off nightstand — charge in kitchen tonight
+□ Desire-polarity rep: one move from DO list today
+□ Run Apify scrape: bookkeeping leads, 20mi Phoenix
+□ Hotel block: sign Element, re-RFP Remi and Valley Ho
+□ Mindset — Be fully present when it's real — phone gone, no narrating. In your next real moment with Elena today (meal, conversation, intimacy), put the phone in another room and stop the internal commentary track.
+
+**2026-06-11 (Thu)** — NYC Cut Wk 4 starting
+□ Walk 12,500 steps today
+□ Zone 2: 20 min post-lift fasted walk or incline
+□ Phone off nightstand — charge in kitchen tonight
+□ Desire-polarity rep: one move from DO list today
+□ Zone of Genius sector-pick: Will + Elena, 30–45 min
+
+**2026-06-12 (Fri)** — NYC Cut Wk 4 starting
+□ Walk 12,500 steps today
+□ Zone 2: 20 min post-lift fasted incline or walk
+□ Phone off nightstand — charge in kitchen tonight
+□ Run Apify scrape, save export, enrich leads
+
+**2026-06-13 (Sat)** — NYC Cut Wk 4 starting
+□ Complete Ravage training session today
+□ Hit 150g protein and 1,820 cal in Cronometer
+□ Walk 12,500 steps today
+□ Phone off nightstand — charge in kitchen tonight
+□ Desire-polarity rep: one DO-list move today
+□ Run Apify scrape, enrich leads, save to sourcing/leads/
+□ Mindset — Take small space without explaining it. Find one small window today to do your own thing — a walk, a podcast, an errand alone. No "I'm going to do X" preamble; just do it and come back.

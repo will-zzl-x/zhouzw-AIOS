@@ -1,0 +1,102 @@
+{
+  "_comment": "Apify 'Google Maps Scraper' actor (compass/crawler-google-places). SOLO-TRACK — populated 2026-06-10 with 4 sector picks. Architecture: scrape broad (4 sectors), focus narrow (top 2 for Elena apprenticeship + outreach). Marginal Apify cost is low; human attention is expensive. See context/acquisition.md Track 2 + context/sector-evaluation-framework.md.",
+
+  "_sector_pick_status": "RESOLVED 2026-06-10",
+
+  "_sectors_in_this_scrape": [
+    "Pool service routes",
+    "Pest control routes",
+    "Commercial janitorial (B2B)",
+    "Irrigation services"
+  ],
+
+  "_strings_per_sector": "3 search terms × 5 cities = 15 strings per sector × 4 sectors = 60 total",
+
+  "_geographic_scope": "Phoenix metro core 5 cities. Radii capture Gilbert/Glendale/Peoria/Surprise via overlap.",
+
+  "_post_scrape_workflow": "1) Export Apify dataset as JSON to sourcing/leads/solo-2026-MM-DD.json. 2) Run: python enrich.py leads/solo-2026-MM-DD.json --mode solo --out leads-ranked-solo. 3) Filter ranked CSV by category to see per-sector yields. 4) Pick top 2 sectors based on (a) volume of buyable-scored leads, (b) Elena gut response after seeing actual names/categories. 5) Run targeted outreach (Walking Billboard / Frame B) on top 2.",
+
+  "searchStringsArray": [
+    "pool cleaning service Phoenix AZ",
+    "pool maintenance company Phoenix AZ",
+    "swimming pool service Phoenix AZ",
+    "pool cleaning service Mesa AZ",
+    "pool maintenance company Mesa AZ",
+    "swimming pool service Mesa AZ",
+    "pool cleaning service Scottsdale AZ",
+    "pool maintenance company Scottsdale AZ",
+    "swimming pool service Scottsdale AZ",
+    "pool cleaning service Chandler AZ",
+    "pool maintenance company Chandler AZ",
+    "swimming pool service Chandler AZ",
+    "pool cleaning service Tempe AZ",
+    "pool maintenance company Tempe AZ",
+    "swimming pool service Tempe AZ",
+
+    "pest control service Phoenix AZ",
+    "exterminator Phoenix AZ",
+    "termite control Phoenix AZ",
+    "pest control service Mesa AZ",
+    "exterminator Mesa AZ",
+    "termite control Mesa AZ",
+    "pest control service Scottsdale AZ",
+    "exterminator Scottsdale AZ",
+    "termite control Scottsdale AZ",
+    "pest control service Chandler AZ",
+    "exterminator Chandler AZ",
+    "termite control Chandler AZ",
+    "pest control service Tempe AZ",
+    "exterminator Tempe AZ",
+    "termite control Tempe AZ",
+
+    "commercial cleaning service Phoenix AZ",
+    "janitorial service Phoenix AZ",
+    "office cleaning company Phoenix AZ",
+    "commercial cleaning service Mesa AZ",
+    "janitorial service Mesa AZ",
+    "office cleaning company Mesa AZ",
+    "commercial cleaning service Scottsdale AZ",
+    "janitorial service Scottsdale AZ",
+    "office cleaning company Scottsdale AZ",
+    "commercial cleaning service Chandler AZ",
+    "janitorial service Chandler AZ",
+    "office cleaning company Chandler AZ",
+    "commercial cleaning service Tempe AZ",
+    "janitorial service Tempe AZ",
+    "office cleaning company Tempe AZ",
+
+    "irrigation repair service Phoenix AZ",
+    "sprinkler repair company Phoenix AZ",
+    "irrigation installation Phoenix AZ",
+    "irrigation repair service Mesa AZ",
+    "sprinkler repair company Mesa AZ",
+    "irrigation installation Mesa AZ",
+    "irrigation repair service Scottsdale AZ",
+    "sprinkler repair company Scottsdale AZ",
+    "irrigation installation Scottsdale AZ",
+    "irrigation repair service Chandler AZ",
+    "sprinkler repair company Chandler AZ",
+    "irrigation installation Chandler AZ",
+    "irrigation repair service Tempe AZ",
+    "sprinkler repair company Tempe AZ",
+    "irrigation installation Tempe AZ"
+  ],
+
+  "maxCrawledPlacesPerSearch": 80,
+  "language": "en",
+  "countryCode": "us",
+  "skipClosedPlaces": true,
+  "scrapePlaceDetailPage": true,
+  "scrapeContacts": true,
+  "maximumLeadsEnrichmentRecords": 0,
+  "scrapeReviewsPersonalData": false,
+  "maxReviews": 0,
+  "maxImages": 0,
+  "maxQuestions": 0,
+
+  "_field_note": "maxCrawledPlacesPerSearch reduced from 120 → 80 because 60 search strings × 120 = up to 7,200 max places, way more than needed. 80 × 60 = 4,800 max which after dedup yields ~2,000-3,000 unique businesses across 4 sectors. enrich.py scoring filters to top buyable-profile per sector. scrapeContacts pulls emails + socials (extra credits but worth it for outreach). scrapePlaceDetailPage must stay true to get website/phone/category reliably.",
+
+  "_solo_track_deal_box": "Target $300-500k purchase price. SDE floor ~$253k at $300k → ~$286k at $500k. Revenue floor ~$843k-$952k at 30% margin. Smaller deal than Dan track ($500k-$1M) because no Dan CPA cover + simpler operationally. See context/acquisition.md for full deal box.",
+
+  "_before_running": "Strip the underscore-prefixed comment keys (Apify ignores them but cleaner to remove). Paste into Apify JSON editor for compass/crawler-google-places actor. Expect 30-60 min run time. Cost ~$10-25 in Apify credits depending on output volume."
+}

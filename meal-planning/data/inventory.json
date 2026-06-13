@@ -1,0 +1,303 @@
+[
+  {
+    "item": "White rice",
+    "quantity": 5,
+    "unit": "lb",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Short grain Japanese rice",
+    "quantity": 3,
+    "unit": "lb",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Dry basmati rice",
+    "quantity": 2,
+    "unit": "lb",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Soy sauce",
+    "quantity": 25,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Light soy sauce",
+    "quantity": 15,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Dark soy sauce",
+    "quantity": 10,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Rice vinegar",
+    "quantity": 12,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Toasted sesame oil",
+    "quantity": 8,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Gochujang",
+    "quantity": 16,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": "2026-09-01"
+  },
+  {
+    "item": "Gochugaru",
+    "quantity": 8,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Hoisin sauce",
+    "quantity": 8,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": "2026-08-01"
+  },
+  {
+    "item": "Sriracha",
+    "quantity": 17,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Cornstarch",
+    "quantity": 16,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Avocado oil",
+    "quantity": 32,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Olive oil",
+    "quantity": 25,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Garlic powder",
+    "quantity": 8,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Onion powder",
+    "quantity": 6,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Paprika",
+    "quantity": 5,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Five spice powder",
+    "quantity": 3,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "White pepper",
+    "quantity": 3,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Black pepper",
+    "quantity": 6,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Salt",
+    "quantity": 26,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Zero calorie sweetener (Splenda)",
+    "quantity": 200,
+    "unit": "packets",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "G Hughes BBQ",
+    "quantity": 18,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": "2026-10-01"
+  },
+  {
+    "item": "Eggs",
+    "quantity": 18,
+    "unit": "eggs",
+    "location": "fridge",
+    "freshness_date": "2026-06-25"
+  },
+  {
+    "item": "Chicken thighs",
+    "quantity": 8,
+    "unit": "thighs",
+    "location": "freezer",
+    "freshness_date": "2026-08-01"
+  },
+  {
+    "item": "Ground beef (90/10)",
+    "quantity": 2,
+    "unit": "lbs",
+    "location": "freezer",
+    "freshness_date": "2026-07-15"
+  },
+  {
+    "item": "Fat-free cream cheese",
+    "quantity": 8,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null
+  },
+  {
+    "item": "Parmigiano Reggiano",
+    "quantity": 4,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null
+  },
+  {
+    "item": "Shredded cheese",
+    "quantity": 8,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null
+  },
+  {
+    "item": "Cumin",
+    "quantity": 3,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Chili powder",
+    "quantity": 3,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Salsa",
+    "quantity": 16,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null
+  },
+  {
+    "item": "Canned wild salmon",
+    "quantity": 3,
+    "unit": "cans",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Lettuce (romaine/iceberg)",
+    "quantity": 1,
+    "unit": "head",
+    "location": "fridge",
+    "freshness_date": null
+  },
+  {
+    "item": "Red onion",
+    "quantity": 1,
+    "unit": "onion",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Ketchup",
+    "quantity": 24,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null
+  },
+  {
+    "item": "Russet potatoes",
+    "quantity": 3,
+    "unit": "lb",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Dried minced onion",
+    "quantity": 4,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Asiago cheese",
+    "quantity": 4,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null
+  },
+  {
+    "item": "Fettuccine pasta",
+    "quantity": 25,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Mustard",
+    "quantity": 12,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null
+  },
+  {
+    "item": "Dill pickles",
+    "quantity": 1,
+    "unit": "jar",
+    "location": "fridge",
+    "freshness_date": null
+  }
+]

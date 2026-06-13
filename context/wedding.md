@@ -1,6 +1,6 @@
 # Wedding
 
-Last updated: 2026-05-16
+Last updated: 2026-06-07
 
 ## The Basics
 
@@ -65,7 +65,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 ## Open Items (Priority Order)
 
 1. **Photographer — BOOKED**, deposit paid (post 5/18 meeting). $3,160 est. total, groom pays. Still confirm: videography (first dance) free per quote, no-drone rule at St. Andrew flagged to photographer.
-2. **Hotel room block — BOTH SIGNED** (Courtyard 5/28/26, Element 6/10/26). 19 rooms/night × 3 nights = **57 room nights** across two properties (vs. 30–40 target — inclusive of bridal-party rooms). Both **cut off Tue Sep 21, 2027**. Individuals book + pay their own. Tax 13.97%. Commission routed via Hotel Engine, LLC.
+2. **Hotel room block — BOTH SIGNED** (Courtyard 5/28/26, Element 6/10/26). 19 rooms/night × 3 nights = **57 room nights** across two properties (vs. 30–40 target — inclusive of bridal-party rooms). Both **cut off Tue Sep 21, 2027**. Individuals book + pay their own. Tax 13.97%. Commission routed via Hotel Engine, LLC. (See Hotel Block — Current State section below for guest-math derivation, declined options, and remaining premium-tier chase.)
 - **Courtyard by Marriott Scottsdale Old Town** — 3311 N Scottsdale Rd, 85251. Ref M-WGJX5HE / HE-226261. **$155/night Run of House × 10 rooms × 3 nights.** $15/night self-parking, WiFi incl. Booking: ResLink, (800) 321-2211 x1, (480) 429-7785. Sales: Ruby Grieme, ruby.grieme@marriott.com, (949) 892-2128. ~1 mi to Clayton House (~4-min drive / ~15–20 min walk).
 - **Element Scottsdale at SkySong** — 1345 N Scottsdale Rd, 85257. Watson-Zhou Wedding Block (DocuSign 71D8A884…). **$199/night Studio (2 Queen + Sofa) × 9 rooms × 3 nights.** $14/night parking. Sales: Rebecca Potter, rebecca.potter@elementskysong.com, (623) 244-3126. ~3.4 mi to Clayton House (~10-min drive).
 - **Ceremony drive** (all lodging → St. Andrew, Chandler): ~18 mi via Loop 101, 22–25 min off-peak; budget 30–40 min Friday afternoon.
@@ -78,7 +78,60 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 8. **St. Andrew $400 balance** — due November 12, 2026.
 9. **Wedding insurance** — recommended by Wedgewood. Not purchased.
 
+## Hotel Block — Current State (updated 2026-06-07)
+
+**Booking platform:** Engine (formerly HotelEngine). All blocks courtesy (0% attrition, individual cancellation only, 30-day cutoff). Rooming-list cutoff Sep 20, 2027.
+
+**Guest-math room target (derived 6/7 from guest sheet):**
+- ~108 OOT invited × 75% acceptance = ~81 OOT attending
+- ~14 local × 100% = ~14 attending (locals drive home, no room)
+- −10 alt-accommodation (Elena's parents + others doing AirBnB/staying with family)
+- ~71 OOT needing lodging ÷ ~2 people/room ≈ **~36 rooms ceiling; ~30–33 realistic** (swing = how many of the 9 families-with-kids self-book AirBnBs)
+- **Target: ~33–36 rooms.** Aunt Lesa's family AirBnB NOT assumed (count them in need until confirmed).
+
+**Block status:**
+
+| Hotel | Tier | Rooms | Rate | Status |
+|-------|------|-------|------|--------|
+| Courtyard Marriott (Old Town) | Budget/solo | 10 single | ~$159 | ✅ SIGNED |
+| Element by Marriott SkySong | Mid-value | 9 double | $199 (incl. breakfast/laundry/kitchenette) | Sign 6/7 (deadline today) |
+| Premium (The Remi OR Hotel Valley Ho) | Premium | 12–15 | TBD | CHASE — re-RFP via Engine + direct group-sales call. Both ghosted Engine this week. No backup tier, so push hard + ask 15 for margin. |
+
+**Secured after Element = 19 rooms; +12–15 premium → 31–34 total (covers target).**
+
+**DECLINED (do not pursue):**
+- Senna House Curio (Hilton) — not a "hell yes," $372/night + $45 parking, premium but lukewarm
+- Courtyard Salt River — 15 SINGLE rooms (couples can't book) + redundant 2nd Courtyard
+- Papago Scottsdale by Reside — 25 doubles, overkill, dropped 6/7
+
+**Transport plan:** Uber/Lyft guest credits (not a shuttle). Budget line currently $1,000 est — **likely 2–3× low**; ~33–36 rooms × 2 rides × ~$30–40 ≈ $2,500–3,200 actual. Re-estimate.
+
+**None of the hotels are walkable to venue** (all 3–6 mi from Clayton House) — guests rideshare regardless; closer hotel = cheaper guest rides.
+
 ## Key Constraints
+
+## Weekend Itinerary — Meal Anchors (locked 2026-06-08)
+
+**Friday Oct 22, 2027** — Wedding day
+- Rehearsal/welcome dinner: **Virehouse** (already booked; confirm scope — rehearsal only OR rehearsal+welcome)
+- Reception dinner: Clayton House catering (locked)
+
+**Saturday Oct 23, 2027** — Post-wedding day
+- **Brunch (TBD — choose by Spring 2027):** Working candidates:
+  - *Pair A (all Old Town, zero Uber):* **The Mission Old Town** Sat brunch (chef-driven Mexican brunch, walkable)
+  - *Pair B (Camelback corridor, 1 Uber):* **The Henry — Camelback** (Fox Restaurant Concepts, top-tier brunch)
+  - *Pair C (resort day):* **Hearth '61 at Mountain Shadows** (chef-driven, resort vibe)
+- **Saturday dinner (LOCKED):** **Brat Haüs Old Town** — 3950 N Drinkwater Blvd
+  - Format: **No-host, ~20 ppl, family-style/communal**
+  - Cuisine: German beer hall — bratwurst, schnitzel, pretzels, shared plates, lively
+  - Why: walking distance from Old Town hotel block (Courtyard + premium), communal-table format literally drives mingling by design (Oktoberfest energy), $25-40/pp, splits checks easily
+  - Announcement format: "Sat 7pm Brat Haüs Old Town — separate checks, beer hall vibes, come if you're around. Walking distance from the hotels."
+  - Reservation: needed by Spring 2027 (~6 months out); confirm 20-top + split-check policy when booking
+
+**Sunday Oct 24, 2027** — Departures
+- No formal event; some guests may breakfast at hotel before heading out
+
+---
 
 - St. Andrew: no drones on premises; all photography must clear within 30 min after ceremony; dress code (covered shoulders, no plunging neckline/back) applies to bride and bridesmaids
 - Clayton House: no open flame (LED candles OK); no outside food/beverage without written permission; guest count locked after Final Meeting (Oct 12, 2027)

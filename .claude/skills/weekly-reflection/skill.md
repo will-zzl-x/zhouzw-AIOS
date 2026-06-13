@@ -53,6 +53,36 @@ Ask one question per life area. Don't ask all at once — go area by area and wa
 **Inbox sweep:**
 "Anything in the inbox that isn't captured above, or anything else that's been on your mind?"
 
+### Phase 2B — Weekly Quest Check (Abdaal)
+
+After the area interview, run the three Abdaal weekly-review questions explicitly against each Main Quest. This is what separates people who set quests from people who complete them (`references/abdaal.md` L57–62).
+
+Read current Main Quests from `state.md` first. Then ask each question against each Main Quest, in turn.
+
+**For each Main Quest (work + life):**
+
+1. **On-track check:** "Are you on track for the win condition? If the quest's 90-day deadline is X, what's the projected completion at current pace?"
+2. **Single most important thing this week:** "What's the ONE thing this week that, if done, moves this quest the furthest?"
+3. **Removal:** "What got in the way last week, and how do you remove it this week?"
+
+Format the synthesis as:
+
+```
+Weekly Quest Check — [Date]
+
+Work Main: [quest name]
+  - On track: [yes/at risk/off] — [one sentence why]
+  - This week's #1: [specific action]
+  - Removing: [specific blocker + how to clear it]
+
+Life Main: [quest name]
+  - On track: [yes/at risk/off] — [one sentence why]
+  - This week's #1: [specific action]
+  - Removing: [specific blocker + how to clear it]
+```
+
+**If either Main Quest is "at risk" or "off":** the weekly reflection's carry-forward MUST reference the recovery move. Don't paper over a drifting Main Quest with side quest progress.
+
 ### Phase 3 — Synthesize
 Based on Will's answers + the context files, identify:
 - What changed this week vs. last (state drift)
@@ -75,13 +105,13 @@ Based on Will's answers + the context files, identify:
 3. Regenerate `dashboard.md`: Daily Consistents section + Major Moves This Week section pulling top of newly-regenerated backlog.md (rows where status != done AND eligibility filter passes today).
 
 4. Regenerate `backlog.md`:
-   - Read current backlog.md (preserve existing open/in-progress/blocked entries — do NOT regenerate from scratch)
+   - Read current backlog.md (preserve existing open/in-progress/blocked/parked entries — do NOT regenerate from scratch)
    - Move all rows with status=='done' to archives/backlog-done.md, append a 'Completed' column with current ISO date
-   - Process the '## Inbox (unranked)' section: convert each captured item into a ranked row in the main table (assign next available rank, set status=open, set gate based on context)
-   - Re-rank the table: row order = priority. Items with hard deadlines get priority bumps if deadlines tightened.
+   - Process the '## Inbox (unranked)' section: convert each captured item into a ranked row in the main table. For each new row, set: next available rank, status=open, gate based on context, **and tag the Quest column** (`work-main` / `life-main` / `side` / `not-quest`) per the current Main Quests in state.md. New items default to `side` unless they clearly serve a Main Quest.
+   - Re-rank the table: row order = priority. Items with hard deadlines get priority bumps if deadlines tightened. Within the same rank tier, `work-main` and `life-main` items beat `side` and `not-quest`.
    - Update the 'Last sorted: YYYY-MM-DD' header timestamp
    - Clear the Inbox section back to the empty stub comment
-   - Skill should NEVER auto-drop entries — only Will retires items, by editing backlog.md by hand or marking status:done. The reflection PROPOSES candidates for retirement (entries with no movement in 4+ weeks) but doesn't apply.
+   - Skill should NEVER auto-drop entries — only Will retires items, by editing backlog.md by hand or marking status:done / status:parked. The reflection PROPOSES candidates for retirement or parking (entries with no movement in 4+ weeks) but doesn't apply automatically.
 
 5. Clear `journals/inbox.md` — replace content with empty stub:
    ```

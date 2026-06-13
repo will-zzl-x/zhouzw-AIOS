@@ -1,0 +1,88 @@
+# Cycle Sat 2026-06-13 -> Fri 2026-06-19 (SHORTENED by SoCal trip)
+# Built with Claude 2026-06-13. SoCal HB/LB trip: depart Fri 6/19 AM, return Sun 6/21 7pm.
+# Home cook window = Sat 6/13 - Thu 6/18 dinners + Fri 6/19 M1 breakfast only.
+# Sat 6/20 + Sun 6/21 = AWAY (Brodard Fri, Thai District Sat; minifridge/road snacks separate).
+date: "2026-06-13"
+grocery_day: "2026-06-13"   # Costco Sat AM + Walmart; snacks bought Fri 6/19 before drive
+
+# Dining-out / covered meals (subtract from need).
+# Trip restaurants are OUTSIDE the home window so they're not exceptions here —
+# the window simply ends Thu 6/18 dinner. Fri 6/19 keeps M1 only (no M2/M3/M4).
+exceptions:
+  # --- Trip: Fri 6/19 travel day (only Will M1 breakfast survives) ---
+  - { date: "2026-06-19", member: Both, slot: M4, reason: "on the road to SoCal / Brodard dinner (travel)" }
+  - { date: "2026-06-19", member: Will, slot: M2, reason: "travel day — no work lunch" }
+  - { date: "2026-06-19", member: Will, slot: M3, reason: "travel day — no work meal" }
+  - { date: "2026-06-19", member: Elena, slot: M2, reason: "travel day — no work lunch" }
+  # --- Weekend: M2/M3 are WORK lunches (Mon-Thu only). Sat/Sun no work lunch —
+  #     covered by M4 leftovers, so subtract them from M2/M3 need (not real gaps). ---
+  - { date: "2026-06-13", member: Will, slot: M2, reason: "Sat — no work lunch (M4 leftover overflow)" }
+  - { date: "2026-06-13", member: Will, slot: M3, reason: "Sat — no work meal" }
+  - { date: "2026-06-13", member: Elena, slot: M2, reason: "Sat — no work lunch" }
+  - { date: "2026-06-14", member: Will, slot: M2, reason: "Sun — no work lunch (M4 leftover overflow)" }
+  - { date: "2026-06-14", member: Will, slot: M3, reason: "Sun — no work meal" }
+  - { date: "2026-06-14", member: Elena, slot: M2, reason: "Sun — no work lunch" }
+
+# Leftover ready servings from prior cycle.
+carryover:
+  - { recipe_id: "19", servings: 1, note: "Korean BBQ Chicken Thighs leftover -> Will M3 BONUS (extra, not counted in coverage)" }
+  - { recipe_id: "18", servings: 2, note: "Three-Cheese Alfredo leftover -> Both M4, 1 dinner night (soup NOT made this cycle)" }
+
+# Selected recipes for the week.
+selections:
+  # NEW #34 — Roasted Pork Loin + Veg (Will M1 batch; first batch-cooked M1)
+  - recipe_id: "34"
+    planned_servings: 7
+    slot_assignments:
+      - { member: Will, slot: M1, servings: 7 }   # one per home morning Sat 6/13 - Fri 6/19 (incl. grab-before-drive)
+
+  # #5 Crispy Chicken Sandwiches — M4 ONLY (does not microwave-reheat), assemble fresh
+  - recipe_id: "5"
+    planned_servings: 8
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 8 }   # 4 shared dinner nights
+
+  # NEW #33 — Homemade Crunchwrap Supreme (beef); assemble fresh, beef batch reheats
+  - recipe_id: "33"
+    planned_servings: 6
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 4 }   # 2 shared dinner nights
+      - { member: Will, slot: M3, servings: 2 }   # 2 Will-solo M3 (extra seasoned beef)
+
+  # #25 Costco Chipotle Chicken Thigh Bowls — reheatable lunches
+  - recipe_id: "25"
+    planned_servings: 6
+    slot_assignments:
+      - { member: Will, slot: M2, servings: 2 }   # weekday work lunches
+      - { member: Will, slot: M3, servings: 2 }   # weekday solo work meals
+      - { member: Elena, slot: M2, servings: 2 }  # weekday work lunches
+
+  # NEW #35 — Chinese Poached Chicken + ginger-scallion sauce + cucumber salad (4 srv)
+  - recipe_id: "35"
+    planned_servings: 4
+    slot_assignments:
+      - { member: Will, slot: M2, servings: 2 }   # reheatable / eat-cold weekday lunch
+      - { member: Elena, slot: M2, servings: 2 }  # weekday lunch
+
+# Inventory snapshot at cycle start (items on hand that reduce the grocery list).
+inventory_snapshot:
+  - { name: "Boneless pork loin", amount: "1.75", unit: "lb", note: "#34 — have it" }
+  - { name: "Brioche buns", amount: "6", unit: "buns", note: "#5 — have 6 (recipe wants 8; 6 covers 6 sandwiches, see note)" }
+  - { name: "Corn flakes", amount: "2", unit: "cup", note: "#5 breading — using panko, have it" }
+  - { name: "White rice", amount: "3", unit: "cup", note: "#25 + #35 — have it" }
+  - { name: "Salsa or pico de gallo", amount: "1", unit: "cup", note: "#25 — have it" }
+  - { name: "Olive oil", amount: "8", unit: "oz", note: "#34/#25 roasting + sauté — have it" }
+  - { name: "Avocado oil", amount: "4", unit: "oz", note: "#25 — have oil" }
+  - { name: "Grapeseed oil", amount: "4", unit: "oz", note: "#35 sauce — have oil" }
+  - { name: "Pickle juice", amount: "2", unit: "tsp", note: "#5 sauce — have it" }
+  - { name: "Toasted sesame oil", amount: "4", unit: "oz", note: "#35 — have it" }
+  - { name: "Light soy sauce", amount: "8", unit: "oz", note: "#35 sauce + salad — have it" }
+  - { name: "Rice vinegar", amount: "8", unit: "oz", note: "#35 salad — have it" }
+  - { name: "Sesame seeds", amount: "2", unit: "Tbsp", note: "#35 salad — have it" }
+  - { name: "Fat free Greek yogurt", amount: "2", unit: "cup", note: "#35 sauce + #25 topping (sour-cream sub) — have it" }
+  - { name: "Light sour cream", amount: "0.5", unit: "cup", note: "#33 — using Greek yogurt instead, have it" }
+  - { name: "Broccoli florets", amount: "1", unit: "lb", note: "#34 — have it" }
+  - { name: "Egg whites", amount: "0.5", unit: "cup", note: "#5 breading — have egg/egg white" }
+  - { name: "Bell peppers (any color), sliced", amount: "1", unit: "peppers", note: "#34 — have 1 of 2; buy 1 more OR skip 2nd" }
+  - { name: "Fresh ginger, finely grated (sauce)", amount: "2", unit: "Tbsp", note: "#35 — using ginger POWDER (note: fresh recommended for sauce)" }
+  - { name: "Fresh ginger, sliced (for poaching)", amount: "3", unit: "inches sliced", note: "#35 poach — ginger powder sub OK here" }

@@ -1,15 +1,21 @@
 """Parser + writer for the markdown-table backlog at backlog.md.
 
-The backlog is a single ranked markdown table. Format:
+The backlog is a single ranked markdown table. Format (Quest column added
+2026-06-04 to support Abdaal-aligned quest tagging):
 
-    | id | # | Title | Area | Status | Gate | Depends-on | Notes |
-    |---|---|---|---|---|---|---|---|
-    | promo-doc-final | 1 | ... | Career | in-progress | deadline:2026-06-30 | — | ... |
+    | id | # | Title | Area | Quest | Status | Gate | Depends-on | Notes |
+    |---|---|---|---|---|---|---|---|---|
+    | promo-doc-final | 1 | ... | Career | side | in-progress | deadline:2026-06-30 | — | ... |
 
-Status values: open / in-progress / blocked / done
-Gate formats: deadline:YYYY-MM-DD, event:<name>, window:MM-DD..MM-DD,
-              window:weekend, window:Q2, drift, your-call, open
-Depends-on:   comma-separated id list (no spaces), or "—" (em dash) for none
+Quest values:  work-main / life-main / side / not-quest
+  - work-main:  Work Main Quest move (acquisition deal-ready by Aug 31)
+  - life-main:  Life Main Quest move (point of origin)
+  - side:       Side Quest — operational / deadline-driven / bandwidth-permitting
+  - not-quest:  AIOS infrastructure / operational delegation / not quest-aligned
+Status values: open / in-progress / blocked / parked / done
+Gate formats:  deadline:YYYY-MM-DD, event:<name>, window:MM-DD..MM-DD,
+               window:weekend, window:Q2, drift, your-call, open
+Depends-on:    comma-separated id list (no spaces), or "—" (em dash) for none
 
 The "## Inbox (unranked)" section at the bottom is skipped by the parser —
 mid-week captures live there until Sunday's reflection sorts them in.
@@ -26,6 +32,8 @@ from typing import Iterable
 EM_DASH = "—"
 
 # Status values that count as "live" (eligible to surface).
+# `parked` and `blocked` and `done` all filter out — only open/in-progress
+# items can be promoted as Major Moves in the morning brief.
 _LIVE_STATUSES = {"open", "in-progress"}
 
 # Gates that always pass the time-window check.
@@ -39,9 +47,10 @@ _ALWAYS_OPEN_GATES = {"open", "your-call", "drift"}
 def _split_row(line: str) -> list[str] | None:
     """Split a markdown table row into stripped cells.
 
-    Returns None if the line isn't a valid 8-cell data row. We require exactly
-    8 cells so header and separator rows (which have different shapes after
-    stripping) are filtered out by the caller.
+    Returns None if the line isn't a valid 9-cell data row. We require exactly
+    9 cells so header and separator rows (which have different shapes after
+    stripping) are filtered out by the caller. (9 cells after Quest column
+    added 2026-06-04 — was 8.)
     """
     stripped = line.strip()
     if not stripped.startswith("|") or not stripped.endswith("|"):
@@ -50,7 +59,7 @@ def _split_row(line: str) -> list[str] | None:
     # pipe-delimited.
     inner = stripped[1:-1]
     cells = [c.strip() for c in inner.split("|")]
-    if len(cells) != 8:
+    if len(cells) != 9:
         return None
     return cells
 
@@ -109,7 +118,7 @@ def parse_backlog(text: str) -> list[dict]:
         if _is_separator_row(cells):
             continue
 
-        move_id, rank_raw, title, area, status, gate, depends_on, notes = cells
+        move_id, rank_raw, title, area, quest, status, gate, depends_on, notes = cells
         if not move_id:
             continue
         try:
@@ -123,6 +132,7 @@ def parse_backlog(text: str) -> list[dict]:
             "rank": rank,
             "title": title,
             "area": area,
+            "quest": quest.lower() if quest else "side",
             "status": status.lower(),
             "gate": gate,
             "depends_on": _parse_depends_on(depends_on),
@@ -220,22 +230,23 @@ _ROW_RE = re.compile(r"^(\s*\|)([^\n]*)(\|\s*)$")
 
 
 def _replace_status_in_row(row: str, new_status: str) -> str:
-    """Replace the Status column (cell index 4) of a single table row,
-    preserving the original cell padding/width as much as possible."""
+    """Replace the Status column (cell index 5 after Quest column was added
+    2026-06-04 — previously index 4) of a single table row, preserving the
+    original cell padding/width as much as possible."""
     m = _ROW_RE.match(row)
     if not m:
         return row
     leading, body, trailing = m.group(1), m.group(2), m.group(3)
-    # body looks like "  cell1 | cell2 | ... | cell8  "
+    # body looks like "  cell1 | cell2 | ... | cell9  "
     # Split on the unescaped pipe; tables don't use escaped pipes here.
     parts = body.split("|")
-    if len(parts) != 8:
+    if len(parts) != 9:
         return row
-    original = parts[4]
+    original = parts[5]
     # Preserve leading/trailing whitespace inside the cell.
     lead_ws = re.match(r"^\s*", original).group(0)
     trail_ws = re.search(r"\s*$", original).group(0)
-    parts[4] = f"{lead_ws}{new_status}{trail_ws}"
+    parts[5] = f"{lead_ws}{new_status}{trail_ws}"
     return f"{leading}{'|'.join(parts)}{trailing}"
 
 
