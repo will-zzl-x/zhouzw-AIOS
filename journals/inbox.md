@@ -30,24 +30,33 @@ Large friend-group trip (originally Summer2026Trip group chat, ~14 people). Coun
 - Lodging cost basis: 2-house ≈ $122–129/person/night (P1 $1,500/night ÷12, P2 $1,100/night ÷9-10) vs single-house ≈ $146/person/night — 2-house wins given current headcount gap.
 
 **Roster / phase assignments:**
+
+*Confirmed:*
 | Person | Phase | Origin | Notes |
 |---|---|---|---|
-| Will Zhou + Elena | P1 only (7/2–7/7) | PHX | flying PHX→YYC |
-| Daniel Zheng | P1 only | SF | |
-| Miguel Magno + Saya Takai | P1 only | DTW | couple, needs private queen |
-| Jeffrey Lin | Full trip (7/2–7/12) | Chicago | |
-| Charlie Peng | Full trip (through 7/12) | unsure | |
-| Justin Peng | Leaning full trip, unconfirmed | Seattle | |
-| James Li | Coming, phase unconfirmed | Orlando | |
-| Sahil Dogra + plus-one | Assumed full trip, phase unconfirmed | NYC | needs private queen |
-| Dhanush Bathala | Joins 7/4 AM (PTO locked) through 7/12 — partial P1 + full P2 | DTW | |
+| Will (solo — Elena OUT) | P1 only (7/2–7/7) | PHX | Elena priced out / opted out 6/12 |
+| Daniel Zheng | P1 only | SF | his stated preference |
+| Dhanush Bathala | 7/4 AM–7/12 (partial P1 + full P2) | DTW | PTO locked |
 | Daniel Kong + Annie Chen | P2 only | Chicago area | sharing a bed |
 | Spencer Liu | OUT | | |
 | Helena Li | OUT | | |
 
-**Headcount by phase:** P1 = 11→12 (with Dhanush joining night 3); P2 = 9 (assuming Justin + James go long)
+*TBD (Sunday 6/14 call must lock):*
+| Person | Status | Origin |
+|---|---|---|
+| Miguel Magno + Saya Takai | phase unconfirmed | DTW |
+| Jeffrey Lin | leaning full trip, not committed | Chicago |
+| Charlie Peng | leaning full trip (through 7/11 or 7/12) | unsure |
+| Justin Peng | leaning full, unconfirmed | Seattle |
+| James Li | coming, phase unconfirmed | Orlando |
+| Sahil Dogra + plus-one | assumed full, unconfirmed | NYC |
 
-**Budget table (rough estimates, per person, includes flights + lodging + activities):**
+**Headcount ranges (pre-Sunday call):**
+- P1: 5 confirmed + 0–9 TBDers = 5–14, realistic 8–12
+- P2: 3 confirmed + 0–7 TBDers = 3–10, realistic 6–9
+- Plus Dhanush joining P1 night 3
+
+**Budget table (rough estimates, per person; reflects revised Elena cook+cut path):**
 | Category | Est. total |
 |---|---|
 | P1-only, Seattle origin | ~$1,605 |
@@ -63,7 +72,8 @@ Large friend-group trip (originally Summer2026Trip group chat, ~14 people). Coun
 | Full-trip, Orlando origin (James) | ~$2,850 |
 | Full-trip, unknown/other (Charlie) | ~$2,800 |
 | Dhanush (partial P1 + full P2, DTW origin) | ~$2,335 |
-| **Will + Elena combined** | **~$3,510** |
+| **Will (solo, P1 only, PHX, cook+cut path)** | **~$1,335** |
+| **Will (solo, P1 only, PHX, baseline w/ activities)** | **~$1,755** |
 
 Flight basis (PHX confirmed $500–600, anchor = $550; holiday premium — Canada Day + July 4th both fall in this window, all rough): Seattle ~$400; Chicago ~$475; SF ~$425; DTW ~$475; NYC ~$500; Orlando ~$600 (likely needs a connection); unknown-origin default $550.
 
@@ -78,14 +88,15 @@ Flight basis (PHX confirmed $500–600, anchor = $550; holiday premium — Canad
 - Still need explicit phase commits from: Justin, James, Sahil+1
 
 **Open action items:**
-1. Post current headcount in group chat
-2. Saturday AM: search Canmore Airbnbs (P1 sleeps-12/7-beds incl. 3 private queens; P2 sleeps-9/10 w/ 2 private bedrooms), post to shared doc
-3. Book PHX→YYC flights for Will+Elena this weekend
-4. Brief Elena on ~$3,510 total cost
-5. URGENT: book Moraine Lake shuttle reservation now (window already open)
-6. Group passport check (valid through 7/13/26)
-7. YYC ground transport — 2-3 rental SUVs/minivans + Parks Canada pass
-8. Group dinner reservations
-9. Day-by-day itinerary skeleton (drafted, ready as Sunday-call strawman)
+1. Post headcount ranges + phase-commit ask in group chat (driving Sunday call)
+2. Saturday AM: scout Canmore Airbnbs across bracket ranges — P1: sleeps-8/10/12; P2: sleeps-6/8/10 — drop 2-3 per bracket into shared doc with per-person-night math at each headcount
+3. Book PHX→YYC flight for Will (solo) this weekend — target ~$450 with fare alerts
+4. URGENT: book Moraine Lake shuttle reservation now (window already open since 4/15/26)
+5. Group passport check (valid through 7/13/26)
+6. YYC ground transport — 2-3 rental SUVs/minivans + Parks Canada pass
+7. Group dinner reservations
+8. Day-by-day itinerary skeleton (drafted, ready as Sunday-call strawman)
+
+**Status of Elena's attendance:** OUT as of 6/12. Priced out at $1,755 baseline; even the cook+cut path at $1,335 didn't clear. Will going solo.
 
 ---
