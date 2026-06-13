@@ -50,11 +50,11 @@ Large friend-group trip (originally Summer2026Trip group chat, ~14 people). Coun
 | Charlie Peng | leaning full trip (through 7/11 or 7/12) | unsure |
 | Justin Peng | leaning full, unconfirmed | Seattle |
 | James Li | coming, phase unconfirmed | Orlando |
-| Sahil Dogra + plus-one | assumed full, unconfirmed | NYC |
+| Sahil Dogra | leaning full, unconfirmed | NYC |
 
 **Headcount ranges (pre-Sunday call):**
-- P1: 5 confirmed + 0–9 TBDers = 5–14, realistic 8–12
-- P2: 3 confirmed + 0–7 TBDers = 3–10, realistic 6–9
+- P1: 2 confirmed (Will, Daniel Z) + 0–7 TBDers + Dhanush nights 3-5 = 3–10, realistic 6–10
+- P2: 3 confirmed (DK+Annie, Dhanush) + 0–7 TBDers = 3–10, realistic 6–9
 - Plus Dhanush joining P1 night 3
 
 **Budget table (rough estimates, per person; reflects revised Elena cook+cut path):**
