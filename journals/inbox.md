@@ -87,6 +87,29 @@ Flight basis (PHX confirmed $500–600, anchor = $550; holiday premium — Canad
 - Shared Airbnb planning doc (currently empty): https://docs.google.com/document/d/1PXv4PO0L7kaDOXgqO1MXQAk_S2nR2Fo-CboBFmXmfVQ/edit
 - Still need explicit phase commits from: Justin, James, Sahil+1
 
+**Lead Airbnb candidate (under review):**
+"EPIC Hot Pools w/MTN Views-Perfect for Families" — entire townhouse in Banff, 5 min drive to downtown Banff (in-park location, ~25 min from Canmore)
+- Sleeps 8 recommended / up to 10 with pull-out couch (hard cap 10)
+- 3 BR / 5 beds / 2 baths: Room 1 Queen, Room 2 Queen (both ground floor private), Loft 2 Queens (shared room), Common-space Queen pull-out couch
+- 4.7 stars, 105 reviews, Superhost (Chris, 4 years)
+- **$14,050 base for 10 nights Jul 2-12** + $25/person/night for each adult over 4 (paid at front desk if group >8)
+- Full kitchen + parking + laundry + BBQ + hot tub + heated pool + sauna + Roam bus passes
+- Listing URL: airbnb.com/rooms/660655534983361756
+
+**Cost math at realistic scenarios:**
+| Scenario | Total | Per person | Per person/night |
+|---|---|---|---|
+| Full trip, ~10 nights peak 10 / avg ~8.5 | ~$15,500 | varies | ~$164 |
+| P1 only, 5 nights, 10 people | ~$7,775 | ~$778 | ~$155 |
+| P2 only, 5 nights, 9 people | ~$7,650 | ~$850 | ~$170 |
+
+**Cap-bust check (post Sahil-solo correction):** P1 max = 2 confirmed + 7 TBD + Dhanush nights 3-5 = **10 at cap, not over**. Listing is viable for single-Airbnb full-trip plan.
+
+**Budget tier shift if this listing wins** (vs Canmore baseline of $125-145/person/night):
+- P1 only baseline: $1,750-1,900 (vs $1,600 doc baseline)
+- P2 only baseline: $1,900-2,050 (vs $1,750)
+- Full trip baseline: $3,100-3,300 (vs $2,800)
+
 **Open action items:**
 1. Post headcount ranges + phase-commit ask in group chat (driving Sunday call)
 2. Saturday AM: scout Canmore Airbnbs across bracket ranges — P1: sleeps-8/10/12; P2: sleeps-6/8/10 — drop 2-3 per bracket into shared doc with per-person-night math at each headcount
@@ -98,5 +121,7 @@ Flight basis (PHX confirmed $500–600, anchor = $550; holiday premium — Canad
 8. Day-by-day itinerary skeleton (drafted, ready as Sunday-call strawman)
 
 **Status of Elena's attendance:** OUT as of 6/12. Priced out at $1,755 baseline; even the cook+cut path at $1,335 didn't clear. Will going solo.
+
+**Trip-shape decision LOCKED (6/12):** Banff icons trip (Moraine Lake, Lake Louise, Banff Gondola, Lake Agnes, Johnston Canyon). Base in Banff/Canmore corridor — Invermere ruled out (~2h each way to Banff = 4h/day driving overhead, kills daily icon access).
 
 ---
