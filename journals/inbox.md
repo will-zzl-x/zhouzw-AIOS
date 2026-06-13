@@ -72,8 +72,7 @@ Large friend-group trip (originally Summer2026Trip group chat, ~14 people). Coun
 | Full-trip, Orlando origin (James) | ~$2,850 |
 | Full-trip, unknown/other (Charlie) | ~$2,800 |
 | Dhanush (partial P1 + full P2, DTW origin) | ~$2,335 |
-| **Will (solo, P1 only, PHX, cook+cut path)** | **~$1,335** |
-| **Will (solo, P1 only, PHX, baseline w/ activities)** | **~$1,755** |
+| **Will (solo, P1 only, PHX, cook+cut — LOCKED)** | **~$1,335** |
 
 Flight basis (PHX confirmed $500–600, anchor = $550; holiday premium — Canada Day + July 4th both fall in this window, all rough): Seattle ~$400; Chicago ~$475; SF ~$425; DTW ~$475; NYC ~$500; Orlando ~$600 (likely needs a connection); unknown-origin default $550.
 
