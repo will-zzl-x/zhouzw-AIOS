@@ -130,3 +130,12 @@ Format: ✓ = done, □ = planned/pending
 □ Zone 2: 20 min post-lift fasted incline or walk
 □ Phone off nightstand — charge in kitchen tonight
 □ Run Apify scrape, save export, enrich leads
+
+**2026-06-13 (Sat)** — NYC Cut Wk 4 starting
+□ Complete Ravage training session today
+□ Hit 150g protein and 1,820 cal in Cronometer
+□ Walk 12,500 steps today
+□ Phone off nightstand — charge in kitchen tonight
+□ Desire-polarity rep: one DO-list move today
+□ Run Apify scrape, enrich leads, save to sourcing/leads/
+□ Mindset — Take small space without explaining it. Find one small window today to do your own thing — a walk, a podcast, an errand alone. No "I'm going to do X" preamble; just do it and come back.
