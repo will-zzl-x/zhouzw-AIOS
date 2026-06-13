@@ -26,7 +26,7 @@ INVENTORY_PATH = DATA / "inventory.json"
 TIER_LIST_PATH = DATA / "tier_list.yaml"
 SEASONAL_PATH = DATA / "seasonal.yaml"
 
-VALID_SLOTS = {2, 3, 4}
+VALID_SLOTS = {1, 2, 3, 4}  # M1 added 2026-06-13: batch-cooked M1 (e.g. pork loin + veg) now allowed, not just freeform eggs/bar
 VALID_STORES = {"Costco", "Walmart", "Asian Mart"}
 STORE_FLEX = {"", "varies"}  # allowed for water / flex sides
 

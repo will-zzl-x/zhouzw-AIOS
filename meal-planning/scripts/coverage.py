@@ -24,13 +24,20 @@ CYCLE_DAYS = 7  # Sat -> Sat
 
 def build_need(config):
     """needed[(member, slot)] = servings for the cycle (1/day * 7), per member's
-    configured slots. M1 (protein bar / light) is not a cooked-prep slot — skip it."""
+    configured slots. M1 is counted ONLY when it's a real cooked meal (e.g. Will's
+    'lean protein + veg'); a freeform 'protein bar'/'shake' M1 is grab-and-go and
+    not part of cook-prep coverage (added 2026-06-13 when batch-cooked M1 became a
+    valid recipe slot). Work-only slots (M2/M3) that don't apply on weekend/travel
+    days are reconciled via cycle exceptions, not here."""
     need = defaultdict(int)
     for m in config.get("members", []):
         mid = m["id"]
-        for slot in m.get("slots", {}):
+        slots = m.get("slots", {})
+        for slot in slots:
             if slot == "M1":
-                continue  # protein bar / light — not part of cook-prep coverage
+                val = str(slots.get("M1", "")).lower()
+                if "bar" in val or "shake" in val:
+                    continue  # freeform grab-and-go — not cooked-prep coverage
             need[(mid, slot)] = CYCLE_DAYS
     return need
 

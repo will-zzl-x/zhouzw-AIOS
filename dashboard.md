@@ -26,6 +26,7 @@ Cut-phase fitness gates (training / protein 150g+ / cals ~1,820 / steps) → see
 Top of `backlog.md`. Brief picks 1-2 strategic per day from this rotation pool. Full ranked list (depends-on, gates, blocked items) in `backlog.md`.
 
 1. **Promo doc — final review → manager-align** (Jun 30 hard sprint; TOP priority, incl. weekends)
+1b. **DOE Redirect Automation — STALE 16d, ★STRONG promo deliverable** — self-set EOM commit to Felix (ack'd 6/3); make the eligibility-vs-4-gate decision at the Matt 1:1, then ship. (Work-laptop execution; surfaced here as the promo-doc evidence lever.)
 2. **Hotel block — SIGN ELEMENT TODAY (6/7 deadline)** + re-RFP The Remi / Hotel Valley Ho via Engine (ask 15 rms, no backup tier) + fix Uber credit budget
 3. **Apify Google Maps scrape + Claude enrichment** (work-main #1, now UNBLOCKED — toolkit shipped in `sourcing/`; bookkeeping/accounting, 20mi Phoenix metro)
 4. **Main Street Accelerator modules — sourcing/gap modules first** (Will + Elena co-working; close the Walking Billboard / 4A Club / volume gaps)
