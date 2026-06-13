@@ -110,6 +110,19 @@ Flight basis (PHX confirmed $500–600, anchor = $550; holiday premium — Canad
 - P2 only baseline: $1,900-2,050 (vs $1,750)
 - Full trip baseline: $3,100-3,300 (vs $2,800)
 
+**Canmore value alternative (Option B):**
+"2BR MTN Chalet w/ POOL & Hot Tub: Prime Loc-BBQ-AC" — entire townhouse in Canmore, 5-min walk downtown, 20 min to Banff townsite, 1-min walk to Roam bus stop
+- Sleeps 8 hard cap | 2 BR / 5 beds / 2 baths
+- Master King (private, ensuite) + 2nd BR with 2 Doubles (shared, 4 people) + Sofa bed in living room
+- 4.92 stars, 130 reviews, Guest Favorite, Superhost (Franco, 6 yrs)
+- $709/night base flagged "lower than usual" — realistic peak July ~$900-1,000/night → ~$131/person/night at sleeps-8 max
+- Includes Banff Pass + pool + hot tub + parking + full kitchen + A/C
+- **Cheapest sleeps-8 Will found.** Works ONLY if 2+ TBDers skip P1 (sleeps-8 cap).
+
+**Decision rule between A vs B at Sunday call:**
+- If P1 lands 9-10 → must pick Option A (Banff in-park, sleeps-10)
+- If P1 lands ≤8 → either works; B saves ~$200-300/person vs A; A wins on icon proximity
+
 **Open action items:**
 1. Post headcount ranges + phase-commit ask in group chat (driving Sunday call)
 2. Saturday AM: scout Canmore Airbnbs across bracket ranges — P1: sleeps-8/10/12; P2: sleeps-6/8/10 — drop 2-3 per bracket into shared doc with per-person-night math at each headcount
