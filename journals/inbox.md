@@ -24,11 +24,12 @@ Father's Day weekend, drive trip with Elena + Koda.
 Large friend-group trip (originally Summer2026Trip group chat, ~14 people). Council decided on Banff/Canmore over cruise. Will + Elena attending Phase 1 only.
 
 **Locked decisions:**
-- Destination: Banff/Canmore, Alberta
+- Destination: Banff/Canmore, Alberta. Trip shape: Banff icons (Moraine Lake, Lake Louise, Banff Gondola, Lake Agnes, Johnston Canyon).
 - Dates: July 2–12, 2026. Transition day: July 7 (Phase 1 group departs morning, Phase 2 group's stay continues/overlaps)
-- Lodging structure: **2-house preferred** — sequential, not simultaneous. Phase 1 property for 7/2–7/7; Phase 2 property for 7/7–7/12. Fallback rule: if Phase 2 headcount drops to ≤5, switch to single house for whole trip; if ≥6, keep 2-house. No hot tub needed.
-- Bed requirements: private queens only for couples actually present in each phase (P1 couples TBD; P2 has DK+Annie sharing). Solo guys all bunk/share — Will and most of the boys fine with this.
-- Lodging cost basis: 2-house ≈ $122–129/person/night (P1 ~$1,500/night ÷12, P2 ~$1,100/night ÷9-10) vs single-house ≈ $146/person/night — 2-house wins given current headcount gap.
+- **Lodging structure: single Airbnb for all 10 nights is the working assumption** (was originally 2-house sequential — pivoted as single-Airbnb candidates emerged). Fallback to 2 sequential only if P1/P2 headcounts split very hard. Hotels considered and ruled out (kills cook+cut path, higher per-person, loses group hangout space).
+- **Transport LOCKED: 2 rental vehicles (SUVs/minivans, 7-seat) from YYC.** Cost basis ~$120/day per vehicle all-in (rental + insurance + gas). Capacity comfortable for 8, tight for 10.
+- Bed requirements: private queens only for couples actually present in each phase. Solo guys all bunk/share.
+- Base ruled out: Invermere (~2h each way to Banff = 4h/day driving), Golden/Kicking Horse (~2h to Banff townsite, ~1h to Lake Louise — workable for Lake Louise-heavy days but penalizes Banff townsite days).
 
 **Roster / phase assignments:**
 
@@ -58,26 +59,34 @@ Large friend-group trip (originally Summer2026Trip group chat, ~14 people). Coun
 - P2: 3 confirmed (DK+Annie, Dhanush) + 0–7 TBDers = 3–10, realistic 6–9
 - Plus Dhanush joining P1 night 3
 
-**Budget table (rough estimates, per person; reflects revised Elena cook+cut path):**
-| Category | Est. total |
-|---|---|
-| P1-only, Seattle origin | ~$1,605 |
-| P1-only, Chicago origin | ~$1,680 |
-| P1-only, SF origin (Daniel Z) | ~$1,630 |
-| P1-only, DTW origin (Miguel+Saya) | ~$1,680 |
-| P1-only, PHX origin (Will+Elena) | ~$1,755 |
-| P2-only, Chicago-area origin (DK+Annie) | ~$1,630 |
-| P2-only, other/default | ~$1,705 |
-| Full-trip, Seattle (Justin) | ~$2,650 |
-| Full-trip, Chicago (Jeffrey) | ~$2,725 |
-| Full-trip, NYC origin (Sahil+1) | ~$2,750 |
-| Full-trip, Orlando origin (James) | ~$2,850 |
-| Full-trip, unknown/other (Charlie) | ~$2,800 |
-| Dhanush (partial P1 + full P2, DTW origin) | ~$2,335 |
-| **Will solo, P1 only, PHX, cook+cut** | **~$1,335** (Option B) / ~$1,455 (Option A) |
-| **Will + Elena combined, P1 only, PHX, cook+cut** | **~$2,670** (Option B) / ~$2,910 (Option A) |
+**Budget table — FLATTENED (current group-message version, includes rental car share):**
+All-in per person = flights + lodging + food + activities + rental car share
 
-Flight basis (PHX confirmed $500–600, anchor = $550; holiday premium — Canada Day + July 4th both fall in this window, all rough): Seattle ~$400; Chicago ~$475; SF ~$425; DTW ~$475; NYC ~$500; Orlando ~$600 (likely needs a connection); unknown-origin default $550.
+| Phase | Cook + cut | Baseline | Splurge |
+|---|---|---|---|
+| Half trip — 5 nights (P1 or P2) | ~$1,500 | ~$1,850 | ~$2,200 |
+| Full trip — 10 nights | ~$2,850 | ~$3,150 | ~$3,400 |
+
+Add ~$150–300/person if Option A (Banff in-park) vs Option B (Canmore).
+
+**Will / Will+Elena specifically (cook+cut path, PHX origin, P1 only):**
+| Scenario | Total |
+|---|---|
+| Will solo, Option B (Canmore) | ~$1,500 |
+| Will solo, Option A (Banff in-park) | ~$1,620 |
+| Will + Elena combined, Option B | ~$3,000 |
+| Will + Elena combined, Option A | ~$3,240 |
+
+(Earlier $1,335 / $2,670 figures were pre-rental-car; bumped ~$165/person for half trip.)
+
+**Per-origin flight estimates (peak holiday week — Canada Day + July 4):**
+
+Seattle ~$400 | SF ~$425 | Chicago ~$475 | DTW ~$475 | NYC ~$500 | PHX ~$550 (confirmed live $500–600 this week) | Orlando ~$600 (likely a connection). Unknown-origin default $550.
+
+**Rental car math (LOCKED at 2 vehicles):**
+- 2 SUVs/minivans × ~$120/day all-in (rental + insurance + gas)
+- 5-day total: ~$1,600–1,700 → ~$170–215/person at 8–10 occupants
+- 10-day total: ~$3,200–3,400 → ~$320–425/person at 8–10 occupants
 
 **Activities — paid vs. free (sourced 2026 prices):**
 - Worth paying: Banff Gondola ($55–96 CAD dynamic, ~$55–70 USD); Banff Upper Hot Springs ($19.75 CAD ~$14.50 USD); Moraine Lake/Lake Louise Parks Canada shuttle reservation ($3.50 CAD — **already open since April 15, 2026, book ASAP**); Parks Canada park entry (~$11 CAD/person/day, or $151.25 CAD/adult Discovery Pass if 6+ park days)
@@ -125,15 +134,21 @@ Flight basis (PHX confirmed $500–600, anchor = $550; holiday premium — Canad
 - If P1 lands 9-10 → must pick Option A (Banff in-park, sleeps-10)
 - If P1 lands ≤8 → either works; B saves ~$200-300/person vs A; A wins on icon proximity
 
+**Deliverables READY to send:**
+1. Group chat kickoff message — drafted, ready to paste into Messenger. Drives Saturday-night phase commits from Miguel+Saya, Jeffrey, Charlie, Justin, James, Sahil. Includes flattened budget ranges (half/full trip) + GDoc link placeholder.
+2. Doc artifact — full restructured trip doc drafted (overview, headcount, budget w/ rental cars, how-numbers-built, both Airbnb options, transportation, Sunday call agenda, open logistics). Ready to paste into empty GDoc.
+3. Text to Elena — cost breakdown drafted (Option B $3,000 combined, Option A $3,240 combined including rental car share).
+
 **Open action items:**
-1. Post headcount ranges + phase-commit ask in group chat (driving Sunday call)
-2. Saturday AM: scout Canmore Airbnbs across bracket ranges — P1: sleeps-8/10/12; P2: sleeps-6/8/10 — drop 2-3 per bracket into shared doc with per-person-night math at each headcount
-3. Book PHX→YYC flight for Will (solo) this weekend — target ~$450 with fare alerts
+1. Send kickoff message + drop GDoc link
+2. Talk to Elena tonight (have the cost breakdown text ready)
+3. Book PHX→YYC flight this weekend — target ~$450 with fare alerts
 4. URGENT: book Moraine Lake shuttle reservation now (window already open since 4/15/26)
-5. Group passport check (valid through 7/13/26)
-6. YYC ground transport — 2-3 rental SUVs/minivans + Parks Canada pass
-7. Group dinner reservations
-8. Day-by-day itinerary skeleton (drafted, ready as Sunday-call strawman)
+5. Track phase commits Saturday → Sunday 7:30pm PST call locks
+6. Post-call: book Airbnb (Option A or B based on headcount), assign booking lead + payment method, lock rental car reservations
+7. Group passport check (valid through 7/13/26)
+8. Group dinner reservations
+9. Day-by-day itinerary skeleton (drafted, ready as Sunday-call strawman)
 
 **Status of Elena's attendance:** TBD as of 6/12 → reconsidering 6/12 PM. Bailed at $3,510 baseline (Will+Elena). Cook+cut path lands at $2,670 combined (Option B Canmore) or $2,910 (Option A in-park) — $600-900 cheaper than what made her bail. Decision pending Elena's review of full breakdown. If she joins, needs 1 private queen room (impacts Option B sleeping config — only 1 private King master available).
 
