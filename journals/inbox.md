@@ -26,15 +26,16 @@ Large friend-group trip (originally Summer2026Trip group chat, ~14 people). Coun
 **Locked decisions:**
 - Destination: Banff/Canmore, Alberta
 - Dates: July 2–12, 2026. Transition day: July 7 (Phase 1 group departs morning, Phase 2 group's stay continues/overlaps)
-- Lodging structure: **2-house preferred** — Phase 1 property sleeps ~12 (7 beds incl. 3 private queens) for 7/2–7/7; Phase 2 property sleeps ~9-10 (2 private bedrooms) for 7/7–7/12. Fallback rule: if Phase 2 headcount drops to ≤5, switch to single house for whole trip; if ≥6, keep 2-house. No hot tub needed.
-- Lodging cost basis: 2-house ≈ $122–129/person/night (P1 $1,500/night ÷12, P2 $1,100/night ÷9-10) vs single-house ≈ $146/person/night — 2-house wins given current headcount gap.
+- Lodging structure: **2-house preferred** — sequential, not simultaneous. Phase 1 property for 7/2–7/7; Phase 2 property for 7/7–7/12. Fallback rule: if Phase 2 headcount drops to ≤5, switch to single house for whole trip; if ≥6, keep 2-house. No hot tub needed.
+- Bed requirements: private queens only for couples actually present in each phase (P1 couples TBD; P2 has DK+Annie sharing). Solo guys all bunk/share — Will and most of the boys fine with this.
+- Lodging cost basis: 2-house ≈ $122–129/person/night (P1 ~$1,500/night ÷12, P2 ~$1,100/night ÷9-10) vs single-house ≈ $146/person/night — 2-house wins given current headcount gap.
 
 **Roster / phase assignments:**
 
 *Confirmed:*
 | Person | Phase | Origin | Notes |
 |---|---|---|---|
-| Will (solo — Elena OUT) | P1 only (7/2–7/7) | PHX | Elena priced out / opted out 6/12 |
+| Will (solo — Elena OUT) | P1 only (7/2–7/7), bunking OK | PHX | Elena out 6/12; Will firm on P1-only, no private room needed |
 | Daniel Zheng | P1 only | SF | his stated preference |
 | Dhanush Bathala | 7/4 AM–7/12 (partial P1 + full P2) | DTW | PTO locked |
 | Daniel Kong + Annie Chen | P2 only | Chicago area | sharing a bed |
