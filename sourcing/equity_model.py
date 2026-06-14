@@ -72,7 +72,7 @@ DAN_CASH   = 0         # LOCKED: Dan brings $0 personal cash; he RAISES outside 
 # ----------------------------------------------------------------------------
 WILL_ROLE  = 0.80   # heavy operator (tech + ops + M&A)
 ELENA_ROLE = 0.78   # heavy co-operator, full-time early (tapers after Yr1/manager hire)
-DAN_ROLE   = 0.35   # strategy/direction, lighter day-to-day
+DAN_ROLE   = 0.20   # advisory only (Will 6/14): guidance/board-level, NOT day-to-day. Was 0.35.
 
 # ----------------------------------------------------------------------------
 # STRATEGIC scores (0-1) — network, CPA-cover access, deal sourcing, investor
@@ -82,9 +82,10 @@ DAN_ROLE   = 0.35   # strategy/direction, lighter day-to-day
 #   Will = Frazier/Apify sourcing pipeline ownership + AI-modernization thesis.
 #   Elena = process/QC rigor is operational, not strategic-network; scored low here.
 # ----------------------------------------------------------------------------
-WILL_STRAT  = 0.55   # EXAMPLE — sourcing pipeline + AI thesis
-ELENA_STRAT = 0.20   # EXAMPLE — limited external network for THIS sector
-DAN_STRAT   = 0.90   # EXAMPLE — CPA network + investor relationships + connector
+WILL_STRAT  = 0.60   # sourcing pipeline + AI thesis (slightly up: Will owns the deal flow)
+ELENA_STRAT = 0.20   # limited external network for THIS sector
+DAN_STRAT   = 0.50   # advisory/guidance + network. Down from 0.90: NOT licensing (no CPA cover)
+                     # and NOT the primary capital-raiser per Will 6/14. Network + guidance only.
 
 
 def capital_scores(will_cash, elena_cash, dan_cash):

@@ -84,18 +84,20 @@ trade-offs **visible and adjustable**, not to assert a single answer.
 > tunable, and Dan's % in particular is a negotiation (see note). Do not treat as final equity.
 
 **Dimension weights:** capital 40% · role 40% · strategic 20%.
-**Role scores (0-1):** Will 0.80 · Elena 0.78 (full-time co-operator early, tapers after Yr1/manager) · Dan 0.35.
-**Strategic scores (0-1):** Will 0.55 · Elena 0.20 · Dan 0.90.
+**Role scores (0-1):** Will 0.80 · Elena 0.78 (full-time co-operator early, tapers after Yr1/manager) · Dan 0.20 (advisory only).
+**Strategic scores (0-1):** Will 0.60 · Elena 0.20 · Dan 0.50 (network + guidance; NOT CPA cover, NOT primary capital-raiser).
 
-### LOCKED base case — Will $50k · Elena $50k · Dan $0
+> **Dan reframed to ADVISORY 2026-06-14.** Dan is not becoming a CPA and is not the primary capital-raiser — his contribution is advice / guidance / network. So his role score dropped 0.35→0.20 and strategic 0.90→0.50 (CPA-cover and linchpin-capital premiums removed). This is the honest economic anchor for the negotiation in `context/dan-equity-negotiation.md`.
+
+### LOCKED base case — Will $50k · Elena $50k · Dan $0 (advisory)
 
 Cash inputs: Will $50k · Elena $50k · Dan **$0** (total partner equity $100k → ~$500k SBA loan on a $600k deal).
 
 | Partner | capital% | role% | strat% | → equity |
 |---|---|---|---|---|
-| **Will** | 50.0% | 41.5% | 33.3% | **~43.2%** |
-| **Elena** | 50.0% | 40.4% | 12.1% | **~38.6%** |
-| **Dan** | 0.0% | 18.1% | 54.5% | **~18.2%** |
+| **Will** | 50.0% | 44.9% | 46.2% | **~47.2%** |
+| **Elena** | 50.0% | 43.8% | 15.4% | **~40.6%** |
+| **Dan** | 0.0% | 11.2% | 38.5% | **~12.2%** |
 
 ### Sensitivity — if Elena goes to $100k (drains her taxable; NOT recommended)
 
@@ -103,16 +105,16 @@ Cash inputs: Will $50k · Elena $100k · Dan $0. All else held.
 
 | Partner | capital% | role% | strat% | → equity |
 |---|---|---|---|---|
-| Will | 33.3% | 41.5% | 33.3% | **~36.6%** |
-| Elena | 66.7% | 40.4% | 12.1% | **~45.3%** |
-| Dan | 0.0% | 18.1% | 54.5% | **~18.2%** |
+| Will | 33.3% | 44.9% | 46.2% | **~40.5%** |
+| Elena | 66.7% | 43.8% | 15.4% | **~47.3%** |
+| Dan | 0.0% | 11.2% | 38.5% | **~12.2%** |
 
-### What this shows + the Dan question
+### What this shows + the 50/50 question
 
-- **The base split is ~Will 43 / Elena 39 / Dan 18.** Will + Elena hold ~82% combined — appropriate, since they bring **all** the cash *and* the operating load. Elena lands just behind Will because she matches his cash and is a near-equal early operator.
-- **Dan's ~18% is for $0 cash + light day-to-day** — pure strategic value (CPA cover + network + raising outside capital). That number is the live negotiation. **Recommended framing for the call: performance-link Dan's equity to capital actually raised** (e.g. a base for CPA-cover/network + step-ups tied to $ raised), rather than a flat ~18% grant for showing up. If Dan raises nothing and isn't licensed, ~18% is generous; if he raises real outside capital, it's cheap.
-- **Why NOT push Elena to $100k:** the sensitivity shows it would make her the majority operator-owner (~45%), but it drains her $100k taxable that's also the mid-2027→close bridge fund + post-2027 home down payment. The recommendation (`context/dan-elena-decision-brief.md`) is to **hold at $50k/$50k** and let **Dan's outside-capital raise + a seller standby note** fill any gap above the clean $500–700k range — that's the designed lever and the reason Dan's a partner.
-- **Outside investors take their own equity**, separate from this three-founder split — a cap-table topic for the call, not a number in this table.
+- **The honest contribution split is ~Will 47 / Elena 41 / Dan 12.** Will + Elena hold ~88% combined — they bring **100% of the cash, all the operating work, and the entire pipeline.** Dan's ~12% is advisory value: guidance + network, no cash, no day-to-day, no CPA cover.
+- **Dan asked for 50/50. On contribution, that's ~4× his ~12%** — and a flat "Dan 50 / Will 50" also erases Elena. **Do NOT default-accept it.** The play is to give Dan a "50/50" he can point to on a layer where it's fair: 50/50 on the **residual upside** (after Will+Elena's capital is returned-with-preferred and operators are paid market salaries), an **earn-up ladder** to 50% tied to capital raised, and/or 50/50 on the **next deal / platform** he helps capitalize. Full playbook + scripts: **`context/dan-equity-negotiation.md`**.
+- **Why NOT push Elena to $100k:** the sensitivity makes her the majority owner (~47%) but drains her $100k taxable that's also the bridge fund + home down payment. Hold $50k/$50k; fill gaps with Dan's raise + a seller standby note (`context/dan-elena-decision-brief.md`).
+- **Elena is a NAMED co-founder** — not folded into Will's half — in every structure. **Outside investors take their own equity**, separate from the founder split.
 
 ### Exact calculator output (for reproducibility)
 
@@ -123,24 +125,24 @@ ILLUSTRATIVE — pending Will + Elena + Dan confirmation. NOT real equity.
 ========================================================================
 
 Dimension weights (EXAMPLE): capital=40%  role=40%  strategic=20%
-Role scores (EXAMPLE 0-1):  Will=0.8 Elena=0.78 Dan=0.35
-Strategic scores (EXAMPLE 0-1):  Will=0.55 Elena=0.2 Dan=0.9
+Role scores (EXAMPLE 0-1):  Will=0.8 Elena=0.78 Dan=0.2
+Strategic scores (EXAMPLE 0-1):  Will=0.6 Elena=0.2 Dan=0.5
 
 BASE CASE (example cash inputs)
   cash inputs (EXAMPLE):  Will=$50,000  Elena=$50,000  Dan=$0  (total partner cash $100,000)
   Partner  capital%    role%   strat%   -> equity
-  Will        50.0%    41.5%    33.3%       43.2%
-  Elena       50.0%    40.4%    12.1%       38.6%
-  Dan          0.0%    18.1%    54.5%       18.2%
+  Will        50.0%    44.9%    46.2%       47.2%
+  Elena       50.0%    43.8%    15.4%       40.6%
+  Dan          0.0%    11.2%    38.5%       12.2%
 
 SENSITIVITY — Elena's cash DOUBLES (Scenario B lever), all else held
   cash inputs (EXAMPLE):  Will=$50,000  Elena=$100,000  Dan=$0  (total partner cash $150,000)
   Partner  capital%    role%   strat%   -> equity
-  Will        33.3%    41.5%    33.3%       36.6%
-  Elena       66.7%    40.4%    12.1%       45.3%
-  Dan          0.0%    18.1%    54.5%       18.2%
+  Will        33.3%    44.9%    46.2%       40.5%
+  Elena       66.7%    43.8%    15.4%       47.3%
+  Dan          0.0%    11.2%    38.5%       12.2%
 
-  -> Doubling Elena's example cash moves her equity by +6.7 pts ( 38.6% ->  45.3%).
+  -> Doubling Elena's example cash moves her equity by +6.7 pts ( 40.6% ->  47.3%).
      (Magnitude depends entirely on the EXAMPLE weights/scores above — confirm with partners.)
 
 Reminder: replace every EXAMPLE input with a confirmed number before treating any % as real.

@@ -30,7 +30,7 @@ This is the **direct reactivation ask to an existing partner** — not cold sell
 > - **(a)** Are you still in? No hard feelings either way — I want a real answer, not a polite one.
 > - **(b)** Walk you through the refreshed deal box and get your gut on it.
 > - **(c)** Who owns what — I've got a draft split (you on strategy + capital-raising + network, me on ops/AI/sourcing, Elena on finance/process) but it's a starting point, not a decree. Equity follows contribution; happy to talk through how I'm thinking about it.
-> - **(d)** Where you landed on CPA licensure — that's the AZ 51%-ownership question, and how we answer it shapes the structure.
+> - **(d)** How we handle the AZ 51%-CPA-ownership rule — either we buy a non-CPA bookkeeping/accounting shop (most of the market, cleanest), or we retain a CPA through your network for the regulated piece. Want your read on which fits the kind of firm we go after.
 >
 > When's good for you this/next week?
 >

@@ -97,26 +97,25 @@ inputs: **~Will 43 / Elena 39 / Dan 18** (`context/dan-equity-model.md`).
 
 ---
 
-## Decision 3 — Dan's CPA-licensure status (the AZ 51% path)
+## Decision 3 — AZ 51% CPA cover (RESOLVED 2026-06-14: Dan not licensing)
 
-This one is partly Dan's to answer, but you need a **default assumption** to walk in with. AZ law: non-CPAs
-can't exceed 49% ownership if the firm does audits/reviews OR has "CPA" in the name. Three paths
-(`context/dan-thesis.md`):
+**Dan is not becoming a CPA** (confirmed 6/14 — he runs multiple businesses with operators reporting to
+him; licensure isn't on the table). So path 1 is dead. AZ law: non-CPAs can't exceed 49% ownership if the
+firm does audits/reviews OR has "CPA" in the name. **Two live paths:**
 
-1. **Dan pursues CPA licensure** — cleanest if he's already on it / willing.
-2. **Retain CPAs as equity partners** to hold ≥51% combined.
-3. **Avoid CPA-only services + no "CPA" in name** — sidesteps it entirely. The pipeline supports this:
-   **~65% of the 505 firms are non-CPA-branded** (bookkeeping/payroll/accounting). Only 1 of the top 10
-   re-ranked leads is CPA-branded.
+1. ~~Dan pursues CPA licensure~~ — **ruled out.**
+2. **Retain a CPA** as a minority equity holder of the regulated entity (Dan's network *supplies* one;
+   that CPA is NOT a founder). Use this if you target a CPA-branded / attest firm.
+3. **Buy a non-CPA bookkeeping/accounting firm** — sidesteps the rule entirely. **~65% of the 505 leads
+   qualify**; 9 of the top-10 re-ranked are non-CPA-branded. **Likely the default.**
 
-**What to confirm:** Dan's actual 2026 status — started licensure / decided against / conditional on the
-partnership reactivating. If unknown, **leave it as an open question for the call** (the Frame B draft
-already supports this — bullet (d) is framed as a question, not a claim).
+**What to confirm with Dan:** not *his* status (settled), but which path fits the kind of firm you go
+after — and whether his network can supply a retained CPA if you want the CPA-branded/advisory tier. The
+Frame B bullet (d) is already reframed to this question.
 
-> **Note from the re-rank:** Dan's *highest-conviction* target (tax-strategy / advisory firms with a
-> fractional-CFO upgrade) skews more CPA-branded than plain bookkeeping. So the path you pick here
-> interacts with which tier of leads you work first. If Dan isn't pursuing licensure, bias toward the
-> non-CPA bookkeeping firms; if he is, the advisory tier opens up.
+> **Note from the re-rank:** Dan's highest-conviction target (tax-strategy/advisory with a fractional-CFO
+> upgrade) skews more CPA-branded. Since Dan isn't licensing, that tier needs path 2 (retained CPA via his
+> network); the plain-bookkeeping tier needs no cover at all. The path interacts with which leads you work first.
 
 ---
 

@@ -148,10 +148,10 @@ Elena scales W-2 to ~20 hr/week at close, runs Year 1 unpaid co-operator; manage
 
 Non-CPAs can own part of an accounting firm in Arizona, but **51% majority ownership must belong to licensed CPAs**.
 
-**Paths to compliance:**
-1. Dan pursues CPA licensure (interested — timeline TBD)
-2. Retain key CPAs as equity partners to satisfy the 51% requirement
-3. Focus on services that don't trigger the CPA-majority rule (non-audit, non-review, non-"CPA" branded services)
+**Paths to compliance** (Dan-licensure ruled out 2026-06-14 — Dan runs multiple businesses, not becoming a CPA):
+1. ~~Dan pursues CPA licensure~~ — **ruled out 2026-06-14.**
+2. Retain a CPA as a minority equity holder of the regulated entity (Dan's network supplies one; not a founder)
+3. Focus on services that don't trigger the CPA-majority rule (non-audit, non-review, non-"CPA" branded services) — ~65% of sourced leads qualify; likely default
 4. Avoid "CPA" in the firm name + avoid audit/review engagements
 
 This is a known constraint — not a dealbreaker, but must be resolved in deal structure.

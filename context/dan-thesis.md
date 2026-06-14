@@ -116,13 +116,13 @@ If Elena's cash contribution materially reduces the debt required (the Scenario 
 
 ---
 
-## The AZ CPA 51% constraint — three open paths
+## The AZ CPA 51% constraint — two live paths (Dan-licensure ruled out 2026-06-14)
 
-Per AZ law: non-CPAs can hold minority ownership but cannot exceed 49% IF the firm does audits/reviews OR has "CPA" in the name. Three workarounds kept open; chosen when a concrete deal forces the call:
+Per AZ law: non-CPAs can hold minority ownership but cannot exceed 49% IF the firm does audits/reviews OR has "CPA" in the name. **Dan is NOT pursuing CPA licensure (confirmed Will, 2026-06-14 — he runs multiple businesses with operators reporting to him; becoming a CPA isn't on the table).** So path 1 is dead; cover comes from one of the two remaining paths, chosen when a concrete deal forces the call:
 
-1. **Dan pursues CPA licensure.** Timeline TBD. Interested as of 4/7/2025; current commitment unclear — **[NEEDS FILL]**.
-2. **Retain key CPAs as equity partners** so CPAs hold ≥51% combined.
-3. **Avoid CPA-only services** — non-audit, non-review, no "CPA" in firm name. Sidesteps the constraint entirely; limits service mix.
+1. ~~Dan pursues CPA licensure~~ — **ruled out 2026-06-14.**
+2. **Retain a CPA as a minority equity holder of the regulated entity** so CPAs hold ≥51% of the *attest* entity. Dan's value here is that his network can *supply* a CPA — that retained CPA is NOT a founder on the partnership cap table.
+3. **Avoid CPA-only services** — buy a non-CPA bookkeeping/payroll/accounting firm (non-audit, non-review, no "CPA" in name). Sidesteps the constraint entirely. ~65% of the 505 sourced leads are non-CPA-branded, so this is very workable. Likely the default.
 
 ---
 
@@ -199,6 +199,6 @@ Items not extractable from the Google Doc or existing AIOS files:
 
 1. **Pre-2025 connector context** — how Will met Dan, Dan's background, Dan's current professional status.
 2. **Dormancy-period touch points** — any Will-Dan contact May 2025 → June 2026. Dan's current sentiment / availability.
-3. **Dan's CPA-licensure status as of 2026** — started? Decided against? Conditional on the partnership reactivating?
+3. ~~Dan's CPA-licensure status~~ — **RESOLVED 2026-06-14: Dan is not pursuing licensure (runs multiple businesses; not on the table). AZ 51% cover comes from a retained CPA or buying a non-CPA firm — see "two live paths" above.**
 4. **Frame B message draft** — wait until Frazier script + Apify scrape close before drafting, so the message references the modernized pipeline.
 5. **Elena's specific cash + time commitment** — how much capital is she contributing as equity, and what's her time allocation (hrs/wk, roles she'd own, ramp timing relative to Will's Amazon exit)? Material to know before the Frame B message so the resolution is concrete vs. directional when Dan asks.
