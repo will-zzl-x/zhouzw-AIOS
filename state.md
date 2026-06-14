@@ -1,89 +1,96 @@
-# State — Last updated June 7, 2026
+# State — Last updated June 14, 2026
 
 ## Quests (Q2 — set in the May 25 quarterly review; full doc `archives/2026-Q2-quarterly-review.md`)
-- **Work main:** Exit Codie's 3-mo acquisition Learn phase deal-ready by Aug 31 (12+ framework reps, 2+ broker contacts, LOI template). `goals/acquisition.md`.
-- **Life main:** Become my own point of origin — self-validation, worth from inside not the scoreboard. Keystone: **Sunday morning Zone 2 indoor incline treadmill (60–90 min)** (cut phase — cut-additive cardio doubling as solo-pursuit; BJJ + Thursday Muay Thai resume post-cut Jul 12+ as the embodied/skill axis). Measure inputs, never score outputs. `goals/desire-polarity.md`.
-- **Side:** ship promo doc (~Jun 30, **top priority — above acquisition, incl. weekends**) · execute the cut through Jul 11 · friend touchpoint every 2 wks.
+- **Work main:** Exit Codie's 3-mo acquisition Learn phase deal-ready by Aug 31 (12+ framework reps, 2+ broker contacts, LOI template). `goals/acquisition.md`. **ON TRACK** (recovered from AT RISK 6/7 → ON TRACK 6/14) — both scrapes shipped, free Google-Places sourcing pipeline built, all three Frame B gates closed.
+- **Life main:** Become my own point of origin — self-validation, worth from inside not the scoreboard. Keystone: **Sunday morning Zone 2 — stationary bike + phone, 60–90 min** (modality changed 6/14 from incline treadmill due to summer + sustainability; phone-bundled with a show solves boredom that was killing duration). Measure inputs, never score outputs. `goals/desire-polarity.md`. **AT RISK / prescription open** — solo-space rep rotation (violin/silent walk/meditation/style) deliberately deferred to post-cut review Jul 12+ because the activities don't pull Will; honest "what would you do with 45 min" answer was "I don't know" — needs real re-grounding, not a quick new prescription.
+- **Side:** ship promo doc (boss OOO this week relaxed Jun 30 pressure; commit to a real weekend block Jun 27–28) · execute the cut through Jul 11 · friend touchpoint every 2 wks.
 - **Wheel low axis (the focus):** Joy 4, Heart 5 — winning on paper, not feeling it. The Life quest targets the root.
 
-Phase: **NYC Cut Wk 4 starting** — May 17 – Jul 11 (daily gates by weekday/weekend in `daily-standard.md`)
+Phase: **NYC Cut Wk 5 of 8** — May 17 – Jul 11 (~4 weeks remaining; daily gates by weekday/weekend in `daily-standard.md`)
 
 ## Daily Loop
 - **Todoist daily brief live.** GitHub Actions runs the morning brief at 7am AZ (14:00 UTC) → 3–5 tasks to Todoist "AIOS Daily"; evening archive at 9pm AZ (04:00 UTC) writes completions to `journals/daily-log.md`. Workflows: `.github/workflows/morning-brief.yml` + `evening-archive.yml`. Secrets in GitHub repo settings (ANTHROPIC_API_KEY, TODOIST_API_KEY). Source of truth for "what should I do today" is Todoist.
-- **Security note:** Anthropic + Todoist keys rotated; two exposed GitHub PATs revoked. Resolved May 25.
-- **Daily-Sync cadence partial 2 weeks running** (W21 0/5, W22 3/5). `_notes/` is the healthier write surface than personal journals — Sunday `/weekly-reflection` reads from `_notes/` mtime ≥ Monday alongside journals.
-- **Fitness logging pipeline broken.** Liftosaur CSV + weight spreadsheet + step source don't auto-flow to AIOS — synthesis false-flagged "fitness signal: zero" 5/29 while Wk2 actually had a Larsen Press top-set rep PR. Manual Sunday paste habit until pipeline build (task #74).
+- **Daily Consistent descriptions don't propagate to Todoist.** Brief sends `title/area/priority/sm_id` only — the rich `dashboard.md` bullet text (e.g. the desire-polarity DO-list rotation menu) reads cryptically in-app. Workaround: paste description by hand. Fix in backlog inbox 6/13 (~45 min AIOS-infra).
+- **Fitness logging pipeline still broken (#74).** Liftosaur CSV + weight spreadsheet + step source don't auto-flow to AIOS — **bit again this week**: state.md was carrying weight of 180.4 (6/7) when the source sheet showed 175.9 (6/1 actual). **AIOS coached against a wrong bodyweight model.** Will manually exporting CSVs to share when asked is the current workaround; pipeline build deferred 3 reflections running. Re-framed 6/14: move to post-cut review queue (Jul 12+) rather than carry as a weekly-slipped commitment.
 
 ## Career
-- Amazon SCM I (L4). **Talent Review .docx submitted 5/19** — Q3–Q4 promo window now needs L5-grade evidence. RAPID rebalance + mechanism notes (SKED Flex 5/27, WEPAY_IMPORTS 5/29) are the W22 deposits. Acquisition is the work/income main quest; leaving Amazon late 2027.
-- **RAPID seat (W22 lock):** Agree (giver-side feasibility) + Perform. Brian Chaput 5/29 reorg moved WK0 Decide/Recommend to Rajesh's team (Hans/Dwight/Naresh). Matt 1:1 same morning explicit rebalance feedback. Will accepted day 1 — executed Mario's 4 LTS asks in the new lane same afternoon.
-- **Promo doc drafted.** Open: final review pass → manager alignment (target Jun 30, hard sprint).
-- **Active workstreams (W22):** SKED Flex Mechanism proposal authored 5/27 (`_notes/sked_flex_mechanism_proposal.md`), WEPAY_IMPORTS finance lever scoped 5/29 (`_notes/wepay_imports_finance_lever.md`). Both Recommend-lane cross-functional bridge work.
-- **Jeff rIXD-secondary-owner ramp:** plan accepted with Colton (3-wk shadow→solo handoff, kicks off ~Jun 1). **Prioritized higher next week** to free Will's bandwidth for DOE push.
-- Escalation scraper: threshold logic developing on work laptop, not finished. Lower priority than promo doc + Jeff ramp.
+- Amazon SCM I (L4). **Talent Review .docx submitted 5/19** — Q3–Q4 promo window now needs L5-grade evidence.
+- **Promo doc — Jun 30 hard sprint, boss OOO this week.** No advancement W24. Pressure relaxed structurally (manager-align can't happen until boss is back). Commit to a real weekend block — **Jun 27–28** (NOT Jun 19–21, SoCal). Lift IFSA_CHILD + GL_MW write-ups in (L5 systems-thinking evidence).
+- DOE Redirect Automation — **STALE 23d (was 16d at 6/7),** ★STRONG promo deliverable. Self-set EOM commit to Felix; eligibility-vs-4-gate decision parked. Decide at next Matt 1:1, then ship.
+- Jeff rIXD-secondary-owner ramp: plan accepted with Colton (3-wk shadow→solo handoff, kicks off ~Jun 1). Status not reviewed in this reflection.
 - **SCM II behavior-logging retired** — measure promotion by deliverables, not behavior counts. `goals/scm-ii-promotion.md` parked.
 
 ## Fitness
-- **NYC Cut Wk 4 starting (May 17 base).** Weekly avgs: 182.6 (5/17) → 182.2 (5/24) → 180.5 (5/31) → 180.4 (6/7, 1 read). ~2.2 lb in 3 wks = **~0.73 lb/wk — behind pace.**
+- **NYC Cut Wk 5 of 8.** Weekly avgs (corrected 6/14 from Ideal Week sheet, prior state.md numbers were stale):
+  - 5/4 → 177.9
+  - 5/11 → 178.4
+  - 5/18 → 178.1
+  - 5/25 → 177.2
+  - **6/1 → 175.9 (cut low)**
+  - **6/8 → 178.1 (stalled off the low)**
+- **Cut bounced off its low.** 5/25 → 6/1 hit 175.9 — best week of the cut. 6/8 averaged 178.1 — back-half trajectory flattened/regressed. Not a clean +2.2 lb regain (sheet has future-dated pre-filled rows; cook-heavy week with water/sodium swings; needs another week's read to call direction). **~4 weeks left to Jul 11 cut end; 174–175 target needs ~0.75–1 lb/wk of actual loss from here.**
 - BF: ~20–21% estimated. Lean mass: ~147 lb.
-- **Cut target RE-BASELINED 6/7 (twice): ~174–175 by Jul 11.** Original 172 by Jul 4 → unworkable at BMR floor + 5wk runway. First pass re-baselined to 177 by Jul 4 (wrong date — Jul 11 is cut-end, not Jul 4). Final: **~174–175 by Jul 11** assuming inputs actually fire (scenario C below). NYC Jul 30 lands ~177–178 after locked Jul 12–29 reverse adds ~3 lb back. Hard floor still 168.
-- **Why re-baseline (the real reason):** last week's inputs were under-fired, not metabolism stuck. Steps avg 9,165/day (target 12,500 — 0/7 days hit), Z2 14 min total (target 60+ min). The deficit pace ~0.73 lb/wk is what you get when the only two non-food levers don't fire. Fitness pipeline (#74) would have surfaced this 3 weeks ago.
-- **This week's INPUT prescription (scenario C, standard):**
-  - **Steps: 12,500/day, no exceptions** — schedule deliberate evening walk on grocery/cook days (last Sat: 6,173 ⚠️)
-  - **Sunday Z2: 60–90 min** (today)
-  - **One weekday Z2: 20 min, post-lift fasted AM, walk/bike/incline** (Tue or Thu, off-leg days)
-  - Decision Jun 14: all canary lights green → continue C. Any tripped → drop to scenario B (Sun Z2 only, accept ~177 endpoint).
-- **Lifting strong (Wk ending 6/6): 5 sessions.** Larsen Press 155 × 6 top set HELD @RPE9 (back-offs softened 6,6,6 → 6,4,4 — deeper-deficit fatigue). Neutral pull-up slight regression (4,3 → 3,3,1 @ +2.25lb).
-- **Step target +25%: 12,500/day** (was 10,265 W22 avg). Add **2–3× Zone 2 cardio/wk** (20-min, post-lift fasted or AM).
-- Wk2 sessions: 11 in 15 days (above 6×/wk target). Steps held at 10,265/day (71.85k/wk total).
-- **Canary upgraded 6/7 → 3-lift model** (single-lift Larsen rule was too narrow — top-set "holding" masked back-off + recovery slippage). Watch all three:
-  1. **Larsen top set ≥ 155 × 5 @9** *(strength)* — currently 155 × 6 ✅
-  2. **Larsen back-offs ≥ 5 reps each set** *(volume)* — currently 6,4,4 ⚠️ (was 6,6,6 on 5/30)
-  3. **Neutral pull-up not below 3,3,1** *(recovery)* — currently 3,3,1 🔴 (regressed from 4,3 on 6/2; weak vs BW+45×5 standard)
-  - **Currently 1 green / 1 yellow / 1 red.** Any 2 yellow OR any 1 red sustained → drop to scenario B (Sun Z2 only). All 3 green by Jun 14 → continue C.
-- **Old single-lift abort rule deprecated 6/7** (was: "Larsen 155×5/5/5 @9 → re-baseline to 176 by Jul 11"). Replaced by 3-lift model above.
-- **Abort signal:** Larsen 155×5/5/5 @9 → re-baseline target to 176 by Jul 11 / full target by NYC Jul 30.
-- Refeed trigger: 7-day rolling avg ≤176 lb (currently ~180.4).
+- **Lifting WINNING in deficit.** Larsen Press canary posted its **strongest cut numbers** the week of 6/8: 155×7 top set @RPE9.5 (threshold ≥5), back-offs 7,7,5 (all clear ≥5 threshold). **Recovered from the 6,4,4 wobble flagged 6/7.** Neutral pull-up 3,2,3 (was 3,3,1 at 6/7 — fractionally below 3,3,1 floor on 2nd set, otherwise holding).
+- **Lifting canary (3-lift model, 6/14):**
+  1. **Larsen top set ≥ 155 × 5 @9** *(strength)* — **155 × 7 @9.5 🟢 strongest of cut**
+  2. **Larsen back-offs ≥ 5 reps each set** *(volume)* — **7, 7, 5 🟢 (was 6,4,4 ⚠️ on 6/5)**
+  3. **Neutral pull-up not below 3,3,1** *(recovery)* — **3,2,3 ⚠️ (2nd set fractionally below 3)**
+  - **Currently 2 green / 1 yellow. Canary decision Jun 14: continue scenario C** (Sunday Z2 + 1 weekday 20-min Z2). All-3-green not required as long as no sustained red.
+- **5 lifting sessions Wk ending 6/14** (Tue/Wed/Thu×2/Sat) — adherence dialed.
+- **Sunday Z2 today: 28 min total / 13:26 in zone** at incline walk, HR 116 avg / 130 max (textbook Z2 intensity profile, but **half the 60-90 min keystone target duration**).
+- **Z2 MODALITY CHANGE 6/14: stationary bike + phone (temptation-bundled show) replaces incline treadmill** for Sunday keystone. Reason: AZ summer kills outdoor options, treadmill silence kills sustainability, phone is permitted because Z2 cardio has no silence rule (only the desire-polarity SOLO slot does). Bachata correctly identified as Z1/recovery, not Z2 — stays as social/relationship time; salsa or Zumba may bank mid-week Z2 minutes if added.
+- **Step target 12,500/day. Last week's data was wrong in state.md; this week not measured this reflection.** Carry as live gate but flag that the steps source remains unaudited.
+- **Abort signal:** Larsen 155×5/5/5 @9 or any 2 yellow / 1 sustained red on 3-lift canary → re-baseline target to ~177 by Jul 11.
+- Refeed trigger: 7-day rolling avg ≤176 lb.
 - Hard floor: 168 lb — do not cut below.
 - Reverse diet: Jul 12–29. NYC maintenance: Jul 30–Aug 5.
-- Program: GVS Ravage Week 6. Macros tracked in **Cronometer**.
-- **Meal-planning system live (6/6):** token-efficient weekly cook-cycle in `meal-planning/` (built in a separate Claude Code session, merged 6/6). 20 vetted recipes, deterministic Python loop for serving math / coverage / grocery / defrost / cook-order / depletion (zero tokens), 4 AI templates for fuzzy tasks. Wired to `/health-os` → "plan a meal cycle". Cut constraints baked in (M1/M2 starch-free, ~150g protein/day, ~45g/feeding, dining-out = carb-forward refeed). Source of truth: `data/recipes.json`. Separate from the deprecated Streamlit meal-planner app (`github.com/will-zzl-x/meal-planner`).
-- **Combat keystone reset (6/1) → boxing pivot considered (6/2 AM) → Zone 2 sub locked (6/2 PM):** BJJ deferred to post-cut (Jul 12+). Boxing technique class at Boxout AZ (Sun 9:30 AM) considered as substitute but dropped — Ravage runs 2 upper days/wk, forcing a Mon-upper-after-Sunday-boxing adjacency that compromised the Larsen canary on a 1,820 cal deficit. Cut-phase keystone is now **1× Sunday morning Zone 2 indoor incline treadmill, 60–90 min** — same recurring solo-pursuit slot, cut-additive (Schofield prefers low-intensity steady-state — walking/incline/bike — over high-impact cardio on a cut, `references/schofield.md` L130), zero Ravage interference. Single 60–90 min bout meets the weekly Z2 *minutes* target but not frequency — spread sessions adapt better; single-bout chosen for cut-phase sustainability/keystone-identity, revisit post-cut (Jul 12+) when BJJ/Muay Thai return and Sunday becomes the dedicated LISS slot. Skill/embodied combat axis returns post-Jul 11 when BJJ + Thursday Muay Thai ramp on original cadence. Style/grooming overhaul still sprinting in parallel.
+- Program: GVS Ravage Week 8 — **Wk ending 6/14 was Wk 7 Day 5/6 + Wk 8 Day 1/2/3**. Macros tracked in **Cronometer**.
+- Meal-planning system live, executing cycle 2026-06-13 → 6/19 (SoCal-shortened). All Saturday cooks done except sandwich parcook (deliberately dropped — coverage already 5+ dinners without it). Today (6/14): brown crunchwrap beef (only Sunday cook), eat #19 KBBQ already cleared. Friday 6/19 AM freeze-and-purge before SoCal drive.
 
 ## Relationships
-- **Elena (W22 read):** stressed about work, anxious, nausea earlier in the week (now improving), one ~few-hour evening 5/27 of smell sensitivity, no fatigue, no breast tenderness, appetite recovering. Pregnancy possibility from 5/28 capture still on the table — 11 days late on the pill is the part that doesn't go away as a question. Test-plan close-the-loop deferred to Will + Elena's call. Posture under stress-load: presence, not caretaking; don't reverse-engineer differentiation into a tactic.
-- **Friend cadence anchored W22.** Sahil ✓ (~5/26 from W21), Spencer ✓ this week, group hang 5/30 (Annie, Jeff, Charlie, James, Spencer, Miguel). Cleared the 2-wk rhythm twice over.
-- **Solo-pursuit keystone (cut phase, final 6/2): 1× Sunday morning Zone 2 indoor incline treadmill, 60–90 min**, same recurring slot. Replaces BJJ for cut sustainability — same Life quest role, zero Ravage interference, cut-additive. BJJ + Thursday Muay Thai both ramp post-Jul 11 as the embodied/skill axis returns.
+- **Pregnancy thread CLOSED — removed from state.md 6/14.** Will confirmed at the reflection: question got closed "a while ago," not a concern.
+- **Elena ready to leave engineering job if needed.** Major identity-axis move — resolves the *time* half of the Frame B gap to Dan (per `context/dan-thesis.md`). Scenario A2 (Industry Transition, `goals/elena-scale-back.md`) now cemented.
+- Elena OUT on Banff over budget (6/12), Sedona birthday trip plan locked Sep 11-14 (~$1,280 all-in, inbox 6/10 capture, reservations to make by 7/20).
+- Friend cadence anchored. No new touchpoints flagged this week.
+- **Z2 modality change (bike + phone) is NOT the Life-Main solo-space rep** — explicitly violates Perel/Schnarch filters in `goals/desire-polarity.md` (phone/podcast slots are anti-patterns). Solo-space rotation deferred to post-cut review Jul 12+ when the activity prescription itself can be honestly re-grounded (the May rotation list of violin/silent walk/meditation/style doesn't pull Will).
 - Zero night talks about intimacy — hard rule.
 
 ## Wedding
 - **Contract signed.** Clayton House Elite, Oct 22, 2027, Scottsdale.
-- **St. Andrew Oct 22, 2027 LOCKED.** Pre-Cana process to schedule.
+- **St. Andrew Oct 22, 2027 LOCKED. Pre-Cana INTAKE MEETING DONE** (corrected 6/14 — prior state.md had it as "not started"). Prep materials in hand.
 - **Virehouse: BOOKED. Deposit paid May 18.**
-- **Hotel block (rebaselined 6/7 from guest sheet):** Booking via Engine, courtesy blocks only (0% attrition, Sep 20 2027 rooming cutoff). **Target ~33–36 rooms** — derived: ~108 OOT invited × 75% = ~81 attending, −10 alt-accommodation (Elena's parents + others), ÷~2/room ≈ 30–36 (swing = 9 kid-families self-booking AirBnBs). **Secured: Courtyard Marriott 10 ✅ + Element SkySong 9 (signing 6/7) = 19.** Active chase: premium block 12–15 rooms (The Remi OR Hotel Valley Ho — both ghosted Engine this week → re-RFP + direct group-sales calls; no backup tier so push hard). **Declined:** Senna House Curio (lukewarm, $417 all-in), Courtyard Salt River (singles-only + redundant), Papago Reside (overkill). Transport = Uber/Lyft guest credits ($1k budget line ~2–3× low). Full detail: `context/wedding.md`.
+- **Photographer: BOOKED, deposit paid** (post 5/18 meeting). $3,160 est. total, groom pays.
+- **Hotel block BOTH SIGNED (corrected 6/14):** Courtyard Marriott 10 ✅ (5/28) + Element SkySong 9 ✅ (6/10) = **19 rooms × 3 nights = 57 room nights locked.** Premium-tier block (The Remi / Valley Ho) chase remains open but no longer urgent given 19 secured.
+- **Critical-path watch (coach lens flag 6/14):** the wedding's next-8-week chain runs through Elena — website live mid-Aug → QR code → save-the-date design → print → send late Sept. Same week Elena went all-in on acquisition. Before leaning her further into acquisition, watch the Elena-dependent wedding chain isn't quietly slipping.
+- Full detail: `context/wedding.md`.
 - Late-night bite: Chick-fil-A chicken minis ~$300 (outside vendor approved by Bailee May 10).
 
 ## Travel
-- No active travel. NYC Jul 30 – Aug 5 next anchor (Will + Elena, Paramount Hotel 4 nights + friend's place Hell's Kitchen, ESM NYC dance festival at Marriott Marquis, confirmation G7LGXE). Book Broadway show + ESM passes before trip.
+- **Banff trip Jul 2–12, 2026 — Will P1 only (7/2–7/7) confirmed, Elena OUT, lodging structure single-Airbnb working assumption.** Sunday 6/14 7:30pm PST call locks Airbnb. Full state in `journals/inbox.md` 2026-06-13.
+- **SoCal trip Jun 19–21** (Father's Day weekend, Will + Elena + Koda, Sonesta Select HB Fountain Valley booked, Brodard Fri + Thai District Sat 6:30pm). Pre-departure freeze-and-purge Fri AM. Cycle-2026-06-13 meal plan baked around the trip window.
+- **Elena birthday trip Sedona Sep 11-14** locked plan (~$1,280, reservations 7/20 deadline). Inbox 6/10 capture.
+- NYC Jul 30 – Aug 5 next major anchor (Paramount Hotel 4 nights + friend's place Hell's Kitchen, ESM NYC dance festival).
 
 ## Money / Acquisition
 - $70k earmarked for income-growth investments. Not deployed.
 - $2k/mo recurring allocations.
-- **Acquisition: not silent.** End-of-W22, today's session was one of the most active acquisition days in the file. First listing reviewed end-to-end (Chandler cleaning co $645k → NO on margin floor 26.9% + SDE $183k below floor). Saturday rep ✓ done.
-- **Dual-track strategy active (refined 6/7):** **Track 1 (Dan-partnered, $500k-$1M, bookkeeping/accounting)** = primary path with Dan's CPA cover for AZ 51% ownership rule. **Track 2 (Solo, $300-500k MAX, open sector)** = parallel hedge. Solo path is open on industry — Will + Elena to narrow top 2-3 sectors from `context/acquisition.md` Zone of Genius. Solo deal sizing covered by $70k S&ME alone (~$50k down + $20k reserve). Whichever closes first wins.
-- **Elena scale-back planning active** — full doc `goals/elena-scale-back.md` (created 6/7). Headline findings: combined invested $265k (Will $94k + Elena confirmed $171k: $140k 401k + $21k Roth + $10k HSA), **already past coast FIRE** for $110k/yr retirement lifestyle (sweet spot, modest upgrade over current ~$95k joint lifestyle) using conservative 6% real return + 5.5% Die With Zero withdrawal. No kids constraint confirmed → Die With Zero in full effect. **Recommended bridge path: Scenario A2 (Industry Transition)** — Elena leaves engineering, takes 20-25 hr/wk operator role at small business in target acquisition sector. Builds operator skills + sources deals via Walking Billboard + bridges income simultaneously. Strongest path on every dimension. Decision target: by next Sunday 6/14.
-- **Sector LOCKED:** bookkeeping/accounting (with Dan re-engagement). Resolves Codie's "one sector, one city" rule. Other sectors are inbound-only secondary.
-- **Goal: truly absentee** (quarterly check-in) by Year 2. Primary = Path A (service/professional services with 2–3 staff; Elena scales W-2 to ~20 hr/week at close, Year-1 operator unpaid; 12-month manager-hire trigger moves to absentee Year 2). Path B (digital) parallel second track.
-- Zone of Genius, Ideal Owner Experience, and Deal Box **complete** in `context/acquisition.md`. **Scenario B Codie-honest (5/31):** $500k–$700k clean / $700k–$1.0M stretch / $1.0M hard ceiling. $286k SDE floor at $500k → $367k at $1M (price-scaled). $953k+ revenue, 30%+ margin. Bakes in $55k operator salary so Year-2 manager hire is structurally affordable.
-- Codie-vetting (5/31) surfaced gaps: 4A Club + Walking Billboard sourcing missing entirely (vs. Codie emphatic), learn-phase volume light vs. 100/50/10/1 ratio.
-- Framework reference: `references/sanchez.md`. Mike Warren `references/warren.md` + Roland Frazier `references/frazier.md` (workflow-generated, quality unverified per task #73).
-- **Dan Nguyen partnership thesis:** Scenario B = **Elena steps in** (cash + time) resolves the original $500k–$1M debt-load objection that put it dormant May 2025 — the stall wasn't deal-box math, it was debt-load incompatibility with Will's Amazon W-2. Elena's cash reduces the debt required; her CFO/COO bandwidth splits post-acquisition operational load → no forced early Amazon exit. **Reactivation = next-week move.** Reach-out frame B (direct ask). AZ CPA 51% paths kept open (retain CPAs as equity ≥51% OR dodge CPA-only services — decided when concrete deal forces it). Roland Frazier value/opportunity outreach script v2 + Apify Google Maps scrape + Claude Code lead-enrichment owed before message goes. Prep work Mon–Thu, message readiness-gated. **Thesis files reconstructed 2026-06-03**: `journals/dan-thesis-history.md` (chronological) + `context/dan-thesis.md` (strategic). Remaining gaps: Elena's specific cash + time commitment (to make the resolution concrete vs. directional), Dan's current sentiment / CPA status.
+- **Acquisition: STRONGEST WEEK OF THE QUEST (W24).** Both scrapes shipped via the new free-path infrastructure.
+- **Dual-track strategy refined 6/14: Dan track ELEVATED to primary, Solo demoted to hedge** (per Will's read 6/14 — lean into Dan reactivation, figure out what he's looking to do).
+  - **Track 1 (Dan-partnered, $500k-$1M, bookkeeping/accounting):** 505 ranked viable firms in `sourcing/leads-ranked-dan.md`. Top 10 are 4.3-5.0★ with phones + websites, non-CPA-prefixed (cleaner AZ 51% law path). **Frame B message can ship.**
+  - **Track 2 (Solo, $300-500k, broad sector):** 620 ranked leads across 8 sourceable sectors in `sourcing/leads-ranked-solo.md`. Sourcing-reality dimension-5 yields locked: specialty-distribution (170), pest-control (117), HOA management (114) at strong tier. Sector-pick session with Elena demoted to lower-priority parallel work.
+- **Free-path sourcing pipeline BUILT:** `sourcing/places_scrape.py` (Google Places API New, drop-in Apify replacement, runs under GCP $200/mo free credit; used ~$2-5 actual). `sourcing/enrich.py` upgraded to sector-aware solo mode + AZ geo filter + per-sector yield reporting + 12-sector tagging. **Free monthly re-scrapes available going forward, no Apify dependency.**
+- **All three Frame B readiness gates CLOSED** (per `context/dan-thesis.md`):
+  1. Frazier outreach script v2 — done 6/4 (`context/frazier-outreach-script.md`)
+  2. Apify-equivalent scrape + lead enrichment — done 6/14 (505 ranked firms)
+  3. Dan thesis files verified — done 6/3
+- **Elena's commitment now CONCRETE (6/14):** ready to leave engineering job if needed. Resolves the *time* half of the Frame B gap. *Cash* commitment still soft — one conversation to get a rough figure before the message goes.
+- **`dan-reachout` is now the load-bearing acquisition move.** Top backlog priority. Draft Frame B referencing the modernized pipeline + Elena's confirmed time commitment + the 505-firm funnel.
+- **Scenario B Codie-honest deal box still active** (5/31): $500k–$700k clean / $700k–$1.0M stretch / $1.0M hard ceiling. $286k SDE floor at $500k → $367k at $1M (price-scaled). $953k+ revenue, 30%+ margin. $55k operator salary baked in.
+- **Goal: truly absentee** (quarterly check-in) by Year 2. Primary = Path A (service/professional services with 2–3 staff; Elena scales W-2 to ~20 hr/week at close, Year-1 operator unpaid; 12-month manager-hire trigger moves to absentee Year 2).
+- Frameworks: `references/sanchez.md`, `references/warren.md`, `references/frazier.md`, `context/dan-thesis.md`.
+- **Main Street Accelerator course in progress** (Will + Elena co-working, `journals/main-street-accelerator.md`). Top 3 modules: Walking Billboard, 100/50/10/1 funnel, Seven Ds.
 - Search window opens ~August 2026 (end of 3-month learn phase).
-- **Main Street Accelerator course started 6/7** — Will + **Elena co-working** (Elena onboarded with full AIOS repo access, scoped to acquisition project; her CLI prompt delivered). Running notes: `journals/main-street-accelerator.md` (framework-anchored, deltas + apply-to-thesis per module). Mode mirrors wedding-planning co-work.
-- **Apify scrape now UNBLOCKED** (Frazier script v2 done). This is the work-main-quest unlock — converts at-risk quest into sourcing volume. Claude can draft the Apify Google Maps config + Claude Code enrichment script (bookkeeping/accounting, 20mi Phoenix metro) → feeds `/deal-eval` + Dan/solo outreach.
-- **Work main quest AT RISK (6/7 quest check):** infra building (accelerator, Elena, Frazier) but reps + broker contacts + sourcing volume still light vs. 100/50/10/1. Recovery move = build the Apify scrape this week.
 
 ## Life / Digital Minimalism
-- **Tier 1 launched (wk of 6/1):** deleted X / TikTok / Reddit, IG blocker installed, alarm clock bought, phone-off-nightstand habit in progress. `references/newport.md`.
-- **#1 attention sink = YouTube 15h21m/wk (Shorts).** Fix (Premium-safe): YouTube app → Settings → Time management → **Shorts feed limit → 0 min**. Keeps the app + Premium background play (Will uses YT for screen-off audio); kills the Shorts feed. Native, free. (Brave rejected — breaks Premium background play. UnTrap $3.99 Safari ext = web-only fallback if the 0-min toggle hasn't rolled to his account.)
-- Screen-time top 5 (wk of 6/1): YouTube 15h21m · Claude 9h58m (productive) · Zoom 4h54m (work) · Google Maps 4h47m · Instagram 3h.
+- **Tier 1 launched (wk of 6/1):** deleted X / TikTok / Reddit, IG blocker installed, alarm clock, phone-off-nightstand habit. YouTube Shorts feed → 0 min structurally killed (Premium-safe). `references/newport.md`.
+- Monitor screen-time end of June — if YouTube shifted to long-form binge, escalate to Tier 3 post-cut Jul 12+.
