@@ -22,10 +22,12 @@ Equity follows contribution. On the locked inputs:
 | Capital raised | — | possible, but **not** his main thing |
 | Brings | money + labor + the entire sourcing pipeline | **advice + guidance + network** |
 
-**Contribution model output (advisory Dan): ~Will 47% · Elena 41% · Dan 12%.** Will + Elena ≈ **88%**.
-A flat 50% for Dan is **~4× what his contribution justifies** — and the "Dan 50 / Will 50" framing also
-erases Elena, who funds half the deal and leaves her career to operate. *That's the gap to close — not
-by arguing him down, but by moving the "50/50" onto a layer where it earns itself.*
+**Contribution model output (advisory Dan, Elena ≥ Will): ~Elena 46% · Will 43% · Dan 12%.** Will + Elena ≈ **88%**.
+**Elena leads** — equal cash ($50k each) but she's the full-time principal operator from close while Will
+stays at Amazon (W-2, part-time on the business) until late 2027. Locked by Will 6/14: *Elena should have
+more than or equal to me.* A flat 50% for Dan is **~4× what his contribution justifies** — and the
+"Dan 50 / Will 50" framing also erases Elena. *The gap to close isn't arguing Dan down — it's moving the
+"50/50" onto a layer where it earns itself.*
 
 > **Behavioral flag (from `context/acquisition.md` — Will's documented pattern):** Will defaults to
 > collaborate-then-accept and raises disagreement *after* committing. This is the exact moment to hold
@@ -110,29 +112,40 @@ give him **equal voice on strategic decisions** (board seat, joint sign-off on m
 
 ---
 
-## Recommended package for the call
+## Recommended package for the call — LOCKED: #1 (residual waterfall) + #4 (equal voice)
 
-**Backbone = #1, lever = #3, expander = #2.** Said as one move:
+**Will's pick 6/14: Structure 1 and/or 4.** The combination is clean — it gives Dan a *true* 50/50 on the
+upside **and** an equal seat at the strategy table, while economics on the value you + Elena bring in the
+door stay yours, and operating control stays with the people running it daily. Said as one move:
 
-> *"Here's how I want to do this, Dan. Elena's and my capital comes back first with a preferred return,
-> we draw market salaries for running it day-to-day — and from there we're 50/50 on the upside. You start
-> with an advisory stake that climbs as you raise capital and source deals, with a real path to half. And
-> the bigger 50/50 I'm fired up about is the platform we build next, where you're raising the capital and
-> we're genuine equals. That's a better deal for you than half of deal one — and it's one Elena and I can
-> actually say yes to."*
+> *"Here's how I'd want to do this, Dan. Elena and I are putting in the capital and running it day-to-day —
+> Elena full-time, me alongside Amazon until I exit in '27. So on the economics: our capital comes back
+> first with a preferred return, we draw market salaries for the operating work, and from there the upside
+> splits with you as a real partner. And on the big calls — strategy, direction, the moves that matter —
+> I want you at the table as an equal; that's the part of this I most want your brain on. The day-to-day
+> operating decisions stay with me and Elena since we're the ones in it daily. That's a structure where
+> you're a genuine equal where it counts, and one Elena and I can actually commit to."*
+
+**How #1 + #4 split the "50/50" cleanly:**
+- **Economics (#1):** 50/50 on the **residual** — *after* (a) Will+Elena's $100k returns with a ~8% preferred
+  return, and (b) Elena + Will draw market operator salaries. Dan's headline "equal upside" is real; you're
+  protected because cash + labor are made whole first.
+- **Voice (#4):** Dan gets **equal say on strategic decisions** (board-level / major moves) — the respect-and-
+  equal-partner thing he's likely actually after. **Operating decisions stay with Will + Elena.**
 
 **Non-negotiables to hold:**
-1. **Elena is a NAMED co-founder** with her own stake — not folded into "Will's half." She funds half the
-   cash and leaves her career to operate. Any structure that erases her name is dead on arrival.
-2. **Dan's equity vests / earns in** — never a flat grant. He runs other businesses; he's part-time here by
-   his own structure. Vesting protects you if he disengages.
-3. **Operating control stays with Will + Elena.** Equal voice on strategy is fine; operating deadlock is not.
-4. **Return of capital + preferred return comes before any 50/50 split.** This is what makes the headline
-   number fair.
+1. **Elena is a NAMED co-founder with the LARGEST or co-largest founder stake** (~46% in the model) — she's
+   the full-time principal operator and funds half the cash. Never folded into "Will's half." Dead on arrival otherwise.
+2. **Dan's equity vests / earns in** — never a flat grant. He's part-time here by his own structure (runs other
+   businesses). Vesting protects you if he disengages. Optionally tie step-ups to capital he raises (Structure 3 lever).
+3. **Operating control stays with Will + Elena.** Equal voice on *strategy* (#4) is fine; equal *operating*
+   control / literal 50% voting is not — a buy-sell / tiebreak clause is non-negotiable.
+4. **Return of capital + preferred return + operator salaries come BEFORE any 50/50 split** (#1). This is the
+   mechanism that makes Dan's "equal upside" fair to the people who funded and run it.
 
-**The gut-check:** you *can* consciously give Dan more than ~12% for the relationship or his genuine
-strategic value — that's a legitimate choice. Just make it a **deliberate decision you can defend**, not a
-default-accept because "50/50" sounds clean and pushing back feels uncomfortable.
+**The gut-check:** you *can* consciously give Dan more than the ~12% contribution number for the relationship —
+the residual-upside structure is exactly that, done in a protected way. Just keep it a **deliberate, defensible
+choice**, not a default-accept because "50/50" sounds clean and pushing back feels uncomfortable.
 
 ---
 

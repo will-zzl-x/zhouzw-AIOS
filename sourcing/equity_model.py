@@ -70,9 +70,10 @@ DAN_CASH   = 0         # LOCKED: Dan brings $0 personal cash; he RAISES outside 
 #   Dan   = CEO-ish (strategy / direction / board-level), lighter day-to-day hours.
 # Relative weights; they need not sum to 1 (the model normalizes). Tune on the call.
 # ----------------------------------------------------------------------------
-WILL_ROLE  = 0.80   # heavy operator (tech + ops + M&A)
-ELENA_ROLE = 0.78   # heavy co-operator, full-time early (tapers after Yr1/manager hire)
-DAN_ROLE   = 0.20   # advisory only (Will 6/14): guidance/board-level, NOT day-to-day. Was 0.35.
+WILL_ROLE  = 0.65   # PART-TIME on the business until the late-2027 Amazon exit (still W-2);
+                    # tech/AI + ops + M&A, but Elena carries the heavier daily operating load early.
+ELENA_ROLE = 0.90   # PRINCIPAL OPERATOR — full-time from close (left engineering). Heaviest daily role.
+DAN_ROLE   = 0.20   # advisory only (Will 6/14): guidance/board-level, NOT day-to-day.
 
 # ----------------------------------------------------------------------------
 # STRATEGIC scores (0-1) — network, CPA-cover access, deal sourcing, investor
@@ -82,10 +83,10 @@ DAN_ROLE   = 0.20   # advisory only (Will 6/14): guidance/board-level, NOT day-t
 #   Will = Frazier/Apify sourcing pipeline ownership + AI-modernization thesis.
 #   Elena = process/QC rigor is operational, not strategic-network; scored low here.
 # ----------------------------------------------------------------------------
-WILL_STRAT  = 0.60   # sourcing pipeline + AI thesis (slightly up: Will owns the deal flow)
-ELENA_STRAT = 0.20   # limited external network for THIS sector
-DAN_STRAT   = 0.50   # advisory/guidance + network. Down from 0.90: NOT licensing (no CPA cover)
-                     # and NOT the primary capital-raiser per Will 6/14. Network + guidance only.
+WILL_STRAT  = 0.55   # sourcing pipeline + AI-modernization thesis (Will owns the deal flow)
+ELENA_STRAT = 0.35   # CFO strategy: financial modeling, underwriting, systems/process design — this
+                     # IS strategic value for a finance/bookkeeping business, not just execution. (Was 0.20.)
+DAN_STRAT   = 0.50   # advisory/guidance + network. NOT licensing (no CPA cover), NOT primary capital-raiser.
 
 
 def capital_scores(will_cash, elena_cash, dan_cash):
