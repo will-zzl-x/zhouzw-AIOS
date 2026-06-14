@@ -141,6 +141,14 @@ def norm_key(name, addr):
     return re.sub(r"[^a-z0-9]+", "", s)
 
 
+def is_arizona(addr):
+    """Drop leads outside AZ — Google Maps Text Search sometimes returns
+    non-local results when the local space is thin. Cheap defensive filter."""
+    a = str(addr).upper()
+    # Match ", AZ ZIP" or "AZ ZIP" pattern; tolerant of formatting.
+    return bool(re.search(r"(?:,|\s)AZ\s+\d{5}", a))
+
+
 def is_chain(name, mode="solo"):
     n = name.lower()
     return any(c in n for c in chain_blocklist(mode))
@@ -278,7 +286,7 @@ def main():
     print(f"Loaded {len(rows)} raw rows")
 
     seen, kept = set(), []
-    dropped_chain = dropped_cat = dropped_dupe = dropped_rev = 0
+    dropped_chain = dropped_cat = dropped_dupe = dropped_rev = dropped_geo = 0
     for r in rows:
         name = g(r, "title", "name")
         addr = g(r, "address", "street", "formattedAddress")
@@ -289,6 +297,8 @@ def main():
         if k in seen:
             dropped_dupe += 1; continue
         seen.add(k)
+        if addr and not is_arizona(addr):
+            dropped_geo += 1; continue
         if is_chain(name, mode=args.mode):
             dropped_chain += 1; continue
         if not category_ok(cat, name, mode=args.mode):
@@ -314,8 +324,9 @@ def main():
 
     kept.sort(key=lambda x: x["score"], reverse=True)
 
-    print(f"Dropped: {dropped_dupe} dupes, {dropped_chain} chains, "
-          f"{dropped_cat} off-category, {dropped_rev} below min-reviews")
+    print(f"Dropped: {dropped_dupe} dupes, {dropped_geo} out-of-state, "
+          f"{dropped_chain} chains, {dropped_cat} off-category, "
+          f"{dropped_rev} below min-reviews")
     print(f"Kept {len(kept)} ranked leads")
 
     # CSV

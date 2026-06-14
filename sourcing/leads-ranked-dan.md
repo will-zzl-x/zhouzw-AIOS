@@ -1,4 +1,4 @@
-# Ranked acquisition leads — 512 firms
+# Ranked acquisition leads — 505 firms
 
 Bookkeeping/accounting (Dan track, $500k-$1M), Phoenix metro. Top of the 100/50/10/1 funnel.
 Score = Maps-only acquisition-fit heuristic (see enrich.py). Next: contact top tier, then `/deal-eval`.
@@ -41,19 +41,19 @@ Score = Maps-only acquisition-fit heuristic (see enrich.py). Next: contact top t
 | 32 | 90 | Loyalty Tax & Accounting | 45 | 5.0 | (480) 361-7509 | ✓ |  |
 | 33 | 90 | Aspire Financial LLC | 46 | 4.5 | (480) 314-9393 | ✓ |  |
 | 34 | 90 | EJK Tax Services, LLC | 142 | 4.9 | (623) 229-0309 | ✓ | tax-prep — seasonal/one-time, verify recurring % |
-| 35 | 90 | Brilliant Tax & Accounting Services, Inc. | 123 | 4.7 | (818) 408-7117 | ✓ |  |
-| 36 | 90 | Metz Tax Services | 56 | 4.9 | (623) 937-0065 | ✓ | tax-prep — seasonal/one-time, verify recurring % |
-| 37 | 90 | TDG TAX SERVICES LLC | 51 | 5.0 | (602) 907-7855 | ✓ | tax-prep — seasonal/one-time, verify recurring % |
-| 38 | 90 | Asset Preservation Wealth & Tax, Financial Advisors | 131 | 4.8 | (623) 400-6067 | ✓ |  |
-| 39 | 90 | Rapido Express Tax Services | 89 | 4.9 | (623) 873-3838 | ✓ | tax-prep — seasonal/one-time, verify recurring % |
-| 40 | 90 | Gonzalez Tax Service & Insurance | 69 | 4.7 | (602) 241-8681 | ✓ | tax-prep — seasonal/one-time, verify recurring % |
-| 41 | 90 | Traditional Tax Service | 55 | 4.9 | (480) 361-5156 | ✓ | tax-prep — seasonal/one-time, verify recurring % |
-| 42 | 90 | Rodriguez Income Tax Service | 34 | 4.6 | (480) 649-2961 | ✓ | tax-prep — seasonal/one-time, verify recurring % |
-| 43 | 90 | BackPocket CFO & Tax by GeneralCents Accounting | 30 | 5.0 | (480) 281-2861 | ✓ |  |
-| 44 | 90 | Tudor Financial Group, LLC | 37 | 5.0 | (602) 992-3300 | ✓ |  |
-| 45 | 87 | Bookkeeping and Accounting, Andy Sandoval | 17 | 5.0 | (602) 821-6928 | ✓ | likely recurring rev |
-| 46 | 87 | Powerful Whys Bookkeeping | 17 | 4.8 | (801) 623-0722 | ✓ | likely recurring rev |
-| 47 | 87 | Smart Cloud Bookkeeping LLC | 17 | 4.8 | (623) 404-8848 | ✓ | likely recurring rev |
-| 48 | 87 | Arthur Bookkeeping & Tax | 15 | 4.7 | (888) 552-6657 | ✓ | likely recurring rev |
-| 49 | 87 | Oak & Acorn Bookkeeping Services, LLC | 20 | 5.0 | (602) 456-0188 | ✓ | likely recurring rev |
-| 50 | 87 | Journey Payroll & HR - PHX | 29 | 5.0 | (480) 699-2729 | ✓ | likely recurring rev |
+| 35 | 90 | Metz Tax Services | 56 | 4.9 | (623) 937-0065 | ✓ | tax-prep — seasonal/one-time, verify recurring % |
+| 36 | 90 | TDG TAX SERVICES LLC | 51 | 5.0 | (602) 907-7855 | ✓ | tax-prep — seasonal/one-time, verify recurring % |
+| 37 | 90 | Asset Preservation Wealth & Tax, Financial Advisors | 131 | 4.8 | (623) 400-6067 | ✓ |  |
+| 38 | 90 | Rapido Express Tax Services | 89 | 4.9 | (623) 873-3838 | ✓ | tax-prep — seasonal/one-time, verify recurring % |
+| 39 | 90 | Gonzalez Tax Service & Insurance | 69 | 4.7 | (602) 241-8681 | ✓ | tax-prep — seasonal/one-time, verify recurring % |
+| 40 | 90 | Traditional Tax Service | 55 | 4.9 | (480) 361-5156 | ✓ | tax-prep — seasonal/one-time, verify recurring % |
+| 41 | 90 | Rodriguez Income Tax Service | 34 | 4.6 | (480) 649-2961 | ✓ | tax-prep — seasonal/one-time, verify recurring % |
+| 42 | 90 | BackPocket CFO & Tax by GeneralCents Accounting | 30 | 5.0 | (480) 281-2861 | ✓ |  |
+| 43 | 90 | Tudor Financial Group, LLC | 37 | 5.0 | (602) 992-3300 | ✓ |  |
+| 44 | 87 | Bookkeeping and Accounting, Andy Sandoval | 17 | 5.0 | (602) 821-6928 | ✓ | likely recurring rev |
+| 45 | 87 | Smart Cloud Bookkeeping LLC | 17 | 4.8 | (623) 404-8848 | ✓ | likely recurring rev |
+| 46 | 87 | Arthur Bookkeeping & Tax | 15 | 4.7 | (888) 552-6657 | ✓ | likely recurring rev |
+| 47 | 87 | Oak & Acorn Bookkeeping Services, LLC | 20 | 5.0 | (602) 456-0188 | ✓ | likely recurring rev |
+| 48 | 87 | Journey Payroll & HR - PHX | 29 | 5.0 | (480) 699-2729 | ✓ | likely recurring rev |
+| 49 | 87 | Payroll Vault Gilbert, Arizona | 20 | 5.0 | (480) 992-5581 | ✓ | likely recurring rev |
+| 50 | 87 | BFG Accounting and Bookkeeping | 17 | 4.5 | (623) 594-9615 | ✓ | likely recurring rev |
