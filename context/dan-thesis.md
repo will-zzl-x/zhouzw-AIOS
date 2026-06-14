@@ -130,11 +130,11 @@ Decided 2026-05-31. Frame B = direct reactivation ask to Dan, with the debt-load
 
 **Readiness gates before the message goes** (per `backlog.md`):
 
-1. Roland Frazier YouTube + outreach script v2 — closes the 13-mo-old action item from May 2025
-2. Apify Google Maps scrape + Claude-Code lead enrichment — re-runs the 4/22/2025 Apollo work, modernized, narrower geo (20mi Phoenix), locked sector
+1. ~~Roland Frazier YouTube + outreach script v2~~ — **CLOSED 2026-06-08.** Script lives at `context/frazier-outreach-script.md`.
+2. ~~Apify Google Maps scrape + Claude-Code lead enrichment~~ — **CLOSED 2026-06-14.** Pivoted off Apify to Google Places API (free path under GCP $200/mo credit; see `sourcing/places_scrape.py`). Dan-track scrape complete: **505 ranked bookkeeping/accounting firms** in `sourcing/leads-ranked-dan.md`. Top tier 4.3-5.0★ with phones + websites; non-CPA-prefixed (cleaner AZ 51% ownership path).
 3. Dan thesis files verified — this file + `journals/dan-thesis-history.md` (**closed 2026-06-03**)
 
-Once 1 + 2 close, Will sends Frame B. Target: 30-min call to align on (a) is Dan still in, (b) refreshed deal box, (c) division of roles in the modernized sourcing pipeline, (d) Dan's CPA-licensure status.
+**ALL THREE GATES CLOSED.** Frame B message can be drafted + sent. Target: 30-min call to align on (a) is Dan still in, (b) refreshed deal box, (c) division of roles in the modernized sourcing pipeline, (d) Dan's CPA-licensure status.
 
 **Hard line for the message itself**: name the actual stall reason and the actual fix. The 2025 stall was *"I can't service $500k–$1M of acquisition debt while still W-2 at Amazon"* — not *"this business doesn't support the debt."* The fix is **Elena's combined cash + time contribution**: her cash reduces the debt required, and her CFO/COO bandwidth splits the post-acquisition operational load — letting Will ramp out of Amazon on the planned late-2027 timeline rather than forcing it earlier. Naming both the precise objection and the precise resolution is the credibility lever.
 

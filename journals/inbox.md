@@ -6,6 +6,57 @@
 
 ---
 
+## 2026-06-14 — Acquisition sourcing pipeline: Dan + Solo scrapes COMPLETE, sector-narrowing teed up
+
+**Major milestone** — both work-main-quest scrapes from backlog (#3 apify-scrape-dan + #5 apify-scrape-solo) shipped today via a free path. Sourcing infra is now operational and producing real funnels.
+
+**Path pivot:** Apify free tier wouldn't cover the full 180-string Solo scrape (~$15-25 paid). Instead built `sourcing/places_scrape.py` — Google Places API (New) drop-in replacement, runs under GCP's $200/month free credit (used ~$2-5). Same JSON config shape as Apify, same output shape `enrich.py` reads. Sets up free monthly re-scrapes going forward.
+
+**Pipeline files (all committed, branch `claude/weekly-reflection-lifting-data-Gsh0P`):**
+- `sourcing/places_scrape.py` — free Apify replacement (Google Places API)
+- `sourcing/enrich.py` — upgraded to sector-aware solo mode + AZ geo filter + per-sector yield reporting + sector_tag classification
+- `sourcing/apify-input-dan-bookkeeping.RUN.json` + `sourcing/apify-input-solo.RUN.json` — comment-stripped paste-ready configs
+- `sourcing/leads-ranked-dan.md/.csv` — 505 viable bookkeeping/accounting firms (Dan track)
+- `sourcing/leads-ranked-solo.md/.csv` — 620 viable leads across 8 sourceable sectors (Solo track)
+- `context/sector-evaluation-framework.md` — rewritten 6/13 to match the post-6/10 12-sector menu; repositioned as POST-scrape narrowing tool
+- `sourcing/.env` — GCP API key (LOCAL ONLY, gitignored — must be re-grabbed from GCP console on the other machine, OR rotate per security flag)
+
+**Dan track results — 505 ranked viable bookkeeping/accounting firms** (827 raw → 7 out-of-state → 63 chain drops → 252 off-category → 505 kept). Top 10 are all 4.3-5.0★ with phones + websites; clean for AZ 51% law (non-CPA firms scored higher). Names ready to cite in the Frame B message to Dan.
+
+**Solo track results — per-sector sourcing-reality (dimension-5 score band):**
+
+| Sector | Viable leads | Band |
+|---|---|---|
+| specialty-distribution | 170 | **5** Strong |
+| pest-control | 117 | **5** Strong |
+| hoa-management | 114 | **5** Strong |
+| window-cleaning | 58 | **3** Workable |
+| pool-service | 57 | **3** Workable |
+| vending-micromarket | 34 | **3** Workable |
+| water-treatment | 28 | **2** Thin |
+| msp-it | 23 | **2** Thin |
+| document-destruction | 13 | **1** DROP (hard filter) |
+| coffee-water-service | 5 | **1** DROP |
+| mat-rental | 1 | **1** DROP |
+| office-plant-care | 0 in AZ | **1** DROP |
+
+**12 candidate sectors → 8 that survive sourcing-reality.** Sunday Elena session is now: score the surviving 8 on dimensions 1-4 (skill/interest/recurring-rev/deal-box) using framework doc, compare, lock top 2-3, update `context/acquisition.md` Track 2 + add Elena apprenticeship backlog row.
+
+**Backlog flips this commit:**
+- `apify-scrape-dan` (#3) → DONE
+- `apify-scrape-solo` (#5) → DONE (scrape-broad architecture meant we ran it before sector-pick, not after — gate obsolete)
+- `dan-reachout` (#10) → UNBLOCKED (both readiness gates closed: Frazier script v2 at `context/frazier-outreach-script.md` + Apify scrape done)
+- `zog-sector-pick` (#4) → still open, now backed by yield data — Sunday session w/ Elena (timing TBD; Banff call 7:30pm PST is already on tonight)
+
+**Pick-up state for other machine:**
+1. `git pull origin claude/weekly-reflection-lifting-data-Gsh0P`
+2. Open `sourcing/leads-ranked-solo.md` + `sourcing/leads-ranked-dan.md` — they're the working deliverables
+3. If wanting to re-run scrape on other machine: re-grab/rotate GCP API key, drop into `sourcing/.env` (gitignored, not in repo)
+4. Sunday session: walk through `context/sector-evaluation-framework.md` with Elena, use the dimension-5 yield table from `leads-ranked-solo.md` as the sourcing-reality score
+5. Post-session: update `context/acquisition.md` Track 2 with locked top 2-3 sectors + add `elena-apprenticeship-[sector]` backlog row
+
+---
+
 ## 2026-06-10 — Elena birthday trip Sedona Sep 11-14 (locked plan, needs booking)
 
 **Trip**: Elena's birthday weekend Sep 11-14, 2026. Sedona, 3 nights, drive up Fri after work, return Mon afternoon. **0.5 PTO total** (Mon PM). Goal-anchored to `goals/desire-polarity.md` — novelty + stressor removal + private hot tub/fireplace cabin + Saturday birthday peak + Sunday stargazing peak.
