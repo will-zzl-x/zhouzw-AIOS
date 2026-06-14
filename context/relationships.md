@@ -76,3 +76,5 @@ Mom and brother — no active context relevant to life decisions or movers at th
 **Status:** Acknowledged gap — quality and consistency of friendships needs review and intentional improvement. No specific inventory yet. Flag for a dedicated review pass.
 
 **Context:** Most of Will's close friends are Michigan-based. Current life is Chandler/Tempe. Distance and life stage (engaged, Amazon, focused on advancement) are likely contributing to drift.
+
+**First concrete data point:** Large friend-group Banff/Canmore trip (July 2-12, 2026), ~12-14 people from the old friend network (Michigan-era + extended). Active group planning effort with a real roster, lodging logistics, and budget — see `journals/inbox.md` for full state. Worth revisiting this section once the trip happens to assess what it surfaced about the friendship gap.

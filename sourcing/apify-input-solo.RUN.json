@@ -1,29 +1,4 @@
 {
-  "_comment": "Apify 'Google Maps Scraper' actor (compass/crawler-google-places). SOLO-TRACK — expanded 2026-06-13 to the full 12-sector candidate menu from context/acquisition.md (post-6/10 widening). Architecture: scrape broad (12 sectors), narrow narrow after seeing per-sector yields + Elena gut response on lead names. Marginal Apify cost is cheap; human attention is expensive. See context/acquisition.md Track 2 + context/sector-evaluation-framework.md.",
-
-  "_sector_pick_status": "BROAD-SCRAPE TEMPLATE — 12 candidate sectors. Narrowing happens POST-scrape via the framework doc.",
-
-  "_sectors_in_this_scrape": [
-    "HOA management services",
-    "Water treatment / softener service",
-    "MSP / IT managed services",
-    "Specialty distribution (B2B niche)",
-    "Office plant care / interior landscaping",
-    "Mat rental services",
-    "Document destruction / shredding routes",
-    "Window cleaning commercial routes",
-    "Pool service routes",
-    "Pest control routes",
-    "Vending / micro-market routes",
-    "Coffee / water service routes"
-  ],
-
-  "_strings_per_sector": "3 search terms × 5 cities = 15 strings per sector × 12 sectors = 180 total",
-
-  "_geographic_scope": "Phoenix metro core 5 cities (Phoenix, Mesa, Scottsdale, Chandler, Tempe). Radii capture Gilbert/Glendale/Peoria/Surprise via overlap.",
-
-  "_post_scrape_workflow": "1) Export Apify dataset as JSON to sourcing/leads/solo-2026-MM-DD.json. 2) Run: python enrich.py leads/solo-2026-MM-DD.json --mode solo --out leads-ranked-solo. 3) Filter ranked CSV by category to see per-sector yields. 4) Apply sector-evaluation-framework.md scoring (Will + Elena, separate then compare) + use scrape yields as dimension-5 sourcing-reality score. 5) Eyeball top 30 per sector for Elena gut response on operator names. 6) Lock top 2-3 sectors. 7) Run targeted outreach (Walking Billboard / Frame B) on top 2-3.",
-
   "searchStringsArray": [
     "HOA management company Phoenix AZ",
     "homeowners association management Phoenix AZ",
@@ -40,7 +15,6 @@
     "HOA management company Tempe AZ",
     "homeowners association management Tempe AZ",
     "community management services Tempe AZ",
-
     "water softener installation Phoenix AZ",
     "water treatment company Phoenix AZ",
     "water filtration service Phoenix AZ",
@@ -56,7 +30,6 @@
     "water softener installation Tempe AZ",
     "water treatment company Tempe AZ",
     "water filtration service Tempe AZ",
-
     "IT managed services Phoenix AZ",
     "managed service provider Phoenix AZ",
     "IT support company Phoenix AZ",
@@ -72,7 +45,6 @@
     "IT managed services Tempe AZ",
     "managed service provider Tempe AZ",
     "IT support company Tempe AZ",
-
     "industrial supply distributor Phoenix AZ",
     "wholesale distributor Phoenix AZ",
     "specialty distribution company Phoenix AZ",
@@ -88,7 +60,6 @@
     "industrial supply distributor Tempe AZ",
     "wholesale distributor Tempe AZ",
     "specialty distribution company Tempe AZ",
-
     "interior plant service Phoenix AZ",
     "office plant rental Phoenix AZ",
     "plantscape service Phoenix AZ",
@@ -104,7 +75,6 @@
     "interior plant service Tempe AZ",
     "office plant rental Tempe AZ",
     "plantscape service Tempe AZ",
-
     "mat rental service Phoenix AZ",
     "commercial floor mat service Phoenix AZ",
     "uniform mat rental Phoenix AZ",
@@ -120,7 +90,6 @@
     "mat rental service Tempe AZ",
     "commercial floor mat service Tempe AZ",
     "uniform mat rental Tempe AZ",
-
     "document shredding service Phoenix AZ",
     "paper shredding company Phoenix AZ",
     "secure document destruction Phoenix AZ",
@@ -136,7 +105,6 @@
     "document shredding service Tempe AZ",
     "paper shredding company Tempe AZ",
     "secure document destruction Tempe AZ",
-
     "commercial window cleaning Phoenix AZ",
     "window washing service Phoenix AZ",
     "window cleaning company Phoenix AZ",
@@ -152,7 +120,6 @@
     "commercial window cleaning Tempe AZ",
     "window washing service Tempe AZ",
     "window cleaning company Tempe AZ",
-
     "pool cleaning service Phoenix AZ",
     "pool maintenance company Phoenix AZ",
     "swimming pool service Phoenix AZ",
@@ -168,7 +135,6 @@
     "pool cleaning service Tempe AZ",
     "pool maintenance company Tempe AZ",
     "swimming pool service Tempe AZ",
-
     "pest control service Phoenix AZ",
     "exterminator Phoenix AZ",
     "termite control Phoenix AZ",
@@ -184,7 +150,6 @@
     "pest control service Tempe AZ",
     "exterminator Tempe AZ",
     "termite control Tempe AZ",
-
     "vending machine service Phoenix AZ",
     "micro market service Phoenix AZ",
     "office vending company Phoenix AZ",
@@ -200,7 +165,6 @@
     "vending machine service Tempe AZ",
     "micro market service Tempe AZ",
     "office vending company Tempe AZ",
-
     "office coffee service Phoenix AZ",
     "water delivery service Phoenix AZ",
     "office break room service Phoenix AZ",
@@ -217,7 +181,6 @@
     "water delivery service Tempe AZ",
     "office break room service Tempe AZ"
   ],
-
   "maxCrawledPlacesPerSearch": 60,
   "language": "en",
   "countryCode": "us",
@@ -228,11 +191,5 @@
   "scrapeReviewsPersonalData": false,
   "maxReviews": 0,
   "maxImages": 0,
-  "maxQuestions": 0,
-
-  "_field_note": "maxCrawledPlacesPerSearch reduced from 80 → 60 because 180 strings × 80 = 14,400 max places (too much). 180 × 60 = 10,800 max — after dedup yields ~3,500-5,000 unique businesses across 12 sectors (~300-400/sector average for high-density sectors, fewer for niche). enrich.py with --mode solo filters to top buyable-profile per sector. scrapeContacts pulls emails + socials (extra credits but worth it for outreach). scrapePlaceDetailPage must stay true to get website/phone/category reliably. Niche sectors (office plant care, mat rental, document destruction) will naturally yield fewer than 60/search and that's fine — it's the sourcing-reality signal we want.",
-
-  "_solo_track_deal_box": "Target $300-500k purchase price. SDE floor ~$253k at $300k → ~$286k at $500k. Revenue floor ~$843k-$952k at 30% margin. Smaller deal than Dan track ($500k-$1M) because no Dan CPA cover + simpler operationally. See context/acquisition.md for full deal box.",
-
-  "_before_running": "Strip the underscore-prefixed comment keys (Apify ignores them but cleaner to remove). Paste into Apify JSON editor for compass/crawler-google-places actor. Expect 60-120 min run time (12 sectors × 180 strings). Cost ~$15-30 in Apify credits depending on output volume."
+  "maxQuestions": 0
 }
