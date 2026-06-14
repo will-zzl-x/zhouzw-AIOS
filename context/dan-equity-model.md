@@ -76,50 +76,43 @@ trade-offs **visible and adjustable**, not to assert a single answer.
 
 ---
 
-## 4. ILLUSTRATIVE scenarios — *pending Will + Elena + Dan confirmation*
+## 4. Scenarios — LOCKED inputs (Will, 2026-06-14) + sensitivity
 
-> **ILLUSTRATIVE — pending Will + Elena + Dan confirmation.** Every number in this
-> section is an EXAMPLE produced from EXAMPLE inputs. None of it is real equity. Its
-> only job is to show *how the split moves* as Elena's cash assumption changes.
+> **Inputs now LOCKED to Will's 6/14 decision** (Will $50k · Elena $50k · Dan **$0** personal
+> cash). The split below is the model's output on those inputs. It is still a STARTING POINT
+> for the call, not a settled grant — the role/strategic scores and dimension weights remain
+> tunable, and Dan's % in particular is a negotiation (see note). Do not treat as final equity.
 
-**Example dimension weights:** capital 40% · role 40% · strategic 20%.
-**Example role scores (0-1):** Will 0.80 · Elena 0.70 · Dan 0.35.
-**Example strategic scores (0-1):** Will 0.55 · Elena 0.20 · Dan 0.90.
+**Dimension weights:** capital 40% · role 40% · strategic 20%.
+**Role scores (0-1):** Will 0.80 · Elena 0.78 (full-time co-operator early, tapers after Yr1/manager) · Dan 0.35.
+**Strategic scores (0-1):** Will 0.55 · Elena 0.20 · Dan 0.90.
 
-### Scenario A — Elena's cash equal to the others `[E_cash = $50k example]`
+### LOCKED base case — Will $50k · Elena $50k · Dan $0
 
-Cash inputs (EXAMPLE): Will $50k · Elena `[E_cash]`=$50k · Dan $50k.
-
-| Partner | capital% | role% | strat% | → equity |
-|---|---|---|---|---|
-| Will | 33.3% | 43.2% | 33.3% | **37.3%** |
-| Elena | 33.3% | 37.8% | 12.1% | **30.9%** |
-| Dan | 33.3% | 18.9% | 54.5% | **31.8%** |
-
-### Scenario B — Elena's cash DOUBLES `[E_cash = $100k example]` (the Scenario B lever)
-
-Cash inputs (EXAMPLE): Will $50k · Elena `[E_cash]`=$100k · Dan $50k. All else held.
+Cash inputs: Will $50k · Elena $50k · Dan **$0** (total partner equity $100k → ~$500k SBA loan on a $600k deal).
 
 | Partner | capital% | role% | strat% | → equity |
 |---|---|---|---|---|
-| Will | 25.0% | 43.2% | 33.3% | **34.0%** |
-| Elena | 50.0% | 37.8% | 12.1% | **37.6%** |
-| Dan | 25.0% | 18.9% | 54.5% | **28.5%** |
+| **Will** | 50.0% | 41.5% | 33.3% | **~43.2%** |
+| **Elena** | 50.0% | 40.4% | 12.1% | **~38.6%** |
+| **Dan** | 0.0% | 18.1% | 54.5% | **~18.2%** |
 
-### What the sensitivity shows
+### Sensitivity — if Elena goes to $100k (drains her taxable; NOT recommended)
 
-Doubling Elena's example cash from `[E_cash]`=$50k → $100k moves her illustrative
-equity **+6.7 pts (30.9% → 37.6%)** and makes her the largest example stakeholder. The
-*magnitude* of that move is entirely a function of the example 40% capital weight — at a
-lower capital weight her cash moves the split less; at a higher one, more. This is the
-single most important dial for the Frame B conversation, because Elena's cash injection
-is the mechanism that resolved the 2025 debt-load stall.
+Cash inputs: Will $50k · Elena $100k · Dan $0. All else held.
 
-**Illustrative split range** across these examples: roughly **Will 34-37% · Elena
-31-38% · Dan 28-32%** — a near-balanced three-way split that tilts toward whichever
-partner's cash assumption is set highest. Do not quote these as the actual split; they
-exist to frame the conversation, and they will move once real weights and real cash
-figures replace the examples.
+| Partner | capital% | role% | strat% | → equity |
+|---|---|---|---|---|
+| Will | 33.3% | 41.5% | 33.3% | **~36.6%** |
+| Elena | 66.7% | 40.4% | 12.1% | **~45.3%** |
+| Dan | 0.0% | 18.1% | 54.5% | **~18.2%** |
+
+### What this shows + the Dan question
+
+- **The base split is ~Will 43 / Elena 39 / Dan 18.** Will + Elena hold ~82% combined — appropriate, since they bring **all** the cash *and* the operating load. Elena lands just behind Will because she matches his cash and is a near-equal early operator.
+- **Dan's ~18% is for $0 cash + light day-to-day** — pure strategic value (CPA cover + network + raising outside capital). That number is the live negotiation. **Recommended framing for the call: performance-link Dan's equity to capital actually raised** (e.g. a base for CPA-cover/network + step-ups tied to $ raised), rather than a flat ~18% grant for showing up. If Dan raises nothing and isn't licensed, ~18% is generous; if he raises real outside capital, it's cheap.
+- **Why NOT push Elena to $100k:** the sensitivity shows it would make her the majority operator-owner (~45%), but it drains her $100k taxable that's also the mid-2027→close bridge fund + post-2027 home down payment. The recommendation (`context/dan-elena-decision-brief.md`) is to **hold at $50k/$50k** and let **Dan's outside-capital raise + a seller standby note** fill any gap above the clean $500–700k range — that's the designed lever and the reason Dan's a partner.
+- **Outside investors take their own equity**, separate from this three-founder split — a cap-table topic for the call, not a number in this table.
 
 ### Exact calculator output (for reproducibility)
 
@@ -130,24 +123,24 @@ ILLUSTRATIVE — pending Will + Elena + Dan confirmation. NOT real equity.
 ========================================================================
 
 Dimension weights (EXAMPLE): capital=40%  role=40%  strategic=20%
-Role scores (EXAMPLE 0-1):  Will=0.8 Elena=0.7 Dan=0.35
+Role scores (EXAMPLE 0-1):  Will=0.8 Elena=0.78 Dan=0.35
 Strategic scores (EXAMPLE 0-1):  Will=0.55 Elena=0.2 Dan=0.9
 
 BASE CASE (example cash inputs)
-  cash inputs (EXAMPLE):  Will=$50,000  Elena=$50,000  Dan=$50,000  (total partner cash $150,000)
+  cash inputs (EXAMPLE):  Will=$50,000  Elena=$50,000  Dan=$0  (total partner cash $100,000)
   Partner  capital%    role%   strat%   -> equity
-  Will        33.3%    43.2%    33.3%       37.3%
-  Elena       33.3%    37.8%    12.1%       30.9%
-  Dan         33.3%    18.9%    54.5%       31.8%
+  Will        50.0%    41.5%    33.3%       43.2%
+  Elena       50.0%    40.4%    12.1%       38.6%
+  Dan          0.0%    18.1%    54.5%       18.2%
 
 SENSITIVITY — Elena's cash DOUBLES (Scenario B lever), all else held
-  cash inputs (EXAMPLE):  Will=$50,000  Elena=$100,000  Dan=$50,000  (total partner cash $200,000)
+  cash inputs (EXAMPLE):  Will=$50,000  Elena=$100,000  Dan=$0  (total partner cash $150,000)
   Partner  capital%    role%   strat%   -> equity
-  Will        25.0%    43.2%    33.3%       34.0%
-  Elena       50.0%    37.8%    12.1%       37.6%
-  Dan         25.0%    18.9%    54.5%       28.5%
+  Will        33.3%    41.5%    33.3%       36.6%
+  Elena       66.7%    40.4%    12.1%       45.3%
+  Dan          0.0%    18.1%    54.5%       18.2%
 
-  -> Doubling Elena's example cash moves her equity by +6.7 pts ( 30.9% ->  37.6%).
+  -> Doubling Elena's example cash moves her equity by +6.7 pts ( 38.6% ->  45.3%).
      (Magnitude depends entirely on the EXAMPLE weights/scores above — confirm with partners.)
 
 Reminder: replace every EXAMPLE input with a confirmed number before treating any % as real.

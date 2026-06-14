@@ -47,28 +47,32 @@ DIM_WEIGHTS = {
 }
 
 # ----------------------------------------------------------------------------
-# CASH INJECTION (capital dimension) — EXAMPLE placeholders.
-# These are NOT real. Elena's cash is [NEEDS FILL]; Dan's capital may be equity
-# OR debt (open question — if it's debt it should NOT count here). Will's cash
-# comes from the $70k S&ME fund context but the partner-equity portion is TBD.
-# Replace each with a confirmed number before treating any output as real.
+# CASH INJECTION (capital dimension) — LOCKED inputs (Will, 2026-06-14).
+# NOTE: Dan puts in NO personal cash. His capital role is RAISING OUTSIDE INVESTOR
+# capital — which is NOT his personal equity and does NOT count in this dimension
+# (those investors take their own equity, separate from the 3-founder split / a
+# cap-table topic for the call). Dan's value here is strategic (capital-raising +
+# CPA cover + network), captured in STRATEGIC below — consider performance-linking
+# his equity to capital actually raised rather than a flat grant.
 # ----------------------------------------------------------------------------
-WILL_CASH  = 50_000    # [Will fills] — example: S&ME-fund equity portion at close
-ELENA_CASH = 50_000    # [Will fills: $E_cash equity at close] — UNKNOWN, example only
-DAN_CASH   = 50_000    # [Will fills] — example; AND confirm equity vs. debt first
+WILL_CASH  = 50_000    # LOCKED: ~$50k from the $70k S&ME fund (keep ≥$20k reserve post-close).
+ELENA_CASH = 50_000    # LOCKED: ~$50k to match Will, from Elena's $100k taxable (leaves ~$50k
+                       # taxable + $44k earmarked as bridge/home runway — do NOT drain further).
+DAN_CASH   = 0         # LOCKED: Dan brings $0 personal cash; he RAISES outside capital instead.
 
 # ----------------------------------------------------------------------------
 # ROLE / TIME scores (0-1) — ongoing operating role + hours committed.
-# Maps to dan-thesis.md function split. EXAMPLE judgments, pending confirmation.
-#   Will  = COO/CTO blend (AI/tech modernization + ops leadership + M&A sourcing)
-#           — heaviest day-to-day operating load in Year 1.
-#   Elena = CFO (financial controls + process/SOP + QC + firm P&L), 20 hr/wk Yr 1.
+# Updated to Will's 6/14 framing: "operator will be us to start." Will + Elena
+# are BOTH heavy front-line operators early (Elena full-time-as-needed, tapering
+# after ~Year 1 / once a manager is in). Dan is strategy/network, lighter day-to-day.
+#   Will  = COO/CTO blend (AI/tech modernization + ops leadership + M&A sourcing).
+#   Elena = CFO + co-operator, FULL-TIME EARLY (financial controls + process + QC + P&L).
 #   Dan   = CEO-ish (strategy / direction / board-level), lighter day-to-day hours.
-# These are relative weights; they do not need to sum to 1 (the model normalizes).
+# Relative weights; they need not sum to 1 (the model normalizes). Tune on the call.
 # ----------------------------------------------------------------------------
-WILL_ROLE  = 0.80   # EXAMPLE — heavy operator (tech + ops + M&A)
-ELENA_ROLE = 0.70   # EXAMPLE — heavy operator (CFO, 20 hr/wk Year 1)
-DAN_ROLE   = 0.35   # EXAMPLE — strategy/direction, lighter day-to-day
+WILL_ROLE  = 0.80   # heavy operator (tech + ops + M&A)
+ELENA_ROLE = 0.78   # heavy co-operator, full-time early (tapers after Yr1/manager hire)
+DAN_ROLE   = 0.35   # strategy/direction, lighter day-to-day
 
 # ----------------------------------------------------------------------------
 # STRATEGIC scores (0-1) — network, CPA-cover access, deal sourcing, investor

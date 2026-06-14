@@ -16,8 +16,8 @@ This is the **direct reactivation ask to an existing partner** — not cold sell
 >
 > I do now. Two things changed:
 >
-> 1. **Elena's all-in — capital and operating.** She's leaving engineering and putting [Will fills: $X as equity at close, from ___] toward the deal, which directly shrinks the debt we'd have to carry. And she's stepping into the CFO/COO seat — financial controls, reporting, process, QC — full-time up front while the business needs the most hands, then tapering as we hire a manager and the systems mature [Will fills: confirm "full-time at first → taper" framing + any hours she wants]. That splits the post-close operating load so it doesn't all land on me, which means the business can run alongside my Amazon ramp-down instead of forcing me to quit early to babysit it. I still exit Amazon on the late-2027 plan, not sooner under pressure.
-> 2. **Your investor network compounds it.** If you're up for raising some outside capital, that stacks on top of Elena's contribution and pulls the whole thing further away from SBA-heavy debt. Less note, less monthly pressure, less exit-timing risk.
+> 1. **Elena's all-in — capital and operating.** She's leaving engineering and putting in ~$50K of equity at close (I'm matching it with ~$50K from my side), which directly shrinks the debt we'd carry. And she's stepping into the CFO/COO seat — financial controls, reporting, process, QC — full-time up front while the business needs the most hands, then tapering after the first year as we get a manager in and the systems mature. That splits the post-close operating load so it doesn't all land on me, which means the business can run alongside my Amazon ramp-down instead of forcing me to quit early to babysit it. I still exit Amazon on the late-2027 plan, not sooner under pressure.
+> 2. **Where you come in — capital-raising + the network.** Elena's and my cash covers the equity floor on a clean deal, so I'm not asking you for a check. Where you're the difference-maker is raising outside investor capital — that's what stretches our range and pulls the whole thing further from SBA-heavy debt — plus the CPA cover and the AZ professional-services network we'd otherwise be cold-sourcing into. Less note, less monthly pressure, less exit-timing risk.
 >
 > Three other things I've locked down on my end so this isn't the same hand-wavy conversation as last year:
 >
@@ -29,8 +29,8 @@ This is the **direct reactivation ask to an existing partner** — not cold sell
 >
 > - **(a)** Are you still in? No hard feelings either way — I want a real answer, not a polite one.
 > - **(b)** Walk you through the refreshed deal box and get your gut on it.
-> - **(c)** Who owns what in the modernized pipeline — I've got a draft split (you on strategy + capital + network, me on ops/AI/sourcing, Elena on finance/process) but it's a starting point, not a decree.
-> - **(d)** Where you landed on CPA licensure — that's the AZ 51%-ownership question, and how we answer it shapes the structure. [Will fills / or leave as an open question for the call]
+> - **(c)** Who owns what — I've got a draft split (you on strategy + capital-raising + network, me on ops/AI/sourcing, Elena on finance/process) but it's a starting point, not a decree. Equity follows contribution; happy to talk through how I'm thinking about it.
+> - **(d)** Where you landed on CPA licensure — that's the AZ 51%-ownership question, and how we answer it shapes the structure.
 >
 > When's good for you this/next week?
 >
@@ -54,9 +54,8 @@ This is the **direct reactivation ask to an existing partner** — not cold sell
 
 - **Best channel:** Whatever channel Will and Dan actually use for substantive back-and-forth — likely text or email over LinkedIn. This is a partner, not a lead; pick the channel that reads as "Will reaching out personally," not "Will running a campaign." If unsure, a short text teeing up a longer email ("sending you a note — read when you get a sec") respects a 13-month gap better than a cold wall of text.
 - **Suggested subject line (if email):** "Bringing the accounting-firm idea back — the wall's gone" — or shorter: "That accounting deal — picking it back up."
-- **Load-bearing placeholders Will MUST fill before sending** (the message loses its entire credibility lever if these stay vague — Dan will ask immediately):
-  1. `[Will fills: $X as equity at close, from ___]` — Elena's cash amount + source + timing. This is THE number that resolves the 2025 stall. "Elena's contributing capital" is not an answer; "$X at close from ___" is.
-  2. `[Will fills: confirm "full-time at first → taper" framing + any hours she wants]` — Elena's role/time shape. Per Will (6/14): full-time early as needed, tapering to whatever level she wants as the manager hire + systems mature. Confirm with Elena before sending (see `context/dan-elena-decision-brief.md` Decision 1, incl. the upstream sensitivity to close first). Governs whether she can credibly own the CFO/COO functions the message claims.
-  3. `[Will fills / or leave as an open question for the call]` — Dan's CPA-licensure status. Safe to leave as an open question (item d) if unknown — but don't assert a path Will hasn't confirmed.
-  4. `[Will fills if known]` (warm variant only) — any dormancy-period touch point or read on Dan's current sentiment. Omit the line entirely rather than guess.
-- **Do NOT include:** the partnership equity percentages. Those need the 3-person re-model (`context/dan-thesis.md` → "Equity split implications") before they're discussable — and they're a call topic, not a cold-message claim.
+- **Status (2026-06-14): the load-bearing numbers are now FILLED.** Will locked: Elena ~$50K equity at close (matched by Will's ~$50K from S&ME), Elena full-time-early → taper after Year 1, Dan brings $0 personal cash but raises outside capital. The message body no longer carries `[Will fills]` brackets in bullets 1–2 or ask (c)/(d). **Two small confirmations before sending:**
+  1. **Elena signs off** on her own numbers ($50K + full-time-early framing) — it's her cash and her career exit; she should see the sentence before it goes to Dan.
+  2. **Dan's CPA status** is left as an open call question (item d) — correct, don't assert a path.
+  - The **warm variant** still has `[Will fills if known]` dormancy/sentiment placeholders — fill or delete those lines if you use that variant.
+- **Do NOT include:** the partnership equity percentages (~Will 43 / Elena 39 / Dan 18 from the model). Those are a **call topic** — bring the reasoning (equity follows cash + role + strategic value; Dan's % performance-links to capital raised), not a number drop in the message. Model: `context/dan-equity-model.md`.

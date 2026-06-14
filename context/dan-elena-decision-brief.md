@@ -38,11 +38,9 @@ hours," but "Elena is leaving her career to go all-in on this, with full availab
   makes the taper real instead of "buying a job." Elena full-time early just means that salary line is
   covered by her unpaid labor in Year 1, then funds the manager when she steps back.
 
-> **Sensitivity to close first (from state.md, W22 / late-May read):** there was an open
-> pregnancy-possibility question (test-plan deferred to you + Elena). A "full-time operator at first"
-> plan and a late-2027/early-2028 close are both sensitive to how that resolved. **Close that loop
-> before locking Elena's role** — it changes the role/timeline math materially either way. Not assuming
-> anything here; just flagging it as the one input that sits upstream of Decision 1.
+> **Upstream sensitivity — CLOSED 2026-06-14.** The late-May pregnancy-possibility question is
+> resolved (officially negative). It no longer gates Elena's role or the timeline. The full-time-early
+> → taper plan and the late-2027/early-2028 close can be locked without it hanging over them.
 
 ---
 
@@ -85,6 +83,17 @@ are unconfirmed. Run `python sourcing/equity_model.py` with real inputs once you
 partnership feel equal three ways, leaves Elena ~$50k taxable + the $44k earmarked for bridge/home, and
 still cuts the loan meaningfully. Go to ~$80k only if you both want maximum debt reduction and are
 comfortable with tighter bridge liquidity.
+
+**LOCKED 2026-06-14: Will $50k / Elena $50k / Dan $0 personal cash.** Will asked whether to put in more.
+**Recommendation: hold at $50k/$50k — do not add more now.** Reasons: (1) $100k combined is already
+*above* the SBA 10% equity floor across the clean $500–700k range (only the $1M stretch binds at exactly
+10%); (2) the constraint is liquidity sequencing, not safety — you're ~$650k over your Die-With-Zero need,
+but Elena's $100k taxable is also the mid-2027→close bridge fund + post-2027 home down payment, so $50k
+keeps the right reserve; (3) **Dan raising outside capital is the *designed* lever for anything above the
+clean range** — self-funding a bigger injection undercuts the whole reason Dan's a partner. Make "Dan
+raises $X" + a **seller standby note** the gap-fillers, not more of your own cash. Revisit only in the
+narrow case of a $1M stretch deal where Dan can't raise AND the seller won't carry. Equity on these
+inputs: **~Will 43 / Elena 39 / Dan 18** (`context/dan-equity-model.md`).
 
 ---
 
