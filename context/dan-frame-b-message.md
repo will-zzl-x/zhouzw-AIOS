@@ -16,14 +16,14 @@ This is the **direct reactivation ask to an existing partner** — not cold sell
 >
 > I do now. Two things changed:
 >
-> 1. **Elena's in — capital and operating.** She's putting [Will fills: $X as equity at close, from ___] toward the deal, which directly shrinks the debt we'd have to carry. And she's stepping into the CFO/COO seat — financial controls, reporting, process, QC — at [Will fills: ramp ~Xhr/wk, Year-1 ~Xhr/wk]. That splits the post-close operating load so it doesn't all land on me, which means the business can run alongside my Amazon ramp-down instead of forcing me to quit early to babysit it. I still exit Amazon on the late-2027 plan, not sooner under pressure.
+> 1. **Elena's all-in — capital and operating.** She's leaving engineering and putting [Will fills: $X as equity at close, from ___] toward the deal, which directly shrinks the debt we'd have to carry. And she's stepping into the CFO/COO seat — financial controls, reporting, process, QC — full-time up front while the business needs the most hands, then tapering as we hire a manager and the systems mature [Will fills: confirm "full-time at first → taper" framing + any hours she wants]. That splits the post-close operating load so it doesn't all land on me, which means the business can run alongside my Amazon ramp-down instead of forcing me to quit early to babysit it. I still exit Amazon on the late-2027 plan, not sooner under pressure.
 > 2. **Your investor network compounds it.** If you're up for raising some outside capital, that stacks on top of Elena's contribution and pulls the whole thing further away from SBA-heavy debt. Less note, less monthly pressure, less exit-timing risk.
 >
 > Three other things I've locked down on my end so this isn't the same hand-wavy conversation as last year:
 >
 > - **Sector's locked** — bookkeeping/accounting, Phoenix metro, 20-mile radius. One sector, one city, no scatter.
 > - **Sourcing pipeline is live and modernized.** I rebuilt the 2025 lead-pull — a Google Maps scrape feeds an automated scoring engine, and it just produced **500+ ranked Phoenix-metro firms** in our exact box. We're not starting from a blank page; there's a real, prioritized contact list sitting here right now.
-> - **Deal box is recalibrated and honest.** $500K–$700K clean / $700K–$1M stretch / $1M hard ceiling, with a $55K operator salary baked into the underwriting from day one — so the Year-2 manager hire is structurally affordable instead of a future cash-flow surprise. Elena operates Year 1; the business has to pay for its own management by Year 2 or it failed the test.
+> - **Deal box is recalibrated and honest.** $500K–$700K clean / $700K–$1M stretch / $1M hard ceiling, with a $55K operator salary baked into the underwriting from day one — so the manager hire that lets Elena taper is structurally affordable instead of a future cash-flow surprise. Elena operates hard early; the business has to be able to pay for its own management as she steps back, or it failed the test.
 >
 > So the wall's gone, the sector's set, and the pipeline's loaded. What I want is 30 minutes to align on four things:
 >
@@ -56,7 +56,7 @@ This is the **direct reactivation ask to an existing partner** — not cold sell
 - **Suggested subject line (if email):** "Bringing the accounting-firm idea back — the wall's gone" — or shorter: "That accounting deal — picking it back up."
 - **Load-bearing placeholders Will MUST fill before sending** (the message loses its entire credibility lever if these stay vague — Dan will ask immediately):
   1. `[Will fills: $X as equity at close, from ___]` — Elena's cash amount + source + timing. This is THE number that resolves the 2025 stall. "Elena's contributing capital" is not an answer; "$X at close from ___" is.
-  2. `[Will fills: ramp ~Xhr/wk, Year-1 ~Xhr/wk]` — Elena's time commitment by phase. Governs whether she can credibly own the CFO/COO functions the message claims.
+  2. `[Will fills: confirm "full-time at first → taper" framing + any hours she wants]` — Elena's role/time shape. Per Will (6/14): full-time early as needed, tapering to whatever level she wants as the manager hire + systems mature. Confirm with Elena before sending (see `context/dan-elena-decision-brief.md` Decision 1, incl. the upstream sensitivity to close first). Governs whether she can credibly own the CFO/COO functions the message claims.
   3. `[Will fills / or leave as an open question for the call]` — Dan's CPA-licensure status. Safe to leave as an open question (item d) if unknown — but don't assert a path Will hasn't confirmed.
   4. `[Will fills if known]` (warm variant only) — any dormancy-period touch point or read on Dan's current sentiment. Omit the line entirely rather than guess.
 - **Do NOT include:** the partnership equity percentages. Those need the 3-person re-model (`context/dan-thesis.md` → "Equity split implications") before they're discussable — and they're a call topic, not a cold-message claim.
