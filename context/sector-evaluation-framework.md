@@ -1,34 +1,43 @@
 # Sector Evaluation Framework — Solo Track
 
-Created 2026-06-08. For Will + Elena to use during the Zone of Genius re-read exercise.
+Created 2026-06-08. Updated 2026-06-13 to match the post-6/10 12-sector candidate menu and the scrape-broad-narrow-after architecture.
+
+For Will + Elena to use AFTER the Solo-track Apify scrape returns ranked outputs.
 
 ---
 
 ## Purpose
 
-The Solo track of the dual-track acquisition strategy (`context/acquisition.md`) requires picking a sector. This doc gives a structured way to evaluate candidate sectors against (a) your combined Zone of Genius, (b) deal box constraints, (c) sourcing reality.
+The Solo track of the dual-track acquisition strategy (`context/acquisition.md`) requires narrowing the 12-sector candidate menu down to top 2-3 sectors for Elena apprenticeship + Walking Billboard + 100/50/10/1 outreach focus.
 
-**Use this when:** you sit down together for 30-45 min to narrow from the long candidate list to top 2-3 sectors.
+**Architecture (locked 2026-06-10):** scrape broad first (all 12 sectors), narrow after seeing real per-sector yields + Elena's gut response to actual lead names. This doc is the **secondary narrowing tool** — applied AFTER the scrape, in concert with the ranked outputs.
 
-**Output:** top 2-3 sectors locked in `context/acquisition.md` Track 2 section + Apify scrape configuration in `sourcing/apify-input-solo-template.json` ready to run.
+**Use this when:**
+- The Solo-track Apify scrape has finished and `leads-ranked-solo.csv` exists
+- You and Elena sit down together for 30-45 min to lock the top 2-3 sectors
+
+**Output:** top 2-3 sectors locked in `context/acquisition.md` Track 2 + Elena apprenticeship target list + main-street-accelerator priorities updated for chosen sector.
 
 ---
 
-## The pre-work (do separately, then compare)
+## The 12 candidate sectors (from `context/acquisition.md` 2026-06-10)
 
-Each of you, separately, score each candidate sector across 5 dimensions on 1-5 scale. Then compare notes.
+| # | Sector | Why on the list |
+|---|---|---|
+| 1 | HOA management services | Elena program management bullseye + 5,000+ Phoenix HOAs |
+| 2 | Water treatment / softener service | Elena water credential; Phoenix hard-water market |
+| 3 | MSP / IT managed services | Will tech/AI angle, monthly recurring king |
+| 4 | Specialty distribution (B2B niche) | Will SCM home turf |
+| 5 | Office plant care / interior landscaping | Underrated niche, high margins, quiet competition |
+| 6 | Mat rental services | Boring = less competition, sub-$500k common |
+| 7 | Document destruction / shredding routes | Simple ops, premium recurring, compliance-driven growth |
+| 8 | Window cleaning commercial routes | Recurring B2B, sub-$500k common |
+| 9 | Pool service routes | High sourcing volume, Elena water angle |
+| 10 | Pest control routes | Highest recurring rev structure |
+| 11 | Vending / micro-market routes | Semi-absentee bullseye |
+| 12 | Coffee/water service routes | Boring B2B recurring |
 
-**Candidate sectors** (from `context/acquisition.md` Track 2 list):
-- Light commercial services (cleaning, janitorial)
-- HVAC services
-- Plumbing services
-- Electrical services
-- Pool service routes
-- Landscape / lawn care routes
-- Pest control routes
-- Specialty distribution (B2B niche)
-- Compliance / regulatory services
-- Property management
+All 12 already pass acquisition.md's hard filters (no licensure gap, absentee-capable, ≥30% margins achievable, no inherent customer concentration).
 
 ---
 
@@ -48,6 +57,7 @@ Score 5: Direct skill application, you have operator-relevant experience
 - Would you read industry publications voluntarily?
 - Could you talk to operators / customers without it feeling like a chore?
 - Is the daily work itself bearable-to-enjoyable?
+- Operator-identity gut check: could you say "I own X" at a dinner party without flinching?
 
 Score 1: Sounds boring or distasteful
 Score 5: Genuinely interested, would do for free briefly
@@ -60,7 +70,7 @@ Score 5: Genuinely interested, would do for free briefly
 Score 1: Mostly project / one-off
 Score 5: Pure subscription / contract / route-based recurring
 
-### 4. Codie deal-box fit
+### 4. Codie deal-box fit (Solo track $300-500k)
 - Within $300-500k purchase price range?
 - Likely SDE $253-286k achievable at that size?
 - 30%+ margin typical for the sector?
@@ -69,14 +79,18 @@ Score 5: Pure subscription / contract / route-based recurring
 Score 1: Sector dominated by PE, multiples too high, low margins
 Score 5: Fragmented mom-and-pop market, easy to find sub-$500k deals
 
-### 5. Sourcing reality (can you actually find deals?)
-- Apify scrape would surface real candidates?
-- Walking Billboard (Elena's apprenticeship) translates to sourcing?
-- Off-market signals (retirements, burnouts) detectable?
-- Brokers covering this space, or off-market only?
+### 5. Sourcing reality (from scrape data + Elena access)
+**This dimension changes after the scrape returns.** Pre-scrape: estimate. Post-scrape: replace your estimate with the actual yield band:
 
-Score 1: Hard to source, dominated by exclusive networks
-Score 5: Plenty of fragmented operators, easy to start conversations
+| Ranked-leads count | Score |
+|---|---|
+| 100+ viable leads | 5 |
+| 60-99 viable leads | 4 |
+| 30-59 viable leads | 3 |
+| 15-29 viable leads | 2 |
+| <15 viable leads | 1 (drop on sourcing reality) |
+
+Plus a +1 bonus if Elena has a credible Walking Billboard angle into the sector (water credential for water treatment, engineering peers in property mgmt-adjacent, etc.).
 
 ---
 
@@ -84,20 +98,22 @@ Score 5: Plenty of fragmented operators, easy to start conversations
 
 Fill in separately, then compare:
 
-| Sector | Skill fit | Interest fit | Recurring revenue | Deal-box fit | Sourcing reality | Total | Notes |
+| Sector | Skill fit | Interest fit | Recurring rev | Deal-box fit | Sourcing reality | Total | Notes |
 |---|---|---|---|---|---|---|---|
-| Light commercial services |  |  |  |  |  |  |  |
-| HVAC services |  |  |  |  |  |  |  |
-| Plumbing services |  |  |  |  |  |  |  |
-| Electrical services |  |  |  |  |  |  |  |
+| HOA management |  |  |  |  |  |  |  |
+| Water treatment / softener |  |  |  |  |  |  |  |
+| MSP / IT managed |  |  |  |  |  |  |  |
+| Specialty distribution (B2B) |  |  |  |  |  |  |  |
+| Office plant care |  |  |  |  |  |  |  |
+| Mat rental |  |  |  |  |  |  |  |
+| Document destruction |  |  |  |  |  |  |  |
+| Window cleaning commercial |  |  |  |  |  |  |  |
 | Pool service routes |  |  |  |  |  |  |  |
-| Landscape routes |  |  |  |  |  |  |  |
 | Pest control routes |  |  |  |  |  |  |  |
-| Specialty distribution |  |  |  |  |  |  |  |
-| Compliance / regulatory |  |  |  |  |  |  |  |
-| Property management |  |  |  |  |  |  |  |
+| Vending / micro-market |  |  |  |  |  |  |  |
+| Coffee / water service |  |  |  |  |  |  |  |
 
-Total = sum (max 25). Top 2-3 sectors with highest combined scores get carried forward.
+Total = sum (max 25 + sourcing bonus). Top 3 sectors with highest combined scores get carried forward.
 
 ---
 
@@ -105,26 +121,28 @@ Total = sum (max 25). Top 2-3 sectors with highest combined scores get carried f
 
 A sector gets dropped if ANY of these are true:
 
-1. **Licensure required for ownership** (CDL, plumbing contractor license, electrical license, etc.) where neither of you holds it and licensing takes >12 months
+1. **Licensure required for ownership** where neither of you holds it and licensing takes >12 months
 2. **Physical presence required >1×/month** post-2027 move out of AZ (route businesses with no manager option fail this)
 3. **Customer concentration risk inherent to the sector** (e.g., government contract specialists with single-agency exposure)
-4. **Margin profile structurally below 30%** (retail, restaurants — already excluded)
-5. **Neither of you can imagine introducing yourself as "I own X" at a dinner party** — this is the operator-identity gut check, score it honestly
+4. **Margin profile structurally below 30%**
+5. **Neither of you can imagine introducing yourself as "I own X" at a dinner party** — operator-identity gut check, score honestly
+6. **NEW (sourcing-reality filter):** <15 viable leads in the Apify ranked output after enrichment + filter. Sector fails the 100/50/10/1 sourcing math.
 
 ---
 
 ## Decision protocol
 
-1. **Each score separately** (you and Elena, 15 min each). Don't peek at the other's scores.
-2. **Compare scores** (15 min). Look for:
-   - Sectors where you both score 4+ → strong candidates
+1. **Run the scrape first.** Solo template at `sourcing/apify-input-solo-template.json` → Apify → save to `sourcing/leads/solo-YYYY-MM-DD.json` → `python enrich.py leads/solo-YYYY-MM-DD.json --mode solo --out leads-ranked-solo`.
+2. **Pull per-sector yield counts** from the ranked CSV (filter by `category` column).
+3. **Each score separately** (you and Elena, 15 min each). Don't peek at the other's scores. Score dimensions 1-4 from gut + Zone of Genius; replace dimension 5 (sourcing reality) with the actual scrape yield band.
+4. **Compare scores** (15 min). Look for:
+   - Sectors where you both score 4+ on dimensions 1-2 (skill + interest) → strong candidates
    - Sectors where you score very differently → discuss what's behind the gap
-   - Sectors that one of you would auto-disqualify but the other wouldn't → discuss
-3. **Apply hard filters** to drop disqualified sectors
-4. **Lock top 2-3 sectors** with rough rationale per sector
-5. **Update `context/acquisition.md`** Track 2 section with the picks
-6. **Update `sourcing/apify-input-solo-template.json`** with search terms for picked sectors (3-5 terms per sector × 8 cities = 24-40 total search strings)
-7. **Run the Apify scrape** with the new config → enrich with `--mode solo`
+   - Sectors that one would auto-disqualify but the other wouldn't → discuss
+5. **Eyeball the actual lead names** in the top sectors' ranked output (top 30 per sector). Elena's gut response to real operators / niches IS load-bearing data — sourcing edge comes from her being IN the industry, so boredom kills that signal.
+6. **Apply hard filters** to drop disqualified sectors
+7. **Lock top 2-3 sectors** with rough rationale per sector
+8. **Update files** per "Output once complete" below
 
 ---
 
@@ -142,9 +160,7 @@ After this exercise, the following AIOS files update:
 
 | File | Update |
 |---|---|
-| `context/acquisition.md` | Track 2 section: locked sectors with rationale |
-| `sourcing/apify-input-solo-template.json` | searchStringsArray populated with sector-specific terms |
-| `journals/main-street-accelerator.md` | Note which modules to prioritize given chosen sector |
+| `context/acquisition.md` | Track 2 section: locked sectors with rationale, scrape yields cited |
+| `journals/main-street-accelerator.md` | Note which modules to prioritize given chosen sectors |
 | `backlog.md` | New row: "Elena apprenticeship/shadow exploration in [chosen sectors]" |
-
-Then this doc gets a status update at top: "COMPLETED [date]: sectors picked = X, Y. Apify Solo-track config updated."
+| `context/sector-evaluation-framework.md` (this doc) | Status update at top: "COMPLETED [date]: sectors picked = X, Y, Z" |
