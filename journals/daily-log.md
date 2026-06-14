@@ -139,3 +139,10 @@ Format: ✓ = done, □ = planned/pending
 □ Desire-polarity rep: one DO-list move today
 □ Run Apify scrape, enrich leads, save to sourcing/leads/
 □ Mindset — Take small space without explaining it. Find one small window today to do your own thing — a walk, a podcast, an errand alone. No "I'm going to do X" preamble; just do it and come back.
+
+**2026-06-14 (Sun)** — NYC Cut Wk 4 starting
+□ Walk 12,500 steps today
+□ Phone off nightstand — charge in kitchen tonight
+□ Desire-polarity rep: one DO-list move today
+□ Run Apify scrape, enrich leads, save to sourcing/leads/
+□ Book stylist consult, advance style + grooming sprint
