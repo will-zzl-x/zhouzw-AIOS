@@ -25,7 +25,7 @@ Cut-phase fitness gates (training / protein 150g+ / cals ~1,820 / steps) → see
 
 Top of `backlog.md`. Brief picks 1-2 strategic per day from this rotation pool. Full ranked list (depends-on, gates, blocked items) in `backlog.md`.
 
-1. **Dan reach-out — Frame B direct, 30-min call** (work-main #1, NEWLY LOAD-BEARING) — all three readiness gates closed (Frazier script, Dan-track 505-firm scrape, dan-thesis files) + Elena's *time* commitment now concrete (ready to leave engineering job). Draft Frame B citing real Phoenix lead names + the modernized pipeline. **Need Elena's rough cash figure before sending — one conversation.**
+1. **Dan reach-out — Frame B direct, 30-min call** (work-main #1, NEWLY LOAD-BEARING) — Frame B send-ready packet **drafted on work-laptop 6/14 PM**: `context/dan-frame-b-message.md`, `context/dan-pipeline-brief.md`, `context/dan-equity-model.md` (Will $50k / Elena $50k / Dan $0, Dan as advisory ~12%), `context/dan-equity-negotiation.md` (50/50 negotiation playbook). **Send blocker is now Will-only:** confirm Elena's numbers, strip `[Will fills]` brackets in the Frame B message, send.
 2. **Promo doc — finish over the weekend Jun 27–28** (NOT Jun 19–21 / SoCal). Boss OOO this week relaxed Jun 30 pressure structurally. Lift IFSA_CHILD + GL_MW write-ups in.
 3. **DOE Redirect Automation — STALE 23d, ★STRONG promo deliverable** — eligibility-vs-4-gate decision at the next Matt 1:1, then ship.
 4. **Main Street Accelerator modules — sourcing/gap modules** (Will + Elena co-working; Walking Billboard / 4A Club / volume gaps).

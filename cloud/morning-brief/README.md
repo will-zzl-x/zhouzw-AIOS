@@ -56,6 +56,23 @@ gcloud scheduler jobs create http evening-archive-trigger \
   --oidc-service-account-email="$SA"
 ```
 
+## Fitness pipeline (task #74) — two halves
+
+The fitness logging pipeline is split into the part that needs Will's input and the part that doesn't:
+
+- **`fitness_drift.py` — BUILT + TESTED (2026-06-14), needs no new data source.** A deterministic, zero-token
+  drift detector. Reads `journals/health-log.md` (both per-day lines AND the current weekly-summary-table
+  format) + `journals/workout-log.md`, computes rolling averages vs. the cut targets (steps 12,500 / protein
+  150g / cals ~1,820 / training 3×wk / Z2 / weight refeed at ≤176lb), and prints a drift report. **This is the
+  piece whose absence cost two cut re-baselines** — verified it now flags the May Week-1 steps miss
+  (10,675 vs 12,500 → ⛔). Run: `PYTHONIOENCODING=utf-8 python fitness_drift.py [--days N] [--asof YYYY-MM-DD]`.
+  Read-only on journals; surfacing drift is the job, acting on it is Will's. Can be wired into `/weekly-synthesis`
+  or a scheduled report later — standalone and useful now.
+- **`fitness_logger.DRAFT.py` — BLOCKED on Will (5 source-auth questions).** The auto-INGESTER (Liftosaur export
+  method, weight-sheet ID, steps mechanism, drop target, workout log destination). Once it lands and fills
+  daily-granular data, `fitness_drift.py` gets sharper for free (it already reads the per-day format the ingester
+  will write). Do not deploy the ingester until Q1–Q5 in that file are answered.
+
 ## Architecture
 
 - **No state.** Both functions are stateless — AIOS markdown lives in GitHub.

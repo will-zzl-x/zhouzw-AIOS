@@ -126,6 +126,180 @@ def units_compatible(recipe_unit, inv_unit):
     return False
 
 
+# ---- Unit conversion (for inventory netting) ----------------------------------
+#
+# grocery.py needs to net an on-hand quantity (e.g. inventory "Olive oil: 8 oz")
+# against a recipe need in a different unit ("Olive oil: 1.5 Tbsp"). units_compatible()
+# only answers "same dimensional family?" — it does NOT scale. These tables let
+# convert_qty() rescale within a family so the subtraction is correct.
+#
+# Volume base = teaspoon (tsp). Cooking-standard US conversions. `oz` here is the
+# FLUID ounce (1 fl oz = 6 tsp) — appropriate because the items that ship in oz
+# and get measured in tsp/Tbsp/cup are liquids (oils, soy sauce, vinegar, yogurt).
+_VOLUME_TO_TSP = {
+    "tsp": 1.0,
+    "tbsp": 3.0,            # 1 Tbsp = 3 tsp
+    "cup": 48.0,            # 1 cup  = 48 tsp = 16 Tbsp
+    "oz": 6.0,             # 1 fl oz = 6 tsp = 2 Tbsp
+    "ml": 1.0 / 4.92892,   # 1 tsp ~= 4.92892 ml
+    "l": 1000.0 / 4.92892,
+    "pint": 96.0,
+    "quart": 192.0,
+}
+
+# Weight base = gram (g). `oz`/`lb` here are weight (avoirdupois) ounces/pounds.
+_WEIGHT_TO_G = {
+    "g": 1.0,
+    "kg": 1000.0,
+    "oz": 28.3495,
+    "lb": 453.592,
+}
+
+_VOLUME_UNITS = set(_VOLUME_TO_TSP)
+_WEIGHT_UNITS = set(_WEIGHT_TO_G)
+
+
+def _unit_token(u):
+    """Leading canonical token of a (possibly descriptive) unit string."""
+    n = normalize_unit(u)
+    return n.split()[0] if n.split() else n
+
+
+def convert_qty(qty, from_unit, to_unit):
+    """Convert `qty` expressed in from_unit into to_unit. Returns a float, or None
+    when the units are not in the SAME measurable family (volume or weight) — the
+    caller must then fall back to a confirm/CHECK rather than a blind subtraction.
+
+    `oz` is ambiguous (fluid vs weight). It is resolved by the OTHER unit: when one
+    side is a pure-volume unit (tsp/Tbsp/cup/ml/l) oz is treated as fluid oz; when
+    the other side is a pure-weight unit (lb/g/kg) oz is treated as weight oz. If
+    both sides are oz it's an identity (returns qty unchanged)."""
+    if qty is None:
+        return None
+    a = _unit_token(from_unit)
+    b = _unit_token(to_unit)
+    if not a or not b:
+        return None
+    if a == b:
+        return float(qty)
+
+    a_vol, a_wt = a in _VOLUME_TO_TSP, a in _WEIGHT_TO_G
+    b_vol, b_wt = b in _VOLUME_TO_TSP, b in _WEIGHT_TO_G
+
+    # Pick the family that BOTH units can satisfy. `oz` is in both tables, so it
+    # adapts to its partner; a pure-volume vs pure-weight pair has no shared family.
+    if a_vol and b_vol and not (a == "oz" and b == "oz"):
+        return float(qty) * _VOLUME_TO_TSP[a] / _VOLUME_TO_TSP[b]
+    if a_wt and b_wt:
+        return float(qty) * _WEIGHT_TO_G[a] / _WEIGHT_TO_G[b]
+    if a_vol and b_vol:
+        return float(qty)
+    return None
+
+
+# ---- Fuzzy ingredient-name matching (for inventory netting) --------------------
+#
+# Recipe ingredient names are descriptive ("Olive oil (for roasting)", "Salsa or
+# pico de gallo", "Fat free Greek yogurt"); inventory/snapshot names are short
+# ("Olive oil", "Salsa", "Greek yogurt"). Strict equality misses these, causing
+# the false buys retro bug #2 calls out. names_match() does conservative
+# token-overlap matching: lowercase, drop parenthetical notes + punctuation +
+# stopwords, then require that ALL content tokens of the SHORTER name appear in
+# the longer name (subset containment). This keeps it safe — a false on-hand
+# (telling Will he has something he doesn't) is worse than a false buy, so we
+# never match on a single weak token alone.
+
+# Words that carry no identity — prep/packaging/role descriptors. Dropped before
+# matching. NOTE: deliberately does NOT include product-distinguishing modifiers
+# like "powder", "flakes", "juice", "whites", "spray" — those change WHAT the item
+# is (garlic powder != fresh garlic, egg whites != eggs) and are guarded separately
+# by _DISTINGUISHERS below.
+_NAME_STOPWORDS = {
+    "fresh", "raw", "cooked", "pre-cooked", "precooked", "dry",
+    "sliced", "diced", "chopped", "minced", "grated", "crushed", "shredded",
+    "smashed", "trimmed", "thinly", "finely", "halved", "wedged", "cubed",
+    "the", "a", "an", "of", "or", "and", "for", "with", "per", "each", "to",
+    "any", "color", "colour", "low-cal", "lite", "fat", "free",
+    "fatfree", "fat-free", "skinless", "boneless", "lean", "extra", "large",
+    "medium", "small", "whole", "half", "optional", "base", "topping",
+    "salad", "rub", "seasoning", "sub", "station", "from", "into",
+    "as", "needed", "taste", "garnish", "florets", "pack", "bag", "fork",
+    # "light"/"dark"/"reduced" deliberately NOT stopwords — they distinguish
+    # products (Light vs Dark vs plain Soy sauce = 3 bottles). Live in
+    # _DISTINGUISHERS below. (audit 2026-06-14 #14: one "Light soy sauce"
+    # consumption was depleting all three soy bottles.)
+}
+
+# Product-distinguishing tokens: if ONE name carries one of these and the other
+# does not, the two are DIFFERENT products and must NOT fuzzy-match — even if the
+# rest of the tokens line up. This is the guardrail that keeps "Garlic powder"
+# (pantry) from covering a "Fresh garlic" (produce) need, "Corn flakes" from
+# covering "corn", "Egg whites" from "Eggs", etc. A false on-hand is worse than a
+# false buy, so we err toward NOT matching when a distinguisher is one-sided.
+_DISTINGUISHERS = {
+    "powder", "flakes", "flake", "juice", "whites", "white", "spray",
+    "seeds", "seed", "frozen", "dried", "ground", "shells", "shell",
+    "sauce", "vinegar", "oil", "paste", "fillet", "canned",
+    # Product-grade modifiers that pick out one bottle among siblings
+    # (Light/Dark/plain soy; reduced-sodium variants). One-sided presence ->
+    # different product -> no match (audit 2026-06-14 #14).
+    "light", "dark", "reduced",
+}
+
+# A few aliases where the short name uses a different head noun than the recipe.
+# Kept tiny + explicit (conservative): each entry maps an alias token to the
+# canonical token the recipe is likely to use.
+_NAME_ALIASES = {
+    "scallion": "scallions",
+    "scallions": "scallions",
+    "greenonion": "scallions",
+    "pepper": "peppers",     # "bell pepper" snapshot vs "bell peppers" recipe
+}
+
+
+def _name_tokens(name):
+    """Content tokens of an ingredient name: lowercased, parentheticals removed,
+    punctuation stripped, stopwords + pure-number tokens dropped, aliases applied."""
+    s = str(name).lower()
+    s = re.sub(r"\([^)]*\)", " ", s)          # drop parenthetical notes
+    s = re.sub(r"[^a-z0-9\s-]", " ", s)        # punctuation -> space
+    toks = []
+    for t in s.split():
+        t = t.strip("-")
+        if not t or t in _NAME_STOPWORDS:
+            continue
+        if t.replace(".", "").isdigit():       # pure number ("12oz" already split)
+            continue
+        toks.append(_NAME_ALIASES.get(t, t))
+    return toks
+
+
+def names_match(recipe_name, inv_name):
+    """Conservative fuzzy match between a recipe ingredient name and an on-hand
+    (inventory or snapshot) name. True when, after normalization, every content
+    token of the shorter token-set is contained in the longer set AND at least one
+    of those shared tokens is >2 chars (avoids matching on noise like 'oil' alone
+    being too generic — we still require full subset, so 'olive oil' won't match
+    'avocado oil'). Returns False if either name has no content tokens."""
+    a = _name_tokens(recipe_name)
+    b = _name_tokens(inv_name)
+    if not a or not b:
+        return False
+    sa, sb = set(a), set(b)
+    # Guardrail: a one-sided product-distinguishing token means different products
+    # (garlic powder vs fresh garlic, egg whites vs eggs). Block the match.
+    if (sa & _DISTINGUISHERS) != (sb & _DISTINGUISHERS):
+        return False
+    if sa == sb:
+        return True
+    shorter, longer = (sa, sb) if len(sa) <= len(sb) else (sb, sa)
+    if not shorter.issubset(longer):
+        return False
+    # Require at least one substantive (>2 char) shared token so we never call a
+    # match on a lone tiny token.
+    return any(len(t) > 2 for t in shorter)
+
+
 def whole_item_count(name, oz_quantity):
     """For onion/garlic/bell pepper/shallot given a total oz, return the rounded-up
     whole-item count (mirrors the app). Returns None if not a whole-item or no oz."""

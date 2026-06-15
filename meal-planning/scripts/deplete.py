@@ -29,6 +29,10 @@ def norm_name(s):
 
 
 def main():
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")   # cp1252-safe (same fix as grocery.py)
+    except (AttributeError, ValueError):
+        pass
     args = [a for a in sys.argv[1:] if not a.startswith("-")]
     apply = "--apply" in sys.argv
     cycle_path = Path(args[0]) if args else models.latest_cycle_path()
@@ -61,15 +65,26 @@ def main():
 
     print(f"Deplete — cycle {cycle.date} ({Path(cycle_path).name})  {'[APPLY]' if apply else '[dry-run]'}\n")
     changes = []
+    unnetted = []   # consumed lines that matched a name but couldn't unit-convert
     for item in raw:
-        name = norm_name(item.get("item", ""))
-        unit = units.normalize_unit(item.get("unit", ""))
-        # match consumed lines with same name + dimensionally-compatible unit
-        # (units.units_compatible handles descriptive units + volume/weight families)
+        inv_name = item.get("item", "")
+        inv_unit = units.normalize_unit(item.get("unit", ""))
+        # Match + net using the SAME logic grocery.py uses: fuzzy names_match +
+        # scaling convert_qty. The old path (`cn == name` strict equality +
+        # no-scaling units_compatible) matched almost nothing — recipe ingredient
+        # names carry parentheticals ("Light soy sauce (sauce)") and needs are in
+        # tsp/Tbsp vs oz inventory — so deplete decremented ~zero and inventory.json
+        # inflated week over week while grocery reported items "covered" (audit
+        # 2026-06-14, the system's core HAVE/USE invariant was broken).
         used = 0.0
         for (cn, cu), q in consumed.items():
-            if cn == name and units.units_compatible(cu, unit):
-                used += q
+            if not units.names_match(cn, inv_name):
+                continue
+            scaled = units.convert_qty(q, cu, inv_unit)
+            if scaled is None:
+                unnetted.append((item.get("item"), cn, q, cu, item.get("unit")))
+            else:
+                used += scaled    # consumed qty re-expressed in the item's own unit
         if used > 0:
             before = float(item.get("quantity", 0) or 0)
             after = max(0.0, before - used)
@@ -82,6 +97,11 @@ def main():
             print(f"  {nm}: {before:g} -> {after:g} {u}  (used ~{used:.2f})")
     else:
         print("  No numeric inventory items matched this cycle's consumption.")
+
+    if unnetted:
+        print("\nName-matched but unit not convertible (confirm + adjust by hand):")
+        for nm, cn, q, cu, u in unnetted:
+            print(f"  - {nm} ({u}): consumed {q:.2f} {cu} of '{cn}' — units not in same family")
 
     if soft_used:
         print("\nUsed some (to-taste / non-numeric — not auto-depleted, eyeball these):")

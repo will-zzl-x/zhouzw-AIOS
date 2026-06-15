@@ -11,7 +11,7 @@ Phase: **NYC Cut Wk 5 of 8** — May 17 – Jul 11 (~4 weeks remaining; daily ga
 ## Daily Loop
 - **Todoist daily brief live.** GitHub Actions runs the morning brief at 7am AZ (14:00 UTC) → 3–5 tasks to Todoist "AIOS Daily"; evening archive at 9pm AZ (04:00 UTC) writes completions to `journals/daily-log.md`. Workflows: `.github/workflows/morning-brief.yml` + `evening-archive.yml`. Secrets in GitHub repo settings (ANTHROPIC_API_KEY, TODOIST_API_KEY). Source of truth for "what should I do today" is Todoist.
 - **Daily Consistent descriptions don't propagate to Todoist.** Brief sends `title/area/priority/sm_id` only — the rich `dashboard.md` bullet text (e.g. the desire-polarity DO-list rotation menu) reads cryptically in-app. Workaround: paste description by hand. Fix in backlog inbox 6/13 (~45 min AIOS-infra).
-- **Fitness logging pipeline still broken (#74).** Liftosaur CSV + weight spreadsheet + step source don't auto-flow to AIOS — **bit again this week**: state.md was carrying weight of 180.4 (6/7) when the source sheet showed 175.9 (6/1 actual). **AIOS coached against a wrong bodyweight model.** Will manually exporting CSVs to share when asked is the current workaround; pipeline build deferred 3 reflections running. Re-framed 6/14: move to post-cut review queue (Jul 12+) rather than carry as a weekly-slipped commitment.
+- **Fitness logging pipeline partial (#74).** Liftosaur CSV + weight spreadsheet + step source don't auto-flow to AIOS — bit again the week of 6/8 (state.md carried weight 180.4 when source sheet showed 175.9). **Partial fix shipped work-laptop 6/14 PM:** `cloud/morning-brief/fitness_drift.py` — the no-source-needed drift detector half (compares state.md against the Ideal Week sheet, flags discrepancies). Auto-pull half (Liftosaur API / Apple Health / weight sheet) still post-cut Jul 12+. Manual workaround in the interim.
 
 ## Career
 - Amazon SCM I (L4). **Talent Review .docx submitted 5/19** — Q3–Q4 promo window now needs L5-grade evidence.
@@ -48,11 +48,11 @@ Phase: **NYC Cut Wk 5 of 8** — May 17 – Jul 11 (~4 weeks remaining; daily ga
 - Meal-planning system live, executing cycle 2026-06-13 → 6/19 (SoCal-shortened). All Saturday cooks done except sandwich parcook (deliberately dropped — coverage already 5+ dinners without it). Today (6/14): brown crunchwrap beef (only Sunday cook), eat #19 KBBQ already cleared. Friday 6/19 AM freeze-and-purge before SoCal drive.
 
 ## Relationships
-- **Pregnancy thread CLOSED — removed from state.md 6/14.** Will confirmed at the reflection: question got closed "a while ago," not a concern.
-- **Elena ready to leave engineering job if needed.** Major identity-axis move — resolves the *time* half of the Frame B gap to Dan (per `context/dan-thesis.md`). Scenario A2 (Industry Transition, `goals/elena-scale-back.md`) now cemented.
-- Elena OUT on Banff over budget (6/12), Sedona birthday trip plan locked Sep 11-14 (~$1,280 all-in, inbox 6/10 capture, reservations to make by 7/20).
-- Friend cadence anchored. No new touchpoints flagged this week.
-- **Z2 modality change (bike + phone) is NOT the Life-Main solo-space rep** — explicitly violates Perel/Schnarch filters in `goals/desire-polarity.md` (phone/podcast slots are anti-patterns). Solo-space rotation deferred to post-cut review Jul 12+ when the activity prescription itself can be honestly re-grounded (the May rotation list of violin/silent walk/meditation/style doesn't pull Will).
+- **Pregnancy thread CLOSED 6/14 — officially negative.** Will confirmed at the reflection: question got closed "a while ago," not a concern. (Was the open 5/28 "11 days late" thread; no longer an open question or planning sensitivity.)
+- **Elena ready to leave engineering job if needed** (6/14). Major identity-axis move — resolves the *time* half of the Frame B gap. Scenario A2 (Industry Transition, `goals/elena-scale-back.md`) cemented. **Updated 6/14 PM via work-laptop:** Elena exits engineering fully (mid-2027 baseline) and goes full-time into the acquired firm early as needed, then tapers to whatever level/hours she wants as the manager hire + systems mature → truly-absentee Year 2. Replaces the earlier per-phase-hours TBD and the "20 hr/wk Year-1" framing.
+- Elena OUT on Banff over budget (6/12), Sedona birthday trip plan locked Sep 11-14 (~$1,280 all-in, reservations to make by 7/20).
+- Friend cadence anchored W22 — Sahil ✓ (~5/26), Spencer ✓, group hang 5/30 (Annie, Jeff, Charlie, James, Spencer, Miguel). 2-wk rhythm holding.
+- **Z2 modality change (bike + phone) is NOT the Life-Main solo-space rep** — explicitly violates Perel/Schnarch filters in `goals/desire-polarity.md` (phone/podcast slots are anti-patterns). Solo-space rotation deferred to post-cut review Jul 12+ when the activity prescription itself can be honestly re-grounded.
 - Zero night talks about intimacy — hard rule.
 
 ## Wedding
@@ -83,8 +83,8 @@ Phase: **NYC Cut Wk 5 of 8** — May 17 – Jul 11 (~4 weeks remaining; daily ga
   1. Frazier outreach script v2 — done 6/4 (`context/frazier-outreach-script.md`)
   2. Apify-equivalent scrape + lead enrichment — done 6/14 (505 ranked firms)
   3. Dan thesis files verified — done 6/3
-- **Elena's commitment now CONCRETE (6/14):** ready to leave engineering job if needed. Resolves the *time* half of the Frame B gap. *Cash* commitment still soft — one conversation to get a rough figure before the message goes.
-- **`dan-reachout` is now the load-bearing acquisition move.** Top backlog priority. Draft Frame B referencing the modernized pipeline + Elena's confirmed time commitment + the 505-firm funnel.
+- **Elena's commitment now CONCRETE (6/14):** ready to leave engineering job if needed. Time + role narrative reconciled work-laptop 6/14 PM in `context/dan-thesis.md` Elena section. Cash locked at $50k baseline in `context/dan-equity-model.md` (confirm with Elena before send).
+- **`dan-reachout` is now the load-bearing acquisition move.** Top backlog priority. **Frame B send-ready packet drafted on work-laptop 6/14 PM + pushed:** `context/dan-frame-b-message.md` (the actual message), `context/dan-pipeline-brief.md` (call one-pager), `context/dan-equity-model.md` (Will $50k / Elena $50k / Dan $0 equity, Dan reframed as advisory ~12%, CPA licensure path ruled out), `context/dan-equity-negotiation.md` (50/50 negotiation playbook), `context/dan-elena-decision-brief.md`. Dan-track shortlist re-ranked: `sourcing/leads-dan-shortlist.md` + `sourcing/leads-dan-reranked.csv` + `sourcing/rank_dan.py`. **Send blocker is now Will-only: confirm Elena's numbers + strip `[Will fills]` brackets.**
 - **Scenario B Codie-honest deal box still active** (5/31): $500k–$700k clean / $700k–$1.0M stretch / $1.0M hard ceiling. $286k SDE floor at $500k → $367k at $1M (price-scaled). $953k+ revenue, 30%+ margin. $55k operator salary baked in.
 - **Goal: truly absentee** (quarterly check-in) by Year 2. Primary = Path A (service/professional services with 2–3 staff; Elena scales W-2 to ~20 hr/week at close, Year-1 operator unpaid; 12-month manager-hire trigger moves to absentee Year 2).
 - Frameworks: `references/sanchez.md`, `references/warren.md`, `references/frazier.md`, `context/dan-thesis.md`.

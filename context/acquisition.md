@@ -150,6 +150,9 @@ What "winning" looks like — defined before searching so it's recognizable on s
 **Sectors dropped from earlier framework:** HVAC/plumbing/electrical (typically >$1M, contractor license required), property management residential (capital intensive, AZ real estate license), compliance/regulatory consulting (hard to source), landscape/lawn care (commodity pricing pressure).
 
 ### Operator model (both tracks)
+
+> **Elena's role — reconciled 2026-06-14 (supersedes the "~20 hr/wk Year-1" framing below).** Per Will: Elena exits engineering fully (per the LOCKED `goals/elena-scale-back.md`, mid-2027) and goes **full-time into the acquired firm early as needed**, then **tapers to whatever level/hours she wants** as the manager hire + AI-systems buildout reduce the load — toward the truly-absentee Year-2 end state. This reconciles the prior contradiction (this doc said "20hr Year-1 operator"; the locked scale-back doc said "fully exits, not a 20hr scale-back"). The $55k operator-salary line stays baked in — it's what funds the manager when she steps back, so the taper is real and not "buying a job." **Upstream sensitivity to close first:** the late-May pregnancy-possibility question (see `state.md`) sits upstream of the role + timeline; confirm before locking. Decision aid: `context/dan-elena-decision-brief.md`.
+
 Elena scales W-2 to ~20 hr/week at close, runs Year 1 unpaid co-operator; manager hired ($55k) at 12-month trigger after 90-day continuous-CF test, moving the business toward truly-absentee in Year 2. Will handles systems/AI/strategy throughout. **Elena scale-back planning: `goals/elena-scale-back.md`. Recommended Scenario A2 (Industry Transition) has Elena take a 20-25 hr/wk operator role at a small business in whichever of the top 2-3 sectors becomes the apprenticeship focus — builds operator skills + sources deals via Walking Billboard + bridges income simultaneously.**
 
 **Secondary candidate (parallel to both tracks):** Digital business (content site, newsletter) with stable recurring revenue and diversified traffic. Purely parallel — don't let it pull focus.
@@ -164,10 +167,10 @@ Elena scales W-2 to ~20 hr/week at close, runs Year 1 unpaid co-operator; manage
 
 Non-CPAs can own part of an accounting firm in Arizona, but **51% majority ownership must belong to licensed CPAs**.
 
-**Paths to compliance:**
-1. Dan pursues CPA licensure (interested — timeline TBD)
-2. Retain key CPAs as equity partners to satisfy the 51% requirement
-3. Focus on services that don't trigger the CPA-majority rule (non-audit, non-review, non-"CPA" branded services)
+**Paths to compliance** (Dan-licensure ruled out 2026-06-14 — Dan runs multiple businesses, not becoming a CPA):
+1. ~~Dan pursues CPA licensure~~ — **ruled out 2026-06-14.**
+2. Retain a CPA as a minority equity holder of the regulated entity (Dan's network supplies one; not a founder)
+3. Focus on services that don't trigger the CPA-majority rule (non-audit, non-review, non-"CPA" branded services) — ~65% of sourced leads qualify; likely default
 4. Avoid "CPA" in the firm name + avoid audit/review engagements
 
 This is a known constraint — not a dealbreaker, but must be resolved in deal structure.

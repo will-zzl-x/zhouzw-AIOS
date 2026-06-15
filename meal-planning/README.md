@@ -15,14 +15,17 @@ modified by any script.
 | Step | Command | Tokens? | What it does |
 |------|---------|---------|--------------|
 | 1 | `make new-cycle` | **no tokens** | Interactive: prompts dates/exceptions/carryover/selections → writes `cycles/<YYYY-MM-DD>.yaml` |
+| **★** | **`make week`** | **no tokens** | **The weekly run.** PREFLIGHT healthcheck (recipes/inventory/cycle valid) → coverage → grocery → defrost → schedule in one command, one clean report. Fails fast before any step can crash; stops before `deplete` (which mutates state). `make week CYCLE=cycles/<date>.yaml`. |
 | 2 | `make coverage` | **no tokens** | Servings needed per slot/person − carryover − dining-out vs. planned. Prints gaps. |
 | → | *(only if gap)* run `ai/suggest_recipes.md` | **TOKENS** | Suggest recipes to fill the gap |
 | 3 | `make grocery` | **no tokens** | Aggregate ingredients × servings − inventory, group by store, flag every unconfirmed item |
-| 4 | `make defrost` | **no tokens** | Freezer→fridge move schedule (beef/thighs 12–18h, breast 18–24h, move 2 nights before first cook) |
+| 4 | `make defrost` | **no tokens** | Freezer→fridge move schedule. Stages proteins actually **in the freezer** (`inventory.json` location=freezer), cut-aware (won't thaw thighs for a breast recipe); fresh-buys skipped. |
 | 5 | `make schedule` | **no tokens** | Ordered cook plan: perishable → marinade-lead → slow/long-simmer → rotisserie(Sat) → standard |
 | 6 | *(cook the week)* | — | — |
-| 7 | `make deplete APPLY=1` | **no tokens** | Subtract the cycle's consumed items from `data/inventory.json` for next cycle |
+| 7 | `make deplete APPLY=1` | **no tokens** | Subtract the cycle's consumed items from `data/inventory.json`. Uses the **same fuzzy-name + unit-scaling matcher as grocery** (`lib.units`), so what grocery calls "covered" is exactly what deplete draws down — inventory stays true week over week. |
 | any | `make validate` | **no tokens** | Recipe-DB schema + integrity. `STRICT=1` hardens the seasoning rule. |
+
+> **Run-it-weekly tip:** `make week` is the front door — preflight + the whole read-only loop in one shot. Use the individual targets only to re-run one step. `deplete` stays separate on purpose (the only step that writes inventory).
 
 **The only token-spending tasks** (run by hand, never `make`):
 
