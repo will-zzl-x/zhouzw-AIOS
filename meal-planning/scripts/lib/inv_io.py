@@ -29,13 +29,18 @@ def standardize_name(s):
 
 
 def parse_quantity(s):
-    """Validate + parse a quantity to float. Returns None if not a plain number.
-    Stricter than units.parse_amount: rejects ranges/fractions/trailing text so a
-    fat-fingered '8lb' or '2-3' is caught instead of silently coerced."""
+    """Validate + parse a quantity to float. Returns None if not a plain FINITE
+    number. Stricter than units.parse_amount: rejects ranges/fractions/trailing
+    text so a fat-fingered '8lb' or '2-3' is caught instead of silently coerced —
+    AND rejects inf/nan, which float() happily accepts ('inf'<=0 and 'nan'<=0 are
+    both False, so they slipped past the add guard and wrote literal Infinity/NaN
+    into inventory.json — invalid JSON for any strict/JS parser, i.e. a future app)."""
+    import math
     try:
-        return float(str(s).strip())
+        v = float(str(s).strip())
     except (TypeError, ValueError):
         return None
+    return v if math.isfinite(v) else None
 
 
 def load_raw_inventory(path: Path = None):
@@ -55,8 +60,25 @@ def dump_inventory(raw):
 
 
 def write_inventory(raw, path: Path = None):
-    """Write the inventory list back to disk (2-space indent + trailing newline)."""
-    path = path or models.INVENTORY_PATH
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(dump_inventory(raw))
-        f.write("\n")
+    """Atomically write the inventory list to disk (2-space indent + trailing
+    newline). Writes to a temp file in the SAME directory, then os.replace() —
+    so a crash or full disk mid-write can't truncate/corrupt inventory.json (the
+    one non-regenerable file in the system). All inventory writers should route
+    through here rather than truncate-in-place."""
+    import os
+    import tempfile
+    path = Path(path or models.INVENTORY_PATH)
+    payload = dump_inventory(raw) + "\n"
+    fd, tmp = tempfile.mkstemp(dir=str(path.parent), prefix=".inv_", suffix=".tmp")
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            f.write(payload)
+            f.flush()
+            os.fsync(f.fileno())
+        os.replace(tmp, path)   # atomic on the same filesystem
+    except BaseException:
+        try:
+            os.unlink(tmp)
+        except OSError:
+            pass
+        raise

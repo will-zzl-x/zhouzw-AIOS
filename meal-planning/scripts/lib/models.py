@@ -64,14 +64,32 @@ class Recipe:
 
     @classmethod
     def from_dict(cls, d: Dict[str, Any]) -> "Recipe":
+        # Null/shape guards (InventoryItem.quantity was already guarded with `or 0`;
+        # Recipe was not — so a single malformed paste from ai/vet_recipe.md, e.g.
+        # "servings": null or "meal_slots": 3, used to crash int()/the comprehension
+        # and brick validate/coverage/grocery/deplete all at once). Coerce defensively;
+        # validate.py is the place that REPORTS bad data — loaders shouldn't die on it.
+        raw_slots = d.get("meal_slots") or []
+        if not isinstance(raw_slots, list):
+            raw_slots = [raw_slots]
+        slots = []
+        for s in raw_slots:
+            try:
+                slots.append(int(s))
+            except (TypeError, ValueError):
+                pass  # non-int slot is reported by validate.py, not fatal here
+        try:
+            servings = int(d.get("servings") or 0)
+        except (TypeError, ValueError):
+            servings = 0
         return cls(
             id=str(d.get("id", "")),
             name=str(d.get("name", "")),
             tier=d.get("tier"),
-            meal_slots=[int(s) for s in d.get("meal_slots", [])],
-            servings=int(d.get("servings", 0)),
+            meal_slots=slots,
+            servings=servings,
             protein=str(d.get("protein", "")),
-            ingredients=[Ingredient.from_dict(i) for i in d.get("ingredients", [])],
+            ingredients=[Ingredient.from_dict(i) for i in (d.get("ingredients") or []) if isinstance(i, dict)],
             notes=str(d.get("notes", "")),
             recipe_available=bool(d.get("recipe_available", True)),
             recipe_steps=list(d.get("recipe_steps", [])),
