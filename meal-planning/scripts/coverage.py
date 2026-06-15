@@ -79,6 +79,10 @@ def build_planned(cycle):
 
 
 def main():
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")   # cp1252-safe glyphs (em-dash etc.)
+    except (AttributeError, ValueError):
+        pass
     args = [a for a in sys.argv[1:] if not a.startswith("-")]
     cycle_path = Path(args[0]) if args else models.latest_cycle_path()
     if not cycle_path or not Path(cycle_path).exists():

@@ -7,11 +7,12 @@ PY ?= python
 SCRIPTS := scripts
 CYCLE ?=        # optional: make coverage CYCLE=cycles/2026-06-07.yaml
 
-.PHONY: help new-cycle coverage grocery defrost schedule deplete deplete-apply validate demo
+.PHONY: help new-cycle week coverage grocery defrost schedule deplete deplete-apply validate demo
 
 help:
 	@echo "Meal-planning loop (all no-tokens):"
 	@echo "  make new-cycle   - interactive: write cycles/<date>.yaml"
+	@echo "  make week        - PREFLIGHT + coverage + grocery + defrost + schedule (the weekly run)"
 	@echo "  make coverage    - needed vs planned per slot/person; prints gaps"
 	@echo "  make grocery     - aggregate ingredients x servings - inventory, by store"
 	@echo "  make defrost     - freezer->fridge move schedule"
@@ -25,6 +26,9 @@ help:
 
 new-cycle:
 	@$(PY) $(SCRIPTS)/new_cycle.py
+
+week:
+	@$(PY) $(SCRIPTS)/run_week.py $(CYCLE)
 
 coverage:
 	@$(PY) $(SCRIPTS)/coverage.py $(CYCLE)

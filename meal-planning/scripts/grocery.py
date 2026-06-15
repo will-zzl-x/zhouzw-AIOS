@@ -28,6 +28,15 @@ def norm_name(s):
 
 
 def main():
+    # Windows/Anaconda default console is cp1252, which can't encode the '->' arrow
+    # (U+2192) or '×' (U+00D7) this script prints — that raised UnicodeEncodeError
+    # mid-output and truncated the grocery list on Will's default shell (audit
+    # 2026-06-14). Force UTF-8 stdout so the loop runs without needing PYTHONIOENCODING.
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except (AttributeError, ValueError):
+        pass  # pre-3.7 or already-wrapped stream; still fine on a UTF-8 shell
+
     args = [a for a in sys.argv[1:] if not a.startswith("-")]
     cycle_path = Path(args[0]) if args else models.latest_cycle_path()
     if not cycle_path or not Path(cycle_path).exists():
@@ -37,10 +46,30 @@ def main():
     cycle = models.load_cycle(cycle_path)
     inventory = models.load_inventory()
 
-    # Inventory index: normalized name -> list of (qty, unit, location)
-    inv_index = defaultdict(list)
+    # On-hand pool: persistent pantry (data/inventory.json) PLUS this cycle's
+    # inventory_snapshot (items Will flagged as already on hand for THIS week).
+    # Bug #1 fix: grocery now reads cycle.inventory_snapshot exactly like deplete
+    # does, so snapshot items stop showing up as false BUYs. Each entry keeps its
+    # display name so fuzzy matching (bug #2) can run per-entry, not via a strict
+    # name key. source = "snapshot" | "pantry".
+    on_hand_pool = []  # list of dicts: {name, qty, unit, source, loc}
     for it in inventory:
-        inv_index[norm_name(it.item)].append((it.quantity, units.normalize_unit(it.unit), it.location))
+        on_hand_pool.append({
+            "name": it.item,
+            "qty": float(it.quantity or 0),
+            "unit": units.normalize_unit(it.unit),
+            "source": "pantry",
+            "loc": it.location,
+        })
+    for snap in cycle.inventory_snapshot:
+        q = units.parse_amount(snap.get("amount"))
+        on_hand_pool.append({
+            "name": str(snap.get("name", "")),
+            "qty": float(q) if q is not None else None,  # None => non-numeric on-hand
+            "unit": units.normalize_unit(snap.get("unit", "")),
+            "source": "snapshot",
+            "loc": "snapshot",
+        })
 
     # Aggregate: (store, name, unit) -> {"qty": float|None, "raw_amounts": [str], "numeric": bool}
     agg = {}
@@ -65,23 +94,35 @@ def main():
                     entry["qty"] += qty * ratio
                 entry["raw"].append(f"{ing.amount} {ing.unit}".strip())
 
-    # Subtract inventory + decide flag. Returns rows grouped by store.
+    # Subtract on-hand (pantry + snapshot) + decide flag. Grouped by store.
     by_store = defaultdict(list)
     for (store, name, unit), e in agg.items():
-        # Name-first inventory match (units in recipes.json are descriptive, e.g.
-        # "thighs (1 costco pack)" vs inventory "thighs"; never gate the match on
-        # the full unit string). units.units_compatible() decides whether the
-        # on-hand quantity is directly comparable for subtraction.
-        on_hand = inv_index.get(name, [])
-        in_inventory = bool(on_hand)
-        have_qty = 0.0
-        unit_comparable = False
-        inv_units = []
-        for q, u, loc in on_hand:
-            inv_units.append(u)
-            if units.units_compatible(unit, u):
-                have_qty += q
+        # Bug #2 fix: match on-hand entries to this need by FUZZY NAME
+        # (units.names_match — token-overlap, case-insensitive) and convert the
+        # on-hand quantity into the recipe's unit (units.convert_qty — volume +
+        # weight tables) before subtracting. Conservative by design: a quantity
+        # only counts toward have_qty when its unit is convertible to the need's
+        # unit; otherwise it's recorded as a same-name-but-uncomparable match and
+        # surfaces as a CHECK (we never tell Will he's covered on a guess).
+        matches = [m for m in on_hand_pool
+                   if units.names_match(e["disp_name"], m["name"])]
+        in_inventory = bool(matches)
+        have_qty = 0.0          # on-hand, expressed in the recipe's unit
+        unit_comparable = False  # at least one match was numerically nettable
+        had_uncomparable = False  # matched by name but qty/unit not nettable
+        match_srcs = set()
+        match_units = []
+        for m in matches:
+            match_srcs.add(m["source"])
+            if m["unit"]:
+                match_units.append(m["unit"])
+            conv = units.convert_qty(m["qty"], m["unit"], unit) if m["qty"] is not None else None
+            if conv is not None:
+                have_qty += conv
                 unit_comparable = True
+            else:
+                had_uncomparable = True
+        has_snapshot = "snapshot" in match_srcs
 
         # Blank-store / water flex items: no purchase needed (matches footer).
         is_water = "water" in name
@@ -93,27 +134,39 @@ def main():
 
         if e["numeric"]:
             need = e["qty"]
+            src = " (snapshot)" if has_snapshot else ""
             if unit_comparable:
                 net = need - have_qty
-                if net <= 0:
+                if net <= 1e-9:
+                    # Fully covered by on-hand — struck, not a buy (bug #1).
                     status = "HAVE"
-                    line = f"{e['disp_name']}: need {need:.2f} {unit}, have {have_qty:.2f} — covered"
+                    line = f"{e['disp_name']}: need {need:.2f} {unit}, have {have_qty:.2f}{src} — covered"
                 else:
+                    # Partially covered — show the GAP, don't strike (e.g. 6 buns
+                    # on hand vs 8 needed -> buy ~2), don't re-buy the full need.
                     status = "BUY"
-                    line = f"{e['disp_name']}: need {need:.2f} {unit} (have {have_qty:.2f}) -> buy ~{net:.2f} {unit}"
+                    line = (f"{e['disp_name']}: need {need:.2f} {unit} "
+                            f"(have {have_qty:.2f}{src}) -> buy ~{net:.2f} {unit}")
             elif in_inventory:
-                # On hand but unit can't be netted (oz vs tbsp etc.) — confirm, don't reorder blind.
+                # On hand by name but unit can't be netted (e.g. recipe "3 inches
+                # ginger" vs snapshot in inches but as a powder sub) — confirm.
                 status = "CHECK"
-                iu = "/".join(sorted(set(u for u in inv_units if u))) or "?"
-                line = f"{e['disp_name']}: need {need:.2f} {unit} — in inventory (have {have_qty:.0f} {iu}); confirm coverage"
+                iu = "/".join(sorted(set(u for u in match_units if u))) or "?"
+                line = (f"{e['disp_name']}: need {need:.2f} {unit} — on hand{src} "
+                        f"(unit {iu} not directly comparable); confirm coverage")
             else:
                 status = "BUY"
-                line = f"{e['disp_name']}: need {need:.2f} {unit} (not in inventory) -> buy ~{need:.2f} {unit}"
+                line = f"{e['disp_name']}: need {need:.2f} {unit} (not on hand) -> buy ~{need:.2f} {unit}"
         else:
             # non-numeric (to taste / flex) — always a CHECK, never assume
             status = "CHECK"
             seen = "; ".join(dict.fromkeys(e["raw"]))
-            hav = " (in inventory)" if in_inventory else " (NOT in inventory — confirm)"
+            if has_snapshot:
+                hav = " (on hand — snapshot)"
+            elif in_inventory:
+                hav = " (in inventory)"
+            else:
+                hav = " (NOT on hand — confirm)"
             line = f"{e['disp_name']} [{seen}]{hav}"
 
         by_store[store or "(unspecified)"].append((status, line))
