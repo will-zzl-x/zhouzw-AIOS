@@ -70,7 +70,7 @@ The operational specifics of Scenario B. Proposed split below — *Will + Elena 
 
 > **Shape decided (Will, 6/14):** Elena exits engineering fully (LOCKED `goals/elena-scale-back.md`, mid-2027) and goes **full-time into the acquired firm early as needed**, then **tapers to whatever level/hours she wants** as the manager hire + systems mature → truly-absentee Year 2. This replaces the earlier per-phase-hours TBD and the contradicted "20 hr/wk Year-1" framing.
 >
-> [STILL TO CONFIRM with Elena] (a) whether she wants an hours ceiling from day one, (b) when the taper starts (manager-hire month 12, or a date she sets), (c) the upstream pregnancy-possibility question from late May (`state.md`) which sits ahead of the role + timeline. Decision aid: `context/dan-elena-decision-brief.md`.
+> [STILL TO CONFIRM with Elena] (a) whether she wants an hours ceiling from day one, (b) when the taper starts (manager-hire month 12, or a date she sets). The pregnancy-possibility question from late May is CLOSED (officially negative, confirmed Will 2026-06-14 reflection — no longer gates role or timeline). Decision aid: `context/dan-elena-decision-brief.md`.
 
 **Proposed function split (Claude advice — Will + Elena + Dan to confirm):**
 

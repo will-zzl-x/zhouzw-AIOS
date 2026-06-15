@@ -46,8 +46,10 @@ hours," but "Elena is leaving her career to go all-in on this, with full availab
 
 ## Decision 2 — Elena's equity-cash contribution at close
 
-**Status: deliberately NOT modeled yet** (per Will, 2026-06-14). Left as `[Will + Elena decide]` in the
-message + equity model. Here's the trade-off space so you can set it together.
+**DECIDED 2026-06-14: Will $50k / Elena $50k / Dan $0 personal cash.** Locked by Will. Elena sign-off
+still needed before the Frame B message goes (it's her money + her career exit; she should see the
+number). The trade-off space below is preserved as the reasoning record — read it together if Elena
+wants to stress-test the $50k choice or push toward $80k.
 
 **Sources available** (from `context/financial-state.md`):
 - Elena's taxable: **$100k** (the natural acquisition-equity source; `acquisition.md` already notes it
@@ -93,7 +95,7 @@ keeps the right reserve; (3) **Dan raising outside capital is the *designed* lev
 clean range** — self-funding a bigger injection undercuts the whole reason Dan's a partner. Make "Dan
 raises $X" + a **seller standby note** the gap-fillers, not more of your own cash. Revisit only in the
 narrow case of a $1M stretch deal where Dan can't raise AND the seller won't carry. Equity on these
-inputs: **~Will 43 / Elena 39 / Dan 18** (`context/dan-equity-model.md`).
+inputs: **~Elena 46 / Will 43 / Dan 12** (`context/dan-equity-model.md`).
 
 ---
 
