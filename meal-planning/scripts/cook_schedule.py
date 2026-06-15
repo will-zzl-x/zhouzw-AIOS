@@ -67,6 +67,7 @@ def main():
         sys.stdout.reconfigure(encoding="utf-8")   # cp1252-safe glyphs (em-dash etc.)
     except (AttributeError, ValueError):
         pass
+    as_json = "--json" in sys.argv
     args = [a for a in sys.argv[1:] if not a.startswith("-")]
     cycle_path = Path(args[0]) if args else models.latest_cycle_path()
     if not cycle_path or not Path(cycle_path).exists():
@@ -86,6 +87,19 @@ def main():
         w, reason = classify(r, weights)
         ordered.append((w, r, reason, int(sel.get("planned_servings", r.servings))))
     ordered.sort(key=lambda x: (x[0], x[1].name))
+
+    if as_json:
+        import json
+        print(json.dumps({
+            "cycle_date": cycle.date,
+            "cooks": [
+                {"order": i, "recipe_id": r.id, "recipe": r.name, "servings": servings,
+                 "meal_slots": r.meal_slots, "why": reason,
+                 "rules": relevant_rules(r, rules)}
+                for i, (w, r, reason, servings) in enumerate(ordered, 1)
+            ],
+        }, indent=2))
+        return
 
     print(f"Cook schedule — cycle {cycle.date} ({Path(cycle_path).name})")
     print("Order: perishable -> marinade-lead -> slow/long -> rotisserie(Sat) -> standard\n")

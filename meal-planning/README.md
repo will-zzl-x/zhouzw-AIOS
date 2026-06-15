@@ -27,6 +27,8 @@ modified by any script.
 
 > **Run-it-weekly tip:** `make week` is the front door — preflight + the whole read-only loop in one shot. Use the individual targets only to re-run one step. `deplete` stays separate on purpose (the only step that writes inventory).
 
+> **App-ready (`--json`):** every read-only step (`coverage`, `grocery`, `defrost`, `cook_schedule`) and `run_week.py` accept `--json` and emit a structured result instead of text — same compute, machine-readable. `python scripts/run_week.py [cycle] --json` returns the whole **WeekReport** (preflight + coverage + grocery + defrost + schedule) as one JSON object. That object is the contract a future app/UI consumes — no CLI scraping. Text remains the default for terminal use.
+
 **The only token-spending tasks** (run by hand, never `make`):
 
 | Template | When |

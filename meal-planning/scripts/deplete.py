@@ -109,7 +109,12 @@ def main():
             print(f"  - {n}")
 
     if apply:
-        json.dump(raw, open(inv_path, "w", encoding="utf-8"), indent=2)
+        # Route through the shared ATOMIC writer (temp + os.replace) so a crash
+        # mid-write can't corrupt inventory.json — and so deplete + inventory_add/
+        # remove all format the file identically (no diff churn). Was a raw
+        # truncate-in-place json.dump.
+        from lib import inv_io
+        inv_io.write_inventory(raw, inv_path)
         print(f"\nWrote {inv_path}")
     else:
         print("\nDry-run only. Re-run with --apply to write data/inventory.json.")

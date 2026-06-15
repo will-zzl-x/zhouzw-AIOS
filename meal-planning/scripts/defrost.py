@@ -166,6 +166,11 @@ def protein_fresh_on_hand(protein, snapshot):
 
 
 def main():
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except (AttributeError, ValueError):
+        pass
+    as_json = "--json" in sys.argv
     args = [a for a in sys.argv[1:] if not a.startswith("-")]
     cycle_path = Path(args[0]) if args else models.latest_cycle_path()
     if not cycle_path or not Path(cycle_path).exists():
@@ -206,6 +211,22 @@ def main():
         move_day = cook_day - timedelta(days=move_nights)
         rows.append((move_day, cook_day, r.name, r.protein, lo, hi))
 
+    rows.sort()
+    if as_json:
+        import json
+        print(json.dumps({
+            "cycle_date": cycle.date,
+            "move_nights": move_nights,
+            "stage_from_freezer": [
+                {"move_date": md.isoformat(), "cook_date": cd.isoformat(),
+                 "protein": protein, "recipe": name, "thaw_lo_h": lo, "thaw_hi_h": hi}
+                for md, cd, name, protein, lo, hi in rows
+            ],
+            "fresh_on_hand": [{"protein": p, "recipe": n} for n, p in fresh_on_hand],
+            "fresh_buy": [{"protein": p, "recipe": n} for n, p in fresh_buys],
+        }, indent=2))
+        return
+
     beef_rng = config.get("defrost_lead_hours", {}).get("beef", [12, 18])
     beef_str = "-".join(str(x) for x in beef_rng) if isinstance(beef_rng, (list, tuple)) else str(beef_rng)
     print(f"Defrost schedule — cycle {cycle.date} ({Path(cycle_path).name})")
@@ -226,7 +247,6 @@ def main():
         else:
             print("  No frozen proteins to thaw this cycle (take-and-bake / fresh / rotisserie only).")
         return
-    rows.sort()
     for move_day, cook_day, name, protein, lo, hi in rows:
         print(f"  {move_day.isoformat()} (move) -> cook ~{cook_day.isoformat()}: "
               f"{protein} for '{name}' — thaws in {lo}-{hi}h, {move_nights}-night buffer")

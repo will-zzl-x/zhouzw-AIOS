@@ -37,6 +37,7 @@ def main():
     except (AttributeError, ValueError):
         pass  # pre-3.7 or already-wrapped stream; still fine on a UTF-8 shell
 
+    as_json = "--json" in sys.argv
     args = [a for a in sys.argv[1:] if not a.startswith("-")]
     cycle_path = Path(args[0]) if args else models.latest_cycle_path()
     if not cycle_path or not Path(cycle_path).exists():
@@ -129,7 +130,7 @@ def main():
         if (store in models.STORE_FLEX) and (is_water or unit == ""):
             status = "FLEX"
             line = f"{e['disp_name']} — flex/water, no purchase"
-            by_store[store or "(unspecified)"].append((status, line))
+            by_store[store or "(unspecified)"].append((status, line, e["disp_name"]))
             continue
 
         if e["numeric"]:
@@ -169,22 +170,39 @@ def main():
                 hav = " (NOT on hand — confirm)"
             line = f"{e['disp_name']} [{seen}]{hav}"
 
-        by_store[store or "(unspecified)"].append((status, line))
+        by_store[store or "(unspecified)"].append((status, line, e["disp_name"]))
 
     # Output
-    print(f"Grocery list — cycle {cycle.date} ({Path(cycle_path).name})")
-    print(f"Selections: {', '.join(s.get('recipe_id','?') for s in cycle.selections)}")
-    print("Rule: every BUY/CHECK item is unconfirmed — never assume spices/sauces on hand.\n")
-
     store_order = ["Costco", "Walmart", "Asian Mart", "(unspecified)"]
     stores = sorted(by_store, key=lambda s: store_order.index(s) if s in store_order else 99)
     order = {"BUY": 0, "CHECK": 1, "HAVE": 2, "FLEX": 3}
     mark_for = {"BUY": "[ ]", "CHECK": "[?]", "HAVE": "[x]", "FLEX": "[-]"}
+
+    if as_json:
+        import json
+        out = {"cycle_date": cycle.date,
+               "selections": [s.get("recipe_id", "?") for s in cycle.selections],
+               "stores": {}, "n_buy": 0, "n_check": 0}
+        for store in stores:
+            items = []
+            for status, line, disp in sorted(by_store[store], key=lambda r: order[r[0]]):
+                items.append({"status": status, "item": disp, "detail": line})
+                if status == "BUY":
+                    out["n_buy"] += 1
+                elif status == "CHECK":
+                    out["n_check"] += 1
+            out["stores"][store] = items
+        print(json.dumps(out, indent=2))
+        return
+
+    print(f"Grocery list — cycle {cycle.date} ({Path(cycle_path).name})")
+    print(f"Selections: {', '.join(s.get('recipe_id','?') for s in cycle.selections)}")
+    print("Rule: every BUY/CHECK item is unconfirmed — never assume spices/sauces on hand.\n")
     n_buy = n_check = 0
     for store in stores:
         rows = sorted(by_store[store], key=lambda r: order[r[0]])
         print(f"== {store} ==")
-        for status, line in rows:
+        for status, line, _disp in rows:
             print(f"  {mark_for[status]} {line}")
             if status == "BUY":
                 n_buy += 1

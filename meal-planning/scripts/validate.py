@@ -68,12 +68,18 @@ def validate(recipes, strict=False):
                 hard.append(f"{tag}: missing required field '{fld}'")
 
         # meal_slots in {2,3,4}, non-empty
+        # Guard the SHAPE first — a scalar (meal_slots: 3 instead of [3]) used to
+        # crash `for s in slots` with a TypeError, i.e. the validator died on
+        # exactly the malformed input it exists to catch.
         slots = r.get("meal_slots", [])
-        if not slots:
+        if not isinstance(slots, list):
+            hard.append(f"{tag}: meal_slots must be a list, got {type(slots).__name__} ({slots!r})")
+        elif not slots:
             hard.append(f"{tag}: meal_slots is empty")
-        for s in slots:
-            if s not in VALID_SLOTS:
-                hard.append(f"{tag}: meal_slot {s!r} not in {sorted(VALID_SLOTS)}")
+        else:
+            for s in slots:
+                if s not in VALID_SLOTS:
+                    hard.append(f"{tag}: meal_slot {s!r} not in {sorted(VALID_SLOTS)}")
 
         # servings positive int
         sv = r.get("servings")
@@ -90,11 +96,18 @@ def validate(recipes, strict=False):
         if notes_break and not r.get("on_break", False):
             warn.append(f"{tag}: notes say 'ON BREAK' but on_break=false (scripts treat it ACTIVE)")
 
-        # ingredients
+        # ingredients — guard shape (a non-list, or a non-dict entry, used to
+        # crash the loop instead of being reported).
         ingrs = r.get("ingredients", [])
+        if not isinstance(ingrs, list):
+            hard.append(f"{tag}: ingredients must be a list, got {type(ingrs).__name__}")
+            ingrs = []
         if not ingrs:
             hard.append(f"{tag}: no ingredients")
         for i in ingrs:
+            if not isinstance(i, dict):
+                hard.append(f"{tag}: ingredient {i!r} is not an object")
+                continue
             iname = i.get("name", "<unnamed>")
             amount = str(i.get("amount", "")).strip()
             unit = str(i.get("unit", "")).strip()
