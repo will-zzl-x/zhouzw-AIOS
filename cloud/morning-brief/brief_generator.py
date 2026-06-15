@@ -50,22 +50,30 @@ Rules:
 
 9. OUTPUT — JSON array only. No prose before or after. No markdown fences. **Do not draft, comment, then re-output**: emit one final JSON array and stop. Emit ALL required gates from Rule 1 + ALL eligible Daily Consistents from Rule 2 + 1–2 Major Moves from Rule 3 + the optional Differentiation Cue from Rule 8 if applicable. Total count varies with how many Daily Consistents are eligible today — typically 8–14 tasks.
 
+10. DESCRIPTION (in-app context that lands in the Todoist task body) — The `title` is a 5–10 word action; the `description` carries the WHY and the HOW so the task isn't cryptic on the phone. Rules per task type:
+   - **Daily Consistents (Rule 2):** set `description` to the FULL corresponding dashboard.md bullet — copy the text after the bold lead-in VERBATIM, preserving any rotation menus, scenario detail, sub-options, and parenthetical refs. This is the load-bearing case: e.g. the desire-polarity rep's (a)–(e) rotation + anti-goals, or the Zone-2 scenario detail. Never strip a Daily Consistent to its title alone.
+   - **Daily-standard gates (Rule 1):** set `description` to the relevant daily-standard.md detail if the gate has a number/threshold worth seeing (e.g. "150g protein, ~1,820 cal — log in Cronometer"); else null for self-evident gates (e.g. "Walk 12,500 steps").
+   - **Major Moves (Rule 3):** set `description` to a 1–2 sentence actionable summary distilled from that strategic_moves entry's Notes — the concrete next step + any file path or key number. Do NOT prepend 'sm:' yourself; the sm_id field handles that.
+   - **Differentiation cue (Rule 8):** null — the full sentence already lives in the title.
+   Keep descriptions faithful to the source text; do not invent detail that isn't in dashboard.md / daily-standard.md / the backlog notes. A null description is fine when there's genuinely nothing to add.
+
 Output schema:
 [
-  {"title": "string (5-10 words)", "area": "career|fitness|relationships|money|wedding", "priority": 1-4, "sm_id": "string | null"}
+  {"title": "string (5-10 words)", "area": "career|fitness|relationships|money|wedding", "priority": 1-4, "sm_id": "string | null", "description": "string | null"}
 ]
 
 Example (illustrative — your actual output reflects today's context):
 [
-  {"title": "Train Session 4: squat + press triples", "area": "fitness", "priority": 2, "sm_id": null},
-  {"title": "Hit 180g protein, 2200 kcal", "area": "fitness", "priority": 2, "sm_id": null},
-  {"title": "Walk 10,000 steps", "area": "fitness", "priority": 3, "sm_id": null},
-  {"title": "Book BJJ trial class this week", "area": "fitness", "priority": 3, "sm_id": null},
-  {"title": "Send promo doc draft to Matt for review", "area": "career", "priority": 1, "sm_id": "promo-doc-final"}
+  {"title": "Train Session 4: squat + press triples", "area": "fitness", "priority": 2, "sm_id": null, "description": null},
+  {"title": "Hit 180g protein, 2200 kcal", "area": "fitness", "priority": 2, "sm_id": null, "description": "Protein first at every meal; hit target before filling remaining calories. Log in Cronometer."},
+  {"title": "Walk 10,000 steps", "area": "fitness", "priority": 3, "sm_id": null, "description": null},
+  {"title": "Desire-polarity rep: one move today", "area": "relationships", "priority": 3, "sm_id": null, "description": "Make ONE move from goals/desire-polarity.md DO list. Rotation: (a) Solo-space rep (silent walk/violin/meditation/style — vary day-to-day, no phone) · (b) Lead a decision without asking 'what do you want' · (c) Take small space without explaining it · (d) Hold your ground in one small friction (no DEER) · (e) Vary a default routine unilaterally. Anti-goals: no dread, no scoring, no reaction-watching, no dynamic-talk with Elena."},
+  {"title": "Send promo doc draft to Matt for review", "area": "career", "priority": 1, "sm_id": "promo-doc-final", "description": "Final review pass, then manager-align. Lift IFSA_CHILD + GL_MW write-ups in as L5 systems-thinking evidence. Jun 30 hard cutoff."}
 ]
 
 Priority: 1=highest (do first), 4=lowest. Use 1 sparingly — at most one task per day.
 sm_id: required field. String for Major Moves (copy verbatim from strategic_moves). null for daily-standard gates, Daily Consistents, and the differentiation cue.
+description: required field (use null when nothing to add). Carries the in-app context per Rule 10. The system stores it in the Todoist task body, alongside the sm-tag for Major Moves.
 """
 
 
@@ -133,7 +141,10 @@ Generate today's brief as JSON."""
 
     resp = client.messages.create(
         model=MODEL,
-        max_tokens=2048,
+        # 4096 (was 2048): descriptions per Rule 10 add output volume — a full
+        # 14-task brief with rich Daily-Consistent descriptions can exceed 2048
+        # and truncate the closing JSON, which would fail the array parse below.
+        max_tokens=4096,
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": user_msg}],
     )
