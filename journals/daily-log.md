@@ -146,3 +146,5 @@ Format: ✓ = done, □ = planned/pending
 □ Desire-polarity rep: one DO-list move today
 □ Run Apify scrape, enrich leads, save to sourcing/leads/
 □ Book stylist consult, advance style + grooming sprint
+
+**2026-06-15 (Mon)** — NYC Cut Wk 4 starting
