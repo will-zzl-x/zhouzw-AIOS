@@ -78,20 +78,15 @@ def build_planned(cycle):
     return planned
 
 
-def main():
-    try:
-        sys.stdout.reconfigure(encoding="utf-8")   # cp1252-safe glyphs (em-dash etc.)
-    except (AttributeError, ValueError):
-        pass
-    args = [a for a in sys.argv[1:] if not a.startswith("-")]
-    cycle_path = Path(args[0]) if args else models.latest_cycle_path()
-    if not cycle_path or not Path(cycle_path).exists():
-        print("No cycle file. Run `make new-cycle` or pass cycles/<date>.yaml."); sys.exit(1)
+def compute_coverage(config, recipes, cycle):
+    """Pure compute: returns a structured coverage result (no I/O, no printing).
+    This is the app-portable core — main() just renders it as text or JSON.
 
-    config = models.load_config()
-    recipes = {r.id: r for r in models.load_recipes()}
-    cycle = models.load_cycle(cycle_path)
-
+    Returns: {
+      'cycle_date', 'rows': [{member, slot, need, planned, gap}],
+      'gaps': [{member, slot, short}], 'total_short', 'covered' (bool)
+    }
+    """
     need = build_need(config)
     apply_exceptions(need, cycle)
     planned = build_planned(cycle)
@@ -115,28 +110,63 @@ def main():
         else:
             dist[(who, slot)] += n
 
-    print(f"Coverage — cycle {cycle.date} ({Path(cycle_path).name})")
-    print(f"{'Member':6} {'Slot':4} {'Need':>5} {'Planned':>8} {'Gap':>5}")
-    print("-" * 32)
-    gaps = []
+    rows, gaps = [], []
     for (mid, slot) in sorted(need):
         nd = need[(mid, slot)]
         pl = dist.get((mid, slot), 0)
         gap = nd - pl
-        flag = "  <-- GAP" if gap > 0 else ("  (over)" if gap < 0 else "")
-        print(f"{mid:6} {slot:4} {nd:>5} {pl:>8} {gap:>5}{flag}")
+        rows.append({"member": mid, "slot": slot, "need": nd, "planned": pl, "gap": gap})
         if gap > 0:
-            gaps.append((mid, slot, gap))
+            gaps.append({"member": mid, "slot": slot, "short": gap})
 
-    print()
-    if gaps:
-        total = sum(g[2] for g in gaps)
-        print(f"{len(gaps)} gap(s), {total} serving(s) short:")
-        for mid, slot, g in gaps:
-            print(f"  - {mid} {slot}: short {g}")
-        print("\n-> Optionally run ai/suggest_recipes.md to fill these gaps (TOKENS).")
+    return {
+        "cycle_date": cycle.date,
+        "rows": rows,
+        "gaps": gaps,
+        "total_short": sum(g["short"] for g in gaps),
+        "covered": not gaps,
+    }
+
+
+def render_text(result, cycle_path):
+    lines = [f"Coverage — cycle {result['cycle_date']} ({Path(cycle_path).name})",
+             f"{'Member':6} {'Slot':4} {'Need':>5} {'Planned':>8} {'Gap':>5}",
+             "-" * 32]
+    for r in result["rows"]:
+        flag = "  <-- GAP" if r["gap"] > 0 else ("  (over)" if r["gap"] < 0 else "")
+        lines.append(f"{r['member']:6} {r['slot']:4} {r['need']:>5} {r['planned']:>8} {r['gap']:>5}{flag}")
+    lines.append("")
+    if result["gaps"]:
+        lines.append(f"{len(result['gaps'])} gap(s), {result['total_short']} serving(s) short:")
+        for g in result["gaps"]:
+            lines.append(f"  - {g['member']} {g['slot']}: short {g['short']}")
+        lines.append("\n-> Optionally run ai/suggest_recipes.md to fill these gaps (TOKENS).")
     else:
-        print("No gaps — cycle is fully covered. (no AI needed)")
+        lines.append("No gaps — cycle is fully covered. (no AI needed)")
+    return "\n".join(lines)
+
+
+def main():
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")   # cp1252-safe glyphs (em-dash etc.)
+    except (AttributeError, ValueError):
+        pass
+    as_json = "--json" in sys.argv
+    args = [a for a in sys.argv[1:] if not a.startswith("-")]
+    cycle_path = Path(args[0]) if args else models.latest_cycle_path()
+    if not cycle_path or not Path(cycle_path).exists():
+        print("No cycle file. Run `make new-cycle` or pass cycles/<date>.yaml."); sys.exit(1)
+
+    config = models.load_config()
+    recipes = {r.id: r for r in models.load_recipes()}
+    cycle = models.load_cycle(cycle_path)
+
+    result = compute_coverage(config, recipes, cycle)
+    if as_json:
+        import json
+        print(json.dumps(result, indent=2))
+    else:
+        print(render_text(result, cycle_path))
 
 
 if __name__ == "__main__":

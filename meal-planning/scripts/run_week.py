@@ -162,9 +162,26 @@ def run_step(title, script, cycle_path):
     return r.returncode
 
 
+def run_step_json(script, cycle_path):
+    """Run a step with --json and return its parsed result (or {'error': ...})."""
+    import json
+    import os
+    env = {**os.environ, "PYTHONIOENCODING": "utf-8"}
+    r = subprocess.run(
+        [sys.executable, str(SCRIPTS / script), str(cycle_path), "--json"],
+        capture_output=True, text=True, encoding="utf-8", errors="replace", env=env,
+    )
+    try:
+        return json.loads(r.stdout)
+    except (ValueError, TypeError):
+        return {"error": f"{script} did not emit valid JSON", "stderr": (r.stderr or "")[:500]}
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("cycle", nargs="?", default=None)
+    ap.add_argument("--json", action="store_true",
+                    help="emit the whole WeekReport as one JSON object (the app's week endpoint)")
     args = ap.parse_args()
 
     cycle_path = Path(args.cycle) if args.cycle else models.latest_cycle_path()
@@ -173,6 +190,29 @@ def main():
         sys.exit(2)
 
     cycle = models.load_cycle(cycle_path)
+
+    # --json mode: preflight + every step as ONE structured WeekReport. This object
+    # IS the future app's "plan my week" endpoint — no CLI scraping.
+    if args.json:
+        import json
+        pf_fails, pf_warns = [], []
+        rf, rw = check_recipes(); pf_fails += rf; pf_warns += rw
+        inf, inw = check_inventory(); pf_fails += inf; pf_warns += inw
+        cf, cw, _ = check_cycle(cycle_path); pf_fails += cf; pf_warns += cw
+        report = {
+            "cycle_date": cycle.date,
+            "cycle_file": Path(cycle_path).name,
+            "grocery_day": cycle.grocery_day,
+            "preflight": {"ok": not pf_fails, "fails": pf_fails, "warnings": pf_warns},
+        }
+        if not pf_fails:
+            report["coverage"] = run_step_json("coverage.py", cycle_path)
+            report["grocery"] = run_step_json("grocery.py", cycle_path)
+            report["defrost"] = run_step_json("defrost.py", cycle_path)
+            report["schedule"] = run_step_json("cook_schedule.py", cycle_path)
+        print(json.dumps(report, indent=2))
+        sys.exit(0 if not pf_fails else 2)
+
     print(f"WEEK {cycle.date}  ({Path(cycle_path).name})  grocery_day {cycle.grocery_day or '?'}\n")
 
     fails, warns = preflight(cycle_path)
