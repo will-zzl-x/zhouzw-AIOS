@@ -63,6 +63,7 @@ When a topic arises, route to the specialist whose framework applies. Blend only
 | `references/schofield.md` | Fully populated |
 | `references/integrated-coach.md` | This file — always available |
 | `references/perel.md` | Populated (May 2026) |
+| `references/wan.md` | Populated (Jun 2026) — Giovanni Wan (curating Vince Lin / "Seduce With Style"). Style + grooming framework, translated for engaged-to-Elena / point-of-origin context. |
 | `references/gottman.md` | Stub — populate from source material |
 | `references/schnarch.md` | Stub — populate from source material |
 | `references/evans.md` | Stub — populate from source material |
