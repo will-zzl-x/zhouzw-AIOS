@@ -148,3 +148,12 @@ Format: ✓ = done, □ = planned/pending
 □ Book stylist consult, advance style + grooming sprint
 
 **2026-06-15 (Mon)** — NYC Cut Wk 4 starting
+
+**2026-06-16 (Tue)** — NYC Cut Wk 4 starting
+□ Walk 12,500 steps today
+□ Phone off nightstand — charge in kitchen tonight
+□ Desire-polarity rep: one DO-list move today
+□ Zone 2: 20 min post-lift fasted walk or incline
+□ Promo doc: one focused final-review pass today
+□ Fill Dan message gaps (a/b/c), strip brackets, send
+□ Mindset — The lever is you, not her — build yourself, let desire follow. Pick one self-investment move today (training, acquisition work, friend reach-out) and execute it without telling Elena about it.
