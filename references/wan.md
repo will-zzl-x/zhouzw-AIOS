@@ -384,9 +384,11 @@ Lin's 6 practical levers:
 
 ### What's missing from this ingestion (re-send if/when needed)
 
-- **Chapter 11 partial ingestion (2026-06-16, screenshots IMG_4934-4938):** got the **Headwear + Glasses + Scarves** subsections from pages 76-80 — captured in the next subsection below. Still missing from Ch 11: **shirts, pants, jeans, jackets, suits, ties, belts, shoes** (probably pages 81-101). Those are the most tactical pieces for sprint execution — re-send when you can.
-- **Chapter 12 (Colors)** — full color-pairing system. Skip for now unless you specifically want it.
-- **Chapters 31-40** (Style Force Multipliers · Peacocking · Online Avatar · Long-Term Good Looks · Common Mistakes · Style Mastery Progression Chart · Strengths and Weaknesses · Map of Interaction · **Lifestyle**) — the MCP truncated file 2 at chapter 30. The **Lifestyle chapter (40)** is the philosophical close-out and probably the most valuable; the **Long-Term Good Looks chapter (35)** likely overlaps fitness/diet/sleep advice Will already has from Schofield. Re-send if/when wanted.
+- **Chapter 11 — COMPLETE** as of 2026-06-16 PM (full PDF pages 72-93 received). All item-by-item content captured in the next subsections below.
+- **Chapter 12 (Colors)** — full color-pairing system. Still not ingested. Skip for now unless you specifically want it.
+- **Chapters 33-35 partial** (Peacocking · Online Avatar · Long Term Good Looks) ingested 2026-06-16 PM via the second new PDF (pages 193-202). Sections captured below.
+- **Chapters 31-32** (Leveraging Style Interactivity · Style Force Multipliers) — still missing.
+- **Chapters 36-40** (Common Mistakes and Long Term Side Effects · Style Mastery Progression Chart · Strengths and Weaknesses Along The Way · Map of Interaction and Style · **Life Style**) — still missing. **Ch 40 (Life Style)** is the philosophical close-out — most likely the highest-value remaining chapter. Re-send pages 221-228 (book page numbers) if/when wanted.
 
 ### Chapter 11 — Clothing Pieces (partial: Headwear, Glasses, Scarves)
 
@@ -428,22 +430,226 @@ Lin's two specific reads:
 
 **Sprint priority:** lower-tier item, not urgent for Jun 22.
 
-### What this Chapter 11 partial confirms (and what's still missing)
+### Chapter 11 (rest) — Body Pieces
 
-What you got matches Lin's promise that the chapter is execution-tactical: each item gets a *what it communicates → when to use → when to skip* read.
+**Undershirts.** Target-tier basics, nothing fancy needed. **V-neck** white tee = clean staple, contrasts well with darker jeans and skin tones — Lin specifically endorses. **Wife-beaters** as outerwear = low-class read except in very casual contexts. As underlayers, undershirts are fine but **should not be visible at the collar of a dress shirt** (a common error).
 
-**The genuine sprint-priority pull from this partial:**
-- **Aviators** are the one unambiguous yes — Phoenix UV + Banff July + NYC summer all need real sunglasses regardless of Avatar. Universally flattering. Fold into the Jun 22 deadline if possible.
+**T-shirts.** Fitted, plain or with a smart design. Watch for two failure modes Lin calls out:
+- **The Affliction trap** — over-loud rocker prints / muscle graphic tees that scream "douchebag" stereotype. Edgier is fine; "loudly screaming for attention" isn't.
+- **The geek-graphic trap** — Comic-Con / Jedi / pirate-ninja shirts. Will pull off only with congruent personality and humor; default = costume read.
+- **Sleeper risk:** "otherwise cool" designs that are hit-or-miss depending on crowd. Lin's calibration: if you can't predict the read, hold the piece for known-friendly contexts.
 
-**Everything else (headwear, scarves, the lens variants):** **depends on the locked Avatar.** Will hasn't committed to one yet and has rejected the office-default frame — but the actual Avatar choice (rugged / rocker-edge / refined-mysterious / something else) is his to make. Don't pre-commit accessory purchases to a guess.
+**Dress shirts.** **Quote directly applicable to Will's stated direction:** *"Don't wear the boring, oversized dress shirts that most office workers and regular guys wear. Find one white and one black dress shirt that fit you well first. As you progress in your understanding of style, try more rocker and edgier dress shirts to wear with dark jeans."*
+- The *fitted* dress shirt — Lin singles out unbuttoned + sleeves rolled up + worn over dark jeans as a strong casual-day look.
+- One white + one black is the foundation pair. **Tuck for formal, leave untucked + unbuttoned for casual.**
+- Skinny black ties pair with formal dress shirts (Korean band 2pm cited as the example look).
 
-**Still missing and high-value for the sprint:**
-- **Shirts** — t-shirts, dress shirts, polos (fit specifics, fabric, collar styles)
-- **Pants + jeans** (full break, not just the Quickstart summary)
-- **Jackets** — blazer, leather, denim, bomber, pea coat distinctions
-- **Suits** — single vs double breasted, lapel, fit
-- **Ties** — width, knot, pattern
-- **Belts** — width, color matching to shoes
-- **Shoes** — extended past the Quickstart's "dress shoes" focus
+**Accessories within the outfit** (Lin's mid-outfit list):
+- **Leather wristbands / bracelets** — add masculinity. Low-cost identity move.
+- **Necklaces** — *"accentuate the neck area which is a sign of dominance — the lion is not afraid to show his neck."* Most guys ignore them; a well-designed masculine necklace has alpha-status effect. (Schnarch-adjacent read: not hiding.)
+- **Rings** — add class; don't overdo. Your wedding ring is foundational; don't stack additional rings that compete.
+- **Leather bag / briefcase / backpack** — Lin specifically calls out a **leather Kenneth Cole bag**. For Will: this is a real upgrade item — supply chain manager carrying a beat-up Amazon tote vs. a leather briefcase is a 30-second status delta. Estimate $150-300 for a real leather satchel; lasts 10+ years.
 
-These are pages 81-101 of file 1. If you can iLovePDF-split file 1 once more capturing that range as a third file and Drive-share it, this becomes the last meaningful gap to close.
+**Blazers.** *"Similar to suit jackets, but less formal (semi-formal) and much cooler. The right blazer adds dominance and creativity at the same time. It can be seen as a cultural symbol of intelligence and wealth, even rebelliousness."* Lin's specific notes:
+- **Pair with jeans.** A dark blazer + dark jeans = "badass" read.
+- **H&M** is Lin's specific recommendation for affordable fitted blazers.
+- **Dry-clean only** — don't ruin them in the washing machine.
+- Light/white blazers = more attention; dark blazers blend better but still hold the formality bump.
+- **Layering anchor** — blazers are *the* highest-leverage layering piece.
+
+**Leather jackets.** *"Iconic men's fashion staple… associated with toughness, sexuality, and masculinity. Associated with bikers, military aviators, rock stars, punks, Goths, and metalheads."* Lin's tips:
+- **First-wear feel** — will be heavier and smell different than anything else. *"Find a leather jacket that fits. You can try it on for a few days. You will begin to feel more alpha and cooler just having it on."* The body/identity feedback loop is real.
+- **Black is the default;** Lin recommends **brown or other colors** as the more distinctive fashion-statement move.
+- **Light vs heavy** — light for spring/autumn, heavy motorcycle-style for winter.
+- **Pair with jeans + collared shirt** = contrast play.
+- *"Leather jackets give a dominant and masculine feel to the overall look."*
+- **For Will:** a brown leather jacket is a genuine sprint candidate. Reads exactly the way you've stated you want (not office-worker), works for evenings/dates/cool-weather, becomes a 10-year wardrobe piece. Phoenix winter + Banff July evenings + NYC October wedding-week all use it. Budget $150-400 for real leather at second-tier stores.
+
+**Underwear.** *"Doesn't really matter too much…but having a nice pair of underwear can give you the confidence that you look good on every level."* Avoid tighty-whities (grade-school read). Boxers vs. briefs = women generally prefer boxers; **boxer briefs** combine both.
+
+**Belts.** *"Often overlooked. Your belt isn't just something that holds your pants up. It can be used to draw attention to your groin region (which is associated with sexuality) as well as express your personality and style."*
+- **Have both a brown and a black belt** — for matching dress contexts.
+- **Formal belts** (brown/black, slim) for dress pants; **casual belts** (variety of colors + buckles) for jeans.
+- **Belt buckle = personality lever.** Lin specifically suggests buying a standard belt with a **removable buckle** and experimenting. Western/decorative buckles are a real signal — same belt with three different buckles = three different reads.
+- **Width:** thicker belt = adds gravity to midsection (downside for larger guys); thinner = slimming.
+- **For Will:** the buckle play is a low-cost differentiation move that fits the "not office-worker" direction.
+
+**Jeans (extended).** Lin's personal go-to is **Guess** — "right fit and style for me." His specific tips beyond what the Quickstart covered:
+- **33×34** notation in the US = 33-inch waist × 34-inch length.
+- **Wider hips** → printed or striped jeans (vertical lines), darker washes to slim legs.
+- **Shorter legs** → wear longer, taper over the shoes.
+- **Design matters more than brand.** *"Generic, normal looking jeans are just boring."* Look for subtle but distinctive details — a tear, an added pocket button, contrast stitching. **Don't be a "brand whore"** — pick design first.
+- **Tall + thin** → close-fit normal-waist; loose jeans actually make you look skinnier, not the opposite.
+- **Athletic legs** → larger jeans show off the femoral quad; very tight makes muscles look "metrosexual." Find a normal-fitted pair.
+- *"Don't be afraid to get a tighter pair of jeans that show off your ass. Women will appreciate it. Much like girls who hate on other girls who dress 'slutty,' other guys will give strange looks to guys who dress more provocatively as a way of 'testing' your social congruence."* — translated for Will: *the guys-judging-you signal is the cost of differentiation, not a warning to back off. It's the same Schnarch differentiation pressure in clothing form.*
+- **Pairings Lin illustrates:** darker jeans + leather jacket (the rocker-edge combo) · lighter jeans + lighter shirts (balanced casual) · ripped/rugged jeans = "rougher, more dangerous look."
+
+**Dress pants.** *"Can make a man look high class and sophisticated. They also increase the level of seriousness and professionalism of the wearer."* Match texture and color of dress pants to the suit jacket. Always wear a classy belt with dress pants. Grey dress pants pair well with white dress shirts (and many other colors).
+
+**Shorts.** Spring/summer only. Cargo for casual short-sleeve outfits; trunks for swim. **Length must extend to the top of the knees** — anything shorter reads feminine. (This rule has evolved slightly post-2012 toward shorter knee-area cuts; verify against current 2025 fit conventions before buying.)
+
+### Chapter 11 (cont.) — Socks, Shoes, Outfit Types (PDF pages 93-101)
+
+**Socks.**
+- **White athletic socks** — gym + sneakers only. Never with dress shoes (the Michael Jackson exception aside).
+- **Athletic socks** — low-cut / "invisible" — never above the ankle outside soccer/basketball.
+- **Dress socks** — black is the necessity; brown + dark blue round out the set. **Rule: match sock color to pants color, not to shoes.**
+- **Sock simplicity hack:** one design per color so unmatched-pair waste is minimized.
+- **Personality lever:** beyond staples, wild patterns / bold colors (orange, green) add a dash of personality to an otherwise bland outfit. Low-risk peacock move.
+- **High-style move:** leather shoes with no socks. Requires high style intuition — skip until Avatar locks.
+- **Hard rule:** never socks with sandals in front of a girl. Period.
+
+**Shoes (overview).** Lin's frame: most men own few pairs of nice shoes and that's fine; the flaw is in *choice* of shoes, not quantity. He defers shoe design to the brand and prioritizes leather quality.
+
+**Dress shoes — the spec list.**
+- Made of leather, **including the sole** (leather sole, not rubber).
+- **Sole stitched**, not glued. (The single highest quality signal.)
+- Natural leather, not synthetic.
+- Stitches clean, less visible.
+- Unique design detail on top or side.
+- **Laced vs unlaced:** unlaced are more comfortable + easier; laced are more traditional. Both work.
+- **Color:** brown = casual; black = formal. *"You can't go wrong with a pair of black leather shoes."*
+- **Sole thickness:** at least 5mm, leather preferred.
+- **Stylish leather boots** add height + complement jeans. Worth considering if Avatar leans rugged/edge.
+- Lin cites **Kenneth Cole** product catalogue throughout the chapter as the reference tier — confirms Kenneth Cole as a legitimate second-tier shoe + bag brand for Will.
+
+**Casual shoes.** Less formal but can rock an outfit. **Pair with jeans + urban wear.** Converse for the skater-leaning casual look. **Don't wear casual shoes with elegant pants or suits.** Calibrate jeans → casual shoe pairing carefully; nice jeans want nice leather shoes.
+
+**Sports shoes.** Honest assessment: *"in the game of attraction, they are less important."* Keep a pair for moving days / comfort days / gym / when you actively want to "unplug" from fashion. Don't make them the everyday shoe unless your identity actually revolves around being a rapper or urban icon.
+
+**Shoe maintenance.**
+- Soft rag/brush + leather cleaner or Kiwi to clean and color regularly.
+- Replace laces when they age — match the shoe.
+- Store in ventilated places for long stretches.
+- **Shoe trees** for high-priced boots / leather shoes. Maintain shape between wears. $100 max — worth it for a $300 pair.
+
+**Outfit Types — the 6 categories.**
+
+1. **Nightwear / Pajamas.** *"When you start getting girls to sleep over at your place, you want to have comfortable and nice nightwear."* Soft T-shirt + shorts works; night robe (Hugh Hefner read) or full pajamas if Avatar permits. Boxer shorts on hot nights are fine. **The relational reframe:** Will is engaged — *what does Elena read from his sleepwear?* The cheap basketball-shorts + frayed-tee combo is fine, but the upgrade signal here is real and low-cost. **Lin's adjacent advice:** always have extra towels, soft shirts, pajama pants, and toothbrushes for guests — translates straight to wedding-prep / hosting-mode hospitality.
+2. **Suits / Formal Wear.** *"All things being equal, a suit will always draw more attention than any other clothing item."* Lin's rules:
+   - **Fit is the most important aspect.** Tailor it.
+   - **Beware commission salesmen** — they will up-sell.
+   - **Basic black suit** belongs in every man's wardrobe.
+   - **Color experiments:** navy = good alternative to black; brown = retro/relaxed but going out of fashion; white = wealth signal + striking contrast against darker skin tones but a pain to maintain; other colors = high-style only.
+   - **Maintenance:** coat hanger only; pant hanger separately; **never folded** if avoidable; cover when traveling; **dry-clean only** (washer/dryer destroys suits).
+   - **For Will:** he owns suits already (Amazon-required for offsites). The actionable: **(a) inventory the existing suits;** **(b) verify fit** — if tailored more than 2 years ago and body composition has shifted (Ravage → Cut), a tailor pass is the highest-ROI suit work.
+3. **Winter Wear / Coats.** Function/fashion trade-off explicit — develop style by occasion. *"Pea coats and winter coats (think George Clooney in Ocean's Eleven) can add frame and dominance to an already well dressed man."* Scarves complement the outfit; pick material (warmth/softness), length, and color; experiment with bolder scarf colors against duller winter palette. **For Will:** Phoenix winters are mild — limited utility daily, but **Banff July evenings + NYC October wedding-week + possible Chicago/Dallas relocation late 2027** all start demanding real winter outerwear. **Sprint scope: defer winter coat purchase until Q4 2026 unless the relocation timeline accelerates.**
+4. **Beach Wear.** *"Trunks that extend up to your knees for a more masculine look. Darker colors express more dominance."* Sunglasses add power. Sunscreen non-negotiable. **For Will:** Banff trip + Phoenix summer pool days are the use cases. Aviators already on the sprint list serve double duty.
+5. **Gym Wear.** Basketball shorts + fitting T-shirt; basketball/running shoes. **The thing that matters: colors match + clothing is a natural extension of the sport you like and who you are.** Older shirts to the gym. **For Will:** GVS-program lifting wear is fine; he's not training for aesthetics-on-the-gym-floor.
+6. **Downtime Wear (the "sick day" wear).** *"In the grand scheme of things, your health is the most important thing — above women, above money, above everything else."* When sick: comfortable pajamas + sweater + T-shirt underneath + scarf + socks. Warmth > style. The temperature elevation prevents virus/bacteria replication — sweating is good. *"Being an artist means knowing when style isn't a consideration factor in the grand scheme of things."* **The meta-lesson:** style is a layer, not a value. Don't perform style at the expense of fundamentals.
+
+### Sprint-priority items from the full Ch 11 (re-baselined post full ingestion)
+
+Given Will's stated direction (*not interested in looking like an office worker*) and the Avatar still TBD, the items below shift from "consider" to "actively candidate for the Jun 22 sprint":
+
+1. **Aviators** — universal good, unambiguous yes (already noted above)
+2. **Leather jacket — brown** — directly serves the "not office-worker" direction; 10-year piece; multiple-occasion use (Phoenix winter, Banff evenings, NYC October). $150-400 for real leather second-tier.
+3. **One white + one black fitted dress shirt** — Lin's foundation pair; replaces any current oversized office-default shirt. H&M / Uniqlo / Zara for fit. ~$30-60 each.
+4. **Dark blazer (H&M-tier or upgrade)** — the highest-leverage layering piece. Pairs over t-shirt + jeans for casual or over dress shirt for semi-formal. ~$80-150.
+5. **Leather satchel / briefcase** — Kenneth Cole or similar tier. Status-delta from default tech-tote. $150-300, 10+ year piece.
+6. **Brown belt + black belt + a removable buckle** — small spend ($50-100 total), high personality-lever effect.
+7. **2-3 well-designed jeans** — at least one slightly tighter ass-showing pair, at least one with distinctive design detail. Tailor if needed.
+
+**Beauty Routine purchase** (from earlier Ch 15 ingestion) folds in: ~$60-100 one-time at Sephora/Ulta for face wash + moisturizer + body lotion + 2-3 cologne signatures.
+
+**Total sprint budget estimate: $500-900** across all targeted buys, not per outfit. Stays within Lin's $300-500-per-outfit guidance because most items are single-pieces that compound across multiple outfits via layering.
+
+### Chapter 33 — Peacocking (Sections from PDF pages 193-195)
+
+The "can you pull it off?" rule. **The actual lesson, translated:** style choices that broadcast above your current self-perception only land if you can hold the new self-perception through social pressure. If you wear distinctive clothes and *act like a smaller version of yourself*, the incongruence is worse than not having peacocked at all.
+
+**Lin's two rules for peacocking successfully:**
+1. **Stand out from the crowd** with a distinctive look
+2. **Be able to back it up** — hold the energy through the social pressure that follows
+
+**The translated lesson:** this is *exactly* the Schnarch differentiation crucible in clothing form. The Lin "Mr. Stylish walks slowly to the bar, owns the room" vs. "Mr. Sheep walks in same outfit, looks around nervously, gets rejected" example is Schnarch's "hold your own ground" vs. "borrowed-functioning self" applied to outfit choices.
+
+**The gradual buildup:**
+- Start with *one* slightly offbeat piece — a piece that gets you more attention than you're used to from strangers.
+- Notice how it makes you feel. Nervous? *"Slowly learn how to deal with that nervous energy. Like anything else, you will start to feel more comfortable with it in time."*
+- **Lin's specific recommendation: Toastmasters + acting/performance classes** to build comfort with social-pressure-while-being-watched. (Will doesn't need Toastmasters — the desire-polarity DO-list rep practice already does this; the parallel is worth noting.)
+- Over time, push the style bolder. The comfort zone expands by stretching it, not by avoiding stretches.
+
+**The application for Will's sprint:** the leather jacket / belt buckle / non-office dress shirt items above are the *first peacock pieces*. They're meant to *create* the social-pressure stretch that builds the comfort. If you buy them, wear them, and feel weird the first few times — that's the signal it's working, not the signal to stop.
+
+### Chapter 34 — Online Avatar (Sections from PDF pages 196-198)
+
+*"The online avatar can extend its reach beyond the real person. However, it never replaces the authenticity of face to face interaction."*
+
+**Most of this chapter is dated 2012 social-media advice** (Facebook-centric, pre-Instagram-Stories era). The durable rules:
+
+- **Congruence between online and offline self.** *"Are you the quiet guy in real life, but online you are posting status updates nonstop every 10 minutes? These people come across as guys caught up in the craze with no solid foundations."* **Direct Schnarch.**
+- **Don't break up / discuss anything important over text/IM/email.** Face-to-face only for substance. (Applies to relationship operating principles, not just dating.)
+- **Virtual presence < actual presence in the lives of your real friends.** *"When you post a status update asking for help moving, the ones that reply to that are your real friends."* **A useful audit:** how would your real-friend list change if you ran that test?
+- **Don't excessively check phone in social situations.** If you must, *announce it* — *"I'm sorry, I am checking for this very important email."* (Will's Digital Minimalism Tier 1 work already enforces this structurally.)
+- **Don't post other people's content without permission** — drunk friends, ex-girlfriends, etc.
+- **Treat online relationships as you would in-person.** Lin's example: birthday wishes via PM (2 seconds longer, 10x relational effect) rather than wall-post.
+- **Pictures audit:**
+  - *Don't fake 100 different adventures* (the "skydiving + bungee + adventure-guy" trap). *"Your pictures should reflect the real activities you enjoy doing in life instead of promoting a fake image."*
+  - One or two "having fun laughing" shots are enough for personality signal.
+  - **Leave mystery.** "We don't need to know every detail of your life. The best artists always leave their audiences wanting more." (Schnarch differentiation again.)
+
+**For Will:** the **congruence audit** is the most useful piece — review the social-media presence (or what's left of it after Tier 1) against the *"would I behave this way in person?"* test. Will has already structurally minimized this surface — most Lin advice here is moot. The one carryover: any LinkedIn / professional social presence should match the offline self with the same congruence rule.
+
+### Chapter 35 — Long-Term Good Looks (Sections from PDF pages 199-202)
+
+**Key new concept: Attraction Circuitry Projection.**
+
+*"Attraction Circuitry Projection is the concept of assuming that the opposite sex is attracted to the same thing as the artist is. For men, attraction circuitry projection will assume that women value youth, beauty, physique, etc. because he himself is attracted to youth and beauty. A woman's attraction circuitry projection will assume that men value personality, social value, and charisma because she herself is attracted to those things."*
+
+The translated insight:
+- **What men think women want vs. what women actually weight:** men assume women care about looks 90% as much as men do; actual range is 10-50%.
+- **What women actually rank as attraction triggers:** charm, wit, charisma, status, personality, lifestyle — *with looks as an "influence" but rarely as the trigger.*
+- **What men actually rank as attraction triggers:** beauty, physical appearance, style, the way a woman carries herself.
+
+**Asymmetric implication:** *"Whereas a girl can be hot and not have the personality or way of attraction to back it up, this becomes much harder for guys to do in terms of style and looks."* — i.e., for a man, style alone isn't enough; the broader identity has to back it up. This is *exactly* why the Life Main quest is the upstream of the style work and why the style sprint is a *layer* of the differentiation work, not a substitute for it.
+
+**For Will + Elena specifically:** the Attraction Circuitry Projection concept is worth a single-sentence flag in his head: *Elena's response to changes in his style/identity is not predictable from his model of what would impress him.* The desire-polarity feedback loop is opaque on purpose; the work is upstream of the feedback. Hold the inputs, don't watch the readings.
+
+**Lin's first 4 of 11 Long-Term Style Tips:**
+
+1. **Play up your strengths, don't fix weaknesses.** *"You become great by multiplying your strengths, not incrementally decreasing your weaknesses."* The mirror exercise: look at yourself and identify what's better than average. Build wardrobe and posture around accentuating those features.
+2. **Downplay weaknesses through accent placement.** Pierce or grow facial hair to balance asymmetry; tall boots / shoulder cut for height; flashy hair to redirect attention; well-chosen accessories to balance facial features. (Daniel Craig / Will Smith examples — the perceived weaknesses dissolve into the surrounding strengths.)
+3. **Long-term dental care.** Invisalign or veneers if needed; **professional cleaning + whitening** as the lower-cost lever. Crest whitening strips ($35) for surface-level. Will: Amazon insurance covers dental — schedule the cleaning if not already on cadence.
+4. **Hair.** *"Losing your hair can cause a massive amount of stress and is often ranked highly in men's greatest fears."* Look into medical options if applicable. (Not currently a Will issue, but flagged for the long horizon.)
+
+**Lin's Tips 5-11 (PDF pages 203-209):**
+
+5. **Skin and moles.** Acne / scar / discoloration management — *"the thing to remember when it comes to skin is: do not give up. Everyone's skin is different, and you have to keep trying new things in a methodical, measurable way until something works for you."* Acne.org as a resource. Total FX laser for serious scarring (medical procedure, expensive). **Moles on men's faces — almost always remove.** *"Women get away with 'beauty marks,' but we don't. Sorry."* Dermatologist + local anesthesia. **For Will:** the relevant lever is the beauty routine he already adopted (face wash + moisturizer); ongoing consistency wins. No facial mole = no action.
+6. **Body frame and weight.** *"A very common misconception that men have is that once they get a good body, they will somehow magically be able to get girls."* Confidence shifts when you lose weight or gain muscle, **but the underlying person is the same** — body composition is not a personality substitute. Going to the gym increases endorphins (positive) but **don't make it the central point + don't make it an excuse not to improve your game.** *Hard-gainers:* Scrawny to Brawny cited as a program. **For Will:** GVS / Ravage / NYC Cut already the dedicated body work. The Lin reframe is the right one — body is one layer, not the whole identity. Stay in the lane Schofield sets.
+7. **Posture.** *"Your posture refers to your body's position in default mode. Everyone has a 'default' stand and a default facial expression."* Make them the most attractive they can be. Alexander Technique cited: chest out, back straight, awareness of spine from skull to hip. *"Women with great posture appear more confident and sexy, and men with great posture double the effect of good style."* **For Will:** if he isn't already, a 1-week posture audit — phone camera, full-length mirror, default-stand check — is a zero-cost compounding move. Posture also lowers desk-work injury risk over the long horizon at Amazon.
+8. **Height.** *"I'm lucky because I am 6'3 and have always been tall."* Lin's honest take: shorter guys can succeed; **height isn't the issue, how you feel about it is.** Long-term options exist (leg-lengthening surgery) but health > height. **For Will:** at 5'10ish, this is a non-issue but the *frame* is useful: don't optimize a fixed variable. Optimize what's adjustable.
+9. **Plastic surgery.** Honest take: *"if you believe that you are 'ugly,' you can become 'okay' looking. And if you are 'okay' looking, you can become very good looking through cosmetic enhancement."* But the diagnostic question matters more than the procedure: *"Are you doing it for other people, or are you doing it for yourself? Are you slightly bummed about your features, or are you on the verge of total depression if you do not get a feature fixed?"* American Board of Plastic Surgery as the legit credential gate. Top US procedures for men: Otoplasty, Rhinoplasty, liposuction. Rhinoplasty 80% satisfaction / 20% revision risk. **For Will:** not a current consideration. The *meta-lesson* — Lin's framing of "the problem wasn't in his face; it was in his life perception" — is the durable read. Worth keeping in mind for any future appearance-related anxiety, not just surgery.
+10. **Being a gentleman.** *"Being a gentleman doesn't mean being a nice guy or a push over."* The "Good Guy Game" idea: be a strong man, not a weak one. **The hard rule:** *"The important aspect of being a gentleman is that it is your own choice. You're not doing it to get laid. You're doing it because your mama taught you better than that."* Specific behaviors: opening doors, treating waiters fairly, walking on outside of sidewalk to shield from traffic, opening car doors, gently guiding her away from passing strangers. **The critical Lin distinction:** *"Most guys do these things in a cheesy 'I'm on a date' way... To be a true gentleman, you must perform these actions as if you were brought up to do them by your parents, as if they were a duty, instead of doing them just to please her."* **Direct Schnarch read** — actions tied to your code, not to her response. This is exactly the differentiation work. For Will + Elena: the operating principle is *internal standard*, not *behavior aimed at extracting a response*. The latter is borrowed-functioning gentleman; the former is differentiated gentleman.
+11. **Develop a craft or skill.** *"The best men and the most attractive men are those with talent. They have devoted and dedicated time and effort to perfect a craft of their choice. More importantly, they add value to the world and other people through their craft."* Lin's specific examples: musician, surfer, salsa dancer (Casual at a national salsa competition). The lesson: **the craft isn't an attraction tactic — the craft is the life. Attraction is the externality.** *"Find your passion, find your voice. This will give you an insight into your own personality, and the channels through which you can express them to the world."* **For Will:** this is directly aligned with his active backlog work — Salsa II (intermediate dance is a craft), the acquisition path (operator skill is a craft), AI/ops at Amazon (technical craft for SCM II). **The frame is right:** the craft is the upstream, the style/identity/attraction is the externality. Don't invert the order.
+
+### Chapter 36 — Common Mistakes (PDF pages 210+, partial)
+
+The chapter intro frames the journey honestly: *"The journey to become an attractive man can be a frustrating one, especially if you are not innately gifted."* Lin's own example — beautiful girl in his bedroom, she stopped before clothes came off and left, no return texts, *"That incident prompted me to give up for a few months on dating because I took the rejection personally."* The translated lesson: **down-time after a rejection is wasted time.** The work is to make the down-time short and stay on the path.
+
+**The 3 most common newbie mistakes Lin enumerates (continuing past page 210, balance not in this PDF):**
+
+1. **Your efforts lacked consistency.** *"You have read through the eBook, but failed to take action on any of the steps or ideas you had after reading the book."* The trap is high-engagement reading + low-engagement application. The Lin antidote: explicit commitments — *"write down ten things that you want to ask the hottest girl about regarding your style. Vow to write these down. Make a commitment to post your picture on hot or not, or ask for feedback from an anonymous group of people."* **For Will:** the AIOS pattern is the structural answer — committed actions go to `backlog.md` with deadlines, not just to "remember to do later." The style-grooming-sprint is the working example.
+2. **You were misinformed.** *"The sad part about marketing is that not everything that is sold delivers on its promise."* The antidote: **find evidence that contradicts your rationale** before locking it in. **For Will:** this maps directly to the acquisition deal-eval discipline — the hard filters exist precisely because broker / seller pitches don't deliver on their promise, and the rational move is to look for the disqualifying evidence first.
+3. **Your efforts lacked intensity.** *"Consistent effort is the first step, but oftentimes it pains me greatly to see newbies repeat the same mistakes over and over again. After a certain point they get used to the mistakes and develop a sick 'comfort' in repeating them!"* **The Schnarch-adjacent read:** comfort with mediocre performance is a form of borrowed functioning — you don't fix it by trying harder at the broken pattern, you fix it by **interrupting the pattern.** Will's sprint is the interrupt — the Avatar exercise, the cull, the tailor pass are not "try harder at wearing the same shirts," they're "rebuild the inputs."
+
+(Mistakes 4+ and the long-term-side-effects section continue past PDF page 210 — not in this ingestion range.)
+
+### What this expansion confirms about the sprint
+
+The full Chapter 11 (now ingested) gives the sprint **concrete item-by-item shopping guidance** that wasn't in the Quickstart. The translated sprint-priority list above is now anchored against actual Lin recommendations, not generic "buy stuff that fits."
+
+**The Peacocking + Online Avatar + Long-Term Good Looks material confirms the meta-frame:** style work is one layer of the differentiation work. The body language, voice, scent, and broader identity all compound. The sprint is *the visible surface* of the same work the desire-polarity quest does at the identity layer.
+
+### Remaining ingestion gaps (post Jun 17 update)
+
+After this round, Chapter 11 (Clothing Pieces) is **fully ingested** — accessories, body pieces, socks, shoes, and the 6 outfit types are all in. Chapters 15 (Beauty Routine), 33 (Peacocking), 34 (Online Avatar), and 35 (Long-Term Good Looks) are also complete.
+
+**What's still missing and worth requesting if more iLovePDF/Drive rounds are practical:**
+
+- **Chapter 12 — Colors** (pages ~102-118 of the book). Lin's color-pairing system. Mid-priority — relevant once Avatar is locked and Will is making specific buys.
+- **Chapter 36 mistakes 4+ and long-term side effects** (pages 211-220). Lower priority — the first 3 mistakes already gave the durable frame.
+- **Chapters 37-39** (pages 221-227). Unknown content but bridging chapters between mistakes and the philosophical close-out.
+- **Chapter 40 — Life Style** (pages 228+). The philosophical close-out and the **highest-value remaining chapter** if Will wants to send one more round. This is the chapter that frames "style is the externality, life is the upstream" most fully.
+
+**Note on filename mismatch:** the second PDF this round was labeled `compressed228237` but actually covered pages 201-210 of the book (Ch 35 Tips 2-11 + Ch 36 intro). The Ch 40 gap is still open. If you want it closed, the iLovePDF route would target the *true* pages 228-237 (likely pages ~250-260 of the un-stripped PDF, since the book uses Roman-numeral front-matter offset).
