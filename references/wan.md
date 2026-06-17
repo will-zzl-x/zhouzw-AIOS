@@ -152,7 +152,7 @@ Lin's *How to Get Designer Brands on the Cheap* gives an unusually clear 6-reaso
 ## What Wan/Lin Get Wrong (Or Frame Badly)
 
 - **The pickup-community "attract women" frame.** Will is engaged. The entire orientation toward "what kind of girl you want, dress for her" inverts the desire-polarity work — Schnarch's whole point is *don't dress to be wanted by her, dress as who you are; the wanting follows from differentiation.* Replace "for her" with "as me" everywhere.
-- **The Avatar stereotypes** (Biker, Rocker, Goth, Damaged Goods, etc.). Reductive. Will's avatar is just *Will* — leaner-cut professional with deliberate-systems energy and a Latin-dance social side. Pick from the wardrobe pieces that genuinely communicate that.
+- **The Avatar stereotypes as literal templates** (Biker, Rocker, Goth, Damaged Goods, etc.). Reductive when treated as costumes to imitate. *But* the underlying instinct — *commit to a coherent identity rather than the office-default neutral* — is sound, and Lin actually nails it via Mistake #2 (Tries to fit in / Phase 2 Normally well dressed). **Will's stated direction (2026-06-16): not interested in looking like an office worker.** That's the right anti-pattern call; it lines up with the desire-polarity differentiation work. The Avatar exercise itself stays open — Will runs it, not the AIOS. Don't pre-fill an answer from his W-2 role.
 - **The "Science of Beauty" evolutionary/biological framing.** Lin's biology rundowns (menstrual cycle, hyper-feminine features, V-shape torso) are roughly aligned with evolutionary-psych literature, but the *application* — manipulate to peacock + maximize short-term attraction signals — is the wrong target for a marriage. The structural insight worth keeping: **physical health, fitness, posture, and grooming compound attractiveness regardless of partnership status**, because they're real signals of self-care, not tricks.
 - **Cultural-skin-color sections.** Dated 2010 framing; skip.
 - **The "everything is for attracting women" reduction.** Style is just one expression of self-respect. Will's existing list of why he's working on style — fitness, point-of-origin, NYC trip, Elena's appreciation of him as a man she chose — is the right list. Not the source's list.
@@ -394,17 +394,17 @@ Lin's opening line: *"This is the chapter you need to print out and carry with y
 
 #### Headwear
 
-Lin's frame: hats add *dimension, volume, and shaping* — and can backfire by lowering perceived status if mismatched. Translated for Will: hats are a high-variance accent piece. Most options below are **skip** for the engaged-engineer-in-Phoenix profile.
+Lin's frame: hats add *dimension, volume, and shaping* — and can backfire by lowering perceived status if mismatched. Each piece below is a *high-variance accent* — the read depends entirely on what Avatar you've locked. **Will hasn't locked the Avatar yet (2026-06-16)** and has explicitly rejected the office-worker default. So below: Lin's read + commit-conditions, NOT pre-filtered yes/skip calls.
 
-| Piece | Lin's read | Translated for Will |
+| Piece | Lin's read | Commit-conditions for Will |
 |---|---|---|
-| **Beanie** | Accentuates hair + face, adds head volume | Phoenix is too hot 9 months/year. Hold for the NYC Jul 30 trip if it's cool, or skip entirely. |
-| **Fedora** | "Sense of style and class. Tilt for a movie star / mysterious effect." | **Skip.** High costume risk; reads dated 2025+ unless you're genuinely committed to the avatar. |
-| **Tilted cap** | "Used by frat boys to instill coolness. Be careful of its effect on lowering your class status." | **Skip.** Frat-boy read undercuts professional + acquisition-operator identity. |
-| **Bandana** | "Can convey dominance. Careful of class-status lowering effect — pair with high-status items or commit to rocker/edgy look." | **Skip.** Doesn't fit the Avatar. |
-| **Cowboy hat** | "Great for southern iconic effect. Increases perceived dominance and masculinity." | **Skip for everyday.** Phoenix-appropriate for a specific country bar / casual outing maybe — but very avatar-specific, not for Will's default look. |
+| **Beanie** | Accentuates hair + face, adds head volume | Practical only if going to a cooler climate (NYC fall/winter, Banff July evenings). Phoenix everyday = no. *Style-wise:* reads casual-rugged / artistic — could fit several edgier avatars. |
+| **Fedora** | "Sense of style and class. Tilt for a movie star / mysterious effect." | High costume risk if not committed. Works if Avatar is genuinely vintage / jazz / classic-mysterious-rake. Not for a half-effort wear. |
+| **Tilted cap** | "Used by frat boys to instill coolness. Be careful of its effect on lowering your class status." | Standard baseball cap fits casual + sport contexts. The *tilted* version is the frat-boy read Lin warns about — skip the tilt. |
+| **Bandana** | "Can convey dominance. Careful of class-status lowering effect — pair with high-status items or commit to rocker/edgy look." | Works if Avatar is rocker / motorcycle / edge-forward AND paired with other status-credible pieces (good jeans, leather jacket, clean boots). Not a half-measure piece. |
+| **Cowboy hat** | "Great for southern iconic effect. Increases perceived dominance and masculinity." | **Phoenix-credible** — not costume in AZ the way it would be in NYC. Works for country bar / festival / casual outdoor contexts if Avatar leans rugged or western. Daily wear = avatar-dependent. |
 
-**Bottom line on headwear:** the *only* honest yes here for Will is a clean baseball cap (Lin doesn't cover) for outdoor / hike / casual — and that's not even a style piece, it's sun protection. Skip the rest of this section's recommendations.
+**Bottom line:** the answer to *which of these to buy* depends on Will's locked Avatar — which is still TBD. The Avatar exercise (Quickstart Day 2, translated) needs to happen first. **Don't pre-commit to any of these accessories until the Avatar is locked.**
 
 #### Glasses
 
@@ -424,17 +424,18 @@ Lin's two specific reads:
 - **Western-styled / chunky** — rocker edge + masculinity. (Tom Brady example.)
 - **Lighter / silkier** — more refined / feminine end of spectrum. (Usher example.)
 
-**Will-specific:** Phoenix climate makes scarves seasonal at best — **winter months only** for Phoenix (Dec-Feb), and the NYC October wedding (which is also where you'd actually wear one). One neutral wool/cashmere scarf in dark gray or navy ($30-60 at H&M/Uniqlo/Banana Republic) covers all real use cases. Skip the patterned/printed/rocker variants — they're costume risk.
+**Will-specific:** Phoenix climate constrains scarf use to **winter months** (Dec-Feb) + cooler-climate travel (Banff July evenings, NYC fall/winter). The *style flavor* — neutral wool vs. western/rocker chunky vs. lighter/refined — depends on the locked Avatar. Don't preempt; if Avatar lands edgy, a chunky western scarf is legitimately on the table.
 
-**Sprint priority:** lower-tier item, not urgent. Bundle into the NYC trip prep or a fall purchase round, not the Jun 22 deadline.
+**Sprint priority:** lower-tier item, not urgent for Jun 22.
 
 ### What this Chapter 11 partial confirms (and what's still missing)
 
-What you got matches Lin's promise that the chapter is execution-tactical: each item gets a *what it communicates → when to use → when to skip* read. For Will, the partial Ch 11 confirms:
+What you got matches Lin's promise that the chapter is execution-tactical: each item gets a *what it communicates → when to use → when to skip* read.
 
-- **One aviator buy is sprint-priority** — fold into the Jun 22 deadline if possible.
-- **Most other headwear is skip** — don't waste sprint bandwidth.
-- **Scarf is post-sprint** — bundle with NYC or fall.
+**The genuine sprint-priority pull from this partial:**
+- **Aviators** are the one unambiguous yes — Phoenix UV + Banff July + NYC summer all need real sunglasses regardless of Avatar. Universally flattering. Fold into the Jun 22 deadline if possible.
+
+**Everything else (headwear, scarves, the lens variants):** **depends on the locked Avatar.** Will hasn't committed to one yet and has rejected the office-default frame — but the actual Avatar choice (rugged / rocker-edge / refined-mysterious / something else) is his to make. Don't pre-commit accessory purchases to a guess.
 
 **Still missing and high-value for the sprint:**
 - **Shirts** — t-shirts, dress shirts, polos (fit specifics, fabric, collar styles)
