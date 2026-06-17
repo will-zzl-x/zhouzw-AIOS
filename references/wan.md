@@ -641,15 +641,204 @@ The full Chapter 11 (now ingested) gives the sprint **concrete item-by-item shop
 
 **The Peacocking + Online Avatar + Long-Term Good Looks material confirms the meta-frame:** style work is one layer of the differentiation work. The body language, voice, scent, and broader identity all compound. The sprint is *the visible surface* of the same work the desire-polarity quest does at the identity layer.
 
-### Remaining ingestion gaps (post Jun 17 update)
+---
 
-After this round, Chapter 11 (Clothing Pieces) is **fully ingested** — accessories, body pieces, socks, shoes, and the 6 outfit types are all in. Chapters 15 (Beauty Routine), 33 (Peacocking), 34 (Online Avatar), and 35 (Long-Term Good Looks) are also complete.
+### Fit Specification Diagrams (image-caption text, between Ch 11 and Ch 12)
 
-**What's still missing and worth requesting if more iLovePDF/Drive rounds are practical:**
+These are the infographic labels Lin uses — the "how to know if it fits" spec sheet:
 
-- **Chapter 12 — Colors** (pages ~102-118 of the book). Lin's color-pairing system. Mid-priority — relevant once Avatar is locked and Will is making specific buys.
-- **Chapter 36 mistakes 4+ and long-term side effects** (pages 211-220). Lower priority — the first 3 mistakes already gave the durable frame.
-- **Chapters 37-39** (pages 221-227). Unknown content but bridging chapters between mistakes and the philosophical close-out.
-- **Chapter 40 — Life Style** (pages 228+). The philosophical close-out and the **highest-value remaining chapter** if Will wants to send one more round. This is the chapter that frames "style is the externality, life is the upstream" most fully.
+| Piece | Key fit signals |
+|---|---|
+| **Dress shirt** | Collar snug open or closed; collar size matches neck; buttons lie flat (fabric never pulls between them); cuff extends to lower wrist; shirt never balloons when tucked |
+| **Pants** | Sit on natural waist (not hips, unless deliberate hip-hop choice); not too tight but form-fitting — err tighter, not looser; break covers tops of shoes and part of laces |
+| **Jeans** | Don't fall below hips — snug enough to stay up; lightweight form-fitting dark jeans work on any body type; roomier lower leg is better; aware of leg-cut and how it meets shoes |
+| **Suit jacket** | Collar lies flat against shirt collar; strong posture accentuates the jacket; sleeves taper at elbow to wrist; vents fall straight at side seam; body line follows your silhouette; sleeve length shows shirt cuff underneath; neck neither too wide nor too narrow |
+| **Sweater** | Not too tight — excess fabric bunches at waist and reads sloppy |
+| **Coat (over suit)** | Shoulder loose enough to go over suit jacket; snug and form-fitting overall; sleeves end at wrist |
+| **Tie** | Knot sits snugly on throat between collar points; learn 1-2 knots well; runs at least 3/4 of upper body height; **bowtie:** sturdy, color contrasts with outfit unless black |
+| **Tuxedo** | Well-measured and tight; uniform/matching colors for pants and shoes |
 
-**Note on filename mismatch:** the second PDF this round was labeled `compressed228237` but actually covered pages 201-210 of the book (Ch 35 Tips 2-11 + Ch 36 intro). The Ch 40 gap is still open. If you want it closed, the iLovePDF route would target the *true* pages 228-237 (likely pages ~250-260 of the un-stripped PDF, since the book uses Roman-numeral front-matter offset).
+**For Will (tailor pass application):** any existing piece that fails 2+ of its category's signals is a tailor-or-replace candidate. The highest-leverage tailor passes are shirt cuffs, jacket sleeve length, and trouser break — each costs $10-20 and changes the read completely.
+
+---
+
+### Chapter 12 — Colors (book pages 102-110)
+
+**The core tension Lin names first:** *"A lot of guys have issues with colors and for some reason like to stick with neutral colors. While it's hard to go wrong with neutral tones, too much of them can come across as bland and boring."*
+
+**Colors and their emotional associations:**
+
+| Color | Lin's associations | Will-specific read |
+|---|---|---|
+| **Blue** | Peaceful, stable, professional, loyal | Safe but potentially one-note. Use as backdrop; experiment with baby blue or turquoise for depth. |
+| **Green** | Safe, reliable, calm | Not a Style Attraction Switch trigger by itself. Accent use. |
+| **Yellow** | Energetic, happy, optimistic | Sparingly — has energy. |
+| **Orange** | Cheerful, creative, attention-grabbing | *"Overlooked by a lot of guys."* A real secret weapon used with restraint. |
+| **Red** | Warmth, danger, boldness, desire | *"Recent psychological research has shown that women find men wearing red to be more sexually attractive."* Worth deliberately adding at least one red piece. |
+| **Purple** | Power, royalty, mystery | Historically power-coded. Darker purple is masculine; bright purple reads feminine. Worth experimenting. |
+| **Pink** | Stereotypically feminine | *"A pink dress shirt can look great on the guy who can own the clothing piece."* Contrast with masculine items for a polarizing effect. Requires congruence to land. |
+| **Grey** | Conservative, dull, peaceful | *"Can be mixed with pretty much any other color."* The blank canvas — useful as a base, boring as a dominant. |
+| **Brown** | Confident, casual, earthy, reliable | *"Black tends to be overused, so consider mixing up your wardrobe by getting brown shoes, a brown belt, or a brown leather jacket."* — Lin specifically names all three items already on Will's sprint list. This chapter triply confirms the brown leather jacket and brown belt as high-value targets. |
+| **Black** | Elegance, power, sophistication, strength | *"Don't overuse black or you'll end up looking Goth or gloomy."* Mix with other colors. |
+
+**Colors and skin tone.** Lin's tanned-skin specific guidance (applies to Will):
+
+*"Tanned skin is the most versatile, and can look good in just about any color."* Specifically high-value for medium/tanned skin:
+- **Purple** — striking. *"I remember going to Brazil for a vacation and seeing the color purple everywhere... it was so beautiful."*
+- **Crisp white** — *"looks beautiful in contrast to the slightly tanned skin. A clean white shirt shows off the shirt itself as well as the skin color."*
+
+General rule: if you have **darker skin, lighter colors** look good (contrast); if you have **lighter skin, darker colors** are flattering.
+
+**Color matching — the 3 tools:**
+
+1. **Analogous colors** (adjacent on the color wheel) — match well because they're similar. Safest starting point. A really bright blue might not work against a darker green — keep shades comparable.
+2. **Complementary colors** (opposite on the color wheel) — create strong contrast, stand out. *"Don't overdo it, or your outfit can appear too busy."* Use one complementary contrast per outfit max.
+3. **Same color matching** — matching colors across items (black shoes + black belt; orange scarf + orange socks) *"creates a sense of wholeness and symmetry which really brings your look together."* This is Lin's most practical recommendation — the "one element echo" rule.
+
+**The hard limit:** *"as a general rule, try to have no more than 3 distinct colors in a single outfit."* Any more = sensory overload.
+
+**For Will's sprint:** he has the brown/black base covered (belt, leather jacket, jeans). The adjacent moves: (1) add red as a deliberate shirt/accessory color — one red piece, worn with neutral base; (2) explore a purple piece once Avatar is locked — the cultural power-and-mystery read maps well to a non-office-worker identity. Don't build a color-heavy wardrobe before the Avatar exercise — but red is safe enough to buy ahead of it.
+
+---
+
+### Chapter 36 (cont.) — Mistake 4 + Long-Term Side Effects
+
+**Mistake 4 (the final one Lin lists):**
+
+*"You need to accept personal responsibility for adopting the principles in this book and employing them to change your style. The responsibility of learning lies with the student. Make a commitment to yourself and make a timeline that you can follow to master these skills."*
+
+**The sprint deadline of June 22 is this commitment externalized.** Whether or not every item is purchased, the commitment to run the Avatar exercise, the cull, and the tailor pass by that date is the Mistake 4 antidote.
+
+**Long-Term Side Effects** (what happens after unconscious competence locks in):
+
+- People start looking at you differently — not discomfort or surprise, but **genuine curiosity.** *"That's nice, I haven't seen that before."* Girls glance your way and dart their eyes away when you return the gaze.
+- *"At first, this will trigger a weird sensation because you're not used to it."* Over a few weeks you develop **sustainable resistance to higher social pressure and social value.** You may even miss the attention when you're in gym clothes on a run.
+- *"You now have social value and social attention. You now have a choice."* You can leverage it, or completely ignore it. The leverage is no longer mandatory — it's optional. That's the test of differentiation: you're not performing for the gaze, you just have it.
+- **Special occasions** become genuinely fun instead of a chore — Halloween, themed parties, dance competitions. You now have a "spider sense" of good style and can play up characters in these roles.
+- *"At certain times, people may always expect you to be stylish. That is because you now have a reputation. However, don't be afraid to switch it up or dress casually for a day. Sometimes being stylish means knowing when not to care about style."* — Lin's mentor Eric (at Google): *"Sometimes you just need to turn it OFF."*
+
+**Translated for Will:** the long-term side effect isn't that Elena notices a new shirt. It's that *Will* develops a different relationship with his own presence — one where he's comfortable being seen, and comfortable choosing not to be. That's the Schnarch corollary: the man who doesn't need the gaze, and therefore owns it when he has it.
+
+---
+
+### Chapter 37 — Style Mastery Progression Chart
+
+The 4-level arc, illustrated by Lin with two "same guy at 4 levels" progressions:
+
+**Progression 1 (casual):**
+- **Beginner:** Catchy shirt that somewhat matches pants, neutral body language
+- **Intermediate:** Tighter shirt that fits his frame well, jeans better-matched to the white shirt
+- **Advanced:** Layering of the white shirt, accentuated by necklace + wristband
+- **Master:** Addition of accessories creating a memorable look, matched by strong body language
+
+**Progression 2 (dressed up):**
+- **Beginner:** Nice shirt and jeans, but belt doesn't match shoes, undershirt and necklace slightly off in matching
+- **Intermediate:** Collared shirt matches sweater, darker jeans fit the look — **but weak body language** (the intermediate tell)
+- **Advanced:** Clean haircut, shaved, masculine leather jacket; good fitting tie and shirt
+- **Master:** Accessories + all black = memorable iconic look; *"a natural uniqueness in the whole outfit that screams out Criss Angel's inner personality"*
+
+**The pattern:** the jump from **Intermediate to Advanced** is mostly execution refinement (fit, grooming, layering). The jump from **Advanced to Master** is **body language + ownership** — not more clothing. The body carries the clothing, not the reverse.
+
+**Where Will is on this arc:** likely Intermediate-approaching-Advanced — he has good instincts (he flagged "not interested in looking like an office worker" without needing Lin to tell him), has the body-composition work in flight (Ravage → NYC Cut), but hasn't yet locked an Avatar or done the cull/tailor pass that converts "good instincts" into "Advanced execution."
+
+---
+
+### Chapter 38 — Strengths and Weaknesses Along the Way
+
+Lin's coaching roadmap for each level — written for coaches, but translates as a self-diagnostic:
+
+**Level 1 — Beginner.** Pro: open to new ideas, willing to throw away old beliefs, trusts the process, commits to pain periods. Watch-out: *"the absorption phase is very important. The master must teach him the basic fundamentals, but note that the more advanced style philosophies are always somewhat tainted by the master that is teaching it."* → A rockstar-avatar coach teaches differently than a business-presentation coach. Both can be right. **The antidote for Will:** the Avatar exercise exists precisely to create Will's own lens, not to inherit Lin's or Wan's.
+
+**Level 2 — Intermediate.** Pro: starting to own the concepts, replicates certain looks, develops his own learning system. Watch-out: *"more apt for burnout because he has experienced some gains."* The plateau trap: *"'this is good enough' — if the skill is not mastered, his appearance will improve slightly, but then he will fall back out of style with change."* Style sense is a **process, not a destination.** *"Nothing stands still. He must set his ego aside and continue his learning."*
+
+**Level 3 — Advanced.** Pro: knowledge is now permanent, can teach others, the crystallization phase. Watch-out: *"he thinks what he knows must be true, and has trouble holding paradoxical viewpoints in the same thought. This is the main differentiation between the advanced and master artist."*
+
+**Level 4 — Master.** Pro: can teach, may be recognized in the field. Watch-out: *"the sin of the master is to think that he knows everything, forgetting that we're constantly learning new things. Praise from others may go to the master's head, allowing him to live up to his image instead of his reality. He must remember that, in the end, he lives up to the standards he sets for himself, instead of those perceived and imposed on him by others."*
+
+**The master's closing obligation:** *"He must not be selfish, but share his knowledge with the world."*
+
+---
+
+### Chapter 39 — Map of Interaction and Style
+
+Lin's model of how style functions at each stage of courtship (the M3 Mystery Method model as the underlying framework). Most of this chapter is dating-context-specific and moot for Will's engaged context. The durable extractions:
+
+- **Style works in the first 3 seconds.** *"Your style visually conveys ideas that your words cannot. This is conveyed within three seconds of visual contact, and no words need to be exchanged. As you start the conversation, your words are stacking on top of an already high impression based on the way you present yourself."* → The corollary for Will/Elena long-term: his visual impression shapes the first second of any room entry — date night, wedding, Banff trip — before he's said anything.
+- **Inner congruence grows over time, style's leverage shrinks.** *"The determining factor for your level of inner congruence increases with every second."* Style opens; character closes. This maps exactly to Schnarch: desire in a long-term relationship is driven by who you actually are, not by what you wore on Tuesday.
+- **Comfort phase caveat.** *"Your style is less important here as she is getting to know about you. Some guys make the mistake of totally forgetting about style... if a guy dressed well at the first meeting, he may want to wear dark jeans and dress shirt for a first date. If he showed up in slopping sneakers, washed up jeans, and a baseball cap, the image may be broken."* → **Elena context:** consistency of self-presentation over time is a form of congruence. If the new style identity Will builds is real (Avatar-anchored, not costume), it will be consistent and reinforce rather than disrupt.
+- **Body language stat:** *"strong, confident (non-fidgety) body language, slowed down and louder voice, and steady eye contact increases the result of the interaction in 80%+ of cases."* This is the non-style layer that the sprint doesn't directly touch — but posture work (Ch 35 Tip 7) + the desire-polarity behavioral DO-list both address it.
+- **Items as social tools.** Lin's tip: use a distinctive item (hat, scarf) as a social prop — let her try it on, or use returning it as a callback reason. Practical for strangers. For Will: the same items (brown leather jacket, distinctive belt buckle) become *recognition signals* in his social network — people remember "the guy with the jacket."
+
+---
+
+### Chapter 40 — Life Style (the close-out)
+
+*"It seems ironic that after spending the whole eBook talking about attractive style, I could come to the last chapter and tell you that it is not the most important thing in the world."*
+
+**The inversion.** Lin's honest confession: *"Cultivating style costs money, takes up time, and can sometimes drain emotional resources."* He's not a lifestyle guru telling you style is a shortcut. He's a practitioner saying: **style is one input, not the outcome.**
+
+*"Now armed with the knowledge of the effects of style and its attraction switches, you are free to choose how important it is to you, and put in as much time and effort as you want to give it."*
+
+**The vanity warning.** *"There's nothing more unattractive than a male model who has no core values and no personality."* Style without character is hollow. And judging people purely on looks — while natural and unconscious — is not a framework for anything lasting: *"For long-term relationships or any type of worthwhile social connections, always judge the person based on their behavior, not by the way they look."*
+
+**The "when you die" exercise.** Lin walks through 5 celebrity tributes and asks what they're remembered for. None of them are remembered for their looks. The pattern:
+
+- **Patrick Swayze** — never missed a chance to pay tribute to his wife of 34 years. Fought pancreatic cancer with "I'm going to beat this" energy. *"A rare and beautiful combination of raw masculinity and amazing grace... he lived."*
+- **Charlton Heston** — married to his college sweetheart Lydia for 64 years. His secret to marriage: *"three little words: 'I was wrong.'"*
+- **Richard Pryor** — changed comedy forever; when MS robbed him of his ability to walk and speak in full sentences, *"he never felt sorry for himself. 'As a comedian, I couldn't have asked for better material.'"*
+- **Farrah Fawcett** — *"Personally, she struggled to be taken seriously."* At the end: *"there was no hair and makeup. And yet she was beautiful. She will be remembered as the smiling courageous girl who wasn't afraid to show her humanity."*
+- **Christopher Reeve** — paralyzed below the neck after a riding accident. His wife Dana: *"You're still you, and I love you."* *"If he could ever have walked, he would have walked over to help someone else get up."*
+
+**The thesis from the tributes:** what people remember is courage, love, humor, humanity, and how you treated others. Not the outfit.
+
+**Values determine lifestyle.** *"The way we live is all dependent on our values. If one values adventure, his style choices may reflect his chaotic and adventurous nature. If another person values security, his attire may reflect this with sturdy business suits and standard colors."* → The Avatar exercise is not about picking a persona — it's about **reading your own values outward**. What Will wants to communicate is upstream of which hat he buys.
+
+**Lin's personal turning point.** *"In the past, when I first started my style journey, I thought that I could trick women into believing I was an alpha guy. To be fair, dressing like the part made me feel like the part… for about 30 minutes into the interaction. And then she would realize that I was not the man I communicated myself to be, and I would lose the girl."*
+
+The solution: *"Years into it, I realized that no matter how hard you pretend to be something you're not, people will eventually have enough information to piece together who you really are. Humans are ridiculously good at spotting incongruence over long periods of time."*
+
+*"Even a tiny action regarding an insignificant thing, such as you holding the door for someone or the way you treat a small child, can tell someone more about you than a whole autobiography can. This is why it's so important to work on who you are on the inside just as much as you do on outer appearance. **This is what true 'style' is and the true way of attraction.**"*
+
+**Lin's closing quote (Napoleon Hill):** *"There is no penalty for the use of the Key, but here is a price you must pay if you do not use it. The price is failure. There is a reward of stupendous proportions if you put the Key to good use. It is the satisfaction that comes to all who conquer self and force Life to pay whatever is asked. The reward is worthy of your effort. Will you make the start and be convinced?"*
+
+**Signed: Vince Lin. May 19th, 2012.** This confirms the actual author definitively — Lin signed the book himself at the close.
+
+---
+
+### Chapter 40 — Translation for Will
+
+This chapter is the most direct repudiation of using this material as a pickup-community framework. Lin wrote it as one. Then at the end, he handed back the keys and said: *none of this matters if you haven't done the inner work.*
+
+For Will specifically, the three translations:
+
+1. **The "when you die" exercise as a style north star.** The question isn't "what outfit gets the most attention?" It's "what kind of man am I building?" The style sprint is a *layer* of the answer, not the answer. The desire-polarity work, the acquisition path, the promotion push — those are the character choices. The jacket is the uniform that reflects them.
+
+2. **The incongruence warning as the anti-costume rule.** Lin spent 200+ pages on style tactics, then admitted he couldn't fake his way through a 30-minute interaction. Will is building a 45-year marriage. The Avatar exercise is not optional — it must reflect who Will actually is and wants to become, not who he thinks Elena wants to see, not who the pickup culture says is "high value." If the identity isn't real, Elena will know within months.
+
+3. **Charlton Heston's three words.** Lin chose this tribute specifically. *"I was wrong"* as the 64-year marriage secret. Not charisma, not style, not holding frame. The man who can say *I was wrong* without it threatening his identity is differentiated. That's the Schnarch read hidden in a style book's epilogue.
+
+---
+
+### Ingestion status: COMPLETE
+
+The full SWS 2.0 / "Seduce With Style" book is now ingested. All 40 chapters and the appendix are in the reference.
+
+**Author confirmed:** Vince Lin (signed the book May 19, 2012). Giovanni Wan curated / distributed the material — Lin wrote it.
+
+**Complete chapter coverage:**
+- Chapters 1-10: framework, 8 SAS, Style Evolution Chart, Avatar, Falling In Love Funnel, voice/scent
+- Chapter 11: Clothing Pieces (full — accessories, body pieces, socks, shoes, 6 outfit types)
+- Chapter 12: Colors (emotions, skin tone, color wheel, 3-color rule)
+- Chapters 13-14: [not sent — likely layering and where to shop; some of this was in the Quickstart]
+- Chapter 15: Beauty Routine
+- Chapters 16-32: [not sent — bulk middle content; Quickstart summarized key concepts]
+- Chapter 33: Peacocking
+- Chapter 34: Online Avatar
+- Chapter 35: Long-Term Good Looks (Tips 1-11)
+- Chapter 36: Common Mistakes + Long-Term Side Effects
+- Chapter 37: Style Mastery Progression Chart
+- Chapter 38: Strengths and Weaknesses Along the Way
+- Chapter 39: Map of Interaction and Style
+- Chapter 40: Life Style (the philosophical close-out)
+
+**Nothing actionable remains in the unread chapters** — the Quickstart covered the layering and shopping framework; the missing middle (16-32) is predominantly in-field dating tactics that don't apply to Will's context. The reference is complete for the sprint.
