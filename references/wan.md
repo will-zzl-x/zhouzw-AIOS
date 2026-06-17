@@ -202,8 +202,187 @@ The backlog item is **8 days out from this writing** and reads as "stylist consu
 - `How to Get Designer Brands On The Cheap` (Vince Lin, 12 pages) — designer decision framework + value channels.
 - `Science of Beauty` (Vince Lin, 35 pages) — evolutionary/biological theory behind attractiveness; heavy filter applied above. Most useful sections: M3 model adjacency to Perel/Schnarch; the **Physical Male Attraction Triggers tables** (V-shape, height, jawline, beard, hair, smile, muscle tonality, pupil dilation) which translate to "Will's fitness + grooming targets independent of women."
 - `Suggested Reading.docx` (Wan) — two kit.co links: (a) recommended dating-life books, (b) recommended style + attractiveness items. Curated by Wan; review separately if/when.
-- `Seduce With Style` (Vince Lin, password-protected, password `godofstyle101`) — the full omnibus. Pending separate ingestion pass (see chat).
+- **`Seduce With Style v2.0` (Vince Lin, ~226 pages, 40 chapters)** — full omnibus. **INGESTED 2026-06-16** via Drive MCP after iPhone iLovePDF unlock + split. Foreword (Lin, May 2012): *"The goal of this book is not to become fashionable. The goal is to become attractive."* (Translation applied: replace "attractive to women" with "wantable in the Perel/Schnarch sense.") Substantial new material in **§§ "Full SWS 2.0 Synthesis"** below. Two gaps in current ingestion: **Chapters 11-12 (Clothing Pieces Explained + Colors)** fell in the file-split boundary and were not extracted; **Chapters 31-40 (Style Force Multipliers → Lifestyle)** got truncated by MCP read-size limit. Re-send those page ranges if/when needed.
 
 ## Lineage Note
 
 Giovanni Wan (the active coach Will is working with) curates and resells / extends the Vince Lin "Seduce With Style" foundation. The Lin material is dated (2010-2012) and pre-modern-fit-fashion in places (some jean-fit advice, the avatar list); the **principles are durable but the surface examples should be sense-checked against current 2025-2026 fit/cut conventions** — search "men's [item] 2025 fit guide" before buying anything specific Lin recommends.
+
+---
+
+## Full SWS 2.0 Synthesis (added 2026-06-16, omnibus chapters 1-30 ingested)
+
+Material that expands on the Quickstart framework above. Same translation principles apply — read everything through the *"author the broadcast deliberately"* lens, not the *"attract women"* lens. Specific chapter cross-references in parentheses.
+
+### The 8 Style Attraction Switches (SAS) — Ch 8
+
+Lin's central framework. Style is a **switch panel** — eight specific levers your appearance can flip in another person's perception. Each one maps to an underlying attribute the source claims women evolved to read. **Translated for Will, these are the eight signals your style is *already broadcasting* whether you've thought about them or not** — so author them.
+
+| # | Switch | What it signals (translated) | How style triggers it |
+|---|---|---|---|
+| 1 | **Dominance** | Capacity, leadership, not-a-pushover | Well-fit clothes that show the body, posture, hair/grooming choices that read deliberate, tattoos/wristbands/ties as identity markers (carefully) |
+| 2 | **Eliteness** | "Not the average guy" — intelligence, taste, discrimination | Unusual but coherent choices, design-aware items, *not blending in with the office uniform* |
+| 3 | **Access to Resources** | Capability + provision (signal in long-term mating; for Will: provides for himself + Elena) | Quality watch, suit, dress shoes — the few items where brand legitimately reads |
+| 4 | **Clean Cut** | Health, self-respect, attention to self | Day 1 grooming non-negotiables. Skin, hair, nails, breath, smell |
+| 5 | **Congruence** | Inside matches outside; identity is real, not performed | Your wardrobe and your actual behaviors line up. *The biggest filter on the whole framework* — incongruent style reads as costume |
+| 6 | **Adaptability** | Reads the environment + adjusts (social intelligence) | Knowing when to dress up or down for context; not over- or under-dressing for occasions |
+| 7 | **Preselection** | Already chosen by quality others | For Will: Elena's existence as a high-quality partner already broadcasts this; ring is part of it |
+| 8 | **Lifestyle** | All of the above lived consistently over time | The compounded version of #1-7. The end state, not a single choice |
+
+**Lin's note on overshooting Dominance:** *"If the man looks too dominant, he can look dangerous. This can be a turn-off… she can rationalize that the man has a creepy vibe."* For Will: don't peacock the dominance switch to the point that it overrides #5 (congruence). The reading-room lever (#6, adaptability) usually catches this.
+
+### The Style Evolution Chart — Ch 6
+
+Four phases of where a guy sits on the curve. **Translated:** these are stages of *deliberate self-broadcast*, not stages of woman-acquisition.
+
+1. **Guy 1 — Chode (no style at all).** Office worker default. Hasn't chosen anything. Lin: *"a complete geek… most office workers fall into this category."*
+2. **Guy 2 — Normally well dressed (50-70% of the population).** Conforms to mainstream office or club codes. *Khakis, plaid, blue/gray/black.* Will's current Amazon-Tempe wardrobe sits here. Looks fine but communicates nothing distinctive.
+3. **Artist 1 — Sexual avatar achieved.** Coherent, intentional look that reads as authored. Will is fundamentally working toward this phase via the style-grooming-sprint.
+4. **Artist 2 — Pushing the limits.** Boundary-pushing identity expression. Lin's example: Goth rocker matched with Emo girl. For Will: *not the target.* Stay at Phase 3.
+
+**Where Will sits today (honest read):** Phase 2 → goal is to land at the cleaner end of Phase 3 by NYC (Jul 30 – Aug 5).
+
+### The 8 Common Style Mistakes — Ch 9
+
+Lin's Mr. Unstylish personifications. **Translated short form** — the corresponding self-construction failure mode each one represents:
+
+1. **Dirty / poorly groomed** → unconscious to your own broadcast. Fix: Day 1 grooming as foundation.
+2. **Tries to fit in** → fear of differentiation (the *exact* anti-pattern of Will's desire-polarity / point-of-origin work). Fix: distinctive choices, even small ones.
+3. **Afraid of criticism** → external locus of self-validation (Schnarch's central diagnosis). Fix: hold your own ground; small visible choices over time.
+4. **In denial about importance of style** → "what you wear doesn't make you who you are." Half true, but in a social/visible world your broadcast affects how people respond, which feeds back into your self-perception. Fix: take it seriously as one of several self-construction layers.
+5. **Buys the wrong things** → style-by-impulse, not by Avatar. Fix: lock the Avatar first, then shop against it.
+6. **Doesn't experiment** → comfort-zone prison. Fix: one small new piece every cycle; tolerate the awkward stretching phase.
+7. **Confuses fashion with style** → chasing trends instead of constructing identity. Fix: timeless fit + a few seasonal accents.
+8. **Doesn't maintain** → buys nice clothes, then ruins them. Fix: dry-cleaning, shoe polish, garment care.
+
+**The pattern across all 8:** unconsciousness about being a broadcast medium. The fix in every case is *deliberate authorship of the signal*.
+
+### Beauty Routine — Daily + Weekly Maintenance (Ch 15)
+
+**This is genuinely new content not covered in the Quickstart.** Lin: *"You may think this is excessive or borderline metrosexual, but most male models and good-looking guys have an edge because they prepare and plan their appearance instead of leaving it to chance."*
+
+**Daily:**
+- **Shampoo** — pick one for your goal (volume = Pantene + keratin; straightening = Matrix Sleek Look line; standard = a $15-25 stylist-recommended bottle). Avoid grocery-store basic if scalp is sensitive.
+- **Conditioner** — *most guys skip this; don't.* Prevents split ends; keeps hair shiny + healthy. Use after every shampoo.
+- **Teeth + tongue cleaning + flossing** — brush after meals; floss daily; tongue scraper if breath is an ongoing issue; whitening strips for surface-level boost; **dental cleaning every 6 months** (under insurance — Will already has this via Amazon benefits).
+- **Body lotion / moisturizer** — for the skin layer that gets touched (forearms, hands, shoulders, back). Lin recommends Origins Bloomaway grapefruit. Generic Cetaphil or CeraVe works at lower price.
+- **Vitamins** — fish oil (omega-3 → skin + heart), vitamin C/E/primrose (skin), multivitamin daily. Will already runs Cronometer for macros; layer the micros.
+- **Cologne** — 2-3 signature scents minimum. One daytime (lighter, fresh), one date/evening (warmer, deeper), one work/business-casual neutral. **Test on skin, not paper strip** — body chemistry changes the scent. Ask Elena which she actually likes.
+
+**Weekly to monthly:**
+- **Haircut every 4-6 weeks** at the same stylist. Photograph the cut for replication.
+- **Beard trim** if applicable (2x/week minimum).
+- **Nail trim** (hands + feet — yes, feet matter when Elena sees them).
+- **Skin exfoliation** (a face scrub or salicylic wash) 1-2x/week to clear dead skin.
+
+**Practical add for Will:** the style-grooming-sprint backlog row should fold in a one-time *purchase the routine* sub-task (~$60-100 at Sephora or Ulta): face wash, moisturizer, eye cream optional, body lotion, the 2-3 colognes (sample first). Then it's auto-pilot maintenance forever.
+
+### Layering — Ch 13
+
+The execution principle that lets a small wardrobe produce many distinct looks. Lin's rules:
+
+- **Each piece must look good on its own** before you layer it. Layering doesn't rescue bad pieces.
+- **Wear thinner layers underneath**, heavier on top — practical (warmth) + visual (drape).
+- **Match the quality tier of layered pieces** — don't pair a $100 custom shirt with a Walmart sweater vest.
+- **Avoid monochrome stacks** — a dark blue or orange accent piece amid black/white reads way better than pure neutral.
+- **Texture and pattern variety** — two t-shirts on top of each other looks weird. Cotton + cashmere works. Loud patterns clash; one statement piece + neutrals around it.
+- **Sweaters, scarves, jackets are the layering workhorses.** Switching the outer piece changes the whole outfit's read while everything underneath stays the same — the highest leverage for a small wardrobe.
+
+For Will: the existing wardrobe needs 1 well-chosen scarf + 1 cardigan + 1 blazer + 1 leather or canvas jacket. Those four outerwear pieces multiplied by 3-4 underlying combinations = 12-16 distinct outfits.
+
+### Closet Cull Process — Ch 19
+
+Lin's literal sequence (works for Will's wardrobe pass step in the sprint):
+
+1. **Pull everything out.** Empty the closet onto the bed/floor. *Don't skip this.* The friction of physically handling each piece is part of the decision.
+2. **Three piles:** Keep · Donate · Tailor.
+3. **Keep test (two parts):** Does it fit your body well right now? Does it fit your locked Avatar?
+4. **Tailor pile (Lin's value lever):** anything that fits the Avatar but is slightly large can be brought into shape for $15-30 at a tailor. Smaller items can almost never be enlarged.
+5. **Sentimental:** put in a labeled storage box, *not* the closet. Out of decision cycle.
+6. **Bag the donate pile + drive it out the same day.** Lin's specific call: *"if it stays in the house overnight, half of it migrates back."*
+7. **Photograph the resulting closet.** Reference shot for what to maintain.
+
+### Where to Shop — Tiered Strategy with Brand Strategy (Ch 20)
+
+Lin's price/quality/status grid (verified against current Walmart/Target/H&M/Zara/Burberry positioning — still directionally true 2026):
+
+| Tier | Brands | Price | Quality | Style | Status | Best for |
+|---|---|---|---|---|---|---|
+| Discount | Walmart, Target | Low | Decent | Low-Medium | None | Socks, underwear, basic tees, white shirts |
+| Off-price | Ross, TJ Maxx, Marshalls, Nordstrom Rack | Low (variable selection) | High when found | Variable | High (when from name brands) | Designer hunting; need time + eye |
+| Fast-fashion low-end | H&M, Uniqlo, Urban Outfitters | Low | Medium | Good | Medium | Fitted dress shirts, jeans basics, casual accessories |
+| Mid-market | Banana Republic, Gap, J.Crew | Mid | Decent | Medium | Medium | Office basics, "safe" pieces; *exactly the Phase 2 trap* — buy here sparingly |
+| Premium fast-fashion | Zara, Ted Baker | Mid-high | Very high | Very good | High | Statement pieces — leather jacket, suit, ties |
+| Premium classic | Kenneth Cole, Cole Haan, Allen Edmonds, Hugo Boss, Guess | High | High | Good | High | **Dress shoes (Lin's emphatic recommendation)**, suits, watches |
+| Luxury | Burberry, Tom Ford, Prada | Very high | Very high | Brand-defined | Elite | Skip for Will's current phase |
+
+**Lin's budget guide:** *"$300-$500 budget for an outfit."* For Will's sprint: $400-700 across all targeted buys, not $400-700 per outfit. Stay disciplined.
+
+**Lin's seasonality + timing rules** (verified):
+- **Black Friday + post-Christmas (late Dec–Jan)** = biggest discount windows
+- **Thursdays 6-8 weeks after launch** = stores discount before weekend rotation; ask staff when new inventory drops
+- **Off-season buying** — buy winter coats in spring at outlets, swimwear in fall, etc.
+- **Membership programs** — Guess, Banana Republic, J.Crew all have free programs with 10-15% off; staff often forget to mention them
+
+### Style Decision Flowchart — Ch 22
+
+Lin's decision tree for "Should I buy this?" (paraphrased and tightened):
+
+1. **Does it fit my body well?** No → put it back. Yes → continue.
+2. **Does it fit my Avatar?** No → put it back. Yes → continue.
+3. **Do I have something nearly identical already?** Yes → put it back unless it's a meaningful upgrade. No → continue.
+4. **Is the price aligned with the value (per the SWS designer-brand framework above)?** No → put it back. Yes → continue.
+5. **Does it pair with at least 3 things I already own?** No → put it back (it's an orphan piece). Yes → buy.
+
+Five gates. Most impulse buys fail one. For Will: keep this in mind on the NYC trip — the city will throw temptation at you.
+
+### The "Falling In Love" Funnel — Ch 25 (new framework)
+
+Lin's model of *how impression forms* in the first 60 seconds of contact. **Translated:** these are the seven channels through which you're broadcasting before you've said a real sentence. Author each one.
+
+**Sight (the first 10 seconds):**
+1. **Movement** — how you walk into a room. Pace, intentionality, posture. *The body-language section's content lives here.*
+2. **Proximity** — who you move toward and how naturally. *No relevance for Will + Elena specifically, but applies in social/work contexts.*
+3. **Interactions** — how you respond to other people in the venue (staff, friends, strangers). High-status framing is here.
+4. **Body Shape** — height, frame, tonality. Style can accentuate via tailored fit + shoulder structure in jackets. (The cut is downstream of this.)
+5. **Style** — clothing, grooming, accessories. Everything the rest of the framework covers.
+
+**Voice (the next 10-30 seconds — see Ch 27 below):**
+6. **Tonality** — pitch, warmth.
+7. **Resonance + Rhythm** — depth, pace, articulation.
+
+**Smell (proximity-dependent, but high-impact when triggered — see Ch 28 below):**
+8. **Odor** — fresh, identifiable, intentional cologne signature.
+
+**For Will:** the most underweight channels in the current setup are likely **Voice** and **Smell** — the visual sprint will handle 1-5; voice and scent need separate practice cycles. *Don't skip them just because the Quickstart didn't have them.*
+
+### Voice Power — Ch 27 (NEW — not in Quickstart)
+
+Quote from Etcoff that Lin cites: *"When we hear attractive voices, we presume the person is more likable, competent, and dominant. Although visual beauty is more persuasive, there are cross-channel effects. A beautiful person with a squawking voice will look less attractive."*
+
+**Attractive male voice = deep, resonant, authoritative, crisp.** Hard biological correlate (testosterone), but **most of it is trainable.**
+
+Lin's 6 practical levers:
+1. **Record yourself.** Voice memo on the phone. Hearing your real cadence is half the work.
+2. **Speak slower.** Most under-confident speech is rushed. Slow = authority.
+3. **Speak from the chest, not the throat.** Deeper, lower volume that *projects.*
+4. **Articulate.** If people are asking "what?" — it's not them.
+5. **Use inflection deliberately.** End sentences with downward inflection (statement) vs. upward (question). Avoid the upward-end "uptalk" trap.
+6. **Practice with low-stakes people first.** Hard to change patterns mid-conversation with high-stakes people. Warm up with strangers / casual.
+
+**Will-specific:** weekly Z2 cardio + lifting already builds the diaphragm capacity. The leverage is **conscious slow-down + deliberate downward inflection** in 1:1 conversations with Elena, manager, and Dan. Run the voice memo experiment once per quarter.
+
+### Scents & Pheromones — Ch 28 (NEW)
+
+**Cologne strategy (the safe, Will-applicable part):**
+- **2-3 signature scents minimum:** daytime (light, citrus/fresh), date-night (warmer, oud/leather/musk), work-business-casual (neutral, woody).
+- **Test on skin** at the cologne counter, walk around the mall for 30 min, *then* decide. Body chemistry is real.
+- **Ask Elena directly which she likes.** Avoid the trap of "what cute girls at the counter like" — Elena is the relevant tester. Schnarch frame: don't outsource the choice to social proof.
+- **Apply lightly.** Two sprays — pulse points (wrist, neck). More is not better.
+
+**On pheromones / "androstene" sprays:** Lin includes some pickup-community theorizing (using women's "juice" as cologne, etc.). **Skip entirely.** The cologne section above covers the practical 95% of the value.
+
+### What's missing from this ingestion (re-send if/when needed)
+
+- **Chapters 11-12** (Clothing Pieces Explained + Colors) — fell between file 1 and file 2 of the split upload. These are the *most tactical* chapters of the book — Lin's specific recommendations on T-shirts, dress shirts, pants, jeans, jackets, suits, ties, belts, shoes, and the full color-pairing system. If sprint execution needs more guidance, split file again with page 76-110 captured into a third file and send.
+- **Chapters 31-40** (Style Force Multipliers · Peacocking · Online Avatar · Long-Term Good Looks · Common Mistakes · Style Mastery Progression Chart · Strengths and Weaknesses · Map of Interaction · **Lifestyle**) — the MCP truncated file 2 at chapter 30. The **Lifestyle chapter (40)** is the philosophical close-out and probably the most valuable; the **Long-Term Good Looks chapter (35)** likely overlaps fitness/diet/sleep advice Will already has from Schofield. Re-send if/when wanted.
