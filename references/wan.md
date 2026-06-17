@@ -384,5 +384,65 @@ Lin's 6 practical levers:
 
 ### What's missing from this ingestion (re-send if/when needed)
 
-- **Chapters 11-12** (Clothing Pieces Explained + Colors) — fell between file 1 and file 2 of the split upload. These are the *most tactical* chapters of the book — Lin's specific recommendations on T-shirts, dress shirts, pants, jeans, jackets, suits, ties, belts, shoes, and the full color-pairing system. If sprint execution needs more guidance, split file again with page 76-110 captured into a third file and send.
+- **Chapter 11 partial ingestion (2026-06-16, screenshots IMG_4934-4938):** got the **Headwear + Glasses + Scarves** subsections from pages 76-80 — captured in the next subsection below. Still missing from Ch 11: **shirts, pants, jeans, jackets, suits, ties, belts, shoes** (probably pages 81-101). Those are the most tactical pieces for sprint execution — re-send when you can.
+- **Chapter 12 (Colors)** — full color-pairing system. Skip for now unless you specifically want it.
 - **Chapters 31-40** (Style Force Multipliers · Peacocking · Online Avatar · Long-Term Good Looks · Common Mistakes · Style Mastery Progression Chart · Strengths and Weaknesses · Map of Interaction · **Lifestyle**) — the MCP truncated file 2 at chapter 30. The **Lifestyle chapter (40)** is the philosophical close-out and probably the most valuable; the **Long-Term Good Looks chapter (35)** likely overlaps fitness/diet/sleep advice Will already has from Schofield. Re-send if/when wanted.
+
+### Chapter 11 — Clothing Pieces (partial: Headwear, Glasses, Scarves)
+
+Lin's opening line: *"This is the chapter you need to print out and carry with you to the clothing stores as you begin shopping for a new wardrobe."* — confirming Ch 11 is the most tactical chapter in the entire book. Lin orders the discussion **top-down** (face → neck → chest → torso → lower body → shoes) on the logic that *"your face is usually the first thing you see when you look in the mirror."*
+
+#### Headwear
+
+Lin's frame: hats add *dimension, volume, and shaping* — and can backfire by lowering perceived status if mismatched. Translated for Will: hats are a high-variance accent piece. Most options below are **skip** for the engaged-engineer-in-Phoenix profile.
+
+| Piece | Lin's read | Translated for Will |
+|---|---|---|
+| **Beanie** | Accentuates hair + face, adds head volume | Phoenix is too hot 9 months/year. Hold for the NYC Jul 30 trip if it's cool, or skip entirely. |
+| **Fedora** | "Sense of style and class. Tilt for a movie star / mysterious effect." | **Skip.** High costume risk; reads dated 2025+ unless you're genuinely committed to the avatar. |
+| **Tilted cap** | "Used by frat boys to instill coolness. Be careful of its effect on lowering your class status." | **Skip.** Frat-boy read undercuts professional + acquisition-operator identity. |
+| **Bandana** | "Can convey dominance. Careful of class-status lowering effect — pair with high-status items or commit to rocker/edgy look." | **Skip.** Doesn't fit the Avatar. |
+| **Cowboy hat** | "Great for southern iconic effect. Increases perceived dominance and masculinity." | **Skip for everyday.** Phoenix-appropriate for a specific country bar / casual outing maybe — but very avatar-specific, not for Will's default look. |
+
+**Bottom line on headwear:** the *only* honest yes here for Will is a clean baseball cap (Lin doesn't cover) for outdoor / hike / casual — and that's not even a style piece, it's sun protection. Skip the rest of this section's recommendations.
+
+#### Glasses
+
+Lin: *"Aviators are great for conveying masculinity and dominance. Be sure the glasses properly fit your face."* Then specific lens-color reads:
+
+- **Aviators (classic)** — masculinity, dominance, timeless. **Strong YES for Will** — Phoenix sun is brutal, you need real sunglasses, aviators are universally flattering, the lens shape works with most face shapes. *Budget tier: Ray-Ban Aviator ~$170; Knockoff tier: $20-40 at Target / Amazon for the look.*
+- **Light lens / clear-tinted** — "iconic via Asian mobsters; lighter coolness than heavier or darker lens glasses." **Skip** — dated trend, doesn't fit Will's avatar.
+- **Dark lenses (Lil Jon style)** — "convey power; no one knows what your eyes are doing." **Skip** — reads as costume / hiding.
+
+**Will-specific:** one good pair of polarized aviators ($60-170) is genuinely a sprint-priority buy. Phoenix UV + Banff July trip + NYC summer all need real sunglasses. Don't cheap out — Lin's right that fit matters; try them on.
+
+#### Scarves
+
+Lin: *"Versatile pieces for color, layering, and adding attraction to the upper body."* Function: redirect attention to neck/chest, brighten neutral outfits, layer warmth.
+
+Lin's two specific reads:
+- **Western-styled / chunky** — rocker edge + masculinity. (Tom Brady example.)
+- **Lighter / silkier** — more refined / feminine end of spectrum. (Usher example.)
+
+**Will-specific:** Phoenix climate makes scarves seasonal at best — **winter months only** for Phoenix (Dec-Feb), and the NYC October wedding (which is also where you'd actually wear one). One neutral wool/cashmere scarf in dark gray or navy ($30-60 at H&M/Uniqlo/Banana Republic) covers all real use cases. Skip the patterned/printed/rocker variants — they're costume risk.
+
+**Sprint priority:** lower-tier item, not urgent. Bundle into the NYC trip prep or a fall purchase round, not the Jun 22 deadline.
+
+### What this Chapter 11 partial confirms (and what's still missing)
+
+What you got matches Lin's promise that the chapter is execution-tactical: each item gets a *what it communicates → when to use → when to skip* read. For Will, the partial Ch 11 confirms:
+
+- **One aviator buy is sprint-priority** — fold into the Jun 22 deadline if possible.
+- **Most other headwear is skip** — don't waste sprint bandwidth.
+- **Scarf is post-sprint** — bundle with NYC or fall.
+
+**Still missing and high-value for the sprint:**
+- **Shirts** — t-shirts, dress shirts, polos (fit specifics, fabric, collar styles)
+- **Pants + jeans** (full break, not just the Quickstart summary)
+- **Jackets** — blazer, leather, denim, bomber, pea coat distinctions
+- **Suits** — single vs double breasted, lapel, fit
+- **Ties** — width, knot, pattern
+- **Belts** — width, color matching to shoes
+- **Shoes** — extended past the Quickstart's "dress shoes" focus
+
+These are pages 81-101 of file 1. If you can iLovePDF-split file 1 once more capturing that range as a third file and Drive-share it, this becomes the last meaningful gap to close.
