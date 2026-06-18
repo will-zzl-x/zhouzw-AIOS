@@ -31,9 +31,23 @@ Budget reality: shortlist top tier (Stargazer Cottage/Bungalow) likely lands $18
 
 ---
 
-<!-- existing inbox content below -->
+## 2026-06-17 — Style Avatar locked + SoCal Friday night architected as first Avatar live-test
 
+**Avatar locked** (also in `context/about-me.md`): *"I am the guy who moves with intention and carries gravity quietly — present, deliberate, and not performing for the room."* Direction: Latin Gentleman with Athletic Gravity — drapes loose below (pleated trousers, never slim/jeans), fitted above. Black + brown leather, linen for Phoenix summer, jewel tones for shoulder + winter. Loafers over sneakers, sockless-friendly. Sprint reframed from 1-week-deadline to 5-month climate-adjusted buildout (deadline shifted to Dec 1) — backlog row updated, calendar block for the Sun Jun 28 audit already set.
 
-*Cleared June 14, 2026 reflection. Prior captures resolved: Banff trip Jul 2–12 planning state absorbed into state.md Travel section + backlog rows (banff-airbnb-lock, banff-moraine-shuttle, banff-phx-yyc-flight); Sedona Sep 11-14 plan absorbed into backlog (sedona-trip-book); modular meal-prep + dual-track meal-planning + Zone of Genius sector pick from 6/10 absorbed into context/acquisition.md + meal-planning/data/recipes.json; 6/13 acquisition pipeline pivot to Google Places API + Solo scrape data absorbed into state.md Money section + backlog (dan-reachout elevated, zog-sector-pick demoted); 6/13 Todoist description fix from backlog Inbox absorbed into backlog (brief-description-fix). Carry-forward: Frame B message to Dan (after Elena cash figure conversation); Sunday Z2 modality change to stationary bike + phone; Life Main solo-space prescription deferred to post-cut review Jul 12+.*
+**Elena data point captured** in the wan/sprint thread: **black Lululemon "License to Train" tank** got "great reaction" from Elena. Confirms **fitted-black + visible athletic build = known desire trigger.** That data point shapes the Avatar's upper-body silhouette (fitted-shows-the-build) and the early jewel-tone shirt direction (black + deep burgundy + forest).
+
+**SoCal Friday Jun 19 = first Avatar live-test, architected for the intimacy outcome.**
+- Original plan was Brodard FV (walk-in Vietnamese, casual). Rewritten in real time across ~12 message-iterations of the consultant session.
+- Final: dinner at **Brodard Chateau** (Garden Grove — Vietnamese fine dining, unique-to-area, $30-45pp) → cocktails at **Habana bar/lounge** (Costa Mesa, The Lab — dark candlelit intimate Cuban lounge) → back at Sonesta by 9pm. Calendar wired.
+- Outfit: black Supermade Machete pleated pants (the proven-positive piece) + fitted white dress shirt tucked, sleeves rolled, top 2 buttons open + best leather shoes + light scent. **Current wardrobe — no new buys yet.**
+- Hard rule per Schnarch + Lin Ch 35 Tip 10 differentiation read: **don't ask Elena how the outfit looks. Observe, don't query.** Asking poisons the data.
+- Saturday night low intimacy probability (full physical day: beach + lift + dance + late Thai District dinner). Friday is the deliberately-architected intimacy night; Saturday is the naturally-stacked-connection night (dance lesson elevates touch baseline).
+
+**For Sunday reflection** — this is the first concrete Avatar-direction data point + the first deliberate desire-polarity *Relationships* infrastructure move that wasn't just a calendar block. Two observation buckets to surface:
+1. Did the Friday night architecture land? (Brodard food quality, Habana atmosphere, Elena's energy from dinner → lounge → return)
+2. What unprompted signals did Elena throw off about the outfit / presence / Avatar direction?
+
+Both bucket reads inform the Jun 28 wardrobe audit + the linen / jewel-tone buy direction. Don't carry as a "task to do" — carry as a "data set to read."
 
 ---
