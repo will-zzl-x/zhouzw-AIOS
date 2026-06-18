@@ -70,7 +70,7 @@ The operational specifics of Scenario B. Proposed split below — *Will + Elena 
 
 > **Shape decided (Will, 6/14):** Elena exits engineering fully (LOCKED `goals/elena-scale-back.md`, mid-2027) and goes **full-time into the acquired firm early as needed**, then **tapers to whatever level/hours she wants** as the manager hire + systems mature → truly-absentee Year 2. This replaces the earlier per-phase-hours TBD and the contradicted "20 hr/wk Year-1" framing.
 >
-> [STILL TO CONFIRM with Elena] (a) whether she wants an hours ceiling from day one, (b) when the taper starts (manager-hire month 12, or a date she sets), (c) the upstream pregnancy-possibility question from late May (`state.md`) which sits ahead of the role + timeline. Decision aid: `context/dan-elena-decision-brief.md`.
+> [STILL TO CONFIRM with Elena] (a) whether she wants an hours ceiling from day one, (b) when the taper starts (manager-hire month 12, or a date she sets). The pregnancy-possibility question from late May is CLOSED (officially negative, confirmed Will 2026-06-14 reflection — no longer gates role or timeline). Decision aid: `context/dan-elena-decision-brief.md`.
 
 **Proposed function split (Claude advice — Will + Elena + Dan to confirm):**
 
@@ -132,11 +132,11 @@ Decided 2026-05-31. Frame B = direct reactivation ask to Dan, with the debt-load
 
 **Readiness gates before the message goes** (per `backlog.md`):
 
-1. Roland Frazier YouTube + outreach script v2 — closes the 13-mo-old action item from May 2025
-2. Apify Google Maps scrape + Claude-Code lead enrichment — re-runs the 4/22/2025 Apollo work, modernized, narrower geo (20mi Phoenix), locked sector
+1. ~~Roland Frazier YouTube + outreach script v2~~ — **CLOSED 2026-06-08.** Script lives at `context/frazier-outreach-script.md`.
+2. ~~Apify Google Maps scrape + Claude-Code lead enrichment~~ — **CLOSED 2026-06-14.** Pivoted off Apify to Google Places API (free path under GCP $200/mo credit; see `sourcing/places_scrape.py`). Dan-track scrape complete: **505 ranked bookkeeping/accounting firms** in `sourcing/leads-ranked-dan.md`. Top tier 4.3-5.0★ with phones + websites; non-CPA-prefixed (cleaner AZ 51% ownership path).
 3. Dan thesis files verified — this file + `journals/dan-thesis-history.md` (**closed 2026-06-03**)
 
-Once 1 + 2 close, Will sends Frame B. Target: 30-min call to align on (a) is Dan still in, (b) refreshed deal box, (c) division of roles in the modernized sourcing pipeline, (d) Dan's CPA-licensure status.
+**ALL THREE GATES CLOSED.** Frame B message can be drafted + sent. Target: 30-min call to align on (a) is Dan still in, (b) refreshed deal box, (c) division of roles in the modernized sourcing pipeline, (d) Dan's CPA-licensure status.
 
 **Hard line for the message itself**: name the actual stall reason and the actual fix. The 2025 stall was *"I can't service $500k–$1M of acquisition debt while still W-2 at Amazon"* — not *"this business doesn't support the debt."* The fix is **Elena's combined cash + time contribution**: her cash reduces the debt required, and her CFO/COO bandwidth splits the post-acquisition operational load — letting Will ramp out of Amazon on the planned late-2027 timeline rather than forcing it earlier. Naming both the precise objection and the precise resolution is the credibility lever.
 

@@ -99,17 +99,36 @@ What "winning" looks like — defined before searching so it's recognizable on s
 
 ### Track 2 — Solo (Zone of Genius sectors)
 - **Deal size:** $300–$500k MAX (smaller cash flow constraints, smaller debt service)
-- **Sector:** **IN PROGRESS 2026-06-10** — initial 4-sector pick (pool, pest, janitorial, irrigation) widened to ~10-12 candidate sectors for broader scrape. Scrape-broad, outreach-focus architecture (see below). Final sector list pending Will's pick.
+- **Sector:** **NARROWING POST-SCRAPE 2026-06-14** — 12-sector broad scrape complete; 8 sectors survive sourcing-reality filter; top 2-3 pending Elena session via `context/sector-evaluation-framework.md`.
 - **Why this size range:** No Dan CPA cover so avoid sectors requiring licensure; smaller deals more accessible (less PE competition under $500k); faster close cycle
 - **SDE floor:** ~$253k at $300k → ~$286k at $500k; revenue floor ~$843-952k at 30% margin
 - **Cash required:** ~$50k down + ~$20k reserve = **covered by $70k S&ME alone** (Elena's $100k taxable preserved for home/bridge)
-- **Status:** Apify scrape config populated with initial 4 sectors; widening to ~10-12 in flight
+- **Status:** Solo scrape DONE 2026-06-14. 620 ranked viable leads across 8 sourceable sectors in `sourcing/leads-ranked-solo.md`. Free-path infra built (Google Places API replacement for Apify; see `sourcing/places_scrape.py` + `journals/inbox.md` 2026-06-14 capture). Narrowing pending Elena scoring session.
 
-### Solo Track sector picks (in progress 2026-06-10)
+### Solo Track sector picks (scrape done 2026-06-14, narrowing pending Elena session)
 
-**Architecture: scrape broad (10-12 sectors), focus narrow (2-3 sectors for Elena apprenticeship + outreach).** Marginal Apify cost is negligible (~$5-10 total); human attention is expensive. Let scrape yields per sector + Elena's gut response to actual lead names narrow to top 2-3 for the Walking Billboard + 100/50/10/1 outreach grind. **The act of looking at lead names across many sectors IS the Zone of Genius narrowing — more honest than guessing on framework dimensions.**
+**Architecture: scrape broad (12 sectors), focus narrow (2-3 sectors for Elena apprenticeship + outreach).** Marginal scrape cost negligible (~$2-5 actual via Google Places API free tier — pivoted off Apify, see `journals/inbox.md` 2026-06-14); human attention is expensive. Let scrape yields per sector + Elena's gut response to actual lead names narrow to top 2-3 for the Walking Billboard + 100/50/10/1 outreach grind. **The act of looking at lead names across many sectors IS the Zone of Genius narrowing — more honest than guessing on framework dimensions.**
 
-**Current ranked candidate list** (final pick pending Will's add/drop from this menu):
+**Per-sector yield (post-scrape 2026-06-14) — applies the framework's dimension-5 sourcing-reality hard filter (<15 leads = DROP):**
+
+| # | Sector | Viable leads | Sourcing-reality band | Status |
+|---|---|---|---|---|
+| 1 | Specialty distribution (B2B) | 170 | 5 Strong | Survives — score on dims 1-4 |
+| 2 | Pest control routes | 117 | 5 Strong | Survives |
+| 3 | HOA management services | 114 | 5 Strong | Survives |
+| 4 | Window cleaning commercial | 58 | 3 Workable | Survives |
+| 5 | Pool service routes | 57 | 3 Workable | Survives |
+| 6 | Vending / micro-market | 34 | 3 Workable | Survives |
+| 7 | Water treatment / softener | 28 | 2 Thin | Survives but marginal |
+| 8 | MSP / IT managed services | 23 | 2 Thin | Survives but marginal |
+| 9 | Document destruction / shredding | 13 | 1 DROP | Dropped — hard filter |
+| 10 | Coffee / water service | 5 | 1 DROP | Dropped |
+| 11 | Mat rental | 1 | 1 DROP | Dropped |
+| 12 | Office plant care | 0 in AZ | 1 DROP | Dropped — only out-of-state matches |
+
+**Surviving 8 sectors carried into the framework scoring exercise.** Original full candidate menu (with rationales) retained below as reference for the dims 1-4 scoring.
+
+**Original ranked candidate list** (rationales for the 12 — used as the dims 1-4 scoring inputs for the surviving 8):
 
 1. HOA management services — Elena program management bullseye + 5,000+ Phoenix HOAs
 2. Water treatment / softener service — Elena water credential; Phoenix hard-water market

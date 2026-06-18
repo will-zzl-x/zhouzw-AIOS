@@ -40,7 +40,14 @@ def morning_brief(request=None):
     project_id = get_or_create_project()
     cleared = clear_active_tasks(project_id)
     created = [
-        create_task(project_id, t["title"], t["area"], t["priority"], sm_id=t.get("sm_id"))
+        create_task(
+            project_id,
+            t["title"],
+            t["area"],
+            t["priority"],
+            sm_id=t.get("sm_id"),
+            description=t.get("description"),
+        )
         for t in tasks
     ]
 

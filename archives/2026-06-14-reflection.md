@@ -1,75 +1,103 @@
 # Weekly Reflection — June 14, 2026
 
-Covers **June 8–14 (W24)**. Run Sunday 6/14 19:10 AZ. **Synthesized autonomously from captured data, not a live interview** — sources: `archives/synthesis/2026-W24.md`, `journals/inbox.md` (Banff + Sedona + ZoG captures), `daily-log.md` (6/8–6/14, all □), backlog status deltas, `state.md` (frozen 6/8). Reads on top of the W24 synthesis (which has Decisions / Patterns / Cross-Domain Bridges). Where Will's direct read would sharpen a section, it's flagged in *(italics)*.
+Covers **June 8–14 (W24)**. Run Sunday 6/14 ~1:30 PM PST via live interview after a heavy weekend (Banff trip planning Sat AM, acquisition scrape pipeline + sector framework Sat PM, meal-cycle execution Sat all day, acquisition AIOS sync Sun AM). state.md and dashboard.md both stale since 6/7 — this reflection reconciles the full week of drift.
 
 ---
 
 ## Career
 
-W24 was the hardest execution week of the cut so far and the one with the least margin: Will absorbed **Colton's USNS scope while Colton was out sick** on top of his own rIXD/nIXD, published the daily IPEX Ops Flash Mon–Thu, and drove the redirect board to outcome — **WBW2 closure essentially complete** (WBW2→HIA1 SIM ~100%, MDP drained -2.29d). The standout L5-grade move wasn't throughput, it was the third consecutive week of **challenging the measurement, not the operation**: the **AZNG trailer-reduction metric pushback** (6/12, to Cam Nelson / Rajesh / Matt / Naresh / Laura / Shelby) disputing the T4WK-vs-T8WK baseline and demanding a 1P-vs-3P SCAC split before scoring against goal. W23 was IFSA_CHILD unit-inflation + GL_MW; W24 adds AZNG. That's a clean, repeatable "diagnose the metric up the chain" pattern — textbook cross-functional influence and strategic framing.
+**Promo doc didn't advance this week, but the pressure window quietly relaxed: Will's boss is OOO,** which means the Jun 30 hard cutoff can't have the manager-align step happen until boss is back. Net: the slip is structurally fine *this cycle*, but the real commitment — finishing the doc over a weekend — landed back on the calendar. Not over the SoCal weekend (Jun 19–21), so the actual window is the weekend of Jun 27–28.
 
-The structural risk is the same one the synthesis named: **the AZNG pushback is promo evidence going un-ported.** It lives in an Outlook thread, not the promo doc (Jun 30 hard cutoff). And this happened at the worst possible time to lose the witness — the **manager-gap window opened 6/13** (Matt paternity OOTO 6/15–20, Hans 6/13–28, Colton sick, Chris Wong out 6/12–15). Will is running largely independent through peak ramp with approvals routed to Dwight/Laura/Shelby. The 6/12 2pm Matt 1:1 was the last touchpoint before that gap, and **whether it landed DOE + promo Section 1 is unconfirmed** in any captured source. *(Will: did the 6/12 Matt 1:1 close out DOE + promo Section 1, and did you make the eligibility-vs-4-gate call?)* The AFMM upstream bottleneck (PSP3→LAX9 stuck at 9%) is now a 3-week structural constraint, not Will's lever.
+No other Amazon signal surfaced this week — the work-laptop reads weren't reviewed in this reflection. Treated as "no negative news = steady tactical execution." DOE Redirect Automation was flagged stale 16d in last week's reflection and remains the strongest promo-doc evidence lever; the eligibility-vs-4-gate decision is still parked.
 
 ---
 
 ## Fitness
 
-The data story is the same as the last two weeks, now worse: **a two-week logging blackout.** Every entry in `daily-log.md` for 6/8–6/14 is □ — no weight re-log, no session count, no step confirmation, no Z2 confirmation. Taken literally that's a total miss across every gate; in reality it's the known-broken evening-archive pipeline writing *planned* tasks without capturing *completion*. But the distinction matters less each week it persists: the cut is now **flying blind in Wk 3→4 at the caloric floor**, and the Larsen Press 3-lift canary (the abort signal, sitting at 1 green / 1 yellow / 1 red as of 6/7) **cannot be read without session logs.** The 6/8 carry-forward was explicit — *land `fitness_logger.DRAFT.py` and confirm the Sunday keystone fires through it.* There's no captured evidence either happened. *(Will: what's the 7-day rolling weight avg right now, did the Larsen back-offs recover off 6,4,4, and did the logger land?)*
+**Three honest reads, two new findings, one wrong AIOS data point.**
 
-The cut was already behind pace (~0.73 lb/wk vs. plan) because the two non-food levers — steps (9,165 avg vs. 12,500 target) and Z2 (14 min vs. 60+) — weren't firing. A blind week stacked on an under-fired week is exactly the failure mode the re-baseline to ~174–175 by Jul 11 was supposed to absorb, but only "if inputs actually fire." With no data, we can't tell if they did. The pipeline (#74) is no longer a nice-to-have; it's the single thing standing between the cut and a third blind week.
+**(1) Lifting is winning.** Pulled the Liftosaur CSV directly today. Five sessions Tue–Sat. The Larsen Press canary just posted **its strongest numbers of the cut**: 155×7 top set @RPE9.5, back-offs 7,7,5 — recovered fully from the 6,4,4 wobble flagged 6/7. Two of three canary lights green and improving; neutral pull-up holding 3,2,3. **The cut is working the lifts.**
+
+**(2) The AIOS had stale weight data.** state.md carried 180.4 as of 6/7. Will's actual sheet (Ideal Week → Weigh Ins) shows the week of 6/1 averaging **175.9** — ~4 lb lower than the AIOS model. The reflection corrected state.md to the real weekly averages. **This is exactly the #74 fitness-pipeline drift cost predicted weeks ago** — manual numbers drifted from source, the AIOS coached against a wrong bodyweight model for an unknown number of weeks. Pipeline build deferred again this week.
+
+**(3) The cut bounced off its low and stalled.** 5/25 → 177.2 · 6/1 → 175.9 (real cut low) · 6/8 → 178.1. Not a clean +2.2 regain (the sheet has future-dated rows pre-filled with data, and this was a cook-heavy week with sodium/water swings), but back-half trajectory flattened — *cut stalled off its low.* With ~4 weeks left to Jul 11 (cut end), the 174–175 target needs ~0.75–1 lb/wk of real loss from here, which is achievable only if the inputs fire (steps + Z2). **Lifts winning + scale stalling = exactly the picture state.md predicted when the non-food levers under-fired.**
+
+**(4) Z2 today: real but short.** Sunday Z2 fired at 28 min total / 13:26 in zone, incline walk, HR 116 avg / 130 max — quality is dialed (textbook Z2 profile), duration is half the 60-90 min keystone target. Call it 1/3 of the keystone, not 0.
+
+**(5) Z2 modality changes next week.** AZ summer kills outdoor options. Locked: **stationary bike + phone (temptation-bundled with a show)** as the new Sunday keystone, 60-90 min target. Salsa or Zumba may bank some mid-week minutes; bachata stays as social/relationship time (correctly flagged Z1, not Z2).
 
 ---
 
 ## Relationships
 
-Two real closes and one large open. **The pregnancy thread officially closed negative 6/14** — the multi-week "11 days late" question from 5/28 is resolved, no longer an open planning sensitivity. Clean. The **Banff/Canmore friend trip (Jul 2–12)** is the week's center of gravity on the relationship/friendship axis: a ~10-person trip, Will confirmed P1 (7/2–7/7), with a fully-built planning state — locked transport (2 rental SUVs), two live Airbnb candidates (Option A Banff in-park $14,050/10nt sleeps-10, Option B Canmore sleeps-8 cheaper), flattened budget table, and a **7:30pm PST call tonight (6/14) to lock headcount and phases.** This is the first concrete test of the long-flagged friendship gap (`context/relationships.md` L74–80) — a real roster, real logistics, Will doing the organizing work.
+**Two real updates.**
 
-The differentiation-relevant thread inside Banff: **Elena bailed at the $3,510 baseline (6/12), then reopened** when the cook+cut path dropped the combined cost to $2,670–2,910. Her attendance is pending her review of the full breakdown. And separately, Will planned **Elena's birthday weekend in Sedona (Sep 11–14)** — a goal-anchored trip (`goals/desire-polarity.md`: novelty + private hot-tub cabin + Saturday birthday peak + Sunday stargazing), ~$1,280 all-in, reservations to lock by 2026-07-20. That's a structured, own-gravity investment in the same register as the SoCal trip — not a logistics date night. The daily presence gates (full presence / no intimacy talk, unannounced solo block, desire-polarity rep) were prescribed daily but, as with everything else, unverifiable in the blackout.
+**Pregnancy thread closed — and the AIOS was carrying it as open.** state.md still listed the 5/28 capture as live. Reflection cleared it permanently — closed "a while ago" per Will. The AIOS had a tracking-drift cost here too.
+
+**Elena went all-in on the acquisition operator path: ready to leave her engineering job if needed.** This is the load-bearing update of the week. The Frame B message to Dan was gated on Elena's *time* commitment being concrete vs. directional — that question is now resolved. She's in. Scenario A2 (Industry Transition, per `goals/elena-scale-back.md`) just got cemented.
+
+**On the relationship side of that** — Elena out on Banff over budget, Sedona birthday trip locked (Sep 11-14 plan in inbox, ~$1,280 all in). Will + Elena did Pre-Cana intake meeting at St. Andrew (timing unclear — the AIOS had it as "not started" but it's actually initiated). No urgent moves needed.
 
 ---
 
 ## Money / Acquisition
 
-**The Work Main Quest carry-forward executed.** The 6/8 reflection's #1 acquisition move — *run the Apify scrape* — is **DONE (6/14):** scrape + enrich complete, **505 ranked firms** saved and committed (`sourcing/leads-ranked-dan.csv`), plus a Dan-thesis re-rank (recurring + tax-advisory up-weighted, seasonal tax-prep + wealth-mgmt demoted → `leads-dan-reranked.csv` + `leads-dan-shortlist.md`). This is the at-risk-quest recovery move from last week, fired. The sector is **LOCKED: bookkeeping/accounting** (Dan track), resolving Codie's "one sector, one city" rule. The Main Street Accelerator continued with Elena co-working.
+**Strongest acquisition week since the quest restarted.**
 
-The pipeline now has two near-term gates, both narrow: **dan-reachout is fully unblocked** (all three readiness gates closed) — the only thing left is **Will filling three load-bearing numbers** (Elena's cash $ + source + timing, Elena's hours/week per phase, Dan's 2026 CPA-licensure status), then strip the `[Will fills]` brackets and send. And the **Solo-track ZoG sector pick** is still open — widened from 4 to a 10–12 candidate menu after Will pushed to stay broader; it gates the solo scrape and Elena's apprenticeship targeting. Volume is now built; the gating count is still *logged reps through `/deal-eval`* and *real broker/seller conversations*, neither of which the scrape itself produces. *(Will: did you lock the final solo sector list, and are you sending Dan this week or holding for the three numbers?)*
+**(1) Both scrapes shipped.** Track 1 (Dan, bookkeeping/accounting $500k-$1M): **505 ranked viable firms** in `sourcing/leads-ranked-dan.md`. Track 2 (Solo, 12-sector broad menu $300-500k): **620 ranked viable leads across 8 sourceable sectors** in `sourcing/leads-ranked-solo.md`.
+
+**(2) Free-path pipeline built.** Apify free tier wouldn't cover Solo (~$15-25 paid). Built `sourcing/places_scrape.py` — Google Places API (New) drop-in replacement, runs under GCP's $200/month free credit. Used ~$2-5 actual. Sets up free monthly re-scrapes going forward. The `enrich.py` upgraded to sector-aware solo mode + AZ geo filter + per-sector yield reporting; framework doc rewritten for the post-scrape narrowing flow. **The acquisition sourcing infra is now genuinely permanent infrastructure, not a one-off.**
+
+**(3) Per-sector sourcing-reality (dimension 5) locked.** Top 3 surviving sectors by yield: specialty-distribution (170), pest-control (117), HOA management (114). 4 sectors dropped by the <15-lead hard filter (office-plant-care, mat-rental, coffee-water, document-destruction).
+
+**(4) Strategic pivot: Dan track elevated to primary, Solo demoted to hedge.** Per Will today — lean into the Dan reactivation, figure out what he's looking to do, next steps from there. The Solo sector-pick session with Elena (originally tomorrow) becomes a lower-priority parallel exercise.
+
+**(5) All three Frame B readiness gates closed.** Frazier script v2 (6/4), Dan-track scrape (6/14), dan-thesis files (6/3) — plus Elena's concrete time commitment (6/14). **`dan-reachout` is now the load-bearing acquisition move.** Draft + send the Frame B message — that's THE action.
 
 ---
 
 ## Wedding
 
-**Movement, after three reflections of zero.** The hotel block advanced — sign Element (9 rooms) bringing secured to ~19, with the premium-block chase live (The Remi / Hotel Valley Ho both ghosted Engine → re-RFP + direct group-sales calls, no backup tier). And two weekend-itinerary decisions locked: **Brat Haüs Old Town reserved** for the Sat 10/23/27 no-host post-wedding dinner (~20 ppl), and the Sat-morning brunch narrowed to three candidates (Mission / Henry / Hearth '61) for a Spring-2027 reservation. The drift-decay flag from 6/8 is cleared for now — but the ~14–17 room gap on the block and the un-set Uber/Lyft guest-credit budget (~2–3× understated at $1k) both still carry.
+**Two real closes this week** that the AIOS hadn't caught: **photographer booked + deposit paid** (post 5/18 meeting), and **hotel block both signed** (Courtyard 5/28/26 + Element 6/10/26 = 19 room-nights × 3 = 57 room nights locked). Pre-Cana intake also completed (timing TBD).
+
+**Coach lens flag I raised mid-interview, important to retain:** the wedding's next-8-week critical path (website live mid-Aug → QR code → save-the-date design → print → send late Sept) runs through Elena. Same week she's going all-in on the acquisition operator role and ready to leave her engineering job. **Before leaning her further into acquisition, watch that the Elena-dependent wedding chain isn't quietly slipping.**
+
+Premium-tier block chase (The Remi / Hotel Valley Ho) remains open but no longer urgent given 19 rooms are secured. Move to background.
 
 ---
 
 ## Weekly Quest Check — June 14, 2026
 
-**Work Main: Deal-Ready by Aug 31** (acquisition Learn phase)
-- **On track: recovering — was at-risk 6/7, the recovery move fired.** The Apify scrape is done (505 ranked firms), sector locked, Dan packet send-ready. The infrastructure and sourcing volume are now built. But the *gating count* — 12+ listings through `/deal-eval`, 2+ broker/seller conversations — has not started converting yet. Volume ≠ reps.
-- **This week's #1:** **Send Dan (Frame B).** It's the highest-leverage unblocked move — fill the three numbers, strip the brackets, send. It converts 505 leads + a built thesis into the first real broker/known-buyer conversation, which is a literal win-condition count.
-- **Removing:** The only blocker is Will-side, not the leads — the three load-bearing numbers (Elena's cash/hours, Dan's CPA status). Decide them with Elena this week (the Banff/Accelerator co-work sessions are the natural slot) or send with Dan's CPA status as an explicit open call question rather than waiting.
+**Work Main: Exit acquisition Learn phase deal-ready by Aug 31**
+- **On track: YES — strongest week of the quest.** Last week's "AT RISK" flag (light sourcing volume) cleared. Both scrapes shipped, free pipeline infra built, all three Frame B gates closed, Elena's commitment concrete.
+- **This week's #1:** Draft + send Frame B message to Dan. Everything that gated it is done.
+- **Removing:** Last soft blocker is Elena's *cash* commitment number (time is resolved). One conversation gets a rough figure so the Dan message is concrete, not directional.
 
-**Life Main: Become My Own Point of Origin** (keystone: Sunday Zone 2 incline treadmill, cut phase)
-- **On track: at risk — third week running with no confirmed keystone rep.** Same exact pattern the 6/8 and 5/31 reflections flagged. Career and Money both advanced structurally this week; the Life keystone is still a value statement without a single logged fire. The blackout makes it unobservable — and per the integrated-coach read, an unlogged keystone reads identically to a skipped one for a quest that measures *inputs*.
-- **This week's #1:** **Run today's Sunday 6/14 Zone 2 (60–90 min) and log it by hand** — don't wait on the pipeline. One confirmed rep, manually pasted, breaks a three-week pattern.
-- **Removing:** The blocker is the broken logging pipeline (#74). The keystone may be firing and going unrecorded — but three weeks of "maybe firing" is itself the signal. Land `fitness_logger.DRAFT.py` this week (a weekend block, per the standing guardrail — not promo-doc time) so the keystone becomes observable for the first time.
+**Life Main: Become my own point of origin (desire-polarity)**
+- **On track: AT RISK / unprescribed.** The daily desire-polarity rep surfaced 5 of 7 days. **No solo-space reps confirmed run this week** — and the honest reason isn't discipline: the prescribed activities (violin, silent treadmill, meditation, style sprint) don't pull Will, and when asked "what would you actually want to do with 45 min that's yours," the honest answer was *"I don't know."* That's real data — the operationalization of the quest is the gap, not the execution.
+- **This week's #1:** **Prescription deliberately deferred.** Forcing a new activity in the last 4 weeks of cut + SoCal trip + crunched acquisition push would be the performance frame the quest exists to dissolve. Re-open the activity rotation post-cut (Jul 12+) when brain space returns. The Z2 bike + phone fix does NOT count — it explicitly violates the Perel/Schnarch silence filters in `goals/desire-polarity.md`.
+- **Removing:** Not a removal problem this week — the upstream question is whether the quest's whole framing needs a rewrite. Post-cut review.
 
-**Both Main Quests carry a recovery move into next week.** Work-main: send Dan. Life-main: log one keystone rep + land the logger. The Life-main recovery is the load-bearing one — see carry-forward.
+**Quest delta from last week:** Work Main moved AT RISK → ON TRACK (genuine recovery). Life Main stayed at AT RISK, *and the failure mode shifted from "keystone unfired" to "prescription wrong."* That's important — different problem, different fix.
 
 ---
 
 ## Carry-Forward — single most important thing
 
-**Make the Life Main Quest observable: run today's Zone 2 keystone, hand-log it, and finish `fitness_logger.DRAFT.py` this week.** This is the same carry-forward as 6/8, now non-negotiable because it has rolled unaddressed for three weeks while every achievement axis advanced. It sits at the intersection of two threads going blind simultaneously — the cut (no weight/session data through Wk 3→4 at the floor, canary unreadable) and the Life keystone (zero confirmed reps, the quest the whole quarter was built to protect). Everything else this week was net-positive and largely self-sustaining: the Apify scrape closed the work-quest's at-risk flag, the pregnancy thread is shut, Banff/Sedona are moving, wedding unstuck. The one item that, left undone, guarantees next week's reflection is blind in exactly the way the last two were — is the fitness/keystone logging. The pattern is no longer a data-pipeline curiosity; it's the precise dynamic the Life quest was created to interrupt (Joy 4, Heart 5 — winning on paper, not feeling it). More acquisition progress will not touch it.
+**Draft and send the Frame B message to Dan.** All gates are closed, Elena's time commitment is concrete, the funnel exists with 505 named Phoenix-metro firms. This is the Work Main Quest's load-bearing move and there's no longer a defensible reason to delay it. One 30-min call back from Dan moves the quest from "infra-built" to "live partnership conversation" — which is the actual Aug 31 deal-ready threshold.
 
-Second, smaller: **send Dan** — the unblocked tip of the Work Main Quest, and the move that converts built infrastructure into a win-condition count.
+**Second, smaller:** confirm Elena's rough cash contribution number before the Frame B message goes. The resolution Dan will ask about needs a figure, not a direction.
+
+**Third:** new Sunday Z2 (stationary bike + phone, 60-90 min) actually fires next Sunday before SoCal eats the weekend after.
 
 ---
 
 ## Coach Observation (integrated read)
 
-**Schofield active fifth consecutive week** on the career axis — and the take sharpens, doesn't repeat. The AZNG metric pushback is the third straight week of measurement-level influence aimed up the chain (IFSA_CHILD → GL_MW → AZNG), which is genuinely L5-shaped work. But it landed at the start of the manager-gap window, with the last manager touchpoint already behind it. Schofield's read: **witness-less L5 work that never gets ported into the promo doc is a scoreboard win that never converts to the title.** The capture→evidence step — lifting the AZNG dispute and the mechanism diagnoses out of email threads and into the Jun 30 doc — is the one move Will keeps leaving on the table, three weeks running. With the witness absent through 6/20, the `_notes/` write-up *is* the only artifact that survives. Log it in real time or it didn't happen, institutionally.
+**Sanchez/Hormozi — clean breakout week.** The Work Main Quest just had its strongest week of the quarter — sourcing infra moved from "blueprint" to "operational with real funnels." This is the kind of week the 100/50/10/1 framework needs and last reflection's "AT RISK" was the right pre-call. The acquisition arc is no longer fragile.
 
-**The Life Main Quest is the quietest signal worth hearing — for the third week running, and that's the headline.** Last week's coach note called this "a two-week pattern, not a one-off"; it's now three. The structure is consistent: when the achievement axes are this loud (a closed work-quest unlock, a 10-person trip organized, a birthday weekend designed, a wedding unstuck), the point-of-origin work is the first thing to silently slip — which is *exactly* the dynamic the quest names. The integrated read isn't "try harder on the keystone." It's that the keystone keeps losing to legible, externally-witnessed wins, and the entire premise of "become my own point of origin" is learning to value the un-witnessed input. One hand-logged Zone 2 rep this Sunday is worth more to that axis than all 505 ranked firms.
+**Schofield (fitness) — split signal.** The lifts say cut is working; the scale and AIOS data drift say the inputs measurement isn't keeping up. The decision *not* to build the fitness pipeline this week is now the third consecutive deferral of task #74. The pattern: every reflection notes the cost, every reflection defers the build. Worth naming: at this point the fitness pipeline build is no longer "next week" — it's a deliberately-deferred-to-post-cut item that should move to the post-cut review queue rather than haunt every weekly reflection as a slipped commitment. Suggesting that re-frame here.
 
-**Perel/Schnarch — clean, with one thing to watch.** The pregnancy close was handled with presence; the Sedona trip is differentiation-friendly (own gravity, novelty, a real birthday peak). The watch item is subtler: Will did an enormous amount of *organizing labor* this week (Banff logistics, budget tables, Elena's cost breakdown, the Sedona itinerary). That's generous and capable — Principle 1 territory — but the relationship lever in `relationships.md` is explicitly *not logistical effort*; it's presence and not-over-pursuing. The trips are good. Just notice if the planning energy is standing in for the presence work, the way achievement can stand in for the keystone. No flag yet — noting the adjacency.
+**Perel/Schnarch — quiet week, no flag.** Pregnancy thread closed, SoCal anchor approaches, Elena went all-in on acquisition (which is differentiation-positive: a real bridge out of her engineering identity). No relationship issue surfaced.
+
+**The Life Main quest finding is the one worth sitting with.** For three reflections running, the keystone has been listed but not fired. This week, the conversation finally got to *why* — not discipline failure, but **the prescription was wrong**. The DO-list activities don't pull Will, and the honest answer to "what would?" was *"I don't know."* That uncertainty isn't a failure either; it's data. The quest was set in late May at a moment when work main was still ambiguous; now that the work main has structural momentum and Elena has just made a major identity move (leaving engineering for the acquisition operator role), Will's own *separate* identity vector may need re-grounding from scratch rather than executed against the May rotation list. Post-cut review is the right place to do that work — but it should be *real* review, not "pick three new activities." The question "what would you do with 45 min that's purely yours" deserves a long answer, not a quick prescription.
