@@ -166,3 +166,10 @@ Format: ✓ = done, □ = planned/pending
 □ Desire-polarity rep: one DO-list move today
 □ Promo doc: targeted final-review pass, one section
 □ Style sprint: book stylist consult or wardrobe pass
+
+**2026-06-18 (Thu)** — NYC Cut Wk 4 starting
+□ Walk 12,500 steps today
+□ Zone 2: 20 min post-lift fasted incline or walk
+□ Phone off nightstand — charge in kitchen tonight
+□ Promo doc: targeted final-review pass, one section
+□ Mindset — Don't D.E.E.R. (defend, explain, excuse, rationalize) — justifying a decision on demand surrenders it. The next time Elena questions a decision you made today, state it once and stop. "Yeah, that's what I'm doing" is a complete sentence; no justifying paragraph.
