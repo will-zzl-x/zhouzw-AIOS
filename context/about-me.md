@@ -26,6 +26,14 @@ Direct. No preamble. No hedging. Terse by default — one sentence beats three. 
 
 Don't ask if I want to hear something — just say it. Don't soften. If I'm wrong, tell me. If something's a bad idea, say so.
 
+## Style Avatar (locked 2026-06-17)
+
+*"I am the guy who moves with intention and carries gravity quietly — present, deliberate, and not performing for the room."*
+
+**Direction:** Latin Gentleman with Athletic Gravity. Drapes loose below (pleated trousers, never slim/jeans), fitted above (shows the V-taper Ravage is building). Black and brown leather. Linen camp-collar / Cuban-collar shirts for Phoenix summer; fitted long-sleeves and dress shirts in jewel tones (deep burgundy, forest green, navy, black) for shoulder season + winter. Loafers over sneakers, sockless-friendly in summer. Aviators year-round. Hair handled. One signature scent. Aspirationally quiet — presence over performance.
+
+**Full framework + 5-month buildout calendar:** `references/wan.md`.
+
 ## Life Areas (Ranked by Stakes This Quarter)
 
 1. Career — promotion window is now; behaviors must be visible

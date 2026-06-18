@@ -2,6 +2,15 @@
 
 Rows moved here from `backlog.md` at Sunday reflections. Newest batch on top.
 
+## Archived 2026-06-14
+
+| id | Title | Area | Quest | Notes | Completed |
+|---|---|---|---|---|---|
+| apify-scrape-dan | Run scrape (Dan track — bookkeeping/accounting $500k-$1M) + enrich | Money | work-main | Pivoted off Apify → Google Places API (free $200/mo GCP credit, see `sourcing/places_scrape.py`). 505 ranked viable bookkeeping/accounting firms in `sourcing/leads-ranked-dan.md`. Closed readiness-gate #2 for `dan-reachout`. | 2026-06-14 |
+| apify-scrape-solo | Run scrape (Solo track — 12-sector broad menu, $300-500k) + enrich | Money | work-main | Architecture pivot: scrape-broad-first, narrow-after. 620 ranked viable leads across 8 sourceable sectors in `sourcing/leads-ranked-solo.md`. Per-sector yields are the dimension-5 input for the now-demoted Solo sector-pick. | 2026-06-14 |
+| hotel-block-chase | Hotel block: sign Element + land premium block | Wedding | side | Courtyard Marriott 10 ✅ (5/28) + Element SkySong 9 ✅ (6/10) = 19 rooms × 3 nights = 57 room nights locked. Premium-tier chase (The Remi / Valley Ho) split into its own lower-priority row. | 2026-06-14 |
+| digital-minimalism-tier1 | Digital Minimalism Tier 1 — done; monitor screen-time end of June | Life | life-main | Resolved 6/7; YouTube Shorts feed → 0 min structurally killed. Tier 3 escalation criterion folded into post-cut review queue. | 2026-06-07 (archived 6/14) |
+
 ## Archived 2026-06-07
 
 | id | Title | Area | Quest | Notes | Completed |

@@ -1,6 +1,6 @@
 # Frame B Reactivation Message — Dan Nguyen
 
-DRAFT. AIOS never sends. Will reviews, fills the placeholders, and sends manually.
+**SEND-READY 2026-06-15.** Main message below is clean — no brackets, all numbers filled ($50K/$50K, Elena full-time-early→taper, Dan CPA left as a call question). Will sends Wednesday. Two pre-send checks only: (1) Elena sees her own $50K + full-time-early sentence before it goes; (2) pick channel (text teeing up the note, or email). AIOS never sends.
 
 This is the **direct reactivation ask to an existing partner** — not cold seller outreach. Do NOT use the Frazier "investor looking for a fit" walls-down script here (that's for strangers in `context/frazier-outreach-script.md`). Dan already knows the thesis; this message names what stalled it, names what's fixed, and asks if he's in. No re-litigating the 2025 analysis.
 
@@ -16,8 +16,8 @@ This is the **direct reactivation ask to an existing partner** — not cold sell
 >
 > I do now. Two things changed:
 >
-> 1. **Elena's all-in — capital and operating.** She's leaving engineering and putting in ~$50K of equity at close (I'm matching it with ~$50K from my side), which directly shrinks the debt we'd carry. And she's stepping into the CFO/COO seat — financial controls, reporting, process, QC — full-time up front while the business needs the most hands, then tapering after the first year as we get a manager in and the systems mature. That splits the post-close operating load so it doesn't all land on me, which means the business can run alongside my Amazon ramp-down instead of forcing me to quit early to babysit it. I still exit Amazon on the late-2027 plan, not sooner under pressure.
-> 2. **Where you come in — capital-raising + the network.** Elena's and my cash covers the equity floor on a clean deal, so I'm not asking you for a check. Where you're the difference-maker is raising outside investor capital — that's what stretches our range and pulls the whole thing further from SBA-heavy debt — plus the CPA cover and the AZ professional-services network we'd otherwise be cold-sourcing into. Less note, less monthly pressure, less exit-timing risk.
+> 1. **Elena's all-in — capital and operating.** She's leaving engineering and putting in $50K of equity at close (I'm matching it with $50K from my side), which directly shrinks the debt we'd carry. And she's stepping into the CFO/COO seat — financial controls, reporting, process, QC — full-time up front while the business needs the most hands, then tapering after the first year as we get a manager in and the systems mature. That splits the post-close operating load so it doesn't all land on me, which means the business can run alongside my Amazon ramp-down instead of forcing me to quit early to babysit it. I still exit Amazon on the late-2027 plan, not sooner under pressure.
+> 2. **Where you come in — strategy + network, and (if you want it) outside capital alongside us.** Elena's and my cash covers the equity floor on a clean deal, so I'm not asking you for a check. Where I most want your brain on this is the strategic guidance + the AZ professional-services network we'd otherwise be cold-sourcing into — your connections into that world are the thing we can't buy, including a line to a CPA we'd retain if we go after a firm that needs one. And if raising outside investor capital is something you want to drive alongside us, that's the lever that stretches our range and pulls the whole thing further from SBA-heavy debt — we'd build the structure to reward that. Less note, less monthly pressure, less exit-timing risk.
 >
 > Three other things I've locked down on my end so this isn't the same hand-wavy conversation as last year:
 >
@@ -29,7 +29,7 @@ This is the **direct reactivation ask to an existing partner** — not cold sell
 >
 > - **(a)** Are you still in? No hard feelings either way — I want a real answer, not a polite one.
 > - **(b)** Walk you through the refreshed deal box and get your gut on it.
-> - **(c)** Who owns what — I've got a draft split (you on strategy + capital-raising + network, me on ops/AI/sourcing, Elena on finance/process) but it's a starting point, not a decree. Equity follows contribution; happy to talk through how I'm thinking about it.
+> - **(c)** Who owns what — I've got a draft split (you on strategy + network + advisory, with outside capital-raising as a lever you can drive if you want it; me on ops/AI/sourcing; Elena on finance/process) but it's a starting point, not a decree. Equity follows contribution; happy to talk through how I'm thinking about it.
 > - **(d)** How we handle the AZ 51%-CPA-ownership rule — either we buy a non-CPA bookkeeping/accounting shop (most of the market, cleanest), or we retain a CPA through your network for the regulated piece. Want your read on which fits the kind of firm we go after.
 >
 > When's good for you this/next week?
@@ -58,4 +58,4 @@ This is the **direct reactivation ask to an existing partner** — not cold sell
   1. **Elena signs off** on her own numbers ($50K + full-time-early framing) — it's her cash and her career exit; she should see the sentence before it goes to Dan.
   2. **Dan's CPA status** is left as an open call question (item d) — correct, don't assert a path.
   - The **warm variant** still has `[Will fills if known]` dormancy/sentiment placeholders — fill or delete those lines if you use that variant.
-- **Do NOT include:** the partnership equity percentages (~Will 43 / Elena 39 / Dan 18 from the model). Those are a **call topic** — bring the reasoning (equity follows cash + role + strategic value; Dan's % performance-links to capital raised), not a number drop in the message. Model: `context/dan-equity-model.md`.
+- **Do NOT include:** the partnership equity percentages (~Elena 46 / Will 43 / Dan 12 from the locked model). Those are a **call topic** — bring the reasoning (equity follows cash + role + strategic value; Dan's % performance-links to capital raised; see Structure 3 ladder in `context/dan-equity-negotiation.md`), not a number drop in the message. Model: `context/dan-equity-model.md`.

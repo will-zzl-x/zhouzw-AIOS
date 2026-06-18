@@ -125,12 +125,24 @@ def create_task(
     area: str,
     priority: int,
     sm_id: str | None = None,
+    description: str | None = None,
 ) -> dict:
     """Create a task in the AIOS Daily project.
 
-    If sm_id is provided, it's stored in the task description as 'sm:<id>' so
-    backlog rows can be correlated back from completions.
+    The Todoist description field carries up to two things:
+      - the strategic-mover tag 'sm:<id>' (so completions correlate back to
+        backlog rows), and/or
+      - the human-readable context (the full dashboard.md / daily-standard.md
+        bullet for Daily Consistents and gates — e.g. the desire-polarity
+        rotation menu, the Z2 scenario detail).
+
+    Layout rule (load-bearing): when both are present, 'sm:<id>' MUST be on the
+    FIRST line, followed by a blank line, then the context. extract_sm_id() and
+    archiver.py read the tag with `^sm:(\\S+)`, which stops at the first
+    whitespace/newline — so 'sm:<id>\\n\\n<context>' parses correctly and the
+    human text is free-form below it.
     """
+    desc = compose_description(sm_id, description)
     body = {
         "content": title,
         "project_id": project_id,
@@ -138,9 +150,24 @@ def create_task(
         "labels": [area],
         "due_string": "today",
     }
-    if sm_id is not None:
-        body["description"] = f"sm:{sm_id}"
+    if desc:
+        body["description"] = desc
     return _post("/tasks", body)
+
+
+def compose_description(sm_id: str | None, description: str | None) -> str:
+    """Build the Todoist description from the optional sm-tag + optional context.
+
+    - both:         'sm:<id>\\n\\n<context>'  (tag on line 1, archiver-safe)
+    - sm only:      'sm:<id>'
+    - context only: '<context>'
+    - neither:      ''
+    """
+    sm_part = f"sm:{sm_id}" if sm_id else ""
+    ctx_part = (description or "").strip()
+    if sm_part and ctx_part:
+        return f"{sm_part}\n\n{ctx_part}"
+    return sm_part or ctx_part
 
 
 def extract_sm_id(task: dict) -> str | None:
