@@ -2,6 +2,30 @@
 
 <!-- Mid-week captures go here. Cleared each Sunday. -->
 
+## 2026-06-18 — Dan reachout pivots to in-person next week
+
+**The send-channel question is retired. Dan reachout is in-person, not a written send.**
+
+What closed today:
+- Elena signed off on her own numbers ($50K equity at close + full-time-early → taper after Year 1). Frame B gaps (a) and (b) resolved. `dan-fill-numbers` Todoist task is done.
+- Will is meeting Dan at some point next week — venue/timing TBD but the conversation framing shifts from "send the Frame B message + ask for 30 min call" to "have the conversation in person where the relationship lives."
+
+Why this is a stronger move (and not a step backward):
+- In-person is higher bandwidth — Dan can ask questions in real time, Will can read his face
+- The 13-month dormancy gap is more honestly bridged in person than in a wall of text
+- Shows confidence: Will isn't fishing for a yes from a distance, he's putting the proposal directly in front of Dan
+- Eliminates the channel-tee-up question entirely
+
+The Frame B written message (`context/dan-frame-b-message.md`) is now repurposed in two ways:
+1. **Prep notes** — Will memorizes the 5-point spine before the meetup
+2. **Follow-up email basis** — within 24h after the conversation, send Dan the pipeline brief (`context/dan-pipeline-brief.md`) + top-firm shortlist (`sourcing/leads-dan-shortlist.md`) so he has the numbers in writing to mull over after he's heard them once verbally
+
+This-week action: **text Dan to lock the day/time** for next week. Not casual catch-up — needs to land with weight so Dan shows up expecting substance. Draft: *"Want to grab 30 min next week — got something to walk through on the accounting-firm idea. What day works?"*
+
+**Sunday reflection bucket:** the dan-reachout move is now the load-bearing Work Main Quest action of the week. Track (a) whether the day/time gets locked this week, (b) the conversation outcome itself when it happens, (c) the follow-up email send within 24h. The Aug 31 deal-ready threshold the quarter is built around depends on what comes out of this conversation.
+
+---
+
 ## 2026-06-15 — Sedona cabin shortlist (Elena birthday, Sep 11-14)
 
 Research pass to pre-narrow cabin candidates before the early-July book deadline (per backlog row `sedona-trip-book`, due 2026-07-20). Vrbo/Airbnb block direct fetch (same anti-scrape wall as Banff) so live pricing/availability requires Will's click-through.
