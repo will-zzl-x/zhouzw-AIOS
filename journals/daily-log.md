@@ -182,3 +182,6 @@ Format: ✓ = done, □ = planned/pending
 □ Desire-polarity rep: one DO-list move today
 □ Promo doc: targeted final-review pass, one section
 □ Mindset — Don't D.E.E.R. (defend, explain, excuse, rationalize) — justifying a decision on demand surrenders it. The next time Elena questions a decision you made today, state it once and stop. "Yeah, that's what I'm doing" is a complete sentence; no justifying paragraph.
+
+**2026-06-20 (Sat)** — NYC Cut Wk 5 of 8
+□ Walk 12,500 steps today
