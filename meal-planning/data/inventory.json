@@ -183,10 +183,11 @@
   },
   {
     "item": "Ground beef (90/10)",
-    "quantity": 2,
+    "quantity": 8.75,
     "unit": "lbs",
     "location": "freezer",
-    "freshness_date": "2026-07-15"
+    "freshness_date": "2026-07-15",
+    "note": "7 × 20oz Costco bags — updated 2026-06-20 (was tracked as 2 lb, actual stash much higher)"
   },
   {
     "item": "Fat-free cream cheese",
