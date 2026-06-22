@@ -31,17 +31,29 @@ carryover: []
 
 # Selected recipes for the week.
 selections:
-  # #34 MODIFIED — Slow Cooker Pulled Pork (replaces dry-roast method for moisture)
-  # Cook Mon morning post-5am lift; LOW 6-8 hrs; shred Mon evening with juices.
+  # #34 MODIFIED — Slow Cooker CARNITAS-style Pulled Pork (Mexican)
+  # Cook Mon morning before work; LOW 6-8 hrs auto-warm; shred Mon evening post-lift.
   - recipe_id: "34"
     planned_servings: 6
     notes: |
-      MODIFIED FROM ORIGINAL RECIPE — slow cooker pulled pork (not sheet-pan roast) for moisture.
-      Method: 1.75 lb pork loin whole + 1 cup chicken broth + 1 Tbsp ACV + 2 Tbsp BBQ or pickle juice
-      + 1 sliced onion + salt/garlic powder/pepper/paprika rub. Slow cooker LOW 6-8 hrs.
-      Shred with two forks. Keep with juices. Portion into 6 containers (Mon-Sat M1).
-      Reheat: 45-60 sec microwave covered with juices for moisture.
-      Cook Mon morning post-lift; shred Mon evening alongside dinner prep.
+      MODIFIED — Slow cooker CARNITAS-style pulled pork (Mexican flavor profile for M1
+      breakfast bowls with eggs).
+
+      Method (1.75 lb pork loin whole):
+      Cooking liquid: 1 cup chicken broth + juice of 1 orange + juice of 1 lime (use ~1/2 of
+      each, save other halves for sauce later)
+      Rub: 2 tsp cumin + 2 tsp dried oregano + 1 tsp garlic powder + 1 tsp salt + 1/2 tsp
+      black pepper + 2 bay leaves (whole, fish out before shredding)
+
+      Slow cooker LOW 6-8 hrs. Shred with two forks. Reduce liquid slightly (5 min on HIGH
+      uncovered) for more flavor concentration. Portion with juices into 6 containers.
+      Reheat: 45-60 sec microwave covered with juices.
+
+      M1 pairing: scrambled eggs + warm pulled pork + dash of leftover Costco salsa (you
+      have ~half container in inventory).
+
+      Cook Mon morning (start before work post-evening-lift schedule);
+      shred Mon evening when home.
     slot_assignments:
       - { member: Will, slot: M1, servings: 6 }   # Mon-Sat home mornings
 
@@ -84,13 +96,20 @@ selections:
       TIMING UPDATE: Will lifts after work — Mon morning slow-cook all-day would leave chicken
       9+ hrs on auto-warm (dryness risk). Better: use Instant Pot PRESSURE COOK Mon evening.
 
-      Method (Instant Pot pressure cook, ~30 min total):
-      - ~3.5 lb chicken breasts + 1 cup chicken broth + seasonings (garlic powder, paprika, salt)
+      Method (Instant Pot pressure cook CHIPOTLE-LIME Mexican shredded, ~30 min total):
+      - ~3.5 lb chicken breasts
+      - Cooking liquid: 1 cup chicken broth + juice of 1 lime + 2 Tbsp Costco salsa
+        (use from inventory — half container on hand)
+      - Spice mix: 1 Tbsp cumin + 1 Tbsp chili powder + 1 tsp garlic powder + 1 tsp salt
+        + 1 tsp paprika + 1/2 tsp chipotle powder
       - HIGH PRESSURE 15 min + natural release 10 min
       - Shred with two forks. Keep with juices. Portion with rice + frozen stir-fry veg side.
 
       USE COSTCO FROZEN STIR-FRY VEG: sauté 1 bag (3-4 srv) as the veg side for these bowls.
+      Top each bowl with extra Costco salsa from inventory + lime wedge.
       Pair with rice (already in pantry).
+
+      Cook Tuesday evening — pulled pork shred takes Monday evening, this stays clean.
     slot_assignments:
       - { member: Will, slot: M2, servings: 3 }
       - { member: Will, slot: M3, servings: 5 }
