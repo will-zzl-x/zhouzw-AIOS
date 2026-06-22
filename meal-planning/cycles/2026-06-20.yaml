@@ -158,7 +158,7 @@ inventory_snapshot:
   - { name: "Pickle juice", amount: "1", unit: "jar", note: "#5 sauce + #34 alt liquid — have dill pickle jar" }
   - { name: "Eggs", amount: "18", unit: "eggs", note: "#5 breading — have it" }
   - { name: "Ketchup, mustard, dill pickles", amount: "1", unit: "set", note: "#23 condiments — have it" }
-  - { name: "Lettuce (romaine/iceberg)", amount: "1", unit: "head", note: "#5/#23 — have it" }
+  - { name: "Lettuce (romaine/iceberg)", amount: "0", unit: "head", note: "#5/#23 — OUT, need to buy fresh head" }
   - { name: "Red onion", amount: "1", unit: "onion", note: "#5/#23 — have it" }
   - { name: "Shredded cheese", amount: "8", unit: "oz", note: "#23 — have it" }
   - { name: "Garlic, onion, paprika powders + salt + pepper", amount: "1", unit: "set", note: "all recipes — have it" }

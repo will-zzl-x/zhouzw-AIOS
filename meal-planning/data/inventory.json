@@ -248,10 +248,11 @@
   },
   {
     "item": "Lettuce (romaine/iceberg)",
-    "quantity": 1,
+    "quantity": 0,
     "unit": "head",
     "location": "fridge",
-    "freshness_date": null
+    "freshness_date": null,
+    "note": "Used up — buying fresh head for #23 burgers (2026-06-22 cycle)"
   },
   {
     "item": "Red onion",
