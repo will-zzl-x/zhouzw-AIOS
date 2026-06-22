@@ -56,8 +56,20 @@ selections:
       preference) Monday alongside the pork shred. Portion ~3/4 cup of veg into each of
       6 M1 containers. Microwave with pork in the morning (45-60 sec).
 
-      Cook Mon morning (start before work post-evening-lift schedule);
-      shred Mon evening when home.
+      TIMING UPDATE: cook method shifted from slow cooker → INSTANT POT pressure cook
+      Mon EVENING (not morning). Walmart delivery (orange + lime + cumin) arrives after
+      work, so 6am Mon start was blocked.
+
+      Mon evening sequence:
+      - ~5pm home + Walmart delivery arrives
+      - 5:15pm: Sear pork briefly in IP sauté mode (2 min/side, optional), add liquid + rub.
+        Set HIGH PRESSURE 60-75 min + natural release 15 min (auto-keep-warm after).
+      - 5:30pm: Leave for gym
+      - 7pm: Home from lift
+      - 7:30pm: Shred carnitas (return to juices, brief sauté HIGH 5 min to reduce),
+        sauté 1 bag frozen stir-fry veg for M1 side, portion 6 containers.
+
+      M1 first morning = Tue (Mon AM = quick eggs or skip — cut-mode default).
     slot_assignments:
       - { member: Will, slot: M1, servings: 6 }   # Mon-Sat home mornings
 
