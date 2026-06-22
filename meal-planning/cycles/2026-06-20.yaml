@@ -52,6 +52,10 @@ selections:
       M1 pairing: scrambled eggs + warm pulled pork + dash of leftover Costco salsa (you
       have ~half container in inventory).
 
+      VEG SIDE FOR M1: sauté 1 bag of Costco frozen stir-fry veg (no bell peppers per Will's
+      preference) Monday alongside the pork shred. Portion ~3/4 cup of veg into each of
+      6 M1 containers. Microwave with pork in the morning (45-60 sec).
+
       Cook Mon morning (start before work post-evening-lift schedule);
       shred Mon evening when home.
     slot_assignments:
@@ -64,6 +68,8 @@ selections:
       6 brioche buns (Elena) + 2 servings on low-cal sandwich bread (Will) = 8 sandwiches.
       Sub HOMEMADE onion rings → FROZEN onion rings (Walmart, air-fry per package).
       Assemble fresh each night; parcook chicken Mon for the week.
+      M4 SIDE VEG: air-fry frozen stir-fry veg alongside the onion rings + fries (same air
+      fryer, lower temp/time per package). ~3/4 cup per person.
     slot_assignments:
       - { member: Both, slot: M4, servings: 8 }   # 4 shared dinner nights
 
@@ -74,6 +80,8 @@ selections:
       Uses ~1.5 lb of inventory ground beef (8.75 lb total in freezer — 7 × 20oz Costco bags).
       Buns: Elena uses brioche if any of the 6 remain after #5; Will uses low-cal bread.
       Recipe says "Walmart Beef Burgers" but use the Costco ground beef stash instead.
+      M4 SIDE VEG: air-fry frozen stir-fry veg alongside the fries (same air fryer, lower
+      temp/time per package). ~3/4 cup per person.
     slot_assignments:
       - { member: Both, slot: M4, servings: 4 }   # 2 shared dinner nights
 
@@ -123,7 +131,7 @@ inventory_snapshot:
   - { name: "Brioche buns", amount: "6", unit: "buns", note: "#5 — have 6 for Elena; Will uses low-cal bread for his 2 (no more buns needed)" }
   - { name: "Low-cal sandwich bread", amount: "1", unit: "loaf", note: "#5/#23 Will's 'buns' — have it" }
   - { name: "Frozen onion rings", amount: "1", unit: "bag", note: "#5 side — buying at Walmart Mon (NOT making homemade)" }
-  - { name: "Costco frozen stir-fry veg", amount: "2", unit: "bags", note: "#20 side — have it, USE THIS CYCLE" }
+  - { name: "Costco frozen stir-fry veg", amount: "4+", unit: "bags", note: "#20 chicken bowls (~11 srv) + #34 M1 side (6 srv) + #5+#23 M4 air-fried side (6 srv) = ~23 srv total. Will has enough on hand." }
   - { name: "Russet potatoes (covers both Idaho + Russet recipe lines)", amount: "3", unit: "lb", note: "#5 fries + #23 fries — 3 lb total covers both (recipe #5 says 'Idaho' but russets work; don't buy more)" }
   - { name: "White rice", amount: "5", unit: "lb", note: "#35 + #20 — have it" }
   - { name: "Olive oil", amount: "25", unit: "oz", note: "#34/#23 — have it" }
