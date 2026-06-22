@@ -75,13 +75,20 @@ selections:
       - { member: Elena, slot: M2, servings: 2 }
 
   # #20 Slow Cooker Shredded Chicken + frozen Costco stir-fry veg — fills the remaining work-meal gap
-  # Cook Mon morning in 2nd slow cooker (Instant Pot in slow-cook mode); LOW 4 hrs + auto-warm hold until evening shred.
+  # TIMING UPDATED: Will lifts after work now, so cooking via Instant Pot PRESSURE COOK Mon evening
+  # is cleaner than all-day slow-cook (avoids 9+ hrs on auto-warm getting dry).
   - recipe_id: "20"
     planned_servings: 11
     notes: |
       Scale up chicken breasts to ~3.5 lb for 11 servings.
-      Cook Mon morning in 2nd slow cooker (Instant Pot slow-cook LOW 4 hrs, then auto-warm until 5pm).
-      Shred Mon evening alongside pulled pork. Portion with juices.
+      TIMING UPDATE: Will lifts after work — Mon morning slow-cook all-day would leave chicken
+      9+ hrs on auto-warm (dryness risk). Better: use Instant Pot PRESSURE COOK Mon evening.
+
+      Method (Instant Pot pressure cook, ~30 min total):
+      - ~3.5 lb chicken breasts + 1 cup chicken broth + seasonings (garlic powder, paprika, salt)
+      - HIGH PRESSURE 15 min + natural release 10 min
+      - Shred with two forks. Keep with juices. Portion with rice + frozen stir-fry veg side.
+
       USE COSTCO FROZEN STIR-FRY VEG: sauté 1 bag (3-4 srv) as the veg side for these bowls.
       Pair with rice (already in pantry).
     slot_assignments:
@@ -92,11 +99,13 @@ selections:
 # Inventory snapshot at cycle start (items on hand that reduce the grocery list).
 inventory_snapshot:
   - { name: "Boneless pork loin", amount: "1.75", unit: "lb", note: "#34 — have it" }
-  - { name: "Ground beef (90/10)", amount: "8.75", unit: "lbs", note: "#23 — 7 × 20oz Costco bags in freezer, way more than recipe needs" }
-  - { name: "Brioche buns", amount: "6", unit: "buns", note: "#5 — have 6 (covers 6 of 8 sandwiches; Will uses low-cal bread for his 2)" }
+  - { name: "Ground beef (90/10)", amount: "8.75", unit: "lbs", note: "#23 — 7 × 20oz Costco bags in freezer; form patties from stash (don't buy preformed)" }
+  - { name: "Chicken breasts", amount: "5.5", unit: "lbs", note: "#5+#35+#20 — 4 × 22oz Costco packs (frozen). Total cycle need ~8 lb; buy ~2.5 lb more at Costco" }
+  - { name: "Brioche buns", amount: "6", unit: "buns", note: "#5 — have 6 for Elena; Will uses low-cal bread for his 2 (no more buns needed)" }
   - { name: "Low-cal sandwich bread", amount: "1", unit: "loaf", note: "#5/#23 Will's 'buns' — have it" }
   - { name: "Frozen onion rings", amount: "1", unit: "bag", note: "#5 side — buying at Walmart Mon (NOT making homemade)" }
   - { name: "Costco frozen stir-fry veg", amount: "2", unit: "bags", note: "#20 side — have it, USE THIS CYCLE" }
+  - { name: "Russet potatoes (covers both Idaho + Russet recipe lines)", amount: "3", unit: "lb", note: "#5 fries + #23 fries — 3 lb total covers both (recipe #5 says 'Idaho' but russets work; don't buy more)" }
   - { name: "White rice", amount: "5", unit: "lb", note: "#35 + #20 — have it" }
   - { name: "Olive oil", amount: "25", unit: "oz", note: "#34/#23 — have it" }
   - { name: "Avocado oil", amount: "32", unit: "oz", note: "#23 fries — have it" }
@@ -112,6 +121,5 @@ inventory_snapshot:
   - { name: "Ketchup, mustard, dill pickles", amount: "1", unit: "set", note: "#23 condiments — have it" }
   - { name: "Lettuce (romaine/iceberg)", amount: "1", unit: "head", note: "#5/#23 — have it" }
   - { name: "Red onion", amount: "1", unit: "onion", note: "#5/#23 — have it" }
-  - { name: "Russet potatoes", amount: "3", unit: "lb", note: "#23 fries — have it" }
   - { name: "Shredded cheese", amount: "8", unit: "oz", note: "#23 — have it" }
   - { name: "Garlic, onion, paprika powders + salt + pepper", amount: "1", unit: "set", note: "all recipes — have it" }
