@@ -22,17 +22,18 @@ Phase: **NYC Cut Wk 6 of 8** — May 17 – Jul 11 (~3 weeks remaining; daily ga
 - **SCM II behavior-logging retired** — measure promotion by deliverables, not behavior counts. `goals/scm-ii-promotion.md` parked.
 
 ## Fitness
-- **NYC Cut Wk 6 of 8.** Prior reflection numbers (W24): 6/1 → 175.9 (cut low), 6/8 → 178.1 (stalled off the low). **W25 weight not pulled** — Liftosaur MCP token expired, three reflections now running on stale data.
+- **NYC Cut Wk 6 of 8.** Prior reflection numbers (W24): 6/1 → 175.9 (cut low), 6/8 → 178.1 (stalled off the low). **W25 weight not pulled** — Liftosaur measurements API token expired, weight numbers still stale.
 - **W25 SoCal trip fitness reads:** Saturday SoCal lift CUT (Will's "vacation more" call), Sunday Z2 MISSED (driving day). Z2 keystone has NOT FIRED on the new bike + phone modality yet — two consecutive Z2 misses on the new setup. Fire Sun 6/28.
+- **W25 lifting sessions logged (Liftosaur CSV ingested 6/22):** 4 sessions Mon-Fri 6/16-19 — Wk8D5 Torso B + Wk8D6 Bro B + Wk9D1 Legs A + Wk9D2 Torso A. Strong adherence before the trip.
 - BF: ~20–21% estimated. Lean mass: ~147 lb.
-- **Lifting WINNING in deficit per W24 read** (155×7 @9.5 best of cut). W25 lifting data not retrievable. 2 green / 1 yellow on 3-lift canary as of last pull.
-- **Lifting canary (3-lift model, last pull 6/14):**
-  1. Larsen top set ≥ 155 × 5 @9 — 155 × 7 @9.5 🟢 strongest of cut
-  2. Larsen back-offs ≥ 5 reps each set — 7, 7, 5 🟢
-  3. Neutral pull-up not below 3,3,1 — 3,2,3 ⚠️
-  - **Currently 2 green / 1 yellow. Scenario C continues.** All-3-green not required as long as no sustained red.
+- **Lifting canary (3-lift model, updated 6/19):**
+  1. **Larsen top set ≥ 155 × 5 @9** — 155 × 7 @9 🟢 *improved* (same reps, lower RPE than 6/14's @9.5)
+  2. **Larsen back-offs ≥ 5 reps each set** — **4, 4 ⚠️ DROPPED** from 7, 7, 5 on 6/14
+  3. **Neutral pull-up not below 3,3,1** — 4, 4, 2 🟢 *improved* (up from 3, 2, 3 on 6/14)
+  - **Net: 2 green / 1 yellow — the yellow SHIFTED from pull-up → Larsen back-offs.** Pattern: top-set strength holding/improving while back-off volume drops — classic late-cut fatigue signal (glycogen-low for volume work, intensity ceiling intact). **Watch next Larsen session (~Fri 6/26):** if back-offs return ≥5 = noise, ignore. If stay at 4 or below = sustained red → triggers abort rule.
+- **Other lifts strength reads W25:** Smith Squat 175 × 5 @9 (6/14 — NEW top weight for the cut, was 155 lb prior). Hack Squat 135 × 8/12 @9.5 (6/18). Smith Reverse Grip Bench 115 × 9 @9 (6/19 — up from prior). DB Bench 65 × 11 @9 (6/16). Helms Row 40 × 10, 13 (6/16).
 - Step target 12,500/day. Sources still unaudited.
-- **Abort signal:** Larsen 155×5/5/5 @9 or any 2 yellow / 1 sustained red → re-baseline target to ~177 by Jul 11.
+- **Abort signal:** Larsen 155×5/5/5 @9 OR any 2 yellow / 1 sustained red → re-baseline target to ~177 by Jul 11.
 - Refeed trigger: 7-day rolling avg ≤176 lb. Hard floor: 168 lb.
 - Reverse diet: Jul 12–29. NYC maintenance: Jul 30–Aug 5.
 - Program: GVS Ravage. Macros tracked in **Cronometer**.
