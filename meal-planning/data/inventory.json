@@ -175,6 +175,14 @@
     "freshness_date": "2026-06-25"
   },
   {
+    "item": "Chicken breasts",
+    "quantity": 5.5,
+    "unit": "lbs",
+    "location": "freezer",
+    "freshness_date": "2026-08-15",
+    "note": "4 × 22oz Costco packs — added 2026-06-22"
+  },
+  {
     "item": "Chicken thighs",
     "quantity": 8,
     "unit": "thighs",
@@ -183,10 +191,11 @@
   },
   {
     "item": "Ground beef (90/10)",
-    "quantity": 2,
+    "quantity": 8.75,
     "unit": "lbs",
     "location": "freezer",
-    "freshness_date": "2026-07-15"
+    "freshness_date": "2026-07-15",
+    "note": "7 × 20oz Costco bags — updated 2026-06-20 (was tracked as 2 lb, actual stash much higher)"
   },
   {
     "item": "Fat-free cream cheese",
@@ -239,10 +248,11 @@
   },
   {
     "item": "Lettuce (romaine/iceberg)",
-    "quantity": 1,
+    "quantity": 0,
     "unit": "head",
     "location": "fridge",
-    "freshness_date": null
+    "freshness_date": null,
+    "note": "Used up — buying fresh head for #23 burgers (2026-06-22 cycle)"
   },
   {
     "item": "Red onion",

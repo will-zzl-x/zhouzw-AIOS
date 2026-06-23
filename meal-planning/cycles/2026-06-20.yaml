@@ -1,0 +1,164 @@
+# Cycle Sat 2026-06-20 -> Fri 2026-06-26 (COMPRESSED — SoCal travel weekend)
+# Built with Claude 2026-06-20.
+# Sat 6/20 + Sun 6/21 = AWAY (SoCal trip: Bear Flag, Coffee Nature, Hak Heang, Subway Quartzsite).
+# Real cook window: Mon 6/22 - Sat 6/27 (5 work days + Sat).
+# Mon 6/22 is cook day (not Sat as usual) — both slow cookers run Mon morning post-lift.
+date: "2026-06-20"
+grocery_day: "2026-06-22"   # Monday — Walmart + Costco
+
+# Dining-out / covered meals (subtract from need).
+exceptions:
+  # --- Sat 6/20 AWAY in SoCal ---
+  - { date: "2026-06-20", member: Both, slot: M1, reason: "SoCal — Coffee Nature breakfast to-go" }
+  - { date: "2026-06-20", member: Both, slot: M2, reason: "SoCal — Bear Flag Fish Co lunch" }
+  - { date: "2026-06-20", member: Will, slot: M3, reason: "SoCal — Bear Flag lunch" }
+  - { date: "2026-06-20", member: Both, slot: M4, reason: "SoCal — Hak Heang Cambodian / ST Noodle LB" }
+
+  # --- Sun 6/21 AWAY (drive home) ---
+  - { date: "2026-06-21", member: Both, slot: M1, reason: "SoCal — Sonesta hotel breakfast" }
+  - { date: "2026-06-21", member: Both, slot: M2, reason: "Driving — brunch with Lantu" }
+  - { date: "2026-06-21", member: Will, slot: M3, reason: "Driving — brunch with Lantu" }
+  - { date: "2026-06-21", member: Both, slot: M4, reason: "Subway Quartzsite Love's mid-drive" }
+
+  # --- Sat 6/27 weekend no work meals (M4 leftover overflow) ---
+  - { date: "2026-06-27", member: Will, slot: M2, reason: "Sat — no work lunch (M4 overflow)" }
+  - { date: "2026-06-27", member: Will, slot: M3, reason: "Sat — no work meal" }
+  - { date: "2026-06-27", member: Elena, slot: M2, reason: "Sat — no work lunch" }
+
+# Leftover ready servings from prior cycle.
+# None significant — last cycle's M4 (Alfredo + Korean BBQ Chicken carryover) consumed Mon-Thu 6/16-6/18 before trip.
+carryover: []
+
+# Selected recipes for the week.
+selections:
+  # #34 MODIFIED — Slow Cooker CARNITAS-style Pulled Pork (Mexican)
+  # Cook Mon morning before work; LOW 6-8 hrs auto-warm; shred Mon evening post-lift.
+  - recipe_id: "34"
+    planned_servings: 6
+    notes: |
+      MODIFIED — Slow cooker CARNITAS-style pulled pork (Mexican flavor profile for M1
+      breakfast bowls with eggs).
+
+      Method (1.75 lb pork loin whole):
+      Cooking liquid: 1 cup chicken broth + juice of 1 orange + juice of 1 lime (use ~1/2 of
+      each, save other halves for sauce later)
+      Rub: 2 tsp cumin + 2 tsp dried oregano + 1 tsp garlic powder + 1 tsp salt + 1/2 tsp
+      black pepper + 2 bay leaves (whole, fish out before shredding)
+
+      Slow cooker LOW 6-8 hrs. Shred with two forks. Reduce liquid slightly (5 min on HIGH
+      uncovered) for more flavor concentration. Portion with juices into 6 containers.
+      Reheat: 45-60 sec microwave covered with juices.
+
+      M1 pairing: scrambled eggs + warm pulled pork + dash of leftover Costco salsa (you
+      have ~half container in inventory).
+
+      VEG SIDE FOR M1: sauté 1 bag of Costco frozen stir-fry veg (no bell peppers per Will's
+      preference) Monday alongside the pork shred. Portion ~3/4 cup of veg into each of
+      6 M1 containers. Microwave with pork in the morning (45-60 sec).
+
+      TIMING UPDATE: cook method shifted from slow cooker → INSTANT POT pressure cook
+      Mon EVENING (not morning). Walmart delivery (orange + lime + cumin) arrives after
+      work, so 6am Mon start was blocked.
+
+      Mon evening sequence:
+      - ~5pm home + Walmart delivery arrives
+      - 5:15pm: Sear pork briefly in IP sauté mode (2 min/side, optional), add liquid + rub.
+        Set HIGH PRESSURE 60-75 min + natural release 15 min (auto-keep-warm after).
+      - 5:30pm: Leave for gym
+      - 7pm: Home from lift
+      - 7:30pm: Shred carnitas (return to juices, brief sauté HIGH 5 min to reduce),
+        sauté 1 bag frozen stir-fry veg for M1 side, portion 6 containers.
+
+      M1 first morning = Tue (Mon AM = quick eggs or skip — cut-mode default).
+    slot_assignments:
+      - { member: Will, slot: M1, servings: 6 }   # Mon-Sat home mornings
+
+  # #5 Crispy Chicken Sandwiches + FROZEN onion rings — M4 ONLY (does not microwave-reheat)
+  - recipe_id: "5"
+    planned_servings: 8
+    notes: |
+      6 brioche buns (Elena) + 2 servings on low-cal sandwich bread (Will) = 8 sandwiches.
+      Sub HOMEMADE onion rings → FROZEN onion rings (Walmart, air-fry per package).
+      Assemble fresh each night; parcook chicken Mon for the week.
+      M4 SIDE VEG: air-fry frozen stir-fry veg alongside the onion rings + fries (same air
+      fryer, lower temp/time per package). ~3/4 cup per person.
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 8 }   # 4 shared dinner nights
+
+  # #23 Walmart Beef Burgers + fries — M4 only, uses 1.5 lb of 8.75 lb ground beef stash
+  - recipe_id: "23"
+    planned_servings: 4
+    notes: |
+      Uses ~1.5 lb of inventory ground beef (8.75 lb total in freezer — 7 × 20oz Costco bags).
+      Buns: Elena uses brioche if any of the 6 remain after #5; Will uses low-cal bread.
+      Recipe says "Walmart Beef Burgers" but use the Costco ground beef stash instead.
+      M4 SIDE VEG: air-fry frozen stir-fry veg alongside the fries (same air fryer, lower
+      temp/time per package). ~3/4 cup per person.
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 4 }   # 2 shared dinner nights
+
+  # #35 Chinese Poached Chicken — reheatable M2 work lunch
+  - recipe_id: "35"
+    planned_servings: 4
+    notes: |
+      Repeat from last cycle (enjoyed it). 4 servings = 2 days × 2 (Will + Elena M2).
+    slot_assignments:
+      - { member: Will, slot: M2, servings: 2 }
+      - { member: Elena, slot: M2, servings: 2 }
+
+  # #20 Slow Cooker Shredded Chicken + frozen Costco stir-fry veg — fills the remaining work-meal gap
+  # TIMING UPDATED: Will lifts after work now, so cooking via Instant Pot PRESSURE COOK Mon evening
+  # is cleaner than all-day slow-cook (avoids 9+ hrs on auto-warm getting dry).
+  - recipe_id: "20"
+    planned_servings: 11
+    notes: |
+      Scale up chicken breasts to ~3.5 lb for 11 servings.
+      TIMING UPDATE: Will lifts after work — Mon morning slow-cook all-day would leave chicken
+      9+ hrs on auto-warm (dryness risk). Better: use Instant Pot PRESSURE COOK Mon evening.
+
+      Method (Instant Pot pressure cook CHIPOTLE-LIME Mexican shredded, ~30 min total):
+      - ~3.5 lb chicken breasts
+      - Cooking liquid: 1 cup chicken broth + juice of 1 lime + 2 Tbsp Costco salsa
+        (use from inventory — half container on hand)
+      - Spice mix: 1 Tbsp cumin + 1 Tbsp chili powder + 1 tsp garlic powder + 1 tsp salt
+        + 1 tsp paprika + 1/2 tsp chipotle powder
+      - HIGH PRESSURE 15 min + natural release 10 min
+      - Shred with two forks. Keep with juices. Portion with rice + frozen stir-fry veg side.
+
+      USE COSTCO FROZEN STIR-FRY VEG: sauté 1 bag (3-4 srv) as the veg side for these bowls.
+      Top each bowl with extra Costco salsa from inventory + lime wedge.
+      Pair with rice (already in pantry).
+
+      Cook Tuesday evening — pulled pork shred takes Monday evening, this stays clean.
+    slot_assignments:
+      - { member: Will, slot: M2, servings: 3 }
+      - { member: Will, slot: M3, servings: 5 }
+      - { member: Elena, slot: M2, servings: 3 }
+
+# Inventory snapshot at cycle start (items on hand that reduce the grocery list).
+inventory_snapshot:
+  - { name: "Boneless pork loin", amount: "1.75", unit: "lb", note: "#34 — have it" }
+  - { name: "Ground beef (90/10)", amount: "8.75", unit: "lbs", note: "#23 — 7 × 20oz Costco bags in freezer; form patties from stash (don't buy preformed)" }
+  - { name: "Chicken breasts", amount: "5.5", unit: "lbs", note: "#5+#35+#20 — 4 × 22oz Costco packs (frozen). Total cycle need ~8 lb; buy ~2.5 lb more at Costco" }
+  - { name: "Brioche buns", amount: "6", unit: "buns", note: "#5 — have 6 for Elena; Will uses low-cal bread for his 2 (no more buns needed)" }
+  - { name: "Low-cal sandwich bread", amount: "1", unit: "loaf", note: "#5/#23 Will's 'buns' — have it" }
+  - { name: "Frozen onion rings", amount: "1", unit: "bag", note: "#5 side — buying at Walmart Mon (NOT making homemade)" }
+  - { name: "Costco frozen stir-fry veg", amount: "4+", unit: "bags", note: "#20 chicken bowls (~11 srv) + #34 M1 side (6 srv) + #5+#23 M4 air-fried side (6 srv) = ~23 srv total. Will has enough on hand." }
+  - { name: "Russet potatoes (covers both Idaho + Russet recipe lines)", amount: "3", unit: "lb", note: "#5 fries + #23 fries — 3 lb total covers both (recipe #5 says 'Idaho' but russets work; don't buy more)" }
+  - { name: "White rice", amount: "5", unit: "lb", note: "#35 + #20 — have it" }
+  - { name: "Olive oil", amount: "25", unit: "oz", note: "#34/#23 — have it" }
+  - { name: "Avocado oil", amount: "32", unit: "oz", note: "#23 fries — have it" }
+  - { name: "Toasted sesame oil", amount: "8", unit: "oz", note: "#35 — have it" }
+  - { name: "Light soy sauce", amount: "15", unit: "oz", note: "#35 — have it" }
+  - { name: "Rice vinegar", amount: "12", unit: "oz", note: "#35 — have it" }
+  - { name: "Sriracha", amount: "17", unit: "oz", note: "#5 sauce — have it" }
+  - { name: "Gochujang", amount: "16", unit: "oz", note: "#5 sauce — have it" }
+  - { name: "Fat free Greek yogurt", amount: "0.5", unit: "cup", note: "#5 sauce + #35 — buying at Costco if low" }
+  - { name: "G Hughes BBQ", amount: "18", unit: "oz", note: "#34 pulled pork liquid — have it" }
+  - { name: "Pickle juice", amount: "1", unit: "jar", note: "#5 sauce + #34 alt liquid — have dill pickle jar" }
+  - { name: "Eggs", amount: "18", unit: "eggs", note: "#5 breading — have it" }
+  - { name: "Ketchup, mustard, dill pickles", amount: "1", unit: "set", note: "#23 condiments — have it" }
+  - { name: "Lettuce (romaine/iceberg)", amount: "0", unit: "head", note: "#5/#23 — OUT, need to buy fresh head" }
+  - { name: "Red onion", amount: "1", unit: "onion", note: "#5/#23 — have it" }
+  - { name: "Shredded cheese", amount: "8", unit: "oz", note: "#23 — have it" }
+  - { name: "Garlic, onion, paprika powders + salt + pepper", amount: "1", unit: "set", note: "all recipes — have it" }

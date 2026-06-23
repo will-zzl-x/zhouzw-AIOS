@@ -9,7 +9,14 @@ from anthropic import Anthropic
 
 from backlog import filter_eligible, parse_backlog
 
-MODEL = "claude-sonnet-4-6"
+# Switched 2026-06-22 from claude-sonnet-4-6 to claude-haiku-4-5 — saves
+# ~3x on input + 3x on output tokens (~$1.50/mo). Morning brief is rule-
+# following + structured JSON generation; Haiku 4.5 handles this workload
+# well. Prompt caching evaluated and rejected: 1-call/day pattern means
+# 5-min cache TTL always expires, so cache writes (1.25x cost) accumulate
+# every day with zero read benefit — would INCREASE cost, not decrease.
+# Watch for output quality degradation in the first 1-2 weeks of briefs.
+MODEL = "claude-haiku-4-5-20251001"
 TZ = ZoneInfo("America/Phoenix")
 
 SYSTEM_PROMPT = """You are Will's AIOS daily brief generator.

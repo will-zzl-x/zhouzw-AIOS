@@ -173,3 +173,35 @@ Format: ✓ = done, □ = planned/pending
 □ Phone off nightstand — charge in kitchen tonight
 □ Promo doc: targeted final-review pass, one section
 □ Mindset — Don't D.E.E.R. (defend, explain, excuse, rationalize) — justifying a decision on demand surrenders it. The next time Elena questions a decision you made today, state it once and stop. "Yeah, that's what I'm doing" is a complete sentence; no justifying paragraph.
+
+**2026-06-19 (Fri)** — NYC Cut Wk 5 of 8
+□ Complete Ravage training session today
+□ Walk 12,500 steps today
+□ Phone off nightstand — charge in kitchen tonight
+□ Zone 2: 20 min post-lift fasted incline or walk
+□ Desire-polarity rep: one DO-list move today
+□ Promo doc: targeted final-review pass, one section
+□ Mindset — Don't D.E.E.R. (defend, explain, excuse, rationalize) — justifying a decision on demand surrenders it. The next time Elena questions a decision you made today, state it once and stop. "Yeah, that's what I'm doing" is a complete sentence; no justifying paragraph.
+
+**2026-06-20 (Sat)** — NYC Cut Wk 5 of 8
+□ Walk 12,500 steps today
+
+**2026-06-21 (Sun)** — NYC Cut Wk 5 of 8
+□ Ravage session or 12,500-step active recovery
+□ Hit 150g protein and 1,820 cal in Cronometer
+□ Walk 12,500 steps today
+□ Phone off nightstand — charge in kitchen tonight
+□ Run 1–2 listings through deal-eval framework
+□ Reach out to one close friend today
+□ Work Main Street Accelerator: one module session
+□ Style sprint: advance avatar buildout next step
+
+**2026-06-22 (Mon)** — NYC Cut Wk 5 of 8
+□ Ravage session or 12,500-step active recovery
+□ Walk 12,500 steps today
+□ Zone 2: 60–90 min stationary bike keystone
+□ Phone off nightstand — charge in kitchen tonight
+□ Sunday paste: log weight + sessions + steps
+□ Friend cadence: reach out to one close friend
+□ Text Dan — lock day/time for in-person meetup
+□ Mindset — Desire needs distance; love needs closeness — a marriage holds both. Today, lean fully into one moment of closeness AND one moment of separateness — don't try to compromise them into one balanced middle.
