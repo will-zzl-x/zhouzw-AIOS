@@ -205,3 +205,11 @@ Format: ✓ = done, □ = planned/pending
 □ Friend cadence: reach out to one close friend
 □ Text Dan — lock day/time for in-person meetup
 □ Mindset — Desire needs distance; love needs closeness — a marriage holds both. Today, lean fully into one moment of closeness AND one moment of separateness — don't try to compromise them into one balanced middle.
+
+**2026-06-23 (Tue)** — NYC Cut Wk 6 of 8
+□ Complete Ravage training session today
+□ Walk 12,500 steps today
+□ Phone off nightstand — charge in kitchen tonight
+□ Desire-polarity rep: one move today
+□ Text Dan — lock day/time for in-person meetup
+□ Mindset — Turn the wheel; the stern follows on a long rope — stop watching the scoreboard. Make today's moves without checking for the dynamic to shift in response. The change in her lags weeks behind the change in you — watching kills it.
