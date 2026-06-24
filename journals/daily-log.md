@@ -213,3 +213,11 @@ Format: ✓ = done, □ = planned/pending
 □ Desire-polarity rep: one move today
 □ Text Dan — lock day/time for in-person meetup
 □ Mindset — Turn the wheel; the stern follows on a long rope — stop watching the scoreboard. Make today's moves without checking for the dynamic to shift in response. The change in her lags weeks behind the change in you — watching kills it.
+
+**2026-06-24 (Wed)** — NYC Cut Wk 6 of 8
+□ Walk 12,500 steps
+□ Phone off nightstand, charge in kitchen
+□ Desire-polarity rep: one move today
+□ Text Dan — lock day/time for in-person meetup
+□ Promo doc — final review, lift L5 evidence
+□ Mindset — Turn the wheel; the stern follows on a long rope
