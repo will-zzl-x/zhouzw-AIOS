@@ -221,3 +221,12 @@ Format: ✓ = done, □ = planned/pending
 □ Text Dan — lock day/time for in-person meetup
 □ Promo doc — final review, lift L5 evidence
 □ Mindset — Turn the wheel; the stern follows on a long rope
+
+**2026-06-25 (Thu)** — NYC Cut Wk 6 of 8
+□ Complete Ravage training session today
+□ Walk 12,500 steps today
+□ Phone off nightstand, charge in kitchen
+□ Text Dan — lock day/time for in-person meetup
+□ Promo doc — final review, lift L5 evidence
+□ Desire-polarity rep: one move today
+□ Turn the wheel; the stern follows on a long rope — stop watching the scoreboard.
