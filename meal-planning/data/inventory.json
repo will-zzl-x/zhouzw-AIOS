@@ -448,5 +448,21 @@
     "location": "pantry",
     "freshness_date": null,
     "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Lemon squash",
+    "quantity": 1,
+    "unit": "large",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Butternut squash",
+    "quantity": 1,
+    "unit": "whole",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
   }
 ]

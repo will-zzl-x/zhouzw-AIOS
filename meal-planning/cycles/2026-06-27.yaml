@@ -70,10 +70,11 @@ selections:
     notes: |
       Steaks ALREADY ON HAND — no Costco run needed.
       No porcini powder — season with salt + pepper only (dry brine overnight or Sun AM).
-      Big bulb spring onions ON HAND — do not buy.
-      Chimichurri: flat-leaf parsley preferred (carrot tops if available).
-      Buy at Walmart: greens medley, Roma tomato, avocado, fresh rosemary, sherry vinegar,
-      EVOO, grape seed oil, butter.
+      Shallot pan sauce (see ingredients) — shallot ON HAND.
+      ELENA SIDE (not Will — starchy, off-cut): roast the butternut squash (on hand) —
+      cube, toss with oil + salt/pepper, 425F ~35-40 min. Her side only; Will skips
+      (keeps his plate cut-aligned: steak + salad). No grocery add — squash + oil on hand.
+      Buy at Walmart: greens medley(have), Roma tomato, avocado, fresh rosemary.
     slot_assignments:
       - { member: Both, slot: M4, servings: 2 }
 

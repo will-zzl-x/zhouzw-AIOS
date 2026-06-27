@@ -54,16 +54,27 @@ def main():
     # display name so fuzzy matching (bug #2) can run per-entry, not via a strict
     # name key. source = "snapshot" | "pantry".
     on_hand_pool = []  # list of dicts: {name, qty, unit, source, loc}
+    # Zero-quantity guard (2026-06-27): an explicit qty==0 means "we have NONE of this"
+    # — a placeholder row (e.g. inventory thighs set to 0, or a snapshot "Roma tomatoes: 0"
+    # note documenting an out-of-stock item). It must NOT enter the on-hand pool, or a
+    # fuzzy name match (e.g. recipe "Crushed tomatoes" ~ snapshot "Roma tomatoes:0") makes
+    # the need read as on-hand/CHECK instead of BUY, hiding a real purchase. A qty of None
+    # (present-but-unmeasured) is KEPT — that's a legitimate "confirm coverage" case.
     for it in inventory:
+        q = float(it.quantity or 0)
+        if q == 0:
+            continue
         on_hand_pool.append({
             "name": it.item,
-            "qty": float(it.quantity or 0),
+            "qty": q,
             "unit": units.normalize_unit(it.unit),
             "source": "pantry",
             "loc": it.location,
         })
     for snap in cycle.inventory_snapshot:
         q = units.parse_amount(snap.get("amount"))
+        if q is not None and q == 0:
+            continue  # explicit zero => not on hand (see guard above)
         on_hand_pool.append({
             "name": str(snap.get("name", "")),
             "qty": float(q) if q is not None else None,  # None => non-numeric on-hand

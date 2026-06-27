@@ -3827,7 +3827,7 @@
         "store": "Costco"
       },
       {
-        "name": "Summer squash, diced",
+        "name": "Lemon squash (yellow summer squash), diced",
         "amount": "1",
         "unit": "large (use ~half of a huge one)",
         "store": "Walmart"
@@ -3857,10 +3857,10 @@
         "store": "Walmart"
       }
     ],
-    "notes": "Will M1 breakfast batch (cut: lean protein + veg, starch-free). 11 eggs (have 11) + ~half a huge summer squash + a couple big handfuls spinach -> 6 microwave containers. Veg-forward since squash/spinach are abundant. Keeps 4-5 days; reheat 60 sec.",
+    "notes": "Will M1 breakfast batch (cut: lean protein + veg, starch-free). 11 eggs (have 11) + ~half a huge lemon squash (yellow summer squash) + a couple big handfuls spinach -> 6 microwave containers. Veg-forward since squash/spinach are abundant. Keeps 4-5 days; reheat 60 sec.",
     "recipe_available": true,
     "recipe_steps": [
-      "Dice summer squash; saut\u00e9 in avocado oil with spinach until softened.",
+      "Dice lemon squash; saut\u00e9 in avocado oil with spinach until softened.",
       "Scramble 11 eggs with salt, pepper, garlic powder.",
       "Combine eggs + veg in pan until just set.",
       "Portion into 6 equal containers. Reheat 60 sec microwave."
