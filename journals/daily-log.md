@@ -239,3 +239,9 @@ Format: ✓ = done, □ = planned/pending
 □ Promo doc — final review, lift L5 evidence
 □ Desire-polarity rep: one move today
 □ Mindset — Turn the wheel; the stern follows on a long rope — stop watching the scoreboard. Make today's moves without checking for the dynamic to shift in response. The change in her lags weeks behind the change in you — watching kills it.
+
+**2026-06-26 (Fri)** — NYC Cut Wk 6 of 8
+□ Hit 150g protein, ~1,820 kcal
+□ Phone off nightstand, charge in kitchen
+□ Text Dan to lock in-person day/time
+□ Promo doc — final review, lift L5 evidence
