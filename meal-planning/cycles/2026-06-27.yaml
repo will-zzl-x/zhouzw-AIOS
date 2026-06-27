@@ -1,0 +1,131 @@
+# Cycle Sat 2026-06-27 -> Fri 2026-07-03 (BANFF-SPLIT)
+# Built with Claude 2026-06-27.
+# Cook window: Jun 28–Jul 1 (both). Will departs Jul 2 for Banff (returns Jul 8).
+# Elena-only anchor: Spaghetti 2× batch (freeze half) + Rotisserie pickup ~Jul 5-6.
+# Cook Day 1: Sun Jun 28 — IP shredded chicken (defrosted, URGENT) + steak dinner.
+# Cook Day 2: Mon Jun 29 — Spaghetti 2× batch.
+date: "2026-06-27"
+grocery_day: "2026-06-28"   # Costco Sun AM (NY strips + anything missing) + Walmart delivery order tonight Jun 27
+
+exceptions:
+  # --- Jul 2 (Thu) — Will departs for Banff midday ---
+  - { date: "2026-07-02", member: Will, slot: M4, reason: "Banff departure — eating in Calgary or on plane" }
+
+  # --- Jul 3 (Fri) — Will in Banff ---
+  - { date: "2026-07-03", member: Will, slot: M1, reason: "Banff" }
+  - { date: "2026-07-03", member: Will, slot: M2, reason: "Banff" }
+  - { date: "2026-07-03", member: Will, slot: M3, reason: "Banff" }
+  - { date: "2026-07-03", member: Will, slot: M4, reason: "Banff" }
+
+  # --- Jul 4 (Sat) — Elena M4 — Independence Day dining out ---
+  - { date: "2026-07-04", member: Elena, slot: M4, reason: "July 4th — dining out" }
+
+  # --- Elena weekend slots — no work lunches Sat/Sun ---
+  - { date: "2026-06-28", member: Elena, slot: M2, reason: "Sunday — no work lunch" }
+  - { date: "2026-07-04", member: Elena, slot: M2, reason: "Saturday — no work lunch" }
+  - { date: "2026-07-05", member: Elena, slot: M2, reason: "Sunday — no work lunch" }
+
+  # --- Will weekend slots ---
+  - { date: "2026-06-27", member: Will, slot: M2, reason: "Saturday — no work lunch" }
+  - { date: "2026-06-27", member: Will, slot: M3, reason: "Saturday — no work meal" }
+  - { date: "2026-06-27", member: Will, slot: M4, reason: "Jin's party tonight" }
+  - { date: "2026-06-27", member: Elena, slot: M4, reason: "Jin's party tonight" }
+  - { date: "2026-06-28", member: Will, slot: M2, reason: "Sunday — no work lunch" }
+  - { date: "2026-06-28", member: Will, slot: M3, reason: "Sunday — no work meal" }
+
+carryover: []
+
+selections:
+  # #11 NY Strip Steak & Salad — Sun Jun 28 send-off dinner
+  - recipe_id: "11"
+    planned_servings: 2
+    notes: |
+      Send-off dinner Sun Jun 28 evening. Buy 2 NY strips at Costco Sun AM.
+      Dry brine: season Sat night or Sun morning, leave uncovered in fridge until cook time.
+      Chimichurri: carrot tops preferred; sub flat-leaf parsley if not available at store.
+      Steak + chimichurri + greens salad + green onions — full recipe.
+      M4 for both on Sun Jun 28 only.
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 2 }
+
+  # #20 IP Chipotle-Lime Shredded Chicken — URGENT Sun Jun 28
+  - recipe_id: "20"
+    planned_servings: 11
+    notes: |
+      URGENT — chicken defrosted, MUST cook Sun Jun 28. Do not delay.
+      ~3.5 lb chicken breasts, all of what's defrosted.
+
+      Method (Instant Pot — same as last cycle):
+      - Cooking liquid: 1 cup chicken broth + juice of 1 lime + 2 Tbsp Costco salsa
+      - Spice mix: 1 Tbsp cumin + 1 Tbsp chili powder + 1 tsp garlic powder + 1 tsp salt
+        + 1 tsp paprika + 1/2 tsp chipotle powder
+      - HIGH PRESSURE 15 min + natural release 10 min
+      - Shred with two forks, keep with juices.
+      - Side: sauté 1 bag frozen stir-fry veg, portion into bowls with rice.
+
+      TIMING: Run IP chicken in the afternoon before steak dinner —
+      it finishes while steak is resting. Keeps clean in fridge 4 days.
+    slot_assignments:
+      - { member: Will, slot: M2, servings: 4 }    # Mon Jun 29 – Thu Jul 2 work lunches
+      - { member: Will, slot: M3, servings: 4 }    # Mon Jun 29 – Thu Jul 2 work meals
+      - { member: Elena, slot: M2, servings: 3 }   # Mon Jun 29 – Wed Jul 1 work lunches
+
+  # #10 Spaghetti with Meat Sauce — 2× batch — Mon Jun 29 evening
+  - recipe_id: "10"
+    planned_servings: 12
+    notes: |
+      2× batch — double ALL quantities:
+        - 2.4 lb ground beef (from freezer stash; pull 2 bags Mon AM to defrost)
+        - 16 oz ground sausage (buy at Walmart)
+        - 2 × 28oz cans crushed tomatoes
+        - 8 Tbsp tomato paste
+        - 3 Tbsp beef bouillon
+        - ~6.8 cups water
+        - 32 oz thin spaghetti
+        - 2 lb carrots (side, air-fryer roasted)
+
+      Serves:
+        - Both M4 Mon Jun 29 + Tue Jun 30 + Wed Jul 1 = 6 shared dinner servings
+        - Elena M4 Thu Jul 2 + Fri Jul 3 + Sun Jul 5 + Mon Jul 6 = 4 dinner servings
+        - Elena M2 Thu Jul 2 + Fri Jul 3 = 2 lunch servings
+        Total = 12 servings.
+
+      FREEZE 6 servings immediately after portioning Mon night — Elena pulls from
+      freezer as needed during solo week. Reheats perfectly in microwave.
+
+      Cook Mon Jun 29 evening. Use largest oven-safe pan (Dutch oven preferred).
+      Bake uncovered 16-18 min at 425°F, stir at 5 and 10 min marks.
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 6 }    # 3 shared dinners Mon–Wed
+      - { member: Elena, slot: M4, servings: 4 }   # Elena solo M4 Jul 2–6
+      - { member: Elena, slot: M2, servings: 2 }   # Elena solo M2 Jul 2–3
+
+  # #6 Rotisserie Chicken + Garlic Rice — Elena solo, no pre-cook
+  - recipe_id: "6"
+    planned_servings: 5
+    notes: |
+      ELENA ONLY during Will's Banff trip. No pre-cook needed.
+      Elena picks up 1 Costco rotisserie chicken ~Sun Jul 5 or Mon Jul 6.
+      Portions it fresh per the recipe (chicken + garlic rice + frozen stir-fry veg side).
+      Covers the back half of her solo week.
+
+      Jul 4 M4 = out (holiday dining out, see exceptions).
+      Rotisserie covers: Elena M4 Jul 6 + Jul 7 + Jul 8 (Will home Jul 8 — dinner TBD)
+                         Elena M2 Jul 6 + Jul 7
+    slot_assignments:
+      - { member: Elena, slot: M4, servings: 3 }   # M4 Jul 6–8
+      - { member: Elena, slot: M2, servings: 2 }   # M2 Jul 6–7
+
+inventory_snapshot:
+  - { name: "Chicken breasts (defrosted)", amount: "3.5", unit: "lb", note: "#20 — MUST cook Sun Jun 28" }
+  - { name: "Ground beef (90/10)", amount: "8.75", unit: "lbs", note: "#10 2× — pull 2×20oz bags Mon AM to defrost" }
+  - { name: "White rice", amount: "5", unit: "lb", note: "#20 + #6 — have it" }
+  - { name: "Short grain Japanese rice", amount: "3", unit: "lb", note: "#6 garlic rice — have it" }
+  - { name: "Costco frozen stir-fry veg", amount: "4+", unit: "bags", note: "#20 bowls + #6 side — have enough" }
+  - { name: "Costco salsa", amount: "half container", unit: "", note: "#20 cooking liquid — have it" }
+  - { name: "Olive oil", amount: "25", unit: "oz", note: "#10/#11 — have it" }
+  - { name: "Soy sauce", amount: "25", unit: "oz", note: "pantry — have it" }
+  - { name: "Sriracha", amount: "17", unit: "oz", note: "pantry — have it" }
+  - { name: "Cumin, chili powder, paprika, garlic powder, chipotle powder, salt, pepper", amount: "1", unit: "set", note: "#20 spice mix — have all" }
+  - { name: "Tomato paste", amount: "1", unit: "can", note: "#10 — check pantry; buy extra if less than 1/2 cup" }
+  - { name: "Beef bouillon", amount: "1", unit: "jar", note: "#10 — check pantry" }
