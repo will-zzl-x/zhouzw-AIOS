@@ -66,27 +66,31 @@ selections:
     slot_assignments:
       - { member: Both, slot: M4, servings: 2 }
 
-  # #9 Bibimbap — 2 bags ground beef only (~7 srv) — Mon Jun 29 evening
-  - recipe_id: "9"
-    planned_servings: 7
+  # #16 Taco Salad — 2× batch — Mon Jun 29 — shared dinners + Elena early solo days
+  - recipe_id: "16"
+    planned_servings: 8
     notes: |
-      SCALED: 2 × 20oz bags ground beef = 2.5 lbs (vs 2 lbs for 6 srv → ~7 srv).
-      Do NOT double the recipe — scale 1.25×:
-        - 2.5 lbs ground beef
-        - 1 bag spinach (ON HAND — do not buy second bag)
-        - 1 bag shredded carrots
-        - 1 bag cauliflower rice
-        - 7 eggs
-        - Sauce: 5/8 cup gochujang × 1.25 = ~12 Tbsp + 11 sweetener packets + 5/8 cup hot water
-        - 1.875 cups white rice dry
+      2× batch Mon Jun 29 evening. Double all quantities:
+        - 2.5 lbs ground beef (2 × 20oz bags from stash — pull tonight to defrost for Mon)
+        - 2 taco seasoning packets (or homemade double batch)
+        - 2 heads iceberg lettuce
+        - 4 cups cherry tomatoes
+        - 1 cup red onion, diced
+        - 2 jalapeños
+        - 2 avocados (slice fresh per serving)
+        - 2 cups shredded cheese
+        - 2 cans refried beans
+        - 1 cup salsa (use Costco salsa from inventory)
+        - 1 cup Greek yogurt
+        - 2 handfuls tortilla strips
+        - Cilantro + lime wedges
 
-      Store egg and gochujang sauce separately. Elena reheats beef + rice + veg, fries egg fresh.
-      Pull 2 bags ground beef from freezer tonight to defrost for Mon.
-
-      Serves: Both M4 Mon–Wed (6 srv) + 1 Elena flex lunch.
+      Store beef + beans separately (reheat). Everything else stays cold.
+      Elena assembles her own servings from stored components — no hot cooking needed.
+      Pull 2 ground beef bags from freezer TONIGHT for Mon cook.
     slot_assignments:
       - { member: Both, slot: M4, servings: 6 }    # 3 shared dinners Mon–Wed
-      - { member: Elena, slot: M2, servings: 1 }   # 1 flex Elena M2 (Mon or Tue)
+      - { member: Elena, slot: M4, servings: 2 }   # Elena solo M4 Jul 2–3
 
   # #10 Spaghetti with Meat Sauce — 2× batch — Tue Jun 30 — Elena solo anchor
   - recipe_id: "10"
@@ -119,16 +123,14 @@ inventory_snapshot:
   - { name: "Chicken breasts", amount: "3.5", unit: "lb", note: "#20 — defrosted, cook tonight" }
   - { name: "NY strip steaks", amount: "2", unit: "steaks", note: "#11 — already on hand" }
   - { name: "Ground beef (90/10)", amount: "8.75", unit: "lbs", note: "#9 uses 2.5 lb (2 bags) + #10 uses 2.4 lb; pull Mon + Tue AM" }
-  - { name: "Spinach", amount: "1", unit: "bag", note: "#9 + M1 egg batch — 1 bag covers both; do not buy more" }
+  - { name: "Spinach", amount: "1", unit: "bag", note: "M1 egg batch tonight — have it" }
   - { name: "Summer squash", amount: "1", unit: "large", note: "M1 egg batch tonight" }
-  - { name: "Eggs", amount: "18", unit: "eggs", note: "M1 batch (12) + #9 (7) = 19 needed — buy 1 more dozen" }
+  - { name: "Eggs", amount: "18", unit: "eggs", note: "M1 batch needs 12 — covered; buy 1 dozen for buffer" }
   - { name: "Large bulb spring onions", amount: "1", unit: "bunch", note: "#11 steak side — ON HAND, do not buy" }
-  - { name: "White rice", amount: "5", unit: "lb", note: "#20 + #9 — have it" }
+  - { name: "White rice", amount: "5", unit: "lb", note: "#20 — have it" }
   - { name: "Costco frozen stir-fry veg", amount: "4+", unit: "bags", note: "#20 side — have it" }
-  - { name: "Costco salsa", amount: "half container", unit: "", note: "#20 liquid — have it" }
-  - { name: "Gochujang", amount: "16", unit: "oz", note: "#9 needs ~12 Tbsp (~6 oz) — covered" }
-  - { name: "Gochugaru", amount: "8", unit: "oz", note: "#9 — have it" }
-  - { name: "Soy sauce", amount: "25", unit: "oz", note: "#9 — have it" }
+  - { name: "Costco salsa", amount: "half container", unit: "", note: "#20 liquid + #16 topping — have it" }
+  - { name: "Shredded cheese", amount: "8", unit: "oz", note: "#16 — check if have; may need to buy" }
   - { name: "Tomato paste", amount: "1", unit: "can", note: "#10 needs 8 Tbsp — confirm 1 can on hand" }
   - { name: "Beef bouillon", amount: "1", unit: "jar", note: "#10 needs 3 Tbsp — confirm on hand" }
   - { name: "Olive oil", amount: "25", unit: "oz", note: "#10 — have it" }
