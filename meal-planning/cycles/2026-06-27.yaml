@@ -66,28 +66,27 @@ selections:
     slot_assignments:
       - { member: Both, slot: M4, servings: 2 }
 
-  # #16 Taco Salad — 2× batch — Mon Jun 29 — shared dinners + Elena early solo days
-  - recipe_id: "16"
+  # #32 Modular Mediterranean Lemon Chicken + Roasted Veg + Tzatziki Fork — Mon Jun 29
+  - recipe_id: "32"
     planned_servings: 8
     notes: |
-      2× batch Mon Jun 29 evening. Double all quantities:
-        - 2.5 lbs ground beef (2 × 20oz bags from stash — pull tonight to defrost for Mon)
-        - 2 taco seasoning packets (or homemade double batch)
-        - 2 heads iceberg lettuce
-        - 4 cups cherry tomatoes
-        - 1 cup red onion, diced
-        - 2 jalapeños
-        - 2 avocados (slice fresh per serving)
-        - 2 cups shredded cheese
-        - 2 cans refried beans
-        - 1 cup salsa (use Costco salsa from inventory)
-        - 1 cup Greek yogurt
-        - 2 handfuls tortilla strips
-        - Cilantro + lime wedges
+      Cook Mon Jun 29 evening. Scale to 8 srv (4 lb chicken breast from freezer — pull
+      Mon AM to defrost).
 
-      Store beef + beans separately (reheat). Everything else stays cold.
-      Elena assembles her own servings from stored components — no hot cooking needed.
-      Pull 2 ground beef bags from freezer TONIGHT for Mon cook.
+      WILL FORK (~370 cal / 50P / 5F / 18C per serving):
+        5 oz chicken + 2 cups roasted veg (sub Costco frozen stir-fry veg, no bell peppers)
+        + 3 Tbsp tzatziki + extra lemon + dill. NO farro, NO pita, NO feta, NO olives.
+
+      ELENA FORK (~580 cal / 45P / 22F / 45C per serving):
+        5 oz chicken + 1 cup roasted veg + 0.6 cup cooked farro + 1 pita + 3 Tbsp tzatziki
+        + 0.8 oz feta + 3 kalamata olives + 1 tsp olive oil drizzle + dill.
+
+      Tzatziki: nonfat Greek yogurt + grated cucumber + garlic + lemon. Make 1 batch.
+      Marinate: lemon juice + zest + olive oil + oregano + thyme + garlic + salt + pepper.
+      Sheet pan: 425°F 20-25 min. Air-fryer Will veg separately (no bell peppers).
+
+      Elena assembles from stored components; chicken reheats in microwave 60-90 sec.
+      Pita warm in toaster at serving. Pack tzatziki cup + feta + olives separate for Elena.
     slot_assignments:
       - { member: Both, slot: M4, servings: 6 }    # 3 shared dinners Mon–Wed
       - { member: Elena, slot: M4, servings: 2 }   # Elena solo M4 Jul 2–3
@@ -120,7 +119,7 @@ selections:
       - { member: Elena, slot: M4, servings: 6 }   # Elena solo M4 Jul 2–8 (minus Jul 4 exception)
 
 inventory_snapshot:
-  - { name: "Chicken breasts", amount: "3.5", unit: "lb", note: "#20 — defrosted, cook tonight" }
+  - { name: "Chicken breasts", amount: "3.5", unit: "lb", note: "#20 — defrosted, cook tonight; #32 needs 4 lb more (pull Mon AM from freezer)" }
   - { name: "NY strip steaks", amount: "2", unit: "steaks", note: "#11 — already on hand" }
   - { name: "Ground beef (90/10)", amount: "8.75", unit: "lbs", note: "#9 uses 2.5 lb (2 bags) + #10 uses 2.4 lb; pull Mon + Tue AM" }
   - { name: "Spinach", amount: "1", unit: "bag", note: "M1 egg batch tonight — have it" }

@@ -1,4 +1,4 @@
-# State — Last updated June 21, 2026
+# State — Last updated June 27, 2026
 
 ## Quests (Q2 — set in the May 25 quarterly review; full doc `archives/2026-Q2-quarterly-review.md`)
 - **Work main:** Exit Codie's 3-mo acquisition Learn phase deal-ready by Aug 31 (12+ framework reps, 2+ broker contacts, LOI template). `goals/acquisition.md`. **ON TRACK** — Frame B numbers locked (Elena signed off 6/18), Dan reachout pivoted to in-person next week (6/22 week), 5-point verbal spine prep is the load-bearing move. **TIME-LOCK TEXT TO DAN IS WEEK 26 LOAD-BEARING ACTION.**
@@ -38,6 +38,7 @@ Phase: **NYC Cut Wk 6 of 8** — May 17 – Jul 11 (~3 weeks remaining; daily ga
 - Reverse diet: Jul 12–29. NYC maintenance: Jul 30–Aug 5.
 - Program: GVS Ravage. Macros tracked in **Cronometer**.
 - **Meal cycle 2026-06-20 fully planned** (compressed, post-SoCal): pulled pork carnitas (IP Mon eve) + crispy chicken sandwiches + beef burgers + Chinese poached chicken + IP chipotle-lime shredded chicken. Veg covered all slots via frozen Costco stir-fry veg + air-fryer sides. Walmart delivery Mon (10 items). `meal-planning/cycles/2026-06-20.yaml`.
+- **Meal cycle 2026-06-27 planned (BANFF-SPLIT):** Cook tonight Jun 27 — IP chipotle-lime shredded chicken (URGENT, defrosted, Will-only cut food) + freeform M1 egg/squash/spinach batch (6 containers). Sun Jun 28 — NY strip steak send-off dinner (steaks on hand, no porcini, salt/pepper dry brine). Mon Jun 29 — Mediterranean lemon chicken + tzatziki fork (#32, shawarma-adjacent, 8 srv) — Will assembly plain with frozen veg sub (no bell peppers), Elena fork with pita + feta + farro + kalamata. Tue Jun 30 — spaghetti 2× batch (#10, lean beef only, no sausage, 12 srv — freeze bulk for Elena solo week). Will departs Banff Jul 2; Elena self-sufficient Jul 2–8 via spaghetti + Mediterranean chicken from fridge/freezer. `meal-planning/cycles/2026-06-27.yaml`.
 
 ## Relationships
 - **Style Avatar LOCKED 2026-06-17:** *"I am the guy who moves with intention and carries gravity quietly — present, deliberate, and not performing for the room."* Direction: Latin Gentleman with Athletic Gravity. `context/about-me.md`. First live-test Friday 6/19 produced verbal "you look good" signal — real but not transformative. Avatar direction intact; Friday confounded by period day 3.
@@ -93,6 +94,6 @@ Phase: **NYC Cut Wk 6 of 8** — May 17 – Jul 11 (~3 weeks remaining; daily ga
 
 ## AIOS / Meta
 - Style Avatar locked in `context/about-me.md`; `style-grooming-sprint` backlog row rewritten as 5-month climate-adjusted buildout (deadline Dec 1).
-- Meal-planning cycle 2026-06-20 fully planned + pushed.
+- Meal-planning cycles 2026-06-20 + 2026-06-27 fully planned + pushed.
 - Sun 6/28 wardrobe audit block on calendar 10:30am-12pm AZ.
 - **Liftosaur MCP token expired — re-auth this week** (W26 reflection blocker).
