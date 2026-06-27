@@ -35,8 +35,14 @@ def parse_amount(amount):
     Returns None when the amount is non-numeric ("to taste", "as needed", etc.).
     Handles: plain ints/decimals ("4", "1.25"), fractions ("1/2", "3/4"),
     mixed ("1 1/2"), ranges ("2-3" -> midpoint), tilde/approx ("~1/3"),
-    leading numbers with trailing text ("24oz", "32 oz (~4 thighs)"),
-    and additive amounts ("1 Tbsp + 1 tsp" -> 1, the leading number).
+    leading numbers with trailing text ("24oz", "32 oz (~4 thighs)").
+
+    Additive amounts ("1 Tbsp + 1 tsp") return None on purpose (2026-06-26 review #1):
+    taking only the leading number silently DROPPED the "+ 1 tsp", under-buying in
+    grocery AND under-depleting inventory the same way (drift every cycle). Returning
+    None makes grocery flag it a CHECK item — Will confirms by hand rather than the
+    system guessing low. (Full additive summing needs unit conversion; not worth the
+    risk for the handful of additive entries.)
 
     Deterministic and conservative: when in doubt, return None rather than guess.
     """
@@ -49,6 +55,12 @@ def parse_amount(amount):
         return None
 
     s = s.replace("~", "").replace("about", "").strip()
+
+    # Additive amount ("1 Tbsp + 1 tsp"): a '+' joining two quantities. Don't guess the
+    # leading number — return None so grocery marks it CHECK (review #1). Guard placed
+    # before the leading-number regex below, which would otherwise grab just the "1".
+    if "+" in s:
+        return None
 
     # Range "2-3" or "12-18" -> midpoint. Only when it's number-dash-number.
     m = re.match(r"^(\d+(?:\.\d+)?)\s*-\s*(\d+(?:\.\d+)?)", s)
@@ -217,7 +229,7 @@ def convert_qty(qty, from_unit, to_unit):
 _NAME_STOPWORDS = {
     "fresh", "raw", "cooked", "pre-cooked", "precooked", "dry",
     "sliced", "diced", "chopped", "minced", "grated", "crushed", "shredded",
-    "smashed", "trimmed", "thinly", "finely", "halved", "wedged", "cubed",
+    "smashed", "trimmed", "thinly", "finely", "halved", "wedged", "cubed", "peeled",
     "the", "a", "an", "of", "or", "and", "for", "with", "per", "each", "to",
     "any", "color", "colour", "low-cal", "lite", "fat", "free",
     "fatfree", "fat-free", "skinless", "boneless", "lean", "extra", "large",
@@ -274,6 +286,30 @@ def _name_tokens(name):
     return toks
 
 
+def _depluralize_nondistinguisher(toks):
+    """Fold a trailing plural on NON-distinguisher tokens so 'breast'/'breasts'
+    and 'potato'/'potatoes' collapse to the same form. Distinguisher tokens
+    (powder/whites/seeds/flakes/...) are left verbatim — their singular/plural
+    identity is load-bearing and is judged by the _DISTINGUISHERS guard, not here.
+    Length-guarded + -ss excluded so mass nouns ('molasses') and short tokens
+    aren't mangled. Used ONLY for the equal-cardinality folded-equality path in
+    names_match (added 2026-06-27 — 'Raw chicken breast' vs 'Chicken breasts' was
+    a false BUY because the plural-s blocked the subset test)."""
+    out = set()
+    for t in toks:
+        if t in _DISTINGUISHERS:
+            out.add(t)
+        elif t.endswith("ies") and len(t) > 4:
+            out.add(t[:-3] + "y")               # berries->berry
+        elif (t.endswith("oes") and len(t) > 4) or (t.endswith("es") and len(t) > 4 and t[-3] in "shx"):
+            out.add(t[:-2])                       # potatoes->potato, dishes->dish
+        elif t.endswith("s") and not t.endswith("ss") and len(t) > 3:
+            out.add(t[:-1])                       # breasts->breast, eggs->egg
+        else:
+            out.add(t)
+    return out
+
+
 def names_match(recipe_name, inv_name):
     """Conservative fuzzy match between a recipe ingredient name and an on-hand
     (inventory or snapshot) name. True when, after normalization, every content
@@ -287,17 +323,24 @@ def names_match(recipe_name, inv_name):
         return False
     sa, sb = set(a), set(b)
     # Guardrail: a one-sided product-distinguishing token means different products
-    # (garlic powder vs fresh garlic, egg whites vs eggs). Block the match.
+    # (garlic powder vs fresh garlic, egg whites vs eggs). Runs on RAW tokens so the
+    # distinguisher's own plurality (white/whites, seed/seeds) is judged before folding.
     if (sa & _DISTINGUISHERS) != (sb & _DISTINGUISHERS):
         return False
     if sa == sb:
         return True
     shorter, longer = (sa, sb) if len(sa) <= len(sb) else (sb, sa)
-    if not shorter.issubset(longer):
-        return False
-    # Require at least one substantive (>2 char) shared token so we never call a
-    # match on a lone tiny token.
-    return any(len(t) > 2 for t in shorter)
+    if shorter.issubset(longer) and any(len(t) > 2 for t in shorter):
+        return True
+    # Singular/plural net — ONLY at EQUAL cardinality. Every false-merge risk from
+    # blanket depluralization (Greens->green ⊂ {green,onion}; Oats->oat ⊂ {oat,milk})
+    # is a 1-token-into-2 subset; requiring len(sa)==len(sb) admits 'chicken breast'~
+    # 'chicken breasts' while excluding those. (Adversarially verified 2026-06-27.)
+    if len(sa) == len(sb):
+        fa, fb = _depluralize_nondistinguisher(sa), _depluralize_nondistinguisher(sb)
+        if fa == fb and any(len(t) > 2 for t in fa):
+            return True
+    return False
 
 
 def whole_item_count(name, oz_quantity):

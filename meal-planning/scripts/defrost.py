@@ -74,7 +74,12 @@ def lead_hours_for(protein, config):
     for key, rng in table.items():
         if key.lower() in p:
             return tuple(rng)
-    # default to the longer (breast) window if unknown but thawable
+    # default to the longer (breast) window if unknown but thawable. Warn (review #5):
+    # a new protein (lamb/duck) silently inherits the breast window — surface it so Will
+    # adds a config.defrost_lead_hours entry instead of mis-staging the thaw.
+    import sys as _sys
+    print(f"  ⚠ defrost: '{protein}' not in config.defrost_lead_hours — using default "
+          f"(18,24)h breast window. Add an entry if its thaw time differs.", file=_sys.stderr)
     return (18, 24)
 
 

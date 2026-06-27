@@ -1,9 +1,11 @@
 # Cycle Sat 2026-06-27 -> Fri 2026-07-03 (BANFF-SPLIT)
-# Built with Claude 2026-06-27.
-# Cook tonight Jun 27 (pre-party): IP shredded chicken (URGENT) + M1 egg/squash batch.
-# Cook Day 2: Sun Jun 28 — NY Strip steak send-off dinner (steaks already on hand).
-# Cook Day 3: Mon Jun 29 — Bibimbap (2 bags beef, ~7 srv).
-# Cook Day 4: Tue Jun 30 — Spaghetti 2× batch (Elena solo anchor, freeze).
+# Built with Claude 2026-06-27. Revised 2026-06-27: pack-1 IP chicken + pack-2 ginger-
+# scallion chicken; crunchwrap supremes replace taco salad; spaghetti no sausage.
+# Cook tonight Jun 27 (pre-party): IP shredded chicken pack-1 (URGENT, + Costco stir-fry veg)
+#   + M1 egg/squash batch. Make ginger-scallion sauce Sun night so it rests overnight.
+# Cook Day 2: Sun Jun 28 — NY Strip steak send-off dinner (steaks on hand; no porcini).
+# Cook Day 3: Mon Jun 29 — Ginger-scallion Chinese chicken (pack-2) + Crunchwrap Supreme 2× batch.
+# Cook Day 4: Tue Jun 30 — Spaghetti 2× batch, lean beef only (Elena solo anchor, freeze).
 date: "2026-06-27"
 grocery_day: "2026-06-28"   # Walmart only — steaks already on hand, beef covered by stash
 
@@ -31,27 +33,36 @@ exceptions:
   - { date: "2026-07-03", member: Will, slot: M4, reason: "Banff" }
   - { date: "2026-07-04", member: Elena, slot: M4, reason: "July 4th — dining out" }
 
-carryover: []
+carryover:
+  - { recipe_id: "23", servings: 1, note: "1 Walmart beef burger left from last cycle -> Will M4. NO roma tomato on hand for slice — eat w/o tomato or add 1 roma to grocery." }
+  - { recipe_id: "5", servings: 3, note: "3 crispy chicken sandwiches left from last cycle -> Will M4. NO roma tomato for slices — skip tomato or buy romas." }
 
 selections:
-  # #20 IP Chipotle-Lime Shredded Chicken — cook TONIGHT Jun 27
+  # #38 Egg + Summer Squash Breakfast Batch — cook TONIGHT alongside the IP chicken
+  - recipe_id: "38"
+    planned_servings: 6
+    notes: |
+      Will M1 Mon–Sat. Make 6 microwave containers tonight Jun 27 with the IP chicken.
+      11 eggs (have 11) + ~half a huge summer squash + 2 big handfuls spinach (both plentiful).
+      Veg-forward. Cut-oriented: lean protein + veg, no starch.
+    slot_assignments:
+      - { member: Will, slot: M1, servings: 6 }
+
+  # #20 IP Chipotle-Lime Shredded Chicken — cook TONIGHT Jun 27 — PACK 1 (22oz)
   - recipe_id: "20"
-    planned_servings: 11
+    planned_servings: 5
     notes: |
       URGENT — chicken defrosted, cook TONIGHT before Jin's party.
-      ~3.5 lb chicken breasts. Will only — Elena will not eat this.
+      PACK 1 = 22oz (~1.4 lb) → realistically ~5 servings. Will only (Elena won't eat).
+      Feeds M1/M2 (breakfast/lunch), paired with rice + Costco frozen stir-fry veg.
 
       IP HIGH PRESSURE 15 min + natural release 10 min:
       - 1 cup chicken broth + juice of 1 lime + 2 Tbsp Costco salsa
       - 1 Tbsp cumin + 1 Tbsp chili powder + 1 tsp garlic powder + 1 tsp salt
         + 1 tsp paprika + 1/2 tsp chipotle powder
-      Shred with two forks, keep with juices. Pair with rice + frozen stir-fry veg.
-
-      Eat 1 bowl for dinner tonight before the party.
+      Shred with two forks, keep with juices.
     slot_assignments:
-      - { member: Will, slot: M4, servings: 1 }    # tonight's dinner
-      - { member: Will, slot: M2, servings: 5 }    # Mon Jun 29 – Fri Jul 2 (Thu exception covers Jul 2 M4 only)
-      - { member: Will, slot: M3, servings: 5 }    # Mon Jun 29 – Fri Jul 2
+      - { member: Will, slot: M2, servings: 5 }    # Mon Jun 29 – Fri lunches (M1 covered by #38 egg batch)
 
   # #11 NY Strip Steak & Salad — Sun Jun 28 send-off dinner
   - recipe_id: "11"
@@ -66,71 +77,66 @@ selections:
     slot_assignments:
       - { member: Both, slot: M4, servings: 2 }
 
-  # #16 Taco Salad — 2× batch — Mon Jun 29 — shared dinners + Elena early solo days
-  - recipe_id: "16"
-    planned_servings: 8
+  # #36 Ginger-Scallion Chinese Chicken — uses the 2nd DEFROSTED chicken pack
+  # Overnight sauce: make sauce Sun Jun 28 night, poach/slice chicken Mon Jun 29.
+  - recipe_id: "36"
+    planned_servings: 4
     notes: |
-      2× batch Mon Jun 29 evening. Double all quantities:
-        - 2.5 lbs ground beef (2 × 20oz bags from stash — pull tonight to defrost for Mon)
-        - 2 taco seasoning packets (or homemade double batch)
-        - 2 heads iceberg lettuce
-        - 4 cups cherry tomatoes
-        - 1 cup red onion, diced
-        - 2 jalapeños
-        - 2 avocados (slice fresh per serving)
-        - 2 cups shredded cheese
-        - 2 cans refried beans
-        - 1 cup salsa (use Costco salsa from inventory)
-        - 1 cup Greek yogurt
-        - 2 handfuls tortilla strips
-        - Cilantro + lime wedges
-
-      Store beef + beans separately (reheat). Everything else stays cold.
-      Elena assembles her own servings from stored components — no hot cooking needed.
-      Pull 2 ground beef bags from freezer TONIGHT for Mon cook.
+      Uses the SECOND defrosted chicken pack (22oz / 1 pack). SHARED — Elena eats this too.
+      Overnight ginger-scallion sauce — make Sun Jun 28 night so it rests:
+        - 1 bunch green onions finely sliced + 3 Tbsp grated ginger + 2 cloves garlic + pinch salt
+        - heat 3 Tbsp neutral oil until shimmering, pour over aromatics to bloom
+        - stir in 2 Tbsp low-sodium soy + 1 Tbsp rice vinegar + 1 tsp sesame oil; fridge overnight
+      Mon: poach/steam chicken to 165F, slice. ELENA over rice (M4) / lunch (M2). WILL alone,
+      starch-free (M4/M2 cut). Spoon ~1 Tbsp sauce per serving (oil-forward — keep portion tight).
     slot_assignments:
-      - { member: Both, slot: M4, servings: 6 }    # 3 shared dinners Mon–Wed
-      - { member: Elena, slot: M4, servings: 2 }   # Elena solo M4 Jul 2–3
+      - { member: Both, slot: M4, servings: 2 }    # 1 shared dinner Mon Jun 29 (Will + Elena)
+      - { member: Will, slot: M2, servings: 1 }    # Will lunch
+      - { member: Elena, slot: M2, servings: 1 }   # Elena lunch — helps her M2 gap
 
-  # #10 Spaghetti with Meat Sauce — 2× batch — Tue Jun 30 — Elena solo anchor
+  # #37 Low-Calorie Crunchwrap Supreme — single batch Mon Jun 29 — replaces taco salad
+  - recipe_id: "37"
+    planned_servings: 4
+    notes: |
+      SINGLE batch Mon Jun 29 — 1 ground beef bag (~1.25 lb) → 4 crunchwraps.
+      Low-cal swaps: lean 90/10 beef, 0% Greek yogurt for sour cream, low-carb tortillas,
+      reduced-fat cheese. Standard quantities (recipe #37 = 4 srv).
+      Griddle seam-side down to seal; re-crisp leftovers in air-fryer (NOT microwave).
+      Pull 1 ground beef bag from freezer TONIGHT for Mon cook.
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 4 }    # 2 shared dinners (Will + Elena), Mon + Tue
+
+  # #10 Spaghetti with Meat Sauce — SINGLE batch — Tue Jun 30 — Elena solo anchor
   - recipe_id: "10"
-    planned_servings: 12
+    planned_servings: 6
     notes: |
-      2× batch Tue Jun 30 evening (ground beef from stash — pull Tue AM to defrost).
-      MODIFIED: no sausage — lean ground beef only.
-      Double all quantities:
-        - 2.4 lb ground beef (no sausage)
-        - 2 × 28oz crushed tomatoes
-        - 8 Tbsp tomato paste
-        - 3 Tbsp beef bouillon
-        - 32 oz thin spaghetti
-        - 2 lb carrots (air-fryer roasted side)
+      SINGLE batch Tue Jun 30 (1 ground beef bag ~1.2 lb — pull Tue AM to defrost).
+      MODIFIED: no sausage — lean ground beef only. Recipe #10 base = 6 srv.
+      Freeze ~5 servings immediately; Elena pulls from freezer during her solo week.
 
-      Freeze 8+ servings immediately. Elena pulls from freezer during solo week.
-
-      Serves:
-        - Will M4 Wed Jul 1 (1 srv)
-        - Elena M2 Tue Jun 30 + Wed Jul 1 (2 srv — covers gap left by bibimbap)
-        - Elena M4 Jul 2 + Jul 3 + Jul 5 + Jul 6 + Jul 7 + Jul 8 (6 srv)
-        - Elena M2 Jul 2 + Jul 3 + Jul 6 + Jul 7 + Jul 8 (5 srv — Sat/Sun no work)
-        Total: 14 — cook 12 (some doubling of nights, buffer ok)
+      ⚠ COVERAGE NOTE: single batch = 6 srv. Elena's solo week (Jul 2–8) M2+M4 wants ~11.
+      The 6 spaghetti + crunchwrap leftovers + her own fend-for-self cover part of it; the
+      rest she handles ad-hoc. If you want her fully covered, bump this back to 2× (needs
+      a 2nd beef bag — plenty in the 8.75 lb stock). Left at 1 batch per your call.
     slot_assignments:
-      - { member: Will, slot: M4, servings: 1 }
-      - { member: Elena, slot: M2, servings: 5 }   # Tue Jul 1 + Wed + solo week work days
-      - { member: Elena, slot: M4, servings: 6 }   # Elena solo M4 Jul 2–8 (minus Jul 4 exception)
+      - { member: Will, slot: M4, servings: 1 }    # Will M4 Wed Jul 1
+      - { member: Elena, slot: M2, servings: 2 }   # Elena M2 Tue Jun 30 + Wed Jul 1
+      - { member: Elena, slot: M4, servings: 3 }   # Elena solo M4 (partial — single batch; rest ad-hoc)
 
 inventory_snapshot:
-  - { name: "Chicken breasts", amount: "3.5", unit: "lb", note: "#20 — defrosted, cook tonight" }
+  - { name: "Chicken breasts", amount: "5.5", unit: "lb", note: "#20 pack-1 (22oz, cook tonight) + #36 pack-2 (~1.75lb, defrosted); rest frozen" }
   - { name: "NY strip steaks", amount: "2", unit: "steaks", note: "#11 — already on hand" }
-  - { name: "Ground beef (90/10)", amount: "8.75", unit: "lbs", note: "#9 uses 2.5 lb (2 bags) + #10 uses 2.4 lb; pull Mon + Tue AM" }
+  - { name: "Ground beef (90/10)", amount: "8.75", unit: "lbs", note: "#37 crunchwrap 1 bag (~1.25lb) + #10 spaghetti 1 bag (~1.2lb); pull both TONIGHT. Plenty left for a 2nd spaghetti batch if you want Elena fully covered." }
+  - { name: "Carryover: beef burger", amount: "1", unit: "serving", note: "#23 from last cycle -> Will M4. NO roma tomato on hand." }
+  - { name: "Carryover: chicken sandwiches", amount: "3", unit: "servings", note: "#5 from last cycle -> Will M4. NO roma tomato for slices." }
+  - { name: "Roma tomatoes", amount: "0", unit: "tomatoes", note: "NOT on hand — BUY ~3 at Walmart: 1 for steak salad (#11), 2 for crunchwrap + slices for the carryover burger/sandwiches." }
   - { name: "Spinach", amount: "1", unit: "bag", note: "M1 egg batch tonight — have it" }
   - { name: "Summer squash", amount: "1", unit: "large", note: "M1 egg batch tonight" }
-  - { name: "Eggs", amount: "18", unit: "eggs", note: "M1 batch needs 12 — covered; buy 1 dozen for buffer" }
+  - { name: "Eggs", amount: "11", unit: "eggs", note: "11 on hand; #38 batch rebalanced to 11 eggs + extra veg (squash huge, spinach plentiful)" }
   - { name: "Large bulb spring onions", amount: "1", unit: "bunch", note: "#11 steak side — ON HAND, do not buy" }
   - { name: "White rice", amount: "5", unit: "lb", note: "#20 — have it" }
   - { name: "Costco frozen stir-fry veg", amount: "4+", unit: "bags", note: "#20 side — have it" }
   - { name: "Costco salsa", amount: "half container", unit: "", note: "#20 liquid + #16 topping — have it" }
-  - { name: "Shredded cheese", amount: "8", unit: "oz", note: "#16 — check if have; may need to buy" }
   - { name: "Tomato paste", amount: "1", unit: "can", note: "#10 needs 8 Tbsp — confirm 1 can on hand" }
   - { name: "Beef bouillon", amount: "1", unit: "jar", note: "#10 needs 3 Tbsp — confirm on hand" }
   - { name: "Olive oil", amount: "25", unit: "oz", note: "#10 — have it" }

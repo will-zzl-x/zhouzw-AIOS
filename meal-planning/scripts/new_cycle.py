@@ -20,8 +20,10 @@ from lib import models
 
 def next_saturday(d=None):
     d = d or date.today()
-    # Saturday = weekday 5
-    return d + timedelta((5 - d.weekday()) % 7)
+    # Saturday = weekday 5. Use NEXT Saturday even when run ON a Saturday — a new cycle
+    # is always for the upcoming week, never today (review #6: the bare %7 returned 0 on
+    # Saturdays, defaulting the cycle to today instead of +7).
+    return d + timedelta(((5 - d.weekday() + 7) % 7) or 7)
 
 
 def to_yaml(cycle_dict):
@@ -88,10 +90,27 @@ def interactive():
             break
         carryover.append({"recipe_id": rid, "servings": int(ask("    servings", "0"))})
 
+    # inventory_snapshot — items already on hand for THIS cycle that reduce the
+    # grocery list. grocery.py + deplete.py net these out by (name, amount, unit),
+    # so populating it here prevents the false-positive BUYs flagged in retro #1/#12
+    # (the 2026-06-06 cycle had 20+ hand-struck buys because this was left empty).
+    inventory_snapshot = []
+    print("\nItems already on hand for this cycle (reduce the grocery list). Blank name to finish.")
+    while True:
+        nm = ask("  on-hand item name")
+        if not nm:
+            break
+        inventory_snapshot.append({
+            "name": nm,
+            "amount": ask("    amount", "1"),
+            "unit": ask("    unit (oz/lb/cup/slices/each...)", "each"),
+            "note": ask("    note (which recipe / why)", ""),
+        })
+
     return cdate, {
         "date": cdate, "grocery_day": gday,
         "exceptions": exceptions, "carryover": carryover,
-        "selections": selections, "inventory_snapshot": [],
+        "selections": selections, "inventory_snapshot": inventory_snapshot,
     }
 
 

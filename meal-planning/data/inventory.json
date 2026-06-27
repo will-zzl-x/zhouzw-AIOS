@@ -169,10 +169,11 @@
   },
   {
     "item": "Eggs",
-    "quantity": 18,
+    "quantity": 11,
     "unit": "eggs",
     "location": "fridge",
-    "freshness_date": "2026-06-25"
+    "freshness_date": "2026-06-25",
+    "note": "11 on hand (was 18). #38 batch rebalanced to 11 eggs."
   },
   {
     "item": "Chicken breasts",
@@ -180,14 +181,15 @@
     "unit": "lbs",
     "location": "freezer",
     "freshness_date": "2026-08-15",
-    "note": "4 × 22oz Costco packs — added 2026-06-22"
+    "note": "Sold in 22oz (~1.375 lb) packs. 5.5 lb \u2248 4 packs. This cycle uses pack-1 (#20) + pack-2 (#36)."
   },
   {
     "item": "Chicken thighs",
-    "quantity": 8,
+    "quantity": 0,
     "unit": "thighs",
-    "location": "freezer",
-    "freshness_date": "2026-08-01"
+    "location": "none",
+    "freshness_date": null,
+    "note": "Corrected 2026-06-27 \u2014 none on hand (file was stale at 8)."
   },
   {
     "item": "Ground beef (90/10)",
@@ -195,7 +197,7 @@
     "unit": "lbs",
     "location": "freezer",
     "freshness_date": "2026-07-15",
-    "note": "7 × 20oz Costco bags — updated 2026-06-20 (was tracked as 2 lb, actual stash much higher)"
+    "note": "7 \u00d7 20oz Costco bags \u2014 updated 2026-06-20 (was tracked as 2 lb, actual stash much higher)"
   },
   {
     "item": "Fat-free cream cheese",
@@ -207,13 +209,6 @@
   {
     "item": "Parmigiano Reggiano",
     "quantity": 4,
-    "unit": "oz",
-    "location": "fridge",
-    "freshness_date": null
-  },
-  {
-    "item": "Shredded cheese",
-    "quantity": 8,
     "unit": "oz",
     "location": "fridge",
     "freshness_date": null
@@ -252,7 +247,7 @@
     "unit": "head",
     "location": "fridge",
     "freshness_date": null,
-    "note": "Used up — buying fresh head for #23 burgers (2026-06-22 cycle)"
+    "note": "Used up \u2014 buying fresh head for #23 burgers (2026-06-22 cycle)"
   },
   {
     "item": "Red onion",
@@ -309,5 +304,149 @@
     "unit": "jar",
     "location": "fridge",
     "freshness_date": null
+  },
+  {
+    "item": "Shallot",
+    "quantity": 2,
+    "unit": "shallots",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Large bulb green onions",
+    "quantity": 1,
+    "unit": "bunch",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Butter",
+    "quantity": 1,
+    "unit": "stick",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Grape seed oil",
+    "quantity": 16,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Greens medley",
+    "quantity": 1,
+    "unit": "bag",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Ginger powder",
+    "quantity": 2,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Zucchini",
+    "quantity": 2,
+    "unit": "zucchini",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Cottage cheese",
+    "quantity": 16,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Ricotta cheese",
+    "quantity": 15,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "EVOO",
+    "quantity": 16,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Sherry vinegar",
+    "quantity": 8,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Beef stock",
+    "quantity": 32,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Oregano",
+    "quantity": 1,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Chili flakes",
+    "quantity": 1,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Tostada shells",
+    "quantity": 10,
+    "unit": "shells",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "0% Greek yogurt",
+    "quantity": 32,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Garlic",
+    "quantity": 1,
+    "unit": "head",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Onion",
+    "quantity": 1,
+    "unit": "onion",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
   }
 ]
