@@ -2,6 +2,18 @@
 
 Rows moved here from `backlog.md` at Sunday reflections. Newest batch on top.
 
+## Archived 2026-06-28
+
+| id | Title | Area | Quest | Notes | Completed |
+|---|---|---|---|---|---|
+| dan-fill-numbers | Fill the 3 load-bearing numbers in Frame B | Money | work-main | DONE 6/18. Elena $50K + full-time-early → taper signed off. CPA framing resolved. Message brackets stripped. Send-channel retired — pivoted to in-person. | 2026-06-18 |
+| banff-airbnb-lock | Banff — lock Airbnb | Travel | side | DONE. Justin booked Canmore Airbnb, 10 nights. Base confirmed. | 2026-06-14 |
+| banff-phx-yyc-flight | Banff — book PHX→YYC flight | Travel | side | DONE. Will arrives YYC Jul 2 5:25 PM, departs YYC Jul 8 8:25 PM. | ~2026-06-20 |
+| july-trip-decide | July friend trip — clean pass message | Relationships | side | RETIRED. This was the Banff trip all along — Will P1-only, locked. Row created before scope was clear. | 2026-06-28 |
+| meal-grocery-fix | meal-planning grocery.py fix | AIOS-Infra | not-quest | DONE 6/14. weekly-run-confident commit shipped. | 2026-06-14 |
+| meal-defrost-fix | meal-planning defrost.py fix | AIOS-Infra | not-quest | DONE 6/14. Same weekly-run-confident commit. | 2026-06-14 |
+| brief-description-fix | Morning-brief: propagate descriptions into Todoist | AIOS-Infra | not-quest | DONE 6/15. brief_generator.py Rule 10 + description schema shipped. | 2026-06-15 |
+
 ## Archived 2026-06-14
 
 | id | Title | Area | Quest | Notes | Completed |
