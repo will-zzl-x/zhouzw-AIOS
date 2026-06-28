@@ -1,44 +1,45 @@
-# State — Last updated June 27, 2026
+# State — Last updated June 28, 2026
 
 ## Quests (Q2 — set in the May 25 quarterly review; full doc `archives/2026-Q2-quarterly-review.md`)
-- **Work main:** Exit Codie's 3-mo acquisition Learn phase deal-ready by Aug 31 (12+ framework reps, 2+ broker contacts, LOI template). `goals/acquisition.md`. **ON TRACK** — Frame B numbers locked (Elena signed off 6/18), Dan reachout pivoted to in-person next week (6/22 week), 5-point verbal spine prep is the load-bearing move. **TIME-LOCK TEXT TO DAN IS WEEK 26 LOAD-BEARING ACTION.**
+- **Work main:** Exit Codie's 3-mo acquisition Learn phase deal-ready by Aug 31 (12+ framework reps, 2+ broker contacts, LOI template). `goals/acquisition.md`. **SLIPPING** — Dan in-person conversation has not happened; time-lock text never sent through W26. Will explicitly deprioritized Dan until promo doc ships. **Dan text to lock day/time queued for first Monday back from Banff (Jul 13).** Promo doc is the current gate.
 - **Life main:** Become my own point of origin — self-validation, worth from inside not the scoreboard. Keystone: **Sunday morning Zone 2 — stationary bike + phone, 60–90 min** (modality changed 6/14). Measure inputs, never score outputs. `goals/desire-polarity.md`. **AT RISK / prescription open** — solo-space rep rotation deliberately deferred to post-cut review Jul 12+. **NEW W25 read: dance lesson > architected dinner for desire-polarity rep**; Salsa II re-weighted as a quest move, not a side hobby. Avatar locked 6/17, first live-test Friday 6/19 produced verbal "you look good" signal but no transformative response (confounded by Elena period day 3 stomach issues).
-- **Side:** ship promo doc (SELF-DEADLINE TIGHTENED to Fri Jun 26 from Jun 27-28 weekend) · execute the cut through Jul 11 · friend touchpoint every 2 wks.
+- **Side:** ship promo doc (**OVERDUE — missed Jun 26 self-deadline, ship before Banff Jul 2**) · execute the cut through Jul 11 (re-baselined to ~177 lb) · friend touchpoint every 2 wks.
 - **Wheel low axis (the focus):** Joy 4, Heart 5 — winning on paper, not feeling it. The Life quest targets the root.
 
-Phase: **NYC Cut Wk 6 of 8** — May 17 – Jul 11 (~3 weeks remaining; daily gates by weekday/weekend in `daily-standard.md`)
+Phase: **NYC Cut Wk 7 of 8** — May 17 – Jul 11 (~2 weeks remaining; deload Wk10 underway; daily gates by weekday/weekend in `daily-standard.md`)
 
 ## Daily Loop
 - **Todoist daily brief live.** GitHub Actions runs the morning brief at 7am AZ (14:00 UTC) → 3–5 tasks to Todoist "AIOS Daily"; evening archive at 9pm AZ (04:00 UTC) writes completions to `journals/daily-log.md`.
 - **Daily Consistent descriptions propagate to Todoist** (brief-description-fix shipped 6/15).
-- **Fitness logging pipeline partial (#74).** Drift-detector half shipped 6/14 PM (`cloud/morning-brief/fitness_drift.py`). **Liftosaur MCP token EXPIRED W25** — re-auth this week or W26 reflection runs without live data again (third reflection on stale numbers). Auto-pull half post-cut Jul 12+.
+- **Fitness logging pipeline partial (#74).** Drift-detector half shipped 6/14 PM (`cloud/morning-brief/fitness_drift.py`). **Liftosaur MCP abandoned** — Will submitting CSV directly each reflection going forward. Auto-pull half post-cut Jul 12+.
 
 ## Career
 - Amazon SCM I (L4). **Talent Review .docx submitted 5/19** — Q3–Q4 promo window now needs L5-grade evidence.
-- **Promo doc — SELF-DEADLINE Fri Jun 26** (tightened from Jun 27-28 weekend in W25 reflection). Lift IFSA_CHILD + GL_MW write-ups in (L5 systems-thinking evidence). Likely real ship: Thu Jun 25 evening + Fri Jun 26 morning polish before sending.
+- **Promo doc — OVERDUE.** Jun 26 self-deadline missed, Jun 27-28 fallback missed. Still needs final review. Must ship before Banff departure Jul 2.
 - DOE Redirect Automation — **STALE 30d, ★STRONG promo deliverable.** Self-set EOM commit to Felix; eligibility-vs-4-gate decision at next Matt 1:1 (Matt back this week from paternity 6/15-20), then ship.
 - **Manager-gap week W25 (Matt OOO 6/15-20, Hans OOTO 6/13-28, Colton sick): passed without fires** per Will's read. AZNG reconciliation status not surfaced — carry-forward unresolved.
 - Jeff rIXD-secondary-owner ramp: plan accepted, status not reviewed.
 - **SCM II behavior-logging retired** — measure promotion by deliverables, not behavior counts. `goals/scm-ii-promotion.md` parked.
 
 ## Fitness
-- **NYC Cut Wk 6 of 8.** Prior reflection numbers (W24): 6/1 → 175.9 (cut low), 6/8 → 178.1 (stalled off the low). **W25 weight not pulled** — Liftosaur measurements API token expired, weight numbers still stale.
-- **W25 SoCal trip fitness reads:** Saturday SoCal lift CUT (Will's "vacation more" call), Sunday Z2 MISSED (driving day). Z2 keystone has NOT FIRED on the new bike + phone modality yet — two consecutive Z2 misses on the new setup. Fire Sun 6/28.
-- **W25 lifting sessions logged (Liftosaur CSV ingested 6/22):** 4 sessions Mon-Fri 6/16-19 — Wk8D5 Torso B + Wk8D6 Bro B + Wk9D1 Legs A + Wk9D2 Torso A. Strong adherence before the trip.
+- **NYC Cut Wk 7 of 8.** Deload Wk10 underway. **Weight W26: 178.0 lb Sun Jun 28 (one reading).** W26 weekly avg tracking below 178.9 (W25 avg). Full weight log in Liftosaur CSV submitted Jun 28. At ~0.7 lb/week pace → projected end-of-cut ~176–177 lb by Jul 11.
+- **End-of-cut target RE-BASELINED to 177 lb** (abort rule triggered — 2 yellows going into deload). Original 172 lb target not achievable on this trajectory.
+- **W26 adherence: 5 sessions** — Jun 23 Bro A, Jun 24 Legs B, Jun 25 Torso B, Jun 27 Bro B + Wk10 D1 Legs A (deload). Strong through end of Wk9.
 - BF: ~20–21% estimated. Lean mass: ~147 lb.
-- **Lifting canary (3-lift model, updated 6/19):**
-  1. **Larsen top set ≥ 155 × 5 @9** — 155 × 7 @9 🟢 *improved* (same reps, lower RPE than 6/14's @9.5)
-  2. **Larsen back-offs ≥ 5 reps each set** — **4, 4 ⚠️ DROPPED** from 7, 7, 5 on 6/14
-  3. **Neutral pull-up not below 3,3,1** — 4, 4, 2 🟢 *improved* (up from 3, 2, 3 on 6/14)
-  - **Net: 2 green / 1 yellow — the yellow SHIFTED from pull-up → Larsen back-offs.** Pattern: top-set strength holding/improving while back-off volume drops — classic late-cut fatigue signal (glycogen-low for volume work, intensity ceiling intact). **Watch next Larsen session (~Fri 6/26):** if back-offs return ≥5 = noise, ignore. If stay at 4 or below = sustained red → triggers abort rule.
-- **Other lifts strength reads W25:** Smith Squat 175 × 5 @9 (6/14 — NEW top weight for the cut, was 155 lb prior). Hack Squat 135 × 8/12 @9.5 (6/18). Smith Reverse Grip Bench 115 × 9 @9 (6/19 — up from prior). DB Bench 65 × 11 @9 (6/16). Helms Row 40 × 10, 13 (6/16).
+- **Lifting canary (3-lift model, updated 6/28):**
+  1. **Larsen top set ≥ 155 × 5 @9** — 155 × 7 @9 🟢 (last session 6/19; no Larsen in deload week)
+  2. **Larsen back-offs ≥ 5 reps each set** — **4, 4 ⚠️ YELLOW** (sustained 2 consecutive sessions — confirmed late-cut fatigue)
+  3. **Neutral pull-up not below 3,3,1** — Jun 25 Torso B: 3, 2 ⚠️ YELLOW (2 drops below 3-rep floor)
+  - **Net: 1 green / 2 yellow = abort rule triggered.** Re-baseline to 177 lb by Jul 11. Deload + Banff travel = no new canary data until Wk11 ~Jul 14. Pull-up yellow is the known structural weakness; program swap to machine pulldown confirmed for next block.
+- **Other lifts W26:** DB Bench 65×6/8 @9.5/10 (Jun 25 — volume dropped vs W8's 11, 9). Seated Row 87.5×16, 16 @10 (holding). Shoulder Press 45×8, 5 @10 (second set collapsed).
+- **Z2 keystone:** 0 reps on new bike + phone modality since change 6/14. Attempting tonight Sun 6/28.
 - Step target 12,500/day. Sources still unaudited.
-- **Abort signal:** Larsen 155×5/5/5 @9 OR any 2 yellow / 1 sustained red → re-baseline target to ~177 by Jul 11.
+- **Abort signal:** TRIGGERED — re-baseline to ~177 by Jul 11 ✓ applied.
 - Refeed trigger: 7-day rolling avg ≤176 lb. Hard floor: 168 lb.
 - Reverse diet: Jul 12–29. NYC maintenance: Jul 30–Aug 5.
-- Program: GVS Ravage. Macros tracked in **Cronometer**.
-- **Meal cycle 2026-06-20 fully planned** (compressed, post-SoCal): pulled pork carnitas (IP Mon eve) + crispy chicken sandwiches + beef burgers + Chinese poached chicken + IP chipotle-lime shredded chicken. Veg covered all slots via frozen Costco stir-fry veg + air-fryer sides. Walmart delivery Mon (10 items). `meal-planning/cycles/2026-06-20.yaml`.
-- **Meal cycle 2026-06-27 planned (BANFF-SPLIT):** Cook tonight Jun 27 — IP chipotle-lime shredded chicken (URGENT, defrosted, Will-only cut food) + freeform M1 egg/squash/spinach batch (6 containers). Sun Jun 28 — NY strip steak send-off dinner (steaks on hand, no porcini, salt/pepper dry brine). Mon Jun 29 — Mediterranean lemon chicken + tzatziki fork (#32, shawarma-adjacent, 8 srv) — Will assembly plain with frozen veg sub (no bell peppers), Elena fork with pita + feta + farro + kalamata. Tue Jun 30 — spaghetti 2× batch (#10, lean beef only, no sausage, 12 srv — freeze bulk for Elena solo week). Will departs Banff Jul 2; Elena self-sufficient Jul 2–8 via spaghetti + Mediterranean chicken from fridge/freezer. `meal-planning/cycles/2026-06-27.yaml`.
+- Program: GVS Ravage (deload Wk10). **Next program modification: swap pull-up for machine pulldown on both Torso days, move to exercise 2 position.**
+- Macros tracked in **Cronometer**.
+- **Meal cycle 2026-06-27 executed (BANFF-SPLIT):** Cooked Jun 27 — IP chipotle-lime shredded chicken (11 srv, Will only) + M1 egg/squash/spinach batch (6 containers). Jun 28 — NY strip steak send-off dinner (#11, tonight). Mediterranean lemon chicken (#32, 8 srv, shawarma-adjacent) — cooked Jun 27. Spaghetti 1× batch (#10, Jun 30, lean beef, 6 srv, freeze 4–5 for Elena solo week). KBBQ dining out before Jul 2. Will departs Banff Jul 2; Elena self-sufficient Jul 2–8. `meal-planning/cycles/2026-06-27.yaml`.
 
 ## Relationships
 - **Style Avatar LOCKED 2026-06-17:** *"I am the guy who moves with intention and carries gravity quietly — present, deliberate, and not performing for the room."* Direction: Latin Gentleman with Athletic Gravity. `context/about-me.md`. First live-test Friday 6/19 produced verbal "you look good" signal — real but not transformative. Avatar direction intact; Friday confounded by period day 3.
@@ -46,7 +47,8 @@ Phase: **NYC Cut Wk 6 of 8** — May 17 – Jul 11 (~3 weeks remaining; daily ga
 - **Elena Frame B sign-off (6/18) — major.** Elena confirmed her $50K equity + full-time-early-then-taper framing for the Dan in-person conversation. Closes load-bearing gaps on the work main quest.
 - **Elena leaving engineering job** (confirmed W24): exits fully (mid-2027 baseline), goes full-time into acquired firm early as needed, then tapers to absentee Year 2.
 - Pregnancy thread CLOSED 6/14.
-- Friend cadence: 2-wk rhythm holding (last confirmed W22). Next touchpoint due this week.
+- **W26 wardrobe audit:** Executed Jun 28 (partial) — 1 shirt cleared, 1 Metal Vent Tech replacement bought at Lululemon. First concrete style-sprint action since Avatar lock 6/17.
+- Friend cadence: 2-wk rhythm; touchpoint overdue (last confirmed W22).
 - **Z2 modality change (bike + phone) is NOT the Life-Main solo-space rep** — explicitly violates Perel/Schnarch filters. Solo-space rotation deferred to post-cut review Jul 12+.
 - **Zero night talks about intimacy — hard rule** (preserved).
 
@@ -77,7 +79,7 @@ Phase: **NYC Cut Wk 6 of 8** — May 17 – Jul 11 (~3 weeks remaining; daily ga
 - $2k/mo recurring allocations.
 - **Dan track PRIMARY** (Solo demoted to hedge per 6/14 pivot).
   - **Frame B numbers LOCKED 6/18** (Elena $50K + full-time-early → taper after Year 1, signed off).
-  - **Dan reachout PIVOTED TO IN-PERSON next week** (captured 6/18). Time-lock text to Dan is THIS WEEK's load-bearing action — was committed to in inbox, not yet executed. **SEND MONDAY 6/22.**
+  - **Dan in-person conversation: NOT YET HAPPENED.** Time-lock text never sent through W26. **Will explicitly deprioritized Dan until promo doc ships.** Next action: text Dan to lock day/time **first Monday back from Banff (Jul 13).**
   - 5-point verbal spine prep is the actual hard work for the meeting itself; Frame B written message repurposed as prep notes + post-meeting follow-up email basis.
   - Within 24h after the conversation: follow-up email with `context/dan-pipeline-brief.md` + `sourcing/leads-dan-shortlist.md`.
 - **Track 2 (Solo):** 620 ranked leads in `sourcing/leads-ranked-solo.md`. Sector-pick session with Elena demoted to lower-priority parallel work.
@@ -95,5 +97,5 @@ Phase: **NYC Cut Wk 6 of 8** — May 17 – Jul 11 (~3 weeks remaining; daily ga
 ## AIOS / Meta
 - Style Avatar locked in `context/about-me.md`; `style-grooming-sprint` backlog row rewritten as 5-month climate-adjusted buildout (deadline Dec 1).
 - Meal-planning cycles 2026-06-20 + 2026-06-27 fully planned + pushed.
-- Sun 6/28 wardrobe audit block on calendar 10:30am-12pm AZ.
-- **Liftosaur MCP token expired — re-auth this week** (W26 reflection blocker).
+- **Wardrobe audit executed Jun 28** — 1 shirt out, 1 Metal Vent Tech in (Lululemon). Style sprint underway.
+- **Liftosaur MCP abandoned** — CSV direct upload going forward. No re-auth needed.
