@@ -91,32 +91,42 @@ selections:
       - { member: Both, slot: M4, servings: 6 }    # 3 shared dinners Mon–Wed
       - { member: Elena, slot: M4, servings: 2 }   # Elena solo M4 Jul 2–3
 
-  # #10 Spaghetti with Meat Sauce — 2× batch — Tue Jun 30 — Elena solo anchor
+  # #10 Spaghetti with Meat Sauce — 1× batch — Tue Jun 30 — Elena solo anchor
   - recipe_id: "10"
-    planned_servings: 12
+    planned_servings: 6
     notes: |
-      2× batch Tue Jun 30 evening (ground beef from stash — pull Tue AM to defrost).
+      1× batch Tue Jun 30 evening (ground beef from stash — pull Tue AM to defrost).
       MODIFIED: no sausage — lean ground beef only.
-      Double all quantities:
-        - 2.4 lb ground beef (no sausage)
-        - 2 × 28oz crushed tomatoes
-        - 8 Tbsp tomato paste
-        - 3 Tbsp beef bouillon
-        - 32 oz thin spaghetti
-        - 2 lb carrots (air-fryer roasted side)
+      Single batch quantities:
+        - 1.2 lb ground beef (no sausage)
+        - 1 × 28oz crushed tomatoes
+        - 4 Tbsp tomato paste
+        - 1.5 Tbsp beef bouillon
+        - 16 oz thin spaghetti
+        - 1 lb carrots (air-fryer roasted side)
 
-      Freeze 8+ servings immediately. Elena pulls from freezer during solo week.
+      Freeze 4+ servings immediately. Elena pulls from freezer during solo week.
 
-      Serves:
-        - Will M4 Wed Jul 1 (1 srv)
-        - Elena M2 Tue Jun 30 + Wed Jul 1 (2 srv — covers gap left by bibimbap)
-        - Elena M4 Jul 2 + Jul 3 + Jul 5 + Jul 6 + Jul 7 + Jul 8 (6 srv)
-        - Elena M2 Jul 2 + Jul 3 + Jul 6 + Jul 7 + Jul 8 (5 srv — Sat/Sun no work)
-        Total: 14 — cook 12 (some doubling of nights, buffer ok)
+      Serves (reduced from 2× — KBBQ now covers a pre-departure shared M4):
+        - Will M4 (1 srv, a weeknight before departure)
+        - Elena M4 solo week (Jul 5–8 nights, ~4–5 srv from freezer)
     slot_assignments:
       - { member: Will, slot: M4, servings: 1 }
-      - { member: Elena, slot: M2, servings: 5 }   # Tue Jul 1 + Wed + solo week work days
-      - { member: Elena, slot: M4, servings: 6 }   # Elena solo M4 Jul 2–8 (minus Jul 4 exception)
+      - { member: Elena, slot: M4, servings: 5 }   # Elena solo M4 from freezer
+
+  # #19 Korean BBQ Chicken Thighs + Cucumber Salad — shared M4 send-off (before Will leaves)
+  - recipe_id: "19"
+    planned_servings: 6
+    notes: |
+      KBBQ shared M4 — a weeknight before Will departs Jul 2 (Mon Jun 29 or Wed Jul 1).
+      2× the base recipe (2 Costco thigh packs) for 6 srv — covers the shared dinner
+      plus leftovers into Elena's solo week.
+      MARINATE OVERNIGHT for best flavor — pull thighs to fridge + marinate the night before.
+      Cucumber salad IS the green side (batch it — improves through the week); no second green.
+      Will on cut: skip/reduce the rice portion, lean on chicken + cucumber salad.
+    slot_assignments:
+      - { member: Both, slot: M4, servings: 4 }   # 2 shared send-off dinners
+      - { member: Elena, slot: M4, servings: 2 }  # Elena solo leftovers
 
 inventory_snapshot:
   - { name: "Chicken breasts", amount: "3.5", unit: "lb", note: "#20 — defrosted, cook tonight; #32 needs 4 lb more (pull Mon AM from freezer)" }
