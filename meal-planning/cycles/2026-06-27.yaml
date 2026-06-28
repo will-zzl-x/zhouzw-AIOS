@@ -114,19 +114,8 @@ selections:
       - { member: Will, slot: M4, servings: 1 }
       - { member: Elena, slot: M4, servings: 5 }   # Elena solo M4 from freezer
 
-  # #19 Korean BBQ Chicken Thighs + Cucumber Salad — shared M4 send-off (before Will leaves)
-  - recipe_id: "19"
-    planned_servings: 6
-    notes: |
-      KBBQ shared M4 — a weeknight before Will departs Jul 2 (Mon Jun 29 or Wed Jul 1).
-      2× the base recipe (2 Costco thigh packs) for 6 srv — covers the shared dinner
-      plus leftovers into Elena's solo week.
-      MARINATE OVERNIGHT for best flavor — pull thighs to fridge + marinate the night before.
-      Cucumber salad IS the green side (batch it — improves through the week); no second green.
-      Will on cut: skip/reduce the rice portion, lean on chicken + cucumber salad.
-    slot_assignments:
-      - { member: Both, slot: M4, servings: 4 }   # 2 shared send-off dinners
-      - { member: Elena, slot: M4, servings: 2 }  # Elena solo leftovers
+  # KBBQ dining out — shared M4 send-off before Will departs Jul 2
+  # No recipe_id — restaurant meal, not a home cook.
 
 inventory_snapshot:
   - { name: "Chicken breasts", amount: "3.5", unit: "lb", note: "#20 — defrosted, cook tonight; #32 needs 4 lb more (pull Mon AM from freezer)" }
