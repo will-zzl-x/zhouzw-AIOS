@@ -256,3 +256,13 @@ Format: ✓ = done, □ = planned/pending
 □ Sunday paste: log weight + sessions + steps
 □ Text Dan — lock day/time for in-person meetup
 □ Book PHX→YYC flight for Banff, depart 7/2
+
+**2026-06-29 (Mon)** — NYC Cut Wk 7 of 8
+□ Complete Ravage training session today
+□ Walk 12,500 steps today
+□ Zone 2 cardio: 60–90 min stationary bike
+□ Phone off nightstand, charge in kitchen
+□ Run 1–2 listings through deal-eval framework
+□ Sunday paste: log weight + sessions + steps
+□ Text Dan to lock in-person day/time
+□ Mindset — Desire needs distance; love needs closeness — a marriage holds both. Today, lean fully into one moment of closeness AND one moment of separateness — don't try to compromise them into one balanced middle.
