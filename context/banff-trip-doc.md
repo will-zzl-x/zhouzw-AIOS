@@ -201,6 +201,37 @@ Banff Ave	Town stroll, free; meals/coffee optional
 
 ---
 
+## Meal plan — Will's cook nights (Jul 3, 5, 7)
+
+Sourced from Will's own vetted recipe database (`meal-planning/data/recipes.json`), adapted to the Canmore Airbnb's confirmed equipment (electric stove, oven, baking sheet, dishwasher — **no grill, air fryer, blender, slow cooker, or wok**), scaled to 6 servings, and screened against: no beans, nothing super spicy, chicken thighs over sausage, low-FODMAP veg choices, no cornbread.
+
+**Night 1 (Jul 3) — Recipe #1, Chicken Teriyaki (S-tier)**, scaled 4→6 servings
+- 6 boneless chicken thighs (~2 Costco packs)
+- Marinade: 3 Tbsp dark soy sauce, 4.5 Tbsp light soy sauce, 3-4 cloves garlic minced, 3 packets Splenda, five spice + white pepper to taste — marinate 30 min–overnight
+- 1.5 cups dry white rice, cooked stovetop (no rice cooker needed)
+- 1.5 packs bok choy or gai lan, steamed in a covered pot with a splash of water ~5-7 min, salted (no steamer basket needed) — already low-FODMAP
+- Oven sub for air fryer: 400°F on the baking sheet, ~20-22 min, flip halfway, until 165°F internal with some char
+
+**Night 2 (Jul 5) — Recipe #22, Chicken Thigh Fried Rice**, as-is (6 servings)
+- 4 chicken thighs diced (~21 oz), 16 oz egg whites + 2 whole eggs
+- **Prep the day before (Jul 4):** cook 1.8 cups dry rice, spread on a tray, chill uncovered overnight — day-old cold rice is what keeps it from going mushy
+- 4 cloves garlic minced, 1 Tbsp fresh ginger grated, 1 bunch green onion, 2-3 stalks celery, cilantro to taste
+- 4 Tbsp soy sauce, 1 Tbsp oyster sauce, 1 Tbsp toasted sesame oil, 1/2 tsp white pepper, avocado oil as needed
+- Sriracha dropped (kept non-spicy) — large skillet on the stovetop, no wok needed
+
+**Night 3 (Jul 7) — Recipe #10, Spaghetti with Meat Sauce**, doubled (6 servings) — Will's own home recipe, unchanged
+- 2.4 lb ground beef (90/10), 16 oz ground sausage, 12 cloves garlic, 1 onion diced
+- 2× 28oz crushed tomatoes, 8 Tbsp tomato paste, 3 Tbsp beef bouillon, ~6.8 cups water, 32 oz thin spaghetti (broken), 1 tsp oregano, 1 tsp chili flakes in the sauce
+- 2 lb carrots, oven-roasted 425°F ~20 min (sub for air-fry)
+- Side shaker of chili flakes at the table, not hot sauce
+
+**Consolidated Safeway grocery list**
+- Produce: 1.5 packs bok choy/gai lan, 1 bunch green onion, 2-3 stalks celery, cilantro, fresh ginger (1 Tbsp), 1 onion, ~16 cloves garlic (or 2 heads), 2 lb carrots
+- Meat/eggs: 10 chicken thighs total (6 for Teriyaki + 4 for fried rice — buy ~2.5 Costco packs), 16 oz egg whites, 2 whole eggs, 2.4 lb ground beef 90/10, 16 oz ground sausage
+- Pantry: dark soy sauce, light soy sauce (one bottle covers both nights), Splenda packets, five spice powder, white pepper, oyster sauce, toasted sesame oil, avocado oil, ~3.3 cups dry white rice, dried oregano, chili flakes, 2 cans (28oz) crushed tomatoes, tomato paste, beef bouillon, 32 oz thin spaghetti
+
+---
+
 ## Bookings checklist (peak July — don't wait)
 
 1. **Full-trip SUV** — **Will's name, Venture X card**, YYC pickup **Jul 2 ~6:30pm** → return Jul 12 (Justin, added as authorized driver, returns it). Pay Venture X → decline counter LDW (primary CDW; confirm Canada + vehicle class + ≤15-day on benefits guide). **Costco Travel quotes (10 days, USD all-in @ 0.73; taxes/fees in, no prepay, free cancel):**
