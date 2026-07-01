@@ -271,3 +271,9 @@ Format: ✓ = done, □ = planned/pending
 □ Walk 12,500 steps today
 □ Zone 2 cardio: 60–90 min stationary bike
 □ Ship promo doc before Banff departure
+
+**2026-07-01 (Wed)** — NYC Cut Wk 7 of 8
+□ Ship promo doc — final review complete
+□ Walk 12,500 steps
+□ Complete Ravage training session
+□ Zone 2 cardio: 60–90 min stationary bike + show
