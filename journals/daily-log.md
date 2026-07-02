@@ -277,3 +277,11 @@ Format: ✓ = done, □ = planned/pending
 □ Walk 12,500 steps
 □ Complete Ravage training session
 □ Zone 2 cardio: 60–90 min stationary bike + show
+
+**2026-07-02 (Thu)** — NYC Cut Wk 7 of 8
+□ Ship promo doc — final review complete
+□ Complete Ravage training session
+□ Walk 12,500 steps today
+□ Zone 2 cardio: 60–90 min stationary bike + show
+□ Reach out to one close friend today
+□ Sunday paste: log weight + sessions + steps
