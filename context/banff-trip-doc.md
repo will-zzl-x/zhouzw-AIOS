@@ -232,6 +232,23 @@ Sourced from Will's own vetted recipe database (`meal-planning/data/recipes.json
 
 ---
 
+## PENDING — Jul 4 option, not yet slotted (Calgary-dinner swap vs. 4th cook night TBD)
+
+**Sloppy Joes + Corn on the Cob** — group meal, not cut-constrained, not chicken thigh, built to reuse the Jul 3/5/7 pantry rather than add new spice/sauce jars.
+
+- 2 lb ground beef (browned, drained)
+- 1 onion diced, 2-3 cloves garlic minced
+- 1 can crushed tomatoes, 3 Tbsp tomato paste, 1 Tbsp soy sauce (Worcestershire stand-in), 1-2 Tbsp Splenda, pinch chili flakes, salt, pepper — simmer 10-15 min until thick
+- 6 hamburger buns, toasted
+- 6 ears corn, boiled 8-10 min (or oven-roasted 425°F ~20 min with avocado oil + salt if the oven's free)
+
+**Grocery delta only** (rest draws from the Jul 3/5/7 stock above):
+- New: 6 hamburger buns, 6 ears corn
+- Bump existing buys: ground beef 2.4 lb → ~4.4 lb total; onion 1 → 2; crushed tomatoes 2 cans → 3 cans
+- No new pantry items — tomato paste, soy sauce, Splenda, garlic, chili flakes, avocado oil all shared with the other nights
+
+---
+
 ## Bookings checklist (peak July — don't wait)
 
 1. **Full-trip SUV** — **Will's name, Venture X card**, YYC pickup **Jul 2 ~6:30pm** → return Jul 12 (Justin, added as authorized driver, returns it). Pay Venture X → decline counter LDW (primary CDW; confirm Canada + vehicle class + ≤15-day on benefits guide). **Costco Travel quotes (10 days, USD all-in @ 0.73; taxes/fees in, no prepay, free cancel):**
