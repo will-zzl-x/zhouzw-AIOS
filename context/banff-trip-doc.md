@@ -251,21 +251,18 @@ Sourced from Will's own vetted recipe database (`meal-planning/data/recipes.json
 
 ## Breakfast + Lunch (Jul 3–8, repeats daily — not recipe-book items, built fresh for the trip)
 
-**Breakfast (rotates):** scrambled eggs + toast most mornings; cereal as the fast option on early/rush mornings (Jul 7/8 ahead of the sunrise shuttle); bacon or breakfast sausage links on the side.
+**Breakfast — Cottage Cheese Spinach Mushroom Egg Bake**, make-ahead casserole, bake 2x across the trip (~Jul 2 eve/Jul 3 AM, again ~Jul 5/6), reheat portions daily. Per batch (serves 6-8): 12 eggs, 16 oz cottage cheese, 8 oz fresh spinach, 8 oz mushrooms sliced, 1 cup shredded cheese (optional), 2-3 cloves garlic minced (from existing stock), salt/pepper, 1 Tbsp butter/oil. Sauté mushrooms + spinach + garlic, whisk into eggs/cottage cheese/seasoning, pour into greased 9x13, bake 350°F 35-40 min until set.
 
-**Lunch (packed each morning for hike/activity days):** deli sandwiches (turkey or ham + cheese + bread) as the main; PB&J as backup; trail mix + apples/bananas for hike snacks.
+**Lunch (packed each morning for hike/activity days):** deli sandwiches (turkey or ham + cheese + bread) as the main; in-season fruit (cherries/peaches/berries); protein bars for hike snacks. No trail mix/PB&J.
 
 **Grocery additions (new categories — nothing to reuse from the dinner pantry):**
-- 2 dozen eggs
-- 1-2 loaves sandwich bread (doubles as toast + lunch sandwiches)
-- Butter
-- 1-2 boxes cereal + ½ gallon milk
-- 1 lb bacon or breakfast sausage links
+- 2 dozen eggs (covers both egg bake batches)
+- 1-2 loaves sandwich bread (lunch sandwiches)
+- Cottage cheese (32 oz — 2 batches), fresh spinach (2 bags), mushrooms (1 lb), shredded cheese (small bag)
 - 1-1.5 lb deli turkey or ham
 - Cheese slices — buy one bigger pack, shared across burgers AND sandwiches
-- Peanut butter + jelly
-- Trail mix (1-2 bags)
-- Apples + bananas (6-8 each)
+- In-season fruit (cherries/peaches/berries)
+- Protein bars (1-2 boxes)
 
 ---
 
