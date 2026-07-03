@@ -234,18 +234,38 @@ Sourced from Will's own vetted recipe database (`meal-planning/data/recipes.json
 
 ## PENDING — Jul 4 option, not yet slotted (Calgary-dinner swap vs. 4th cook night TBD)
 
-**Sloppy Joes + Corn on the Cob** — group meal, not cut-constrained, not chicken thigh, built to reuse the Jul 3/5/7 pantry rather than add new spice/sauce jars.
+**Hamburgers + Hot Dogs + Corn on the Cob** — group meal, not cut-constrained, not chicken thigh. Simpler than the earlier Sloppy Joes draft — no sauce to cook, just sear/grill and serve.
 
-- 2 lb ground beef (browned, drained)
-- 1 onion diced, 2-3 cloves garlic minced
-- 1 can crushed tomatoes, 3 Tbsp tomato paste, 1 Tbsp soy sauce (Worcestershire stand-in), 1-2 Tbsp Splenda, pinch chili flakes, salt, pepper — simmer 10-15 min until thick
-- 6 hamburger buns, toasted
+- Beef patties (grilled/pan-seared), 6+
+- Hot dogs, pan-seared or boiled, 8-10
+- Hamburger buns (6) + hot dog buns (1 pack)
+- Cheese slices, lettuce, tomato, onion, ketchup, mustard, relish
 - 6 ears corn, boiled 8-10 min (or oven-roasted 425°F ~20 min with avocado oil + salt if the oven's free)
 
 **Grocery delta only** (rest draws from the Jul 3/5/7 stock above):
-- New: 6 hamburger buns, 6 ears corn
-- Bump existing buys: ground beef 2.4 lb → ~4.4 lb total; onion 1 → 2; crushed tomatoes 2 cans → 3 cans
-- No new pantry items — tomato paste, soy sauce, Splenda, garlic, chili flakes, avocado oil all shared with the other nights
+- New: hot dogs (1 pack), hot dog buns (1 pack), hamburger buns (6), 6 ears corn, relish
+- Bump existing buys: ground beef 2.4 lb → ~4.4 lb total
+- Dropped from the earlier Sloppy Joes draft: no extra onion, no extra crushed tomato can/tomato paste — those were only for the sauce, not needed now
+
+---
+
+## Breakfast + Lunch (Jul 3–8, repeats daily — not recipe-book items, built fresh for the trip)
+
+**Breakfast (rotates):** scrambled eggs + toast most mornings; cereal as the fast option on early/rush mornings (Jul 7/8 ahead of the sunrise shuttle); bacon or breakfast sausage links on the side.
+
+**Lunch (packed each morning for hike/activity days):** deli sandwiches (turkey or ham + cheese + bread) as the main; PB&J as backup; trail mix + apples/bananas for hike snacks.
+
+**Grocery additions (new categories — nothing to reuse from the dinner pantry):**
+- 2 dozen eggs
+- 1-2 loaves sandwich bread (doubles as toast + lunch sandwiches)
+- Butter
+- 1-2 boxes cereal + ½ gallon milk
+- 1 lb bacon or breakfast sausage links
+- 1-1.5 lb deli turkey or ham
+- Cheese slices — buy one bigger pack, shared across burgers AND sandwiches
+- Peanut butter + jelly
+- Trail mix (1-2 bags)
+- Apples + bananas (6-8 each)
 
 ---
 
