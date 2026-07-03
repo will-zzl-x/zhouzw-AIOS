@@ -201,7 +201,7 @@ Banff Ave	Town stroll, free; meals/coffee optional
 
 ---
 
-## Meal plan — Will's cook nights (Jul 3, 5, 7)
+## Meal plan — Will's cook nights (Jul 3, 7 + pending slot)
 
 Sourced from Will's own vetted recipe database (`meal-planning/data/recipes.json`), adapted to the Canmore Airbnb's confirmed equipment (electric stove, oven, baking sheet, dishwasher — **no grill, air fryer, blender, slow cooker, or wok**), scaled to 6 servings, and screened against: no beans, nothing super spicy, chicken thighs over sausage, low-FODMAP veg choices, no cornbread.
 
@@ -212,12 +212,7 @@ Sourced from Will's own vetted recipe database (`meal-planning/data/recipes.json
 - 1.5 packs bok choy or gai lan, steamed in a covered pot with a splash of water ~5-7 min, salted (no steamer basket needed) — already low-FODMAP
 - Oven sub for air fryer: 400°F on the baking sheet, ~20-22 min, flip halfway, until 165°F internal with some char
 
-**Night 2 (Jul 5) — Recipe #22, Chicken Thigh Fried Rice**, as-is (6 servings)
-- 4 chicken thighs diced (~21 oz), 16 oz egg whites + 2 whole eggs
-- **Prep the day before (Jul 4):** cook 1.8 cups dry rice, spread on a tray, chill uncovered overnight — day-old cold rice is what keeps it from going mushy
-- 4 cloves garlic minced, 1 Tbsp fresh ginger grated, 1 bunch green onion, 2-3 stalks celery, cilantro to taste
-- 4 Tbsp soy sauce, 1 Tbsp oyster sauce, 1 Tbsp toasted sesame oil, 1/2 tsp white pepper, avocado oil as needed
-- Sriracha dropped (kept non-spicy) — large skillet on the stovetop, no wok needed
+**~~Chicken Thigh Fried Rice~~ — DROPPED, not making this**
 
 **Night 3 (Jul 7) — Recipe #10, Spaghetti with Meat Sauce**, doubled (6 servings) — Will's own home recipe, unchanged
 - 2.4 lb ground beef (90/10), 16 oz ground sausage, 12 cloves garlic, 1 onion diced
@@ -226,9 +221,9 @@ Sourced from Will's own vetted recipe database (`meal-planning/data/recipes.json
 - Side shaker of chili flakes at the table, not hot sauce
 
 **Consolidated Safeway grocery list**
-- Produce: 1.5 packs bok choy/gai lan, 1 bunch green onion, 2-3 stalks celery, cilantro, fresh ginger (1 Tbsp), 1 onion, ~16 cloves garlic (or 2 heads), 2 lb carrots
-- Meat/eggs: 10 chicken thighs total (6 for Teriyaki + 4 for fried rice — buy ~2.5 Costco packs), 16 oz egg whites, 2 whole eggs, 2.4 lb ground beef 90/10, 16 oz ground sausage
-- Pantry: dark soy sauce, light soy sauce (one bottle covers both nights), Splenda packets, five spice powder, white pepper, oyster sauce, toasted sesame oil, avocado oil, ~3.3 cups dry white rice, dried oregano, chili flakes, 2 cans (28oz) crushed tomatoes, tomato paste, beef bouillon, 32 oz thin spaghetti
+- Produce: 1.5 packs bok choy/gai lan, 1 onion, ~16 cloves garlic (or 2 heads), 2 lb carrots
+- Meat/eggs: 6 chicken thighs (Teriyaki only), 2.4 lb ground beef 90/10, 16 oz ground sausage
+- Pantry: dark soy sauce, light soy sauce, Splenda packets, five spice powder, white pepper, avocado oil, ~1.5-2 cups dry white rice, dried oregano, chili flakes, 2 cans (28oz) crushed tomatoes, tomato paste, beef bouillon, 32 oz thin spaghetti
 
 ---
 
