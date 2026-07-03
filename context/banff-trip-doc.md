@@ -205,9 +205,32 @@ Banff Ave	Town stroll, free; meals/coffee optional
 
 Sourced from Will's own vetted recipe database (`meal-planning/data/recipes.json`), adapted to the Canmore Airbnb's confirmed equipment (electric stove, oven, baking sheet, dishwasher — **no grill, air fryer, blender, slow cooker, or wok**), scaled to 6 servings, and screened against: no beans, nothing super spicy, low-FODMAP veg choices, no cornbread.
 
-**~~Chicken Teriyaki~~ — DROPPED (Jul 3 slot now open).** Cut because the marinade needed 5 single-purpose pantry items (dark soy, light soy, Splenda, five spice, white pepper) for one dinner, with nothing else on the trip using them. Replacement TBD.
+**~~Chicken Teriyaki~~ — DROPPED.** Cut because the marinade needed 5 single-purpose pantry items (dark soy, light soy, Splenda, five spice, white pepper) for one dinner, with nothing else on the trip using them.
 
 **~~Chicken Thigh Fried Rice~~ — DROPPED, not making this**
+
+**Night (Jul 3) — Tacos**, serves 6-8
+- 2-2.5 lb ground beef, 1 packet taco seasoning
+- Taco shells or tortillas
+- Shredded lettuce, diced tomato (reused from Spaghetti/burger stock), shredded cheese
+- Sour cream
+- Salsa — or make quick from crushed tomatoes + diced onion + a pinch of chili flakes instead of buying a jar
+
+**Night (Jul 4) — Hamburgers + Hot Dogs + Corn on the Cob**, serves 6-8. No sauce to cook, just sear/grill and serve.
+- Beef patties (grilled/pan-seared), 6+
+- Hot dogs, pan-seared or boiled, 8-10
+- Hamburger buns (6) + hot dog buns (1 pack)
+- Cheese slices, lettuce, tomato, onion, ketchup, mustard, relish
+- 6 ears corn, boiled 8-10 min (or oven-roasted 425°F ~20 min with avocado oil + salt if the oven's free)
+
+**Night (Jul 5) — Pulled Pork Sandwiches**, serves 6-8. ⚠️ Start the pork in the oven **before leaving for Lake Minnewanka/Gondola that morning** — it needs ~4-5 hrs and won't be ready if started after the day's activities.
+- 4-5 lb pork shoulder/butt
+- Dry rub: brown sugar, paprika, salt, pepper, garlic powder
+- 1-2 bottles BBQ sauce
+- Buns — reuse the hamburger buns bought for Jul 4
+- Coleslaw: cabbage, carrots (reused), vinegar + oil dressing
+
+**Steps (Pulled Pork):** rub the pork, wrap tight in foil, oven 300°F ~4-5 hrs until fork-tender, shred, toss in BBQ sauce, serve on buns with slaw.
 
 **Night (Jul 7, locked) — Recipe #10, Spaghetti with Meat Sauce**, doubled (6 servings) — Will's own home recipe, unchanged
 - 2.4 lb ground beef (90/10), 16 oz ground sausage, 12 cloves garlic, 1 onion diced
@@ -215,29 +238,13 @@ Sourced from Will's own vetted recipe database (`meal-planning/data/recipes.json
 - 2 lb carrots, oven-roasted 425°F ~20 min (sub for air-fry)
 - Side shaker of chili flakes at the table, not hot sauce
 
+**Full dinner lineup — all 4 nights locked:** Jul 3 Tacos, Jul 4 Hamburgers+Hot Dogs+Corn, Jul 5 Pulled Pork, Jul 7 Spaghetti. Jul 6 is already a restaurant night (Ramen Arashi) per the itinerary.
+
 **Consolidated Safeway grocery list**
-- Produce: 1 onion, ~12-16 cloves garlic (or 2 heads), 2 lb carrots
-- Meat/eggs: 2.4 lb ground beef 90/10, 16 oz ground sausage
-- Pantry: avocado oil, dried oregano, chili flakes, 2 cans (28oz) crushed tomatoes, tomato paste, beef bouillon, 32 oz thin spaghetti
-
-**Two open dinner slots:** Jul 3 (Teriyaki replacement TBD) and Jul 4 (see pending option below). Both still need a call.
-
----
-
-## PENDING — Jul 4 option, not yet slotted (Calgary-dinner swap vs. 4th cook night TBD)
-
-**Hamburgers + Hot Dogs + Corn on the Cob** — group meal, not cut-constrained, not chicken thigh. Simpler than the earlier Sloppy Joes draft — no sauce to cook, just sear/grill and serve.
-
-- Beef patties (grilled/pan-seared), 6+
-- Hot dogs, pan-seared or boiled, 8-10
-- Hamburger buns (6) + hot dog buns (1 pack)
-- Cheese slices, lettuce, tomato, onion, ketchup, mustard, relish
-- 6 ears corn, boiled 8-10 min (or oven-roasted 425°F ~20 min with avocado oil + salt if the oven's free)
-
-**Grocery delta only** (rest draws from the Jul 3/5/7 stock above):
-- New: hot dogs (1 pack), hot dog buns (1 pack), hamburger buns (6), 6 ears corn, relish
-- Bump existing buys: ground beef 2.4 lb → ~4.4 lb total
-- Dropped from the earlier Sloppy Joes draft: no extra onion, no extra crushed tomato can/tomato paste — those were only for the sauce, not needed now
+- Produce: 1 onion, ~12-16 cloves garlic (or 2 heads), 2 lb carrots, corn (6 ears), lettuce, tomatoes, cabbage (slaw)
+- Meat/eggs: 2.4 lb ground beef (Spaghetti) + 2-2.5 lb ground beef (Tacos) + ~2 lb ground beef (burgers) — bump the total beef buy accordingly; 16 oz ground sausage; hot dogs (1 pack); 4-5 lb pork shoulder
+- Pantry: avocado oil, dried oregano, chili flakes, 2 cans (28oz) crushed tomatoes, tomato paste, beef bouillon, 32 oz thin spaghetti, taco seasoning, sour cream, BBQ sauce (1-2 bottles), brown sugar, paprika, vinegar
+- Bread: hamburger buns (6, shared with Pulled Pork), hot dog buns (1 pack), taco shells/tortillas
 
 ---
 
