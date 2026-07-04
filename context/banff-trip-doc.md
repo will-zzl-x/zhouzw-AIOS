@@ -201,9 +201,9 @@ Banff Ave	Town stroll, free; meals/coffee optional
 
 ---
 
-## Meal plan — Will's cook nights (Jul 7 locked + 2 pending slots)
+## Meal plan — Will's cook nights, all 4 locked
 
-Sourced from Will's own vetted recipe database (`meal-planning/data/recipes.json`), adapted to the Canmore Airbnb's confirmed equipment (electric stove, oven, baking sheet, dishwasher — **no grill, air fryer, blender, slow cooker, or wok**), scaled to 6 servings, and screened against: no beans, nothing super spicy, low-FODMAP veg choices, no cornbread.
+Sourced from Will's own vetted recipe database (`meal-planning/data/recipes.json`), adapted to the Canmore Airbnb's confirmed equipment (electric stove, oven, baking sheet, dishwasher, **grill confirmed available** — no air fryer, blender, slow cooker, or wok), scaled to 6 servings, and screened against: no beans, nothing super spicy, low-FODMAP veg choices, no cornbread.
 
 **~~Chicken Teriyaki~~ — DROPPED.** Cut because the marinade needed 5 single-purpose pantry items (dark soy, light soy, Splenda, five spice, white pepper) for one dinner, with nothing else on the trip using them.
 
@@ -216,14 +216,22 @@ Sourced from Will's own vetted recipe database (`meal-planning/data/recipes.json
 - Sour cream
 - Salsa — or make quick from crushed tomatoes + diced onion + a pinch of chili flakes instead of buying a jar
 
-**Night (Jul 4) — Hamburgers + Hot Dogs + Corn on the Cob**, serves 6-8. No sauce to cook, just sear/grill and serve.
-- Beef patties (grilled/pan-seared), 6+
-- Hot dogs, pan-seared or boiled, 8-10
+**Night (Jul 4) — Hamburgers + Hot Dogs + Flank/Skirt Steak + Corn + Zucchini**, serves 6-8. Grilled tonight.
+- **Beef patties: 80/20 ground chuck, not 90/10** — lean beef dries out/falls apart on a real grill, the fat in 80/20 keeps it juicy and holding together. 6+ patties.
+- Hot dogs, grilled, 8-10
+- **Flank or skirt steak** — marinate, grill hot and fast, slice thin against the grain for the group
 - Hamburger buns (6) + hot dog buns (1 pack)
 - Cheese slices, lettuce, tomato, onion, ketchup, mustard, relish
-- 6 ears corn, boiled 8-10 min (or oven-roasted 425°F ~20 min with avocado oil + salt if the oven's free)
+- 6 ears corn, grilled
+- Zucchini, sliced lengthwise, brushed with oil/salt/pepper, grilled alongside the corn
 
-**Night (Jul 5) — Pulled Pork Sandwiches**, serves 6-8. ⚠️ Start the pork in the oven **before leaving for Lake Minnewanka/Gondola that morning** — it needs ~4-5 hrs and won't be ready if started after the day's activities.
+**Night (Jul 5) — Recipe #10, Spaghetti with Meat Sauce**, doubled (6 servings) — Will's own home recipe, unchanged. Moved from Jul 7.
+- 2.4 lb ground beef (90/10), 16 oz ground sausage, 12 cloves garlic, 1 onion diced
+- 2× 28oz crushed tomatoes, 8 Tbsp tomato paste, 3 Tbsp beef bouillon, ~6.8 cups water, 32 oz thin spaghetti (broken), 1 tsp oregano, 1 tsp chili flakes in the sauce
+- 2 lb carrots, oven-roasted 425°F ~20 min (sub for air-fry)
+- Side shaker of chili flakes at the table, not hot sauce
+
+**Night (Jul 7) — Pulled Pork Sandwiches**, serves 6-8. Moved from Jul 5. ⚠️ Start the pork in the oven **before heading out that morning (Fairview Mountain/Yoho/Bow Falls/float day)** — it needs ~4-5 hrs and won't be ready if started after the day's activities.
 - 4-5 lb pork shoulder/butt
 - Dry rub: brown sugar, paprika, salt, pepper, garlic powder
 - 1-2 bottles BBQ sauce
@@ -232,17 +240,11 @@ Sourced from Will's own vetted recipe database (`meal-planning/data/recipes.json
 
 **Steps (Pulled Pork):** rub the pork, wrap tight in foil, oven 300°F ~4-5 hrs until fork-tender, shred, toss in BBQ sauce, serve on buns with slaw.
 
-**Night (Jul 7, locked) — Recipe #10, Spaghetti with Meat Sauce**, doubled (6 servings) — Will's own home recipe, unchanged
-- 2.4 lb ground beef (90/10), 16 oz ground sausage, 12 cloves garlic, 1 onion diced
-- 2× 28oz crushed tomatoes, 8 Tbsp tomato paste, 3 Tbsp beef bouillon, ~6.8 cups water, 32 oz thin spaghetti (broken), 1 tsp oregano, 1 tsp chili flakes in the sauce
-- 2 lb carrots, oven-roasted 425°F ~20 min (sub for air-fry)
-- Side shaker of chili flakes at the table, not hot sauce
-
-**Full dinner lineup — all 4 nights locked:** Jul 3 Tacos, Jul 4 Hamburgers+Hot Dogs+Corn, Jul 5 Pulled Pork, Jul 7 Spaghetti. Jul 6 is already a restaurant night (Ramen Arashi) per the itinerary.
+**Full dinner lineup — all 4 nights locked:** Jul 3 Tacos, Jul 4 Hamburgers+Hot Dogs+Corn, Jul 5 Spaghetti, Jul 7 Pulled Pork. Jul 6 is already a restaurant night (Ramen Arashi) per the itinerary.
 
 **Consolidated Safeway grocery list**
 - Produce: 1 onion, ~12-16 cloves garlic (or 2 heads), 2 lb carrots, corn (6 ears), lettuce, tomatoes, cabbage (slaw)
-- Meat/eggs: 2.4 lb ground beef (Spaghetti) + 2-2.5 lb ground beef (Tacos) + ~2 lb ground beef (burgers) — bump the total beef buy accordingly; 16 oz ground sausage; hot dogs (1 pack); 4-5 lb pork shoulder
+- Meat/eggs: 2.4 lb ground beef 90/10 (Spaghetti) + 2-2.5 lb ground beef 90/10 (Tacos) + ~2 lb ground beef **80/20** (burgers — separate purchase, different fat ratio than the rest) — bump the total beef buy accordingly; 16 oz ground sausage; hot dogs (1 pack); 4-5 lb pork shoulder
 - Pantry: avocado oil, dried oregano, chili flakes, 2 cans (28oz) crushed tomatoes, tomato paste, beef bouillon, 32 oz thin spaghetti, taco seasoning, sour cream, BBQ sauce (1-2 bottles), brown sugar, paprika, vinegar
 - Bread: hamburger buns (6, shared with Pulled Pork), hot dog buns (1 pack), taco shells/tortillas
 
