@@ -294,3 +294,12 @@ Format: ✓ = done, □ = planned/pending
 □ Run 1–2 listings through deal-eval framework
 □ Sunday paste: log weight + sessions + steps
 □ Ship promo doc — final review complete
+
+**2026-07-03 (Fri)** — NYC Cut Wk 7 of 8
+□ Complete Ravage training session today
+□ Hit 150g protein, ~1,820 kcal
+□ Walk 12,500 steps today
+□ Phone off nightstand, charge in kitchen
+□ Run 1–2 listings through deal-eval framework
+□ Ship promo doc — final review complete
+□ Text Dan to lock in-person day/time
