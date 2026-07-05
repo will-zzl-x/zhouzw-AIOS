@@ -216,14 +216,12 @@ Sourced from Will's own vetted recipe database (`meal-planning/data/recipes.json
 - Sour cream
 - Salsa — or make quick from crushed tomatoes + diced onion + a pinch of chili flakes instead of buying a jar
 
-**Night (Jul 4) — Hamburgers + Hot Dogs + Flank/Skirt Steak + Corn + Zucchini**, serves 6-8. Grilled tonight.
-- **Beef patties: 80/20 ground chuck, not 90/10** — lean beef dries out/falls apart on a real grill, the fat in 80/20 keeps it juicy and holding together. 6+ patties.
-- Hot dogs, grilled, 8-10
-- **Flank or skirt steak** — marinate, grill hot and fast, slice thin against the grain for the group
-- Hamburger buns (6) + hot dog buns (1 pack)
-- Cheese slices, lettuce, tomato, onion, ketchup, mustard, relish
+**Night (Jul 4) — Homemade Beef Kebabs + Sirloin Tri-Tip + Chicken Drumsticks + Corn + Zucchini**, serves 6-8. Grilled tonight. Final menu.
+- **Homemade kebabs** — extra tri-tip/top sirloin, cubed 1-1.5", skewered alternating with zucchini (and onion/bell pepper if wanted); same rub or the oil-vinegar-garlic marinade; grill turning every couple min until seared all sides
+- 3 sirloin tri-tip steaks — rub: salt, pepper, garlic (fresh or powder), 1 tsp paprika; rest 20-30 min before grilling; grill hot, pull at medium-rare (~130-135°F), rest 10 min, slice against the grain (tri-tip has two grain directions — slice each half separately)
+- Chicken drumsticks — same base rub + pinch of brown sugar; direct grill medium heat ~30-35 min to 165°F; baste with the Pulled Pork BBQ sauce in the last 5-10 min for a glaze
 - 6 ears corn, grilled
-- Zucchini, sliced lengthwise, brushed with oil/salt/pepper, grilled alongside the corn
+- Zucchini, sliced lengthwise, brushed with oil/salt/pepper, grilled alongside the corn (extra zucchini chunks reserved for kebab skewers)
 
 **Night (Jul 5) — Recipe #10, Spaghetti with Meat Sauce**, doubled (6 servings) — Will's own home recipe, unchanged. Moved from Jul 7.
 - 2.4 lb ground beef (90/10), 16 oz ground sausage, 12 cloves garlic, 1 onion diced
@@ -235,18 +233,18 @@ Sourced from Will's own vetted recipe database (`meal-planning/data/recipes.json
 - 4-5 lb pork shoulder/butt
 - Dry rub: brown sugar, paprika, salt, pepper, garlic powder
 - 1-2 bottles BBQ sauce
-- Buns — reuse the hamburger buns bought for Jul 4
+- Buns — needs its own buy now (no longer shared with Jul 4, which dropped burgers)
 - Coleslaw: cabbage, carrots (reused), vinegar + oil dressing
 
 **Steps (Pulled Pork):** rub the pork, wrap tight in foil, oven 300°F ~4-5 hrs until fork-tender, shred, toss in BBQ sauce, serve on buns with slaw.
 
-**Full dinner lineup — all 4 nights locked:** Jul 3 Tacos, Jul 4 Hamburgers+Hot Dogs+Corn, Jul 5 Spaghetti, Jul 7 Pulled Pork. Jul 6 is already a restaurant night (Ramen Arashi) per the itinerary.
+**Full dinner lineup — all 4 nights locked:** Jul 3 Tacos, Jul 4 Kebabs+Tri-Tip+Drumsticks+Corn+Zucchini, Jul 5 Spaghetti, Jul 7 Pulled Pork. Jul 6 is already a restaurant night (Ramen Arashi) per the itinerary.
 
 **Consolidated Safeway grocery list**
-- Produce: 1 onion, ~12-16 cloves garlic (or 2 heads), 2 lb carrots, corn (6 ears), lettuce, tomatoes, cabbage (slaw)
-- Meat/eggs: 2.4 lb ground beef 90/10 (Spaghetti) + 2-2.5 lb ground beef 90/10 (Tacos) + ~2 lb ground beef **80/20** (burgers — separate purchase, different fat ratio than the rest) — bump the total beef buy accordingly; 16 oz ground sausage; hot dogs (1 pack); 4-5 lb pork shoulder
-- Pantry: avocado oil, dried oregano, chili flakes, 2 cans (28oz) crushed tomatoes, tomato paste, beef bouillon, 32 oz thin spaghetti, taco seasoning, sour cream, BBQ sauce (1-2 bottles), brown sugar, paprika, vinegar
-- Bread: hamburger buns (6, shared with Pulled Pork), hot dog buns (1 pack), taco shells/tortillas
+- Produce: 1 onion, ~12-16 cloves garlic (or 2 heads), 2 lb carrots, corn (6 ears), zucchini (5-6, extra for kebab skewers), lettuce, tomatoes, cabbage (slaw), bell pepper (optional, kebabs)
+- Meat/eggs: 2.4 lb ground beef 90/10 (Spaghetti) + 2-2.5 lb ground beef 90/10 (Tacos); 16 oz ground sausage; 4-5 lb pork shoulder; 3 sirloin tri-tip steaks + ~1-1.5 lb extra tri-tip/top sirloin cubed for kebabs; skewers (wood or metal); chicken drumsticks (~12-16, ~2 per person)
+- Pantry: avocado oil, dried oregano, chili flakes, 2 cans (28oz) crushed tomatoes, tomato paste, beef bouillon, 32 oz thin spaghetti, taco seasoning, sour cream, BBQ sauce (1-2 bottles), brown sugar, paprika, vinegar, garlic powder
+- Bread: hamburger buns (6, now Pulled Pork-only), taco shells/tortillas
 
 ---
 
