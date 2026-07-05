@@ -303,3 +303,7 @@ Format: ✓ = done, □ = planned/pending
 □ Run 1–2 listings through deal-eval framework
 □ Ship promo doc — final review complete
 □ Text Dan to lock in-person day/time
+
+**2026-07-05 (Sun)** — NYC Cut Wk 7 of 8
+□ Run 1–2 listings through deal-eval framework
+□ Text Dan to lock in-person day/time
