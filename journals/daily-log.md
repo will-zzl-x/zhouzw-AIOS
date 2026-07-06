@@ -307,3 +307,11 @@ Format: ✓ = done, □ = planned/pending
 **2026-07-05 (Sun)** — NYC Cut Wk 7 of 8
 □ Run 1–2 listings through deal-eval framework
 □ Text Dan to lock in-person day/time
+
+**2026-07-06 (Mon)** — NYC Cut Wk 7 of 8
+□ Walk 12,500 steps today
+□ Zone 2 cardio: 60–90 min stationary bike
+□ Phone off nightstand, charge in kitchen
+□ Sunday paste: log weight + sessions + steps
+□ Run 1–2 listings through deal-eval framework
+□ Text Dan to lock in-person day/time
