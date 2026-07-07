@@ -315,3 +315,8 @@ Format: ✓ = done, □ = planned/pending
 □ Sunday paste: log weight + sessions + steps
 □ Run 1–2 listings through deal-eval framework
 □ Text Dan to lock in-person day/time
+
+**2026-07-07 (Tue)** — NYC Cut Wk 7 of 8
+□ Run 1–2 listings through deal-eval framework
+□ Sunday paste: log weight + sessions + steps
+□ Text Dan to lock in-person day/time
