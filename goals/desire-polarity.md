@@ -37,6 +37,22 @@ Will's drawn to MRP's staged structure — fine. The *passive* levels (1–5) ar
 
 ---
 
+## Romance-archetype cues (de-toxified crosswalk) — added 2026-07-07
+
+Male leads in the romance genre are a deliberately engineered archetype — worth raiding for structure, same as the MRP crosswalk above. Most of what makes the trope work already maps onto this doc's existing principles. Two traits (protective, confident touch) curdle into the dread-adjacent stuff this doc bans the moment they override her actual signals — filtered accordingly below. **The line holds:** these are daily behavior cues for Will, not license to stop reading her.
+
+| Romance-hero trait | Healthy translation | Daily cue |
+|---|---|---|
+| Decisive, doesn't poll for approval | Already DEER-avoidance + decide-from-center | Make the call, don't check if it's okay |
+| Runs his own world/mission | Already "own gravity" — stakes independent of her | What's yours today that has nothing to do with her? |
+| Emotion shown rarely, earned — not narrated | Presence over performance | Don't explain your feelings unless asked — let it show, don't announce it |
+| Notices small specific things about her | Genuine attentiveness, not generic flattery | Notice one real, specific thing about her today — don't say it, just notice |
+| Confident physical presence | Ties to Style Avatar — **not** license to override her actual cues | One moment of confident, unhesitant touch — still reading her, just not tentative |
+| Banter over earnest compliments | Lightness, playful dominance in conversation | Tease once today instead of a sincere compliment |
+| Protective, not controlling | Steady/dependable ≠ managing her choices | Be the steady one — don't fix, don't manage, just be solid |
+
+---
+
 ## Field Guide (the actionable version)
 
 ### DO

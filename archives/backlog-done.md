@@ -2,6 +2,22 @@
 
 Rows moved here from `backlog.md` at Sunday reflections. Newest batch on top.
 
+## Archived 2026-07-07
+
+| id | Title | Area | Quest | Notes | Completed |
+|---|---|---|---|---|---|
+| dan-fill-numbers | Fill the 3 load-bearing numbers in Frame B before sending | Money | work-main | Elena's $50K + hours + Dan's CPA-status all locked 6/18. Superseded by `dan-friday-meeting` once the in-person meeting itself was scheduled. | 2026-06-18 |
+| doe-redirect-automation | DOE Redirect Automation — eligibility-vs-4-gate decision + ship | Career | side | Retired from AIOS tracking 7/7 — Will is handling this entirely through the work-laptop track going forward. | 2026-07-07 |
+| banff-airbnb-lock | Banff trip — lock Airbnb | Travel | side | Trip executed Jul 2-8 in full. | 2026-07-02 |
+| banff-moraine-shuttle | Banff — book Moraine Lake shuttle reservation | Travel | side | Reservation attempt at the 8am release FAILED (sold out instantly) — resolved via a live pivot to a private-vehicle Lake Louise sunrise instead (Moraine itself stayed inaccessible without a shuttle). | 2026-07-07 |
+| banff-phx-yyc-flight | Banff — book PHX→YYC flight for Will | Travel | side | Flight booked and flown as part of the executed trip. | 2026-07-02 |
+| pre-cana-confirm-schedule | Pre-Cana — confirm next session date with St. Andrew | Wedding | side | Session held with the deacon this period. | 2026-07-07 |
+| hotel-block-premium | Wedding hotel block — premium tier chase | Wedding | side | Hotel blocks finalized this period. | 2026-07-07 |
+| meal-grocery-fix | meal-planning grocery.py: read cycle.inventory_snapshot + fuzzy/unit match | AIOS-Infra | not-quest | Shipped 6/14, left unarchived at the prior reflection — archiving now. | 2026-06-14 |
+| meal-defrost-fix | meal-planning defrost.py: skip fresh-buy cycles | AIOS-Infra | not-quest | Shipped 6/14, left unarchived at the prior reflection — archiving now. | 2026-06-14 |
+| brief-description-fix | Morning-brief: propagate Daily Consistent / gate descriptions into Todoist | AIOS-Infra | not-quest | Shipped 6/15, left unarchived at the prior reflection — archiving now. | 2026-06-15 |
+| july-trip-decide | July friend trip — clean pass message + offer remote logistics help | Relationships | side | Retired per its own 6/14 flag — this row was the Banff trip before scope was clear; the actual trip is done. | 2026-07-07 |
+
 ## Archived 2026-06-14
 
 | id | Title | Area | Quest | Notes | Completed |

@@ -1,74 +1,65 @@
-# State — Last updated June 21, 2026
+# State — Last updated July 7, 2026
 
 ## Quests (Q2 — set in the May 25 quarterly review; full doc `archives/2026-Q2-quarterly-review.md`)
-- **Work main:** Exit Codie's 3-mo acquisition Learn phase deal-ready by Aug 31 (12+ framework reps, 2+ broker contacts, LOI template). `goals/acquisition.md`. **ON TRACK** — Frame B numbers locked (Elena signed off 6/18), Dan reachout pivoted to in-person next week (6/22 week), 5-point verbal spine prep is the load-bearing move. **TIME-LOCK TEXT TO DAN IS WEEK 26 LOAD-BEARING ACTION.**
-- **Life main:** Become my own point of origin — self-validation, worth from inside not the scoreboard. Keystone: **Sunday morning Zone 2 — stationary bike + phone, 60–90 min** (modality changed 6/14). Measure inputs, never score outputs. `goals/desire-polarity.md`. **AT RISK / prescription open** — solo-space rep rotation deliberately deferred to post-cut review Jul 12+. **NEW W25 read: dance lesson > architected dinner for desire-polarity rep**; Salsa II re-weighted as a quest move, not a side hobby. Avatar locked 6/17, first live-test Friday 6/19 produced verbal "you look good" signal but no transformative response (confounded by Elena period day 3 stomach issues).
-- **Side:** ship promo doc (SELF-DEADLINE TIGHTENED to Fri Jun 26 from Jun 27-28 weekend) · execute the cut through Jul 11 · friend touchpoint every 2 wks.
+- **Work main:** Exit Codie's 3-mo acquisition Learn phase deal-ready by Aug 31 (12+ framework reps, 2+ broker contacts, LOI template). `goals/acquisition.md`. **AT RISK OF RUNNING OUT OF MARGIN** — Dan time-lock stall finally resolved; conversation locked for this Friday evening. No framework reps or broker contacts moved in the last 2 weeks. Friday's conversation now carries the weight of the whole Aug 31 trajectory.
+- **Life main:** Become my own point of origin — self-validation, worth from inside not the scoreboard. `goals/desire-polarity.md`. **AT RISK / unclear** — solo-pursuit BJJ keystone status unconfirmed this period (cut + Banff trip consumed bandwidth). **Solo-space rep rotation review is now due** — was deferred to "post-cut Jul 12+," both gates now open. Relationships self-report: "trending improvement." Romance-archetype cue table added 7/7 (de-toxified crosswalk, same pattern as the MRP table). Coach flag: date-planning this period leaned heavily architected/optimized — watch that instinct, W25 data already showed dance > architected dinner.
+- **Side:** ship promo doc (deadline slipped Jun 26 → end of month) · finish the cut through Jul 11 without crash-dieting the gap · friend touchpoint every 2 wks.
 - **Wheel low axis (the focus):** Joy 4, Heart 5 — winning on paper, not feeling it. The Life quest targets the root.
 
-Phase: **NYC Cut Wk 6 of 8** — May 17 – Jul 11 (~3 weeks remaining; daily gates by weekday/weekend in `daily-standard.md`)
+Phase: **NYC Cut Wk 8 of 8 (final)** — May 17 – Jul 11 (~4 days remaining; daily gates by weekday/weekend in `daily-standard.md`)
 
 ## Daily Loop
 - **Todoist daily brief live.** GitHub Actions runs the morning brief at 7am AZ (14:00 UTC) → 3–5 tasks to Todoist "AIOS Daily"; evening archive at 9pm AZ (04:00 UTC) writes completions to `journals/daily-log.md`.
 - **Daily Consistent descriptions propagate to Todoist** (brief-description-fix shipped 6/15).
-- **Fitness logging pipeline partial (#74).** Drift-detector half shipped 6/14 PM (`cloud/morning-brief/fitness_drift.py`). **Liftosaur MCP token EXPIRED W25** — re-auth this week or W26 reflection runs without live data again (third reflection on stale numbers). Auto-pull half post-cut Jul 12+.
+- **Fitness logging pipeline partial (#74).** Drift-detector half shipped 6/14 PM (`cloud/morning-brief/fitness_drift.py`). **Liftosaur CSV manually pulled and analyzed this reflection** — real data now in hand (see Fitness section), but auto-pull half still post-cut Jul 12+ (that window is now).
 
 ## Career
 - Amazon SCM I (L4). **Talent Review .docx submitted 5/19** — Q3–Q4 promo window now needs L5-grade evidence.
-- **Promo doc — SELF-DEADLINE Fri Jun 26** (tightened from Jun 27-28 weekend in W25 reflection). Lift IFSA_CHILD + GL_MW write-ups in (L5 systems-thinking evidence). Likely real ship: Thu Jun 25 evening + Fri Jun 26 morning polish before sending.
-- DOE Redirect Automation — **STALE 30d, ★STRONG promo deliverable.** Self-set EOM commit to Felix; eligibility-vs-4-gate decision at next Matt 1:1 (Matt back this week from paternity 6/15-20), then ship.
-- **Manager-gap week W25 (Matt OOO 6/15-20, Hans OOTO 6/13-28, Colton sick): passed without fires** per Will's read. AZNG reconciliation status not surfaced — carry-forward unresolved.
-- Jeff rIXD-secondary-owner ramp: plan accepted, status not reviewed.
+- **Promo doc — deadline slipped from Fri Jun 26 to end of month (July).** Not abandoned, pushed. Watch whether it holds at next reflection.
+- DOE Redirect Automation — **handled via work-laptop track going forward**, not tracked in this AIOS.
+- **Dan conversation — LOCKED for this Friday evening.** The time-lock text that stalled 3+ reflections running is resolved; the meeting itself hasn't happened yet. 5-point verbal spine prep is the load-bearing action between now and Friday.
 - **SCM II behavior-logging retired** — measure promotion by deliverables, not behavior counts. `goals/scm-ii-promotion.md` parked.
 
 ## Fitness
-- **NYC Cut Wk 6 of 8.** Prior reflection numbers (W24): 6/1 → 175.9 (cut low), 6/8 → 178.1 (stalled off the low). **W25 weight not pulled** — Liftosaur measurements API token expired, weight numbers still stale.
-- **W25 SoCal trip fitness reads:** Saturday SoCal lift CUT (Will's "vacation more" call), Sunday Z2 MISSED (driving day). Z2 keystone has NOT FIRED on the new bike + phone modality yet — two consecutive Z2 misses on the new setup. Fire Sun 6/28.
-- **W25 lifting sessions logged (Liftosaur CSV ingested 6/22):** 4 sessions Mon-Fri 6/16-19 — Wk8D5 Torso B + Wk8D6 Bro B + Wk9D1 Legs A + Wk9D2 Torso A. Strong adherence before the trip.
-- BF: ~20–21% estimated. Lean mass: ~147 lb.
-- **Lifting canary (3-lift model, updated 6/19):**
-  1. **Larsen top set ≥ 155 × 5 @9** — 155 × 7 @9 🟢 *improved* (same reps, lower RPE than 6/14's @9.5)
-  2. **Larsen back-offs ≥ 5 reps each set** — **4, 4 ⚠️ DROPPED** from 7, 7, 5 on 6/14
-  3. **Neutral pull-up not below 3,3,1** — 4, 4, 2 🟢 *improved* (up from 3, 2, 3 on 6/14)
-  - **Net: 2 green / 1 yellow — the yellow SHIFTED from pull-up → Larsen back-offs.** Pattern: top-set strength holding/improving while back-off volume drops — classic late-cut fatigue signal (glycogen-low for volume work, intensity ceiling intact). **Watch next Larsen session (~Fri 6/26):** if back-offs return ≥5 = noise, ignore. If stay at 4 or below = sustained red → triggers abort rule.
-- **Other lifts strength reads W25:** Smith Squat 175 × 5 @9 (6/14 — NEW top weight for the cut, was 155 lb prior). Hack Squat 135 × 8/12 @9.5 (6/18). Smith Reverse Grip Bench 115 × 9 @9 (6/19 — up from prior). DB Bench 65 × 11 @9 (6/16). Helms Row 40 × 10, 13 (6/16).
-- Step target 12,500/day. Sources still unaudited.
-- **Abort signal:** Larsen 155×5/5/5 @9 OR any 2 yellow / 1 sustained red → re-baseline target to ~177 by Jul 11.
+- **NYC Cut Wk 8 of 8 — final stretch, ends Jul 11 (confirmed directly from `goals/nyc-cut.md`, no earlier maintenance phase).**
+- **Weight: last logged Jun 30 (177.6), nothing since** — 6+ day gap through the Banff trip. Trend before the gap: ~177-178, still meaningfully above the original 172 target with ~4 days left. **Banff eating (grill night, spaghetti, tacos, pulled pork, egg bake) was not cut-compliant** — the cut was realistically paused for the trip. Coach call: resume logging now, finish at the planned ~1,820 cal through Jul 11, do NOT crash-diet the last few days chasing 172 — accept the real number (likely closer to the ~177 fallback already built into the abort logic).
+- **Liftosaur adherence through Banff was strong**: sessions logged Jun 23, 24, 25, 27, 29, 30, Jul 1, Jul 2 (×2), Jul 4 (×2), Jul 6 — trained through arrival day and July 4th itself.
+- **Liftoscript program bug found + fixed this period**: stale seed weights and weekly resets were overwriting progression instead of carrying it forward. Program ran its Week 10 deload, then restarted clean at Week 1 on Jul 4 with corrected reuse-based progression.
+- **Canary lift data is confounded, not clean.** Jun 29 Larsen (145×6, no RPE logged) dropped from the 6/19 read (155×7 @9), but that session sits inside the pre-fix broken-progression window — likely a program artifact, not real strength loss. Neutral pull-up (6/25: 3, 2 reps @9.5-10) sits at the abort-signal floor — a real fatigue signal, though possibly incomplete data. **Need a clean Larsen read on the restarted program before evaluating the abort signal.**
+- BF: ~20–21% estimated (pre-trip). Lean mass: ~147 lb.
+- **Abort signal (unchanged):** Larsen 155×5/5/5 @9 OR any 2 yellow / 1 sustained red → re-baseline target to ~177 by Jul 11 — this fallback number now looks like the realistic landing spot regardless.
 - Refeed trigger: 7-day rolling avg ≤176 lb. Hard floor: 168 lb.
 - Reverse diet: Jul 12–29. NYC maintenance: Jul 30–Aug 5.
-- Program: GVS Ravage. Macros tracked in **Cronometer**.
-- **Meal cycle 2026-06-20 fully planned** (compressed, post-SoCal): pulled pork carnitas (IP Mon eve) + crispy chicken sandwiches + beef burgers + Chinese poached chicken + IP chipotle-lime shredded chicken. Veg covered all slots via frozen Costco stir-fry veg + air-fryer sides. Walmart delivery Mon (10 items). `meal-planning/cycles/2026-06-20.yaml`.
+- Program: GVS Ravage. Macros tracked in **Cronometer** — resume today.
 
 ## Relationships
-- **Style Avatar LOCKED 2026-06-17:** *"I am the guy who moves with intention and carries gravity quietly — present, deliberate, and not performing for the room."* Direction: Latin Gentleman with Athletic Gravity. `context/about-me.md`. First live-test Friday 6/19 produced verbal "you look good" signal — real but not transformative. Avatar direction intact; Friday confounded by period day 3.
-- **W25 desire-polarity read:** Friday architected night (Brodard Chateau + HB Pier walk + sweet drink) did NOT improve desire — Elena period day 3 stomach issues + cold HB Pier killed the architecture. Saturday dance lesson + ST Noodle dinner (unscheduled connection night) WORKED — energy good, dance great, dinner great. **Dance > scheduled dinner for desire-polarity rep this trip.** Salsa II re-weighted as quest-aligned move, not a side hobby.
-- **Elena Frame B sign-off (6/18) — major.** Elena confirmed her $50K equity + full-time-early-then-taper framing for the Dan in-person conversation. Closes load-bearing gaps on the work main quest.
-- **Elena leaving engineering job** (confirmed W24): exits fully (mid-2027 baseline), goes full-time into acquired firm early as needed, then tapers to absentee Year 2.
-- Pregnancy thread CLOSED 6/14.
-- Friend cadence: 2-wk rhythm holding (last confirmed W22). Next touchpoint due this week.
-- **Z2 modality change (bike + phone) is NOT the Life-Main solo-space rep** — explicitly violates Perel/Schnarch filters. Solo-space rotation deferred to post-cut review Jul 12+.
+- **"Trending improvement"** — Will's own read this reflection, first clean positive signal in a few reflections running.
+- **Romance-archetype cue table added to `goals/desire-polarity.md` (7/7)** — de-toxified crosswalk of romance-genre male-lead traits (decisive/no-polling, own-mission gravity, rare-earned emotional openness, specific attentiveness, confident-not-tentative touch, banter over earnest compliments, steady-not-controlling). Same guardrail as always: confident touch/protectiveness stop being healthy the moment they override her actual signals.
+- **Texting-pattern coaching done this session**: reviewed real exchanges, found a recurring pattern of validating *after* advising instead of before (e.g., offering a fix before sitting in "that sucks" long enough). Corrective principle: ask more than you tell, sequence emotional bids ahead of informational ones.
+- **Coach flag:** this period's date-planning leaned heavily architected/optimized (minute-by-minute logistics). Same pattern W25 data already flagged as lower-leverage (dance > architected dinner). Not a failure, just worth watching as a recurring instinct.
+- **Solo-space rep rotation review is now due** — was deferred to "post-cut Jul 12+"; both the cut and the Banff trip are ending this week, so this is the scheduled window.
+- **Elena Frame B sign-off (6/18)** and job-transition plans unchanged from prior reflection.
+- Friend cadence: 2-wk rhythm — status not reconfirmed this period, carry-forward.
 - **Zero night talks about intimacy — hard rule** (preserved).
 
 ## Wedding
 - **Contract signed.** Clayton House Elite, Oct 22, 2027, Scottsdale.
-- **St. Andrew Oct 22, 2027 LOCKED. Pre-Cana intake DONE.** Next session date with St. Andrew TBD (carry-forward).
+- **St. Andrew Oct 22, 2027 LOCKED. Pre-Cana session with the deacon DONE** (completed this period — resolves a multi-reflection carry-forward).
 - **Virehouse: BOOKED. Deposit paid May 18.**
 - **Photographer: BOOKED, deposit paid.** $3,160 est. total, groom pays.
-- **Hotel block: 19 rooms × 3 nights locked** (Courtyard 10 + Element 9). Premium-tier (Remi / Valley Ho) chase open but no longer urgent.
+- **Hotel block: FINALIZED** this period (resolves the premium-tier chase backlog item).
 - **Critical-path watch:** Elena-dependent chain (website → save-the-date) starts ramping in 6-8 weeks. Watch for slippage as Elena's acquisition load increases.
 - Full detail: `context/wedding.md`.
 - Late-night bite: Chick-fil-A chicken minis ~$300 (outside vendor approved by Bailee May 10).
 
 ## Travel
-- **SoCal trip Jun 19-21 EXECUTED.** Trip plan in `journals/socal-trip-2026-06-19.md`. Read: mixed — Friday architected night confounded by period day 3; Saturday natural-flow day worked well; Sunday Quartzsite Love's fuel + Subway drive-home stop saved ~$33 in gas.
-- **Banff trip Jul 2–12** — Will P1 only (7/2-7/7). PHX→YYC flight + Moraine shuttle still need booking THIS week. Inbox 2026-06-13.
-  - **Car rental plan:** 2 vehicles for the group (5+5 seats covers 8 P1). Wrangler Unlimited / Bronco AWD viable if weather forecast cooperates (open-top vs early-July Banff rain risk); otherwise Sienna AWD (rare unicorn) > full-size SUV (Tahoe/Expedition/Yukon) > Pacifica minivan (FWD only). 5 SIPP codes Costco quoted (IFAR/FJAR/CFAR/CFDR/IFDR) are all 5-seaters — no 8-seater single-vehicle option exists at YYC online; only Budget's 15-pax Express via call-in (403-221-1715).
-  - **Kayak vs Costco-Enterprise spread is large** — Costco's IFDR (Escape AWD) was $1,531; Kayak shows Ford Escape $607 ($61/day) from off-airport supplier ("call for pick-up"). Off-airport suppliers at YYC mean shuttle hassle, especially at midnight; aggregator totals often exclude insurance + drop fees + taxes; bait-and-switch risk on smaller vehicle. Costco is the higher-confidence price; Kayak deals worth chasing only if supplier rating is 8.5+ AND total includes everything.
-  - **REVISED Jul 7 arrival:** Will lands YYC 6 PM Jul 7 (not midnight as earlier draft assumed) — picks up car #1 during normal desk hours, waits ~5.5 hr at YYC for the late-arriving friends (~11:30 PM), then drives the group to Canmore (~1–2 AM arrival). After-hours Hertz pre-arrangement plan dropped — not needed.
-  - **Vehicle #1 (Will/Justin booking):** spec = seats 5, holds 4 carry-ons + 5 personal items, AWD nice but not required (summer Banff = paved roads). **Status:** Justin handling the booking. Costco's Wrangler ($1,250) dropped from inventory; next-best Costco option = Alamo Compact SUV Kicks at CA$2,214 (~USD $1,616) — too expensive given the Wrangler is gone. **Leading candidate = GotRentalCars Toyota Corolla at ~$772 total** (Kayak, 8.8 supplier rating, Hertz pickup at YYC terminal, liability INCLUDED, free 48h cancellation, $500 deposit). Broker risk acknowledged (BBB complaints re: counter pressure, refund delays) but mitigated by Venture X primary CDW + cardholder dispute protection. **Counter playbook:** decline CDW (Venture X covers), confirm included liability isn't mandatory-minimum-only, decline prepaid fuel + toll pass + upgrades, photograph car at pickup.
-  - **Vehicle #2 (Dhanush):** Dhanush is booking himself — separate rental he picks up on his arrival.
+- **Banff trip Jul 2–12 — EXECUTED.** Two vehicles secured (Justin's full-trip rental + Dhanush's own). Grill confirmed available at the Canmore Airbnb.
+  - **Four dinner nights locked**, after cutting Chicken Teriyaki and Fried Rice (too many single-purpose pantry items for a short trip): Tacos (Jul 3), grilled spread — kebabs/tri-tip/drumsticks/corn/zucchini (Jul 4, executed as a real July 4th cookout), Stovetop Creamy Tomato Spaghetti + Brussels sprouts (Jul 5), Pulled Pork (Jul 7, later dropped from the final-night plan). Breakfast: cottage cheese/spinach/mushroom egg bake, baked 2x across the trip. Lunches: deli sandwiches + in-season fruit + protein bars.
+  - **Moraine Lake shuttle reservation FAILED to secure seats** at the 8am release — sold out instantly. End-of-trip plan rebuilt live: Moraine stays inaccessible without a shuttle (permanent private-vehicle ban), but **Lake Louise allows private cars** — pivoted to a private-vehicle Lake Louise sunrise instead.
+  - **Final night (Jul 7→8) plan:** dinner in Calgary (Silver Dragon, 106 3 Ave SE) + the ~midnight airport pickup (Annie/Charlie) consolidated into one driving loop instead of two separate round trips from Canmore. Deliberate ~90min-2.25hr nap window built in after the pickup rather than a full zero-sleep all-nighter, given a demanding day already preceded it. Two-alarm wake strategy used for the short-sleep window (same trick used earlier for an early Hertz-lot pickup).
+  - **Jul 8:** private-car Lake Louise sunrise (~5:45-6am), all-8 capstone morning, hard departure ~2:30-3pm for Will (7:25pm) + Daniel (7:55pm) evening flights.
 - **Elena birthday trip Sedona Sep 11-14** — Stargazer cluster shortlist captured 6/15. Booking deadline 7/20.
-- **NYC Jul 30 – Aug 5** — Paramount Hotel 4 nights + friend's place Hell's Kitchen + ESM NYC dance festival.
+- **NYC Jul 30 – Aug 5** — Will + Elena, staying at a friend's place in Hell's Kitchen the whole trip (Paramount Hotel dropped). Flights already paid. ESM dance festival already paid (prior year charge, zero 2026 budget impact). Broadway still open — decide booked-now vs. day-of/lottery (day-of pushes that spend to August, not July). Budget work done this period — July-specific spend ties to Banff (car-share, food, activities) + NYC's July-dated slice (Jul 30-31 only).
 
 ## Money / Acquisition
 - $70k earmarked for income-growth investments. Not deployed.
@@ -92,6 +83,5 @@ Phase: **NYC Cut Wk 6 of 8** — May 17 – Jul 11 (~3 weeks remaining; daily ga
 
 ## AIOS / Meta
 - Style Avatar locked in `context/about-me.md`; `style-grooming-sprint` backlog row rewritten as 5-month climate-adjusted buildout (deadline Dec 1).
-- Meal-planning cycle 2026-06-20 fully planned + pushed.
-- Sun 6/28 wardrobe audit block on calendar 10:30am-12pm AZ.
-- **Liftosaur MCP token expired — re-auth this week** (W26 reflection blocker).
+- Liftoscript program bug (stale seed weights, broken weekly progression) found and fixed this period; restarted clean at Week 1 post-deload Jul 4.
+- Two-week gap between reflections this period (Jun 21 → Jul 7) — noted explicitly; the Banff trip consumed the bandwidth that would've kept the weekly cadence.
