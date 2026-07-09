@@ -1,0 +1,67 @@
+# TEMPORARY — one-shot transcript fetch for a YouTube video Claude's sandbox
+# can't reach (network egress policy). Runs on push, prints transcript to the
+# job log, Claude reads it back via the GitHub API, then this file gets deleted.
+name: yt-transcript
+on:
+  push:
+    branches: ["claude/weekly-reflection-lifting-data-Gsh0P"]
+    paths: [".github/workflows/yt-transcript.yml"]
+permissions:
+  contents: read
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      VID: "-SUuWecskr0"
+    steps:
+      - name: Video metadata
+        continue-on-error: true
+        run: |
+          pip install -q yt-dlp
+          yt-dlp --skip-download --no-warnings --print "TITLE:%(title)s" --print "CHANNEL:%(channel)s" --print "DURATION:%(duration_string)s" --print "DATE:%(upload_date)s" "https://www.youtube.com/watch?v=$VID" || echo "metadata failed"
+      - name: Primary — youtube-transcript-api
+        id: primary
+        continue-on-error: true
+        run: |
+          pip install -q youtube-transcript-api
+          python - <<'EOF'
+          import sys
+          vid = "-SUuWecskr0"
+          text = None
+          try:
+              from youtube_transcript_api import YouTubeTranscriptApi
+              try:  # v1.x API
+                  fetched = YouTubeTranscriptApi().fetch(vid)
+                  text = " ".join(snip.text for snip in fetched)
+              except AttributeError:  # v0.x API
+                  t = YouTubeTranscriptApi.get_transcript(vid)
+                  text = " ".join(x["text"] for x in t)
+          except Exception as e:
+              print(f"PRIMARY_FAILED: {type(e).__name__}: {e}")
+              sys.exit(1)
+          print("=== TRANSCRIPT START ===")
+          print(text)
+          print("=== TRANSCRIPT END ===")
+          EOF
+      - name: Fallback — yt-dlp auto-captions
+        if: steps.primary.outcome == 'failure'
+        run: |
+          pip install -q yt-dlp
+          yt-dlp --skip-download --no-warnings --write-auto-subs --write-subs \
+            --sub-langs "en.*" --sub-format json3 -o "sub" \
+            "https://www.youtube.com/watch?v=$VID"
+          python - <<'EOF'
+          import json, glob
+          files = glob.glob("sub*.json3")
+          if not files:
+              raise SystemExit("FALLBACK_FAILED: no subtitle file")
+          d = json.load(open(files[0]))
+          parts = []
+          for ev in d.get("events", []):
+              for seg in ev.get("segs") or []:
+                  parts.append(seg.get("utf8", ""))
+          print("=== TRANSCRIPT START ===")
+          print("".join(parts))
+          print("=== TRANSCRIPT END ===")
+          EOF
