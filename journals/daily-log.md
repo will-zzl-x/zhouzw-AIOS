@@ -329,3 +329,8 @@ Format: ✓ = done, □ = planned/pending
 □ Run 1–2 listings through deal-eval framework
 □ Text Dan to lock in-person day/time
 □ Sunday paste: log weight + sessions + steps
+
+**2026-07-09 (Thu)** — NYC Cut Wk 7 of 8
+□ Complete Ravage training session today
+□ Text Dan to lock in-person day/time
+□ Run 1–2 listings through deal-eval framework
