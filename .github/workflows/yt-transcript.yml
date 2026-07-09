@@ -1,7 +1,6 @@
-# TEMPORARY — one-shot transcript fetch, attempt 2 (public mirror APIs only).
-# YouTube blocks datacenter IPs on its own endpoints; Invidious and Piped are
-# public, open-source mirror APIs that serve caption tracks. Prints transcript
-# to the job log. Will be deleted after the transcript is retrieved.
+# TEMPORARY — one-shot transcript fetch, attempt 3 (fixed camelCase key bug:
+# Invidious returns languageCode, not language_code — nadeko responded fine
+# on attempt 2 and was wrongly skipped). Will be deleted after retrieval.
 name: yt-transcript
 on:
   push:
@@ -16,56 +15,31 @@ jobs:
     env:
       VID: "-SUuWecskr0"
     steps:
-      - name: Fetch transcript from public mirror APIs
+      - name: Fetch transcript from Invidious
         shell: bash
         run: |
           set +e
-
-          dump_vtt() {
-            [ -s sub.vtt ] || return 1
-            echo "=== TRANSCRIPT START ==="
-            grep -v -E '^(WEBVTT|Kind:|Language:|NOTE|[0-9:.]+ -->|$)' sub.vtt | awk '!seen[$0]++'
-            echo "=== TRANSCRIPT END ==="
-            return 0
-          }
-
-          echo "##### Invidious mirrors #####"
-          for inst in inv.nadeko.net yewtu.be invidious.nerdvpn.de iv.melmac.space invidious.f5.si; do
+          for inst in inv.nadeko.net invidious.nerdvpn.de; do
             echo "--- $inst ---"
-            caps=$(curl -sS --max-time 20 "https://$inst/api/v1/captions/$VID" 2>&1)
-            echo "$caps" | head -c 300; echo ""
-            capurl=$(echo "$caps" | python3 -c "
+            capurl=$(curl -sS --max-time 20 "https://$inst/api/v1/captions/$VID" | python3 -c "
           import json,sys
           try:
               d=json.load(sys.stdin)
               c=d.get('captions',[])
-              en=[x for x in c if x.get('language_code','').startswith('en')] or c
+              en=[x for x in c if x.get('languageCode', x.get('language_code','')).startswith('en')] or c
               print(en[0]['url'] if en else '')
           except Exception: print('')")
+            echo "capurl: $capurl"
             if [ -n "$capurl" ]; then
               rm -f sub.vtt
-              curl -sS --max-time 20 "https://$inst$capurl" -o sub.vtt
-              dump_vtt && exit 0
+              curl -sS --max-time 30 "https://$inst$capurl" -o sub.vtt
+              if [ -s sub.vtt ]; then
+                echo "=== TRANSCRIPT START ==="
+                grep -v -E '^(WEBVTT|Kind:|Language:|NOTE|[0-9:.]+ -->|$)' sub.vtt | awk '!seen[$0]++'
+                echo "=== TRANSCRIPT END ==="
+                exit 0
+              fi
             fi
           done
-
-          echo "##### Piped mirrors #####"
-          for inst in pipedapi.kavin.rocks pipedapi.adminforge.de api.piped.private.coffee; do
-            echo "--- $inst ---"
-            sturl=$(curl -sS --max-time 20 "https://$inst/streams/$VID" | python3 -c "
-          import json,sys
-          try:
-              d=json.load(sys.stdin)
-              s=d.get('subtitles',[])
-              en=[x for x in s if x.get('code','').startswith('en')] or s
-              print(en[0]['url'] if en else '')
-          except Exception: print('')")
-            if [ -n "$sturl" ]; then
-              rm -f sub.vtt
-              curl -sS --max-time 20 "$sturl" -o sub.vtt
-              dump_vtt && exit 0
-            fi
-          done
-
-          echo "ALL_MIRRORS_FAILED"
+          echo "FAILED"
           exit 1
