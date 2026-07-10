@@ -334,3 +334,9 @@ Format: ✓ = done, □ = planned/pending
 □ Complete Ravage training session today
 □ Text Dan to lock in-person day/time
 □ Run 1–2 listings through deal-eval framework
+
+**2026-07-10 (Fri)** — NYC Cut Wk 7 of 8
+□ Complete Ravage training session today
+□ Walk 12,500 steps today
+□ Text Dan to lock in-person day/time
+□ Run 1–2 listings through deal-eval framework
