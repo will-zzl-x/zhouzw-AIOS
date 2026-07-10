@@ -99,11 +99,25 @@ Week-to-week is noisy (water/sodium/timing), but the **W2→W7 smoothed trend is
 clean: −4.3 lb over 6 weeks = 0.72 lb/week**, at a labeled target of 1,820 cal/day.
 Via the 3,500-kcal/lb rule: implied deficit ≈360 cal/day → **implied real TDEE
 ≈2,150–2,250 cal at ~180 lb (~12.2 cal/lb)**. That's meaningfully lower than the
-~2,400–2,600 the original 500–800 cal Schofield-style deficit sizing assumed —
-consistent with the known tracking-accuracy gap (real intake likely ran a bit
-above the logged 1,820). **Use this number, not the original formula, to anchor
-the ramp** — full ("textbook") maintenance is probably closer than the original
-plan assumed.
+~2,400–2,600 the original 500–800 cal Schofield-style deficit sizing assumed.
+**Confirmed cause (Will, 7/10): real intake ran above the logged 1,820 — restaurant
+meals are the main leak,** not a lower true TDEE. **Use this number, not the
+original formula, to anchor the ramp** — full ("textbook") maintenance is probably
+closer than the original plan assumed.
+
+**Restaurant meals are inevitable and structural — plan around the leak, don't
+try to log it away:**
+- Pick ONE indulgence per meal — bread basket OR dessert/alcohol, not both
+  (Schofield). Order a protein-forward entree first so the meal still anchors near
+  150g protein regardless of total calories.
+- Don't force a precise number into Cronometer for a restaurant meal — log a rough
+  placeholder and move on. The **weekly rolling weight average is the real
+  governor**, not the daily log (see feedback rule below) — this already absorbs
+  restaurant noise by design.
+- Since the leak is a known, roughly consistent direction (logged number runs
+  low), if a week includes 2+ restaurant meals, don't also add a proactive
+  calorie cut elsewhere to "compensate" on top of the step-up already planned —
+  that stacks two corrections for the same gap and risks under-eating the step.
 
 **Stepped calorie targets** (protein and fat held flat, carbs as the flex lever —
 per Aragon/Hall, increases should come mostly from carbs):
