@@ -83,6 +83,7 @@ When answering "what should I do" or running `/daily-check`, **read Todoist firs
 | `context/` | Stable background: `about-me.md`, `priorities.md`, `relationships.md`, `work-state.md`, `financial-state.md`, `daily-standard.md`, `acquisition.md`, `work-experience.md` (capability inventory for acquisition fit), `wedding.md` |
 | `references/` | Coach frameworks: `integrated-coach.md`, `schofield.md`, `perel.md`, `gottman.md`, `evans.md`, `schnarch.md`, `hormozi.md`, `abdaal.md`, `sanchez.md` (Main Street Millionaire / acquisition primary framework). Broker references: `empire-flippers.md`, `quiet-light.md`, `beshore.md`, `mushfiq.md`, `deibel.md`, `barnett.md` |
 | `goals/` | GPS docs — one file per active goal (`<goal-slug>.md`): `acquisition.md`, `nyc-cut.md`, `scm-ii-promotion.md`, `desire-polarity.md` |
+| `programs/` | Training program definitions (Liftoscript-style). `ravage.md` — GVS Ravage, weeks 1–9 steady-state + week 10 Schofield-style deload. Source of truth for structure; weight progression happens live in-session via each exercise's `progress:` rule, not hand-edited per week. |
 | `journals/inbox.md` | Mid-week captures; cleared each Sunday |
 | `journals/daily-log.md` | Daily completion log; running, not cleared — used by weekly-reflection |
 | `journals/scm-behaviors.md` | SCM II behavioral moments; reviewed weekly for promotion narrative |
