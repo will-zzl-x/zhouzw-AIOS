@@ -81,7 +81,7 @@ When answering "what should I do" or running `/daily-check`, **read Todoist firs
 | Folder | Contents |
 |--------|----------|
 | `context/` | Stable background: `about-me.md`, `priorities.md`, `relationships.md`, `work-state.md`, `financial-state.md`, `daily-standard.md`, `acquisition.md`, `work-experience.md` (capability inventory for acquisition fit), `wedding.md` |
-| `references/` | Coach frameworks: `integrated-coach.md`, `schofield.md`, `perel.md`, `gottman.md`, `evans.md`, `schnarch.md`, `hormozi.md`, `abdaal.md`, `sanchez.md` (Main Street Millionaire / acquisition primary framework). Broker references: `empire-flippers.md`, `quiet-light.md`, `beshore.md`, `mushfiq.md`, `deibel.md`, `barnett.md` |
+| `references/` | Coach frameworks: `integrated-coach.md`, `schofield.md` (primary fitness authority), `hall.md` (Revive Stronger — secondary/supplementary cutting-mechanics detail, defers to Schofield on any conflict), `perel.md`, `gottman.md`, `evans.md`, `schnarch.md`, `hormozi.md`, `abdaal.md`, `sanchez.md` (Main Street Millionaire / acquisition primary framework). Broker references: `empire-flippers.md`, `quiet-light.md`, `beshore.md`, `mushfiq.md`, `deibel.md`, `barnett.md` |
 | `goals/` | GPS docs — one file per active goal (`<goal-slug>.md`): `acquisition.md`, `nyc-cut.md`, `scm-ii-promotion.md`, `desire-polarity.md` |
 | `journals/inbox.md` | Mid-week captures; cleared each Sunday |
 | `journals/daily-log.md` | Daily completion log; running, not cleared — used by weekly-reflection |
