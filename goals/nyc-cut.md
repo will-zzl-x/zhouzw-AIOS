@@ -59,6 +59,40 @@ End date: July 11, 2026 — reverse diet Jul 12–29, NYC loose maintenance Jul 
 
 ---
 
+## Reverse Diet (Jul 12–29)
+
+**Sources:** Eric Helms (3D Muscle Journey; reverse-diet debate vs. Layne Norton/Peter
+Fitschen, alongside Menno Henselmans) and Lyle McDonald (bodyrecomposition.com).
+Chosen deliberately over the more RP/Israetel-style "very slow, many small weekly
+steps" camp — Helms and McDonald are both skeptical that a glacial ramp produces
+any metabolic benefit a faster one doesn't. Neither position is backed by
+controlled trials; this is coach consensus, not RCT evidence — treat it as
+directionally sound, not gospel.
+
+**Core claim from these two sources:** there's no evidence that increasing calories
+slowly "speeds up" metabolism or repairs damage beyond what simply returning to
+maintenance does on its own. McDonald's view specifically: the only real benefit of
+going gradual is behavioral — avoiding a rebound binge / food-anxiety whiplash — not
+physiological. Helms has called very slow ramps (~100 cal/week) unnecessarily
+conservative for most non-competitive-physique cases.
+
+**What this means for the Jul 12–29 window:** don't stretch this into a slow
+multi-month reverse. Step calories up from ~1,820 in **2–3 increments of roughly
+150–200 cal** rather than tiny weekly bumps, landing near estimated maintenance
+(~2,300–2,500 cal, TBD — confirm against the actual 7-day weight trend, not a
+formula) by Jul 29, so the NYC trip (Jul 30–Aug 5, "loose maintenance") starts at a
+number that's already real maintenance, not still ramping.
+
+- **Protein stays ~150g+ throughout** — unchanged from the cut, all three sources
+  (Helms, McDonald, Schofield) agree on this.
+- **Keep tracking in Cronometer through the ramp** — the point isn't to stop
+  paying attention, it's to stop restricting.
+- **Feedback rule:** if the 7-day rolling weight avg jumps faster than ~0.5–1
+  lb/week after a step-up, hold at that calorie level a few extra days before the
+  next increase — let the scale trend gate the pace, not a rigid calendar.
+
+---
+
 ## Status
 
 **Cut active — Week 2 (as of May 25).** Week 1 clean: 182.6 avg (−3.0 WoW, mostly water), Larsen held 155 (canary green), protein/steps over target. Open gap: sleep tracking not flowing yet.
