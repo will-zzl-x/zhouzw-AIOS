@@ -48,6 +48,11 @@ Hard requirements so `make validate` passes:
 - Honor the cut: prefer lean proteins, low-cal sauces, starch-aware. Flag in `notes`
   if the dish is carb-heavy (M3/refeed only) or doesn't reheat (M4 only, e.g. salmon
   → "reheat 325F oven/air-fryer, never microwave").
+- **Fiber/produce check (`references/hall.md`):** in `notes`, estimate combined
+  fruit/veg servings and fiber grams for the dish. Target ~3–4 servings and ~14g
+  fiber per 1,000 cal. If a dish falls short, prefer swapping in a higher water/
+  fiber ingredient (e.g. potato over a nut-dense filler) before adding it — same
+  calorie count, better satiety per calorie.
 - Pick `id` = max existing numeric id + 1 (string).
 
 ## After you paste it in
