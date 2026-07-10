@@ -29,7 +29,8 @@ Phase: **NYC Cut Wk 8 of 8 (final)** — May 17 – Jul 11 (~4 days remaining; d
 - BF: ~20–21% estimated (pre-trip). Lean mass: ~147 lb.
 - **Abort signal (unchanged):** Larsen 155×5/5/5 @9 OR any 2 yellow / 1 sustained red → re-baseline target to ~177 by Jul 11 — this fallback number now looks like the realistic landing spot regardless.
 - Refeed trigger: 7-day rolling avg ≤176 lb. Hard floor: 168 lb.
-- Reverse diet: Jul 12–29. NYC maintenance: Jul 30–Aug 5.
+- Reverse diet: Jul 12–29. NYC maintenance: Jul 30–Aug 5. **Stepped targets (see `goals/nyc-cut.md`): ~2,000 cal Jul 12–18 → ~2,150 Jul 19–25 → ~2,300 Jul 26–29**, protein flat 150g / fat flat 50g, carbs as the flex lever — derived from actual weight-trend data, not a textbook formula (see next bullet).
+- **Empirical TDEE calibration (7-day-avg weight trend, W2–W7 of the cut, excluding week-1 water whoosh and the Banff-trip rebound week): ~0.72 lb/week loss at a labeled 1,820 cal/day → implied real TDEE ~2,150–2,250 cal (~12.2 cal/lb) at ~180 lb.** This is lower than the ~2,400–2,600 the original 500–800 cal Schofield-style deficit assumed — either real intake ran a bit above the logged 1,820 (self-reported adherence gap, consistent with known tracking looseness) or true TDEE is genuinely lower than estimated; functionally the same either way. **Use this number, not a formula, as the anchor for the next cut's deficit sizing too.**
 - Program: GVS Ravage. Macros tracked in **Cronometer** — resume today.
 
 ## Relationships

@@ -77,16 +77,58 @@ physiological. Helms has called very slow ramps (~100 cal/week) unnecessarily
 conservative for most non-competitive-physique cases.
 
 **What this means for the Jul 12–29 window:** don't stretch this into a slow
-multi-month reverse. Step calories up from ~1,820 in **2–3 increments of roughly
-150–200 cal** rather than tiny weekly bumps, landing near estimated maintenance
-(~2,300–2,500 cal, TBD — confirm against the actual 7-day weight trend, not a
-formula) by Jul 29, so the NYC trip (Jul 30–Aug 5, "loose maintenance") starts at a
-number that's already real maintenance, not still ramping.
+multi-month reverse.
 
-- **Protein stays ~150g+ throughout** — unchanged from the cut, all three sources
+**Empirical TDEE (derived from actual weight trend, not logged calories — the
+scale doesn't lie about adherence, Cronometer might):** 7-day-avg weight, week by
+week through the cut (Sun–Sat, all times 2026):
+
+| Window | Avg weight | WoW change |
+|---|---|---|
+| Pre-cut baseline (5/14–16) | 185.6 | — |
+| W1 (5/17–23) | 182.6 | −3.0 (mostly water/glycogen — excluded from the rate calc below) |
+| W2 (5/24–30) | 182.2 | −0.4 |
+| W3 (5/31–6/6) | 180.5 | −1.7 |
+| W4 (6/7–13) | 179.7 | −0.9 |
+| W5 (6/14–20) | 178.4 | −1.3 |
+| W6 (6/21–27) | 178.9 | +0.5 |
+| W7 (6/28–7/4) | 177.9 | −1.0 |
+| W8 (7/5–11, partial) | 180.6 | +2.7 (Banff-trip rebound — not diet-driven, excluded) |
+
+Week-to-week is noisy (water/sodium/timing), but the **W2→W7 smoothed trend is
+clean: −4.3 lb over 6 weeks = 0.72 lb/week**, at a labeled target of 1,820 cal/day.
+Via the 3,500-kcal/lb rule: implied deficit ≈360 cal/day → **implied real TDEE
+≈2,150–2,250 cal at ~180 lb (~12.2 cal/lb)**. That's meaningfully lower than the
+~2,400–2,600 the original 500–800 cal Schofield-style deficit sizing assumed —
+consistent with the known tracking-accuracy gap (real intake likely ran a bit
+above the logged 1,820). **Use this number, not the original formula, to anchor
+the ramp** — full ("textbook") maintenance is probably closer than the original
+plan assumed.
+
+**Stepped calorie targets** (protein and fat held flat, carbs as the flex lever —
+per Aragon/Hall, increases should come mostly from carbs):
+
+| Step | Dates | Calories | Protein | Fat | Carbs |
+|---|---|---|---|---|---|
+| Cut (reference) | through Jul 11 | 1,820 | 150g | ~50g | ~192g |
+| 1 | Jul 12–18 | 2,000 | 150g | 50g | 238g |
+| 2 | Jul 19–25 | 2,150 | 150g | 50g | 275g |
+| 3 | Jul 26–29 | 2,300 | 150g | 50g | 312g |
+| NYC trip | Jul 30–Aug 5 | ~2,300–2,400, loose | 150g floor | flex | flex |
+
+Step 2 (2,150) lands right at the empirically-derived real TDEE — expect weight to
+roughly flatten there. If it doesn't (still dropping), that's a signal the true
+TDEE estimate was conservative and Step 3 can be pulled forward; if weight jumps
+fast at Step 2, hold longer before Step 3.
+
+- **Protein stays 150g flat throughout** — unchanged from the cut, all sources
   (Helms, McDonald, Schofield) agree on this.
 - **Keep tracking in Cronometer through the ramp** — the point isn't to stop
-  paying attention, it's to stop restricting.
+  paying attention, it's to stop restricting. Given the known logging-accuracy
+  gap, weigh protein and default to the existing `meal-planning/` cook-cycle
+  recipes where possible — home-cooked, pre-weighed meals cut estimation error
+  far more than trying to count more carefully at restaurants (Hall's point,
+  `references/hall.md`).
 - **Feedback rule:** if the 7-day rolling weight avg jumps faster than ~0.5–1
   lb/week after a step-up, hold at that calorie level a few extra days before the
   next increase — let the scale trend gate the pace, not a rigid calendar.
