@@ -19,7 +19,7 @@ Updated each time a phase changes or a quarterly review runs.
 
 ## Phase Definitions
 
-**CURRENT PHASE: NYC Cut (May 17 – Jul 11)** — use the "NYC Cut — Work Days / Weekends" gates below. The Vacation and Maintenance blocks are past; kept only as templates for future phases.
+**CURRENT PHASE: NYC Cut (May 17 – Jul 11) through Sat Jul 11 — then Reverse Diet Step 1 (Jul 12–18).** Use "NYC Cut — Work Days / Weekends" gates through Jul 11; use "Reverse Diet — Step 1 (Jul 12–18)" gates below starting Jul 12. Step 2 (~Jul 19–25) and Step 3 (~Jul 26–29) will need their own gate updates when those weeks arrive (see `goals/nyc-cut.md` for the full stepped plan). The Vacation and Maintenance blocks are past; kept only as templates for future phases.
 
 ### Vacation / Travel (e.g., Destin May 7–11)
 Amazon work: off-limits.
@@ -66,6 +66,15 @@ Done when:
 **Relationship keystone (weekly, surfaced as a mover — kept off the daily 3-gate so it doesn't compete with side work):** **Sunday morning Zone 2 indoor incline treadmill, 60–90 min** — cut-phase solo-pursuit, 1×/wk. Replaces BJJ for cut sustainability (BJJ and a boxing-class substitute both incompatible with the 6× Ravage / 1,820 cal recovery budget — Zone 2 is cut-additive, not subtractive). BJJ resumes post-cut Jul 12+. Plus intentional, non-logistical time with Elena.
 
 **Cut training structure (Path A — leaning out is priority):** keep 6× Ravage; Sunday morning Zone 2 indoor incline treadmill (60–90 min) is the 1× solo-pursuit keystone AND counts toward the 2–3× Zone 2/wk target — cut-additive, zero recovery tax, no Ravage split conflict. Hold food steady, let the 7-day rolling avg steer, watch the Larsen canary. BJJ + Thursday Muay Thai both ramp post-Jul-11 (reverse diet / maintenance).
+
+### Reverse Diet — Step 1 (Jul 12–18)
+Done when:
+1. **Career** — Advance the promo doc, or maintain Amazon. No behavior-logging.
+2. **Training** — Ravage session (if training day) — minimum 3x/week. BJJ + Thursday Muay Thai resume this week.
+3. **Nutrition** — Protein ≥ 150g AND calories ~2,000 (up from the cut's 1,820 — see `goals/nyc-cut.md` Reverse Diet section for the full macro breakdown: ~150g protein / ~50g fat / ~238g carbs). Track in Cronometer. **Restaurant meals: don't force a precise log — pick one indulgence (bread OR dessert/alcohol, not both), order protein-forward, let the weekly weight trend govern instead of the daily number** (confirmed leak source, see `state.md`).
+4. **Steps** — ≥ 12,500 (unchanged — steps target isn't phase-gated, see `dashboard.md` Daily Consistents).
+
+Feedback rule: if the 7-day rolling weight avg jumps faster than ~0.5–1 lb/week this week, hold at 2,000 cal a few extra days before Step 2's ~2,150 rather than stepping up on the calendar date regardless.
 
 ---
 

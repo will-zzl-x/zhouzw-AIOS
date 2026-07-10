@@ -10,7 +10,19 @@ household:
 
 members:
   - id: Will
-    on_cut: true
+    on_cut: false          # cut ended Jul 11 2026 — now in reverse diet (see goals/nyc-cut.md)
+    phase: reverse_diet_step1   # Jul 12-18: step 1 of 3. Step 2 (~Jul 19-25) and Step 3 (~Jul 26-29) bump these numbers — update here when the phase rolls.
+    macro_targets:
+      calories: 2000
+      protein_g: 150
+      fat_g: 50
+      carbs_g: 238
+      note: >
+        Derived from empirical TDEE (~2,150-2,250 at ~180lb, see state.md), not a
+        textbook formula. Protein/fat held flat across all 3 reverse-diet steps;
+        carbs are the flex lever. Modular-recipe Will-fork portions (rice/starch)
+        need to scale UP from their cut-era defaults to hit this — see
+        modular_assembly below.
     slots:
       M1: lean protein + veg     # breakfast — eggs/egg whites/chicken + spinach/microgreens/asparagus. Starch-free. NO shakes for M1.
       M2: microwave lunch        # reheatable only
@@ -18,10 +30,59 @@ members:
       M4: dinner                 # home-cooked, shared with Elena
   - id: Elena
     on_cut: false
+    phase: gaintain        # recomp-leaning maintenance+ — light controlled surplus, not a cut or a bulk
+    cycle_phase: mid_luteal # UPDATE each cycle as her cycle progresses — affects appetite/BMR, see macro note
+    appetite: low           # drives modular-fork sizing — see modular_assembly below
+    macro_targets:
+      calories: 1500
+      protein_g: 90
+      fat_g: 50
+      carbs_g: 173
+      note: >
+        ESTIMATE ONLY (~14 cal/lb at 102 lb + small gaintain surplus) — unlike
+        Will's TDEE this is not yet calibrated against a real logged weight trend.
+        Recalibrate against her actual weekly weight trend once a few weeks of
+        data exist, same 3,500-kcal/lb methodology used for Will (see state.md).
+        Mid-luteal phase: BMR runs ~100-300 cal higher than follicular-phase
+        baseline and appetite/cravings often shift toward carbs/comfort food —
+        don't fight a slightly higher intake this week, and don't over-interpret
+        a mid-luteal weight bump as fat gain (water retention is the more likely
+        cause). Protein floor (90g) is the non-negotiable; calories are a
+        flexible target given the appetite constraint below.
     slots:
-      M1: protein bar
+      M1: protein bar        # grab-and-go, excluded from coverage.py tracking (see coverage.py build_need)
       M2: microwave lunch        # shared/A-tier vetted recipes
       M4: dinner shared          # shared with Will
+
+# Modular fork recipes (#28, #31, #32 in recipes.json — "cook once, fork at the
+# plate") are the primary vehicle for hitting both members' macro_targets at
+# once without cooking two separate meals. Convention:
+modular_assembly:
+  pattern: >
+    One shared base (protein + cook method) forked into two assemblies at
+    packing time. Will's fork = high volume / high fiber / low added fat
+    (extra roasted or stir-fried veg, restrained sauce) — matches his
+    reverse-diet calorie/carb target through VOLUME. Elena's fork = smaller
+    volume / calorie-dense / palatable (avocado, cheese, olive oil, a starch
+    like rice/farro/pita) — matches her gaintain target and low appetite
+    through DENSITY, not volume. Never make Elena's fork bigger than Will's to
+    close a calorie gap — add density (fat/cheese/nut-based toppings), not
+    quantity, when she's short of her target. This is the low-appetite-safe
+    lever: a smaller plate that's still calorie/protein-adequate beats a
+    bigger plate she won't finish.
+  will_reverse_diet_adjustment: >
+    The existing Will-fork rice portions in #28/#31 (0.3 cup cooked) were
+    tuned for the cut's ~1,820 cal budget and are now too small for the
+    ~2,000-2,300 cal reverse-diet steps. Bump Will's rice/starch portion
+    toward Elena's (0.75 cup) at 1-2 meals/day, or add a plain carb side
+    (fruit, extra rice, a slice of bread) — protein and fat are already
+    adequate at the old portions, the gap to close is almost entirely carbs.
+  elena_low_appetite_protocol: >
+    If a planned portion goes unfinished, protein is the priority — eat the
+    protein + topping first, leave rice/veg bulk for later or skip it. Keep a
+    liquid-calorie backup on hand (Strawberry Protein Shake, recipe #30) for
+    days appetite is especially low, so the protein floor still gets hit even
+    if solid food intake falls short of the full plate.
 
 # Slot rules — drive coverage + cook_schedule + reheatability checks.
 slots:
