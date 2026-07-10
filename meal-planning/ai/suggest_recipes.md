@@ -15,7 +15,9 @@ math. No essays.
 - `data/tier_list.yaml` (Elena ranking + on_break bench).
 - `data/inventory.json` (what's on hand — prefer recipes that use it up).
 - `data/seasonal.yaml` for the current month (prefer in-season produce sides).
-- The cut constraints from `data/config.yaml` (`cut:` block).
+- Each member's `macro_targets` + `modular_assembly` notes from `data/config.yaml`
+  (replaces the old `cut:` block — Will's targets are now phase-based, see
+  `goals/nyc-cut.md`; Elena's are gaintain-phase with a low-appetite protocol).
 
 ## How to choose
 Rank candidates by, in order:
@@ -27,7 +29,10 @@ Rank candidates by, in order:
 3. **Tier** — higher Elena tier first for shared meals. Skip `on_break` recipes.
 4. **Inventory use-up** — favor recipes whose ingredients are already on hand or
    near freshness_date (reduce waste + grocery spend).
-5. **Cut fit** — lean protein, ~45g/feeding, low-cal sauces; M1/M2 starch-free.
+5. **Macro fit** — check the gap's member against their current `macro_targets`
+   (protein/cal/fat/carb, phase-based — see `data/config.yaml`). M1/M2 starch-free
+   is a standing slot rule regardless of phase. For a modular-fork recipe, Will's
+   portion leans volume/fiber, Elena's leans density — see `modular_assembly`.
 6. **Variety** — don't repeat a protein already heavy in the cycle.
 
 ## Output format
