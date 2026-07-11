@@ -3401,5 +3401,94 @@
    "Store in fridge up to 5 days, or freeze. Reheat 2-3 min microwave, or eat cold."
   ],
   "on_break": false
+ },
+ {
+  "id": "40",
+  "name": "Protein Pancakes, Premade (Costco) - Elena M2",
+  "tier": null,
+  "meal_slots": [
+   2
+  ],
+  "servings": 3,
+  "protein": "Protein Pancake (premade)",
+  "ingredients": [
+   {
+    "name": "Premade protein pancakes (e.g. Kodiak Cakes or similar Costco frozen protein pancakes)",
+    "amount": "3",
+    "unit": "servings (per package serving size)",
+    "store": "Costco"
+   }
+  ],
+  "notes": "NEW 2026-07-10 — Elena's M2 variety dish, covers the 3 days/week not covered by the marinated chicken chunks bowl. PREMADE frozen product from Costco, not homemade - confirm the actual brand/product (generic estimate used for now: ~200 cal / 15g protein / 5g fat / 25g carb per serving, based on a typical Kodiak-style protein pancake package - verify against the actual label once bought).",
+  "recipe_available": true,
+  "recipe_steps": [
+   "No prep - toast or microwave per package instructions."
+  ],
+  "on_break": false
+ },
+ {
+  "id": "41",
+  "name": "Marinated Chicken Chunks + Rice + Veg (Elena M2)",
+  "tier": null,
+  "meal_slots": [
+   2
+  ],
+  "servings": 4,
+  "protein": "Chicken Breast",
+  "ingredients": [
+   {
+    "name": "Chicken breast, cubed",
+    "amount": "1.25",
+    "unit": "lb raw (~4 srv at ~4oz cooked)",
+    "store": "Costco"
+   },
+   {
+    "name": "Soy sauce (marinade)",
+    "amount": "3",
+    "unit": "Tbsp",
+    "store": "Asian Mart"
+   },
+   {
+    "name": "Garlic, minced (marinade)",
+    "amount": "2",
+    "unit": "cloves",
+    "store": "Walmart"
+   },
+   {
+    "name": "Fresh ginger, grated (marinade)",
+    "amount": "1",
+    "unit": "Tbsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Avocado oil (marinade)",
+    "amount": "1",
+    "unit": "Tbsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "White rice, dry",
+    "amount": "1",
+    "unit": "cup dry (~4 srv cooked)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Frozen stir-fry veg mix",
+    "amount": "2",
+    "unit": "bags (~4 srv)",
+    "store": "Costco"
+   }
+  ],
+  "notes": "NEW 2026-07-10 — Elena's M2 backbone, covers 4 of her 7 M2 days (remaining 3 are the premade protein pancakes, #40). Low-effort: marinate chicken chunks 30 min (soy-garlic-ginger), pan-sear or bake, serve over rice with air-fried/sauteed frozen stir-fry veg. ~380 cal / 35g protein / 8g fat / 40g carb per serving (ESTIMATE, not verified — confirm once made).",
+  "recipe_available": true,
+  "recipe_steps": [
+   "Cube chicken breast. Combine with soy sauce, minced garlic, grated ginger, avocado oil. Marinate 30 min (fridge).",
+   "Cook rice.",
+   "Pan-sear or bake marinated chicken chunks until cooked through (165F internal).",
+   "Air-fry or saute the frozen stir-fry veg mix per package instructions.",
+   "Portion chicken + rice + veg evenly into 4 containers.",
+   "Refrigerate; reheat 90s-2min microwave."
+  ],
+  "on_break": false
  }
 ]
