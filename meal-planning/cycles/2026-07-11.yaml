@@ -6,9 +6,12 @@
 # recipes.json data that turned out to be wrong or fabricated (#20, #28, #31, #32 all
 # deleted or never real). This version is built entirely from serving counts and
 # compositions Will confirmed directly in conversation, not from unverified DB defaults.
+# FIFTH PASS: swapped Cheesy Taco Rice (#42, 665 cal - too far over the new "meals
+# close to 500 cal, fill carb gaps with fruit separately" preference) for Cheesy
+# Bolognese Crispy Potato Bake (#45, 451 cal, source-exact "1/4 pan" = 4 servings).
 # Full roster, every slot an exact match, no buffer/overage:
 #   Will M2 (7): egg bowl #36 (4) + hot dog #43 (1) + Kirkland chicken chunks #44 (2)
-#   Will M3 (7): rotisserie #6 (3) + Cheesy Taco Rice #42 (4)
+#   Will M3 (7): rotisserie #6 (3) + Cheesy Bolognese Crispy Potato Bake #45 (4)
 #   Will M4 (7) + Elena M4 (7): shared pool - Chinese chicken #35 (4 total) + Korean
 #     chicken #39 (5 total) + Spaghetti #10 (5 total) = 14, split evenly 7/7
 #     (Chinese 2W/2E, Korean 3W/2E, Spaghetti 2W/3E - uses every serving)
@@ -74,9 +77,9 @@ selections:
     slot_assignments:
       - { member: Will, slot: M3, servings: 3 }
 
-  - recipe_id: "42"
+  - recipe_id: "45"
     planned_servings: 4
-    notes: "Cheesy Taco Rice, Will-only M3. Closes the remaining M3 gap exactly (3+4=7)."
+    notes: "Cheesy Bolognese Crispy Potato Bake, Will-only M3. Closes the remaining M3 gap exactly (3+4=7). Swapped in for Cheesy Taco Rice (665 cal, too far over the 500-cal-meal preference) - this one runs 451 cal, under target, leaving room for a fruit top-up."
     slot_assignments:
       - { member: Will, slot: M3, servings: 4 }
 

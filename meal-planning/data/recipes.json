@@ -3492,140 +3492,6 @@
   "on_break": false
  },
  {
-  "id": "42",
-  "name": "Cheesy Taco Rice (Will M3)",
-  "tier": null,
-  "meal_slots": [
-   3
-  ],
-  "servings": 4,
-  "protein": "Ground Beef (96/4 lean)",
-  "ingredients": [
-   {
-    "name": "Lean ground beef (96/4)",
-    "amount": "1.25",
-    "unit": "lb (~20oz, quantity not stated exactly in source - estimate)",
-    "store": "Costco"
-   },
-   {
-    "name": "Taco seasoning packet",
-    "amount": "25",
-    "unit": "g (1 packet)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Cumin",
-    "amount": "0.5",
-    "unit": "tsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Chili powder",
-    "amount": "0.5",
-    "unit": "tsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Sea salt",
-    "amount": "2",
-    "unit": "pinches",
-    "store": "Walmart"
-   },
-   {
-    "name": "Frozen corn",
-    "amount": "1",
-    "unit": "cup (est. - amount not stated exactly)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Bell peppers (orange, yellow, green), diced",
-    "amount": "1.5",
-    "unit": "cups total (est.)",
-    "store": "Walmart"
-   },
-   {
-    "name": "White onion, diced",
-    "amount": "1",
-    "unit": "cup (est.)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Black beans, canned, drained + rinsed",
-    "amount": "15",
-    "unit": "oz (1 can)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Worcestershire sauce",
-    "amount": "5",
-    "unit": "g (~1 tsp)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Beef bone broth",
-    "amount": "1",
-    "unit": "cup (half a 16oz carton, e.g. Kettle & Fire)",
-    "store": "Costco"
-   },
-   {
-    "name": "Tomato sauce",
-    "amount": "227",
-    "unit": "g (~8oz can)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Diced tomatoes with green chilies (Rotel-style)",
-    "amount": "10",
-    "unit": "oz can",
-    "store": "Walmart"
-   },
-   {
-    "name": "Long-grain white rice, dry, rinsed",
-    "amount": "185",
-    "unit": "g (~1 cup dry)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Pepper jack cheese, shredded",
-    "amount": "84",
-    "unit": "g (~3oz)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Fresh jalapenos, sliced (topping)",
-    "amount": "1",
-    "unit": "small, to taste",
-    "store": "Walmart"
-   },
-   {
-    "name": "Light sour cream (topping)",
-    "amount": "3",
-    "unit": "Tbsp (3 scoops)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Fresh cilantro (topping)",
-    "amount": "1",
-    "unit": "handful, chopped",
-    "store": "Walmart"
-   }
-  ],
-  "notes": "NEW 2026-07-10 — from a meal-prep video transcript Will provided (one of 7 recipes built around 96/4 lean ground beef; only this one built out, closes Will's remaining M3 gap of 4). EXACT macros from source (not estimated): 665 cal / 55g protein per serving, 4 servings (source frames it as '1/4 of the pan'). Ground beef weight and raw veg quantities were NOT stated precisely in the transcript - flagged as estimates in the ingredient list; rice (185g), tomato sauce (227g), Rotel (10oz), taco seasoning (25g), Worcestershire (5g), and pepper jack (84g) were explicit in the source and are accurate. One-pan: browned beef + veg (corn/peppers/onion, adds volume without many extra calories) + black beans + taco seasoning + tomato sauce/Rotel/bone broth as cooking liquid + rice, simmered covered ~25-30 min total until rice absorbs the liquid, topped with melted pepper jack, jalapenos, sour cream, cilantro. Freezer/fridge-friendly, reheats well.",
-  "recipe_available": true,
-  "recipe_steps": [
-   "Brown ground beef in a preheated pan (med-high), pressing flat for good browning, ~5-7 min total, breaking up as it cooks.",
-   "Add diced onion, peppers, and frozen corn - the vegetables add volume/moisture without many extra calories.",
-   "Stir in taco seasoning, cumin, chili powder, sea salt.",
-   "Add drained black beans and Worcestershire sauce, mix.",
-   "Add beef bone broth, tomato sauce, and diced tomatoes with green chilies - this becomes the cooking liquid the rice absorbs.",
-   "Stir in rinsed dry rice. Bring to a simmer, then reduce heat, cover, and cook ~12-15 min. Stir once, re-cover, cook another 10-15 min until rice has absorbed most of the liquid and is tender (don't over-stir - it affects texture).",
-   "Top with shredded pepper jack, cover briefly to melt.",
-   "Top with sliced jalapenos, a drizzle of sauce of choice, sour cream, and fresh cilantro.",
-   "Divide into 4 servings (quarter the pan). Refrigerate; reheat in microwave."
-  ],
-  "on_break": false
- },
- {
   "id": "43",
   "name": "Hot Dog (Will M2)",
   "tier": null,
@@ -3696,6 +3562,124 @@
    "Air-fry frozen chicken chunks at 400F for 5-7 min until hot and crisp (or microwave if texture isn't critical).",
    "Prepare whatever veg/carb side is on hand or in the cycle's inventory that day.",
    "Portion into 2 servings."
+  ],
+  "on_break": false
+ },
+ {
+  "id": "45",
+  "name": "Cheesy Bolognese Crispy Potato Bake (Will M3)",
+  "tier": null,
+  "meal_slots": [
+   3
+  ],
+  "servings": 4,
+  "protein": "Ground Beef (96/4 lean) + Bacon",
+  "ingredients": [
+   {
+    "name": "Yukon Gold potatoes, diced",
+    "amount": "1.5",
+    "unit": "lb (amount not stated exactly in source - estimate)",
+    "store": "Costco"
+   },
+   {
+    "name": "Avocado oil (potatoes)",
+    "amount": "1",
+    "unit": "Tbsp (est.)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Sea salt, paprika, garlic powder, basil, oregano (potato seasoning)",
+    "amount": "1",
+    "unit": "set, to taste",
+    "store": "Walmart"
+   },
+   {
+    "name": "Parmesan cheese (potatoes)",
+    "amount": "8",
+    "unit": "g",
+    "store": "Walmart"
+   },
+   {
+    "name": "Green and red bell peppers, diced",
+    "amount": "2",
+    "unit": "peppers (~300g, est.)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Onion, diced",
+    "amount": "150",
+    "unit": "g",
+    "store": "Walmart"
+   },
+   {
+    "name": "Carrots, diced",
+    "amount": "150",
+    "unit": "g",
+    "store": "Walmart"
+   },
+   {
+    "name": "Chicken bone broth (veg steam + sauce)",
+    "amount": "60",
+    "unit": "g plus a splash for veg (est.)",
+    "store": "Costco"
+   },
+   {
+    "name": "Garlic, minced",
+    "amount": "3",
+    "unit": "cloves (est.)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Center cut bacon, cut into pieces",
+    "amount": "5",
+    "unit": "slices",
+    "store": "Costco"
+   },
+   {
+    "name": "Lean ground beef (96/4)",
+    "amount": "1",
+    "unit": "lb (amount not stated exactly in source - estimate)",
+    "store": "Costco"
+   },
+   {
+    "name": "Tomato paste",
+    "amount": "25",
+    "unit": "g",
+    "store": "Walmart"
+   },
+   {
+    "name": "Italian seasoning",
+    "amount": "1",
+    "unit": "pinch",
+    "store": "Walmart"
+   },
+   {
+    "name": "Low-fat marinara sauce",
+    "amount": "240",
+    "unit": "g",
+    "store": "Walmart"
+   },
+   {
+    "name": "Part-skim mozzarella, shredded",
+    "amount": "84",
+    "unit": "g",
+    "store": "Walmart"
+   }
+  ],
+  "notes": "NEW 2026-07-10 — replaces Cheesy Taco Rice (deleted), from the same meal-prep video (96/4 lean ground beef series). Chosen specifically for the 'meals close to 500 cal' preference - it's UNDER at 451 cal, leaving room for a fruit top-up rather than needing correction like the 665-cal Taco Rice did. EXACT macros from source: 451 cal / 40g protein per serving, 4 servings (source frames it as '1/4 of the pan' - exact match to the 4 servings needed, no rescaling). Potato and ground beef weights were not stated precisely in the transcript - flagged as estimates; bacon (5 slices), Parmesan (8g), tomato paste (25g), marinara (240g), and mozzarella (84g) were explicit in the source and are accurate.",
+  "recipe_available": true,
+  "recipe_steps": [
+   "Dice Yukon Gold potatoes. Toss with avocado oil, sea salt, paprika, garlic powder, basil, oregano, and the 8g Parmesan.",
+   "Air fry potatoes at 400F for 15-20 min until golden.",
+   "Meanwhile, in a pan on medium-high, add diced bell peppers, onion, and carrots. Cover to steam/soften, adding a splash of chicken bone broth to speed it up.",
+   "Add minced garlic, cook until fragrant. Set the vegetables aside.",
+   "In the same pan, cook bacon pieces until they start to brown.",
+   "Push bacon to the side, add ground beef to the cleared space, press flat for browning. Cook ~3-4 min per side.",
+   "Add tomato paste, 60g chicken bone broth, Italian seasoning, and marinara. Simmer on low heat.",
+   "Return the vegetables to the pan and combine everything.",
+   "Top with the crispy air-fried potatoes, spread evenly. Top with shredded mozzarella.",
+   "Broil until the cheese is golden and bubbly.",
+   "Divide into 4 servings (quarter the pan). Refrigerate; reheat in microwave."
   ],
   "on_break": false
  }
