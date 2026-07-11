@@ -2,7 +2,19 @@
 # Built via the documented workflow: new_cycle.py --noninteractive skeleton -> make coverage
 # (full gap list) -> ai/suggest_recipes.md ranked picks (ranked below each gap) -> this file.
 # Date follows the household's real Sat-Sat cadence (new_cycle.py's own default), not a
-# diet-phase-aligned Sun-Sat window — grocery_day = today (Fri 7/10), cook Sat 7/11.
+# diet-phase-aligned Sun-Sat window — grocery_day = today (Fri 7/10 local AZ time), cook Sat 7/11.
+#
+# CORRECTED 2026-07-10: data/inventory.json hadn't been depleted since 2026-06-22
+# (~3 weeks / multiple real cook cycles ago, confirmed via git log) despite real
+# cooking happening since then (Will confirmed a lot was eaten). The first pass of
+# this cycle wrongly trusted that stale data and planned around ground beef/eggs/
+# salmon/cheese/salsa that are very likely gone. Those items are now zeroed in
+# data/inventory.json (marked STALE DATA, assumed depleted, pending a real
+# recount) and this cycle's grocery list rebuilt to buy them fresh instead.
+# Consequence: the auto-generated DEFROST step for ground beef/chicken is now
+# MOOT for this cycle — nothing to stage from a freezer that's actually empty of
+# those items. Buy fresh at Saturday's Costco run, cook same day.
+#
 # Will: 2,000 cal / 150g protein / 50g fat / 238g carbs/day (config.yaml macro_targets).
 # Elena: ~1,500 cal / 90g protein / 50g fat / 173g carbs/day, gaintain, mid-luteal, low
 # appetite (config.yaml macro_targets + modular_assembly).
@@ -84,25 +96,29 @@ selections:
   - recipe_id: "26"
     planned_servings: 3
     notes: |
-      Uses up all 3 canned wild salmon on hand (no freshness_date logged — shelf
-      stable, but no reason to let it sit). ~280 cal / 23g protein / 11g fat / 24g
-      carbs per serving (documented in recipes.json). Closes the remaining Will M3
-      gap (2 needed, 1 buffer serving).
+      UPDATED 2026-07-10: original pick reasoning ("uses up 3 cans on hand") is
+      stale — inventory.json hadn't been depleted since 2026-06-22 despite real
+      cooking since, so those cans are assumed gone (zeroed in inventory.json, buy
+      3 fresh). Recipe choice itself still stands for protein variety (fish, not
+      more chicken) — just buy it this time instead of using a phantom stash.
+      ~280 cal / 23g protein / 11g fat / 24g carbs per serving. Closes the
+      remaining Will M3 gap (2 needed, 1 buffer serving).
     slot_assignments:
       - { member: Will, slot: M3, servings: 3 }
 
   # Gap: Will M4 short 4 (after #32's 3), Elena M4 already closed via #28 above.
-  #   1. [9] Bibimbap — INVENTORY MATCH: ground beef (90/10, 8.75 lb) expires 2026-07-15
-  #      — inside this cycle window. Waste-reduction rule ranks this above any other
-  #      M4-eligible recipe that doesn't touch the expiring stash. Will-only (Elena
-  #      already at her M4 target — adding her here would over-stack volume against
-  #      the low-appetite protocol for no macro benefit).
+  #   1. [9] Bibimbap — Will-only. Originally picked as an inventory-use-up pick
+  #      (ground beef expiring 7/15) — that reasoning is now moot, same stale-
+  #      inventory issue as #26 (buy ground beef fresh, don't assume the old
+  #      stash is real). Kept as the pick anyway: still the right variety choice
+  #      (beef, not more chicken) and doesn't over-stack Elena's M4.
   - recipe_id: "9"
     planned_servings: 4
     notes: |
       Will-only. ~480 cal / 35g protein / 22g fat / 35g carbs per serving (est. —
-      90/10 ground beef + fried egg + rice + veg). Uses ~1.3 lb of the expiring
-      ground beef stash.
+      90/10 ground beef + fried egg + rice + veg). Buy ~1.3 lb ground beef fresh
+      (inventory.json's 8.75 lb was stale/assumed-consumed — see 2026-07-10 note
+      on data/inventory.json).
     slot_assignments:
       - { member: Will, slot: M4, servings: 4 }
 

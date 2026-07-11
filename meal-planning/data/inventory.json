@@ -169,54 +169,59 @@
   },
   {
     "item": "Eggs",
-    "quantity": 18,
+    "quantity": 0,
     "unit": "eggs",
     "location": "fridge",
-    "freshness_date": "2026-06-25"
+    "freshness_date": "2026-06-25",
+    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
   },
   {
     "item": "Chicken breasts",
-    "quantity": 5.5,
+    "quantity": 0,
     "unit": "lbs",
     "location": "freezer",
     "freshness_date": "2026-08-15",
-    "note": "4 × 22oz Costco packs — added 2026-06-22"
+    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
   },
   {
     "item": "Chicken thighs",
-    "quantity": 8,
+    "quantity": 0,
     "unit": "thighs",
     "location": "freezer",
-    "freshness_date": "2026-08-01"
+    "freshness_date": "2026-08-01",
+    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
   },
   {
     "item": "Ground beef (90/10)",
-    "quantity": 8.75,
+    "quantity": 0,
     "unit": "lbs",
     "location": "freezer",
     "freshness_date": "2026-07-15",
-    "note": "7 × 20oz Costco bags — updated 2026-06-20 (was tracked as 2 lb, actual stash much higher)"
+    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
   },
   {
     "item": "Fat-free cream cheese",
-    "quantity": 8,
+    "quantity": 0,
     "unit": "oz",
     "location": "fridge",
-    "freshness_date": null
+    "freshness_date": null,
+    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
   },
   {
     "item": "Parmigiano Reggiano",
-    "quantity": 4,
+    "quantity": 0,
     "unit": "oz",
     "location": "fridge",
-    "freshness_date": null
+    "freshness_date": null,
+    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
   },
   {
     "item": "Shredded cheese",
-    "quantity": 8,
+    "quantity": 0,
     "unit": "oz",
     "location": "fridge",
-    "freshness_date": null
+    "freshness_date": null,
+    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
   },
   {
     "item": "Cumin",
@@ -234,17 +239,19 @@
   },
   {
     "item": "Salsa",
-    "quantity": 16,
+    "quantity": 0,
     "unit": "oz",
     "location": "fridge",
-    "freshness_date": null
+    "freshness_date": null,
+    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
   },
   {
     "item": "Canned wild salmon",
-    "quantity": 3,
+    "quantity": 0,
     "unit": "cans",
     "location": "pantry",
-    "freshness_date": null
+    "freshness_date": null,
+    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
   },
   {
     "item": "Lettuce (romaine/iceberg)",
@@ -252,14 +259,15 @@
     "unit": "head",
     "location": "fridge",
     "freshness_date": null,
-    "note": "Used up — buying fresh head for #23 burgers (2026-06-22 cycle)"
+    "note": "Used up \u2014 buying fresh head for #23 burgers (2026-06-22 cycle)"
   },
   {
     "item": "Red onion",
-    "quantity": 1,
+    "quantity": 0,
     "unit": "onion",
     "location": "pantry",
-    "freshness_date": null
+    "freshness_date": null,
+    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
   },
   {
     "item": "Ketchup",
@@ -270,10 +278,11 @@
   },
   {
     "item": "Russet potatoes",
-    "quantity": 3,
+    "quantity": 0,
     "unit": "lb",
     "location": "pantry",
-    "freshness_date": null
+    "freshness_date": null,
+    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
   },
   {
     "item": "Dried minced onion",
@@ -284,10 +293,11 @@
   },
   {
     "item": "Asiago cheese",
-    "quantity": 4,
+    "quantity": 0,
     "unit": "oz",
     "location": "fridge",
-    "freshness_date": null
+    "freshness_date": null,
+    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
   },
   {
     "item": "Fettuccine pasta",
