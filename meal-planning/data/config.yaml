@@ -54,35 +54,27 @@ members:
       M2: microwave lunch        # shared/A-tier vetted recipes
       M4: dinner shared          # shared with Will
 
-# Modular fork recipes (#28, #31, #32 in recipes.json — "cook once, fork at the
-# plate") are the primary vehicle for hitting both members' macro_targets at
-# once without cooking two separate meals. Convention:
+# UPDATED 2026-07-10: #28/#31/#32 (the original "modular fork" recipes this
+# section was written around) were all deleted — confirmed fabricated, not
+# real dishes either Will or Elena cook (see git history / cycles/2026-07-11.yaml
+# header for the full story). The shared-meal pattern going forward is simpler:
+# a handful of dishes (currently #35 Chinese chicken, #39 Korean chicken, #10
+# Spaghetti) are cooked once and split evenly between Will and Elena at the
+# table — same portion for both, no per-person fork/assembly customization.
+# Elena's individual meals (M2) use separate, Elena-specific recipes instead
+# (currently #40, #41) rather than a fork of a shared Will-oriented recipe.
 modular_assembly:
   pattern: >
-    One shared base (protein + cook method) forked into two assemblies at
-    packing time. Will's fork = high volume / high fiber / low added fat
-    (extra roasted or stir-fried veg, restrained sauce) — matches his
-    reverse-diet calorie/carb target through VOLUME. Elena's fork = smaller
-    volume / calorie-dense / palatable (avocado, cheese, olive oil, a starch
-    like rice/farro/pita) — matches her gaintain target and low appetite
-    through DENSITY, not volume. Never make Elena's fork bigger than Will's to
-    close a calorie gap — add density (fat/cheese/nut-based toppings), not
-    quantity, when she's short of her target. This is the low-appetite-safe
-    lever: a smaller plate that's still calorie/protein-adequate beats a
-    bigger plate she won't finish.
-  will_reverse_diet_adjustment: >
-    The existing Will-fork rice portions in #28/#31 (0.3 cup cooked) were
-    tuned for the cut's ~1,820 cal budget and are now too small for the
-    ~2,000-2,300 cal reverse-diet steps. Bump Will's rice/starch portion
-    toward Elena's (0.75 cup) at 1-2 meals/day, or add a plain carb side
-    (fruit, extra rice, a slice of bread) — protein and fat are already
-    adequate at the old portions, the gap to close is almost entirely carbs.
+    Shared M4 dishes (#35, #39, #10) are split evenly between Will and Elena
+    when eaten together — same recipe, same portion, no fork. This replaced
+    the earlier "cook once, fork differently per person" convention after
+    that turned out to be based on fabricated recipe data.
   elena_low_appetite_protocol: >
     If a planned portion goes unfinished, protein is the priority — eat the
     protein + topping first, leave rice/veg bulk for later or skip it. Keep a
-    liquid-calorie backup on hand (Strawberry Protein Shake, recipe #30) for
-    days appetite is especially low, so the protein floor still gets hit even
-    if solid food intake falls short of the full plate.
+    liquid-calorie backup on hand (Elena's vanilla protein shake, recipe #38)
+    for days appetite is especially low, so the protein floor still gets hit
+    even if solid food intake falls short of the full plate.
 
 # Slot rules — drive coverage + cook_schedule + reheatability checks.
 slots:
