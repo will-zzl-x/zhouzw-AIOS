@@ -3668,5 +3668,76 @@
    "Plate: sliced poached chicken over rice, spoon the overnight ginger-scallion sauce on top (light for the cut), cucumber salad on the side.",
    "Store components separately; reheat chicken gently or serve cold. Sauce + cucumber salad keep ~5-7 days. Freeze surplus chicken before travel."
   ]
+ },
+ {
+  "id": "36",
+  "name": "Egg + Egg White Bake with Cottage Cheese, Mushroom, Spinach (Will M1)",
+  "tier": null,
+  "meal_slots": [
+   1
+  ],
+  "servings": 7,
+  "protein": "Eggs + Cottage Cheese",
+  "ingredients": [
+   {
+    "name": "Whole eggs",
+    "amount": "6",
+    "unit": "eggs",
+    "store": "Costco"
+   },
+   {
+    "name": "Egg whites",
+    "amount": "1.5",
+    "unit": "cups (~12 egg whites)",
+    "store": "Costco"
+   },
+   {
+    "name": "2% low-fat cottage cheese",
+    "amount": "16",
+    "unit": "oz (2 cups)",
+    "store": "Costco"
+   },
+   {
+    "name": "Mushrooms, sliced",
+    "amount": "8",
+    "unit": "oz",
+    "store": "Walmart"
+   },
+   {
+    "name": "Spinach, chopped",
+    "amount": "10",
+    "unit": "oz (fresh, wilts down)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Salt",
+    "amount": "1",
+    "unit": "tsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Black pepper",
+    "amount": "0.5",
+    "unit": "tsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Garlic powder",
+    "amount": "1",
+    "unit": "tsp",
+    "store": "Walmart"
+   }
+  ],
+  "notes": "NEW 2026-07-10 — Will's actual M1 pick this cycle, replacing #34 pork loin. Starch-free per config.yaml M1 slot rule. ~170 cal / 22g protein / 6g fat / 5g carbs per serving (ESTIMATE, not verified against a nutrition label — confirm before treating as precise). Bake once, cut into 7 portions, reheat.",
+  "recipe_available": true,
+  "recipe_steps": [
+   "Preheat oven to 350F. Grease a 9x13 baking dish.",
+   "Saute mushrooms in a dry pan or air fryer until moisture releases and they lightly brown, ~5-7 min. Set aside.",
+   "Wilt spinach (saute or microwave-steam), squeeze out excess water, roughly chop.",
+   "Whisk whole eggs + egg whites in a large bowl. Fold in cottage cheese, mushrooms, spinach, salt, pepper, garlic powder.",
+   "Pour into baking dish. Bake 30-35 min until set and lightly golden, center no longer jiggly.",
+   "Cool 10 min, cut into 7 portions. Reheat 60-90s microwave."
+  ],
+  "on_break": false
  }
 ]

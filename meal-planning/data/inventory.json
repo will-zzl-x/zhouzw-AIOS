@@ -251,7 +251,7 @@
     "unit": "cans",
     "location": "pantry",
     "freshness_date": null,
-    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
+    "note": "Confirmed 2026-07-10 \u2014 none on hand, stays at 0."
   },
   {
     "item": "Lettuce (romaine/iceberg)",
@@ -263,11 +263,11 @@
   },
   {
     "item": "Red onion",
-    "quantity": 0,
+    "quantity": 0.5,
     "unit": "onion",
     "location": "pantry",
     "freshness_date": null,
-    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
+    "note": "Confirmed 2026-07-10 \u2014 half onion left."
   },
   {
     "item": "Ketchup",
@@ -278,11 +278,11 @@
   },
   {
     "item": "Russet potatoes",
-    "quantity": 0,
+    "quantity": 1,
     "unit": "lb",
     "location": "pantry",
     "freshness_date": null,
-    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
+    "note": "Confirmed 2026-07-10 \u2014 'a couple potatoes' left, estimated ~1 lb (2 medium potatoes)."
   },
   {
     "item": "Dried minced onion",
