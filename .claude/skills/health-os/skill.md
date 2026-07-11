@@ -166,7 +166,12 @@ Elena inherits or shares Will's phase.
    in a YAML comment, not an `inventory_snapshot` entry.
 7. **Validate the whole thing:** `make validate` (recipe DB integrity) then
    `make week CYCLE=cycles/<date>.yaml` (preflight + coverage + grocery + defrost +
-   schedule in one run) — confirm 0 gaps and no errors before treating the cycle as
+   schedule in one run) — PREFLIGHT now also warns if `data/inventory.json` hasn't
+   been git-touched in >10 days (added 2026-07-10, after exactly this went stale
+   for 3 weeks and produced a wrong grocery list). Don't ignore that warning —
+   confirm actual on-hand quantities with whoever's cooking before trusting
+   "covered" anywhere in the output. Confirm 0 gaps and no errors before treating
+   the cycle as
    final.
 8. **Save curated docs:** write `cycles/<date>-cook-plan.md` (coverage table, cook
    order, modular-fork logic, macro rollup) and `cycles/<date>-grocery.md`

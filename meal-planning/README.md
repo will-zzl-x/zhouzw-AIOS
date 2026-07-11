@@ -22,10 +22,19 @@ modified by any script.
 | 4 | `make defrost` | **no tokens** | Freezer→fridge move schedule. Stages proteins actually **in the freezer** (`inventory.json` location=freezer), cut-aware (won't thaw thighs for a breast recipe); fresh-buys skipped. |
 | 5 | `make schedule` | **no tokens** | Ordered cook plan: perishable → marinade-lead → slow/long-simmer → rotisserie(Sat) → standard |
 | 6 | *(cook the week)* | — | — |
-| 7 | `make deplete APPLY=1` | **no tokens** | Subtract the cycle's consumed items from `data/inventory.json`. Uses the **same fuzzy-name + unit-scaling matcher as grocery** (`lib.units`), so what grocery calls "covered" is exactly what deplete draws down — inventory stays true week over week. |
+| 7 | `make deplete APPLY=1` | **no tokens** | Subtract the cycle's consumed items from `data/inventory.json`. Uses the **same fuzzy-name + unit-scaling matcher as grocery** (`lib.units`), so what grocery calls "covered" is exactly what deplete draws down — inventory stays true week over week. **Do this one for real** — skipping it is exactly how the grocery list goes wrong (see the staleness check below). |
 | any | `make validate` | **no tokens** | Recipe-DB schema + integrity. `STRICT=1` hardens the seasoning rule. |
 
 > **Run-it-weekly tip:** `make week` is the front door — preflight + the whole read-only loop in one shot. Use the individual targets only to re-run one step. `deplete` stays separate on purpose (the only step that writes inventory).
+
+> **Inventory staleness check (added 2026-07-10):** PREFLIGHT now warns if
+> `data/inventory.json` hasn't been git-touched in >10 days. It can't verify the
+> *contents* are still accurate, only that nobody's run `make deplete` recently —
+> but that's exactly the failure mode that produced a wrong grocery list once
+> already (3 weeks stale, real cooking happened, `make deplete` never ran, the
+> system kept reporting eaten proteins as "on hand"). Treat the warning as a cue
+> to sanity-check on-hand quantities with whoever's actually cooking before
+> trusting "covered" in the grocery output.
 
 > **App-ready (`--json`):** every read-only step (`coverage`, `grocery`, `defrost`, `cook_schedule`) and `run_week.py` accept `--json` and emit a structured result instead of text — same compute, machine-readable. `python scripts/run_week.py [cycle] --json` returns the whole **WeekReport** (preflight + coverage + grocery + defrost + schedule) as one JSON object. That object is the contract a future app/UI consumes — no CLI scraping. Text remains the default for terminal use.
 

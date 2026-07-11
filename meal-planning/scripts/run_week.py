@@ -10,8 +10,11 @@ coverage -> grocery -> defrost -> schedule by hand four times.
 
 What it does:
   0. PREFLIGHT (fail fast) — UTF-8 stdout; recipes valid; inventory finite/parseable;
-     cycle parseable + recipe_ids exist + slots in M1-M4 + members valid + servings ok.
-     Any FAIL -> print red summary, exit 2, run NOTHING. WARN -> note + continue.
+     inventory not stale (data/inventory.json git-touched recently — see
+     check_inventory_staleness, added 2026-07-10 after 3 stale weeks produced a
+     wrong grocery list); cycle parseable + recipe_ids exist + slots in M1-M4 +
+     members valid + servings ok. Any FAIL -> print red summary, exit 2, run
+     NOTHING. WARN -> note + continue.
   1. coverage   — servings need vs planned, gaps
   2. grocery    — buy/check/have by store
   3. defrost    — freezer staging vs fresh-buy
@@ -26,6 +29,7 @@ import argparse
 import json
 import subprocess
 import sys
+from datetime import datetime
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -87,6 +91,40 @@ def check_inventory():
     return fails, warns
 
 
+def check_inventory_staleness(threshold_days=10):
+    """Warn (never fail) if data/inventory.json hasn't been git-touched recently.
+
+    Added 2026-07-10: data/inventory.json went 3 weeks / multiple real cook cycles
+    without a `make deplete` run, so it kept reporting proteins/dairy as "on hand"
+    that had actually been eaten — the grocery list silently under-bought for a
+    week before Will caught it by hand. This can't detect that the *contents* are
+    right, only that the file is old enough to be suspicious; still flags the
+    exact failure mode that bit us. threshold_days=10 is a bit over one weekly
+    cycle, so one missed `make deplete` is tolerated, two is not.
+    """
+    try:
+        out = subprocess.run(
+            ["git", "log", "-1", "--format=%at", "--", str(models.INVENTORY_PATH)],
+            capture_output=True, text=True, cwd=str(models.INVENTORY_PATH.parent), timeout=5,
+        )
+        ts = out.stdout.strip()
+        if out.returncode != 0 or not ts:
+            return []  # not a git repo / no history for this file — fail open
+        last_touched = datetime.fromtimestamp(int(ts))
+        age_days = (datetime.now() - last_touched).days
+        if age_days > threshold_days:
+            return [
+                f"data/inventory.json hasn't been updated in {age_days} days "
+                f"(last touched {last_touched.date()}) — if real cooking happened "
+                f"since without `make deplete APPLY=1`, 'covered' in the grocery "
+                f"output below may be wrong. Confirm proteins/dairy/produce with "
+                f"whoever's cooking before trusting it at face value."
+            ]
+    except (FileNotFoundError, subprocess.TimeoutExpired, ValueError, OSError):
+        pass  # git unavailable — fail open, this is a nice-to-have, not a dependency
+    return []
+
+
 def check_cycle(cycle_path):
     """The validation the system has NO equivalent of today (audit P2 #7)."""
     fails, warns = [], []
@@ -127,6 +165,7 @@ def preflight(cycle_path):
     all_fails, all_warns = [], []
     rf, rw = check_recipes(); all_fails += rf; all_warns += rw
     inf, inw = check_inventory(); all_fails += inf; all_warns += inw
+    all_warns += check_inventory_staleness()
     cf, cw, _ = check_cycle(cycle_path); all_fails += cf; all_warns += cw
     for f in all_fails:
         print(f"  ⛔ FAIL: {f}")
