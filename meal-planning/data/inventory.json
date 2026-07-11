@@ -169,11 +169,11 @@
   },
   {
     "item": "Eggs",
-    "quantity": 18,
+    "quantity": 10,
     "unit": "eggs",
     "location": "fridge",
     "freshness_date": "2026-06-25",
-    "note": "Restored 2026-07-10 \u2014 Will confirmed still on hand. Quantity is the last logged amount (2026-06-22), not re-verified since; treat as approximate."
+    "note": "Corrected 2026-07-11 - Will physically counted 10, not the previously logged 18."
   },
   {
     "item": "Chicken breasts",

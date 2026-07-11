@@ -3161,12 +3161,6 @@
     "store": "Costco"
    },
    {
-    "name": "2% low-fat cottage cheese",
-    "amount": "16",
-    "unit": "oz (2 cups)",
-    "store": "Costco"
-   },
-   {
     "name": "Mushrooms, sliced",
     "amount": "8",
     "unit": "oz",
@@ -3197,13 +3191,13 @@
     "store": "Walmart"
    }
   ],
-  "notes": "M2 pick (moved off M1 2026-07-10 - shakes are M1 now for both). Servings corrected 7->4: Will confirmed real portions run ~double the original 170 cal/serving estimate, so the same ingredient batch yields ~4 bigger servings, not 7. ~275 cal / 35g protein / 10g fat / 8g carb per serving (ESTIMATE, not verified against a label). Also realistically only holds ~4 days refrigerated (baked egg + dairy dish) - covers the front of the week, paired with a backup M2 for the remaining days rather than assumed to last all 7.",
+  "notes": "M2 pick (moved off M1 2026-07-10 - shakes are M1 now for both). Servings corrected 7->4: Will confirmed real portions run ~double the original 170 cal/serving estimate, so the same ingredient batch yields ~4 bigger servings, not 7. ~275 cal / 35g protein / 10g fat / 8g carb per serving (ESTIMATE, not verified against a label). Also realistically only holds ~4 days refrigerated (baked egg + dairy dish) - covers the front of the week, paired with a backup M2 for the remaining days rather than assumed to last all 7. REVISED 2026-07-11: cottage cheese unavailable at the store, dropped entirely - now just eggs + egg whites + mushroom + spinach. Slightly less protein/creaminess, still a solid dish. New estimate: ~130 cal / 18g protein / 5g fat / 3g carb per serving (was ~275/35/10/8).",
   "recipe_available": true,
   "recipe_steps": [
    "Preheat oven to 350F. Grease a 9x13 baking dish.",
    "Saute mushrooms in a dry pan or air fryer until moisture releases and they lightly brown, ~5-7 min. Set aside.",
    "Wilt spinach (saute or microwave-steam), squeeze out excess water, roughly chop.",
-   "Whisk whole eggs + egg whites in a large bowl. Fold in cottage cheese, mushrooms, spinach, salt, pepper, garlic powder.",
+   "Whisk whole eggs + egg whites in a large bowl. Fold in mushrooms, spinach, salt, pepper, garlic powder.",
    "Pour into baking dish. Bake 30-35 min until set and lightly golden, center no longer jiggly.",
    "Cool 10 min, cut into 7 portions. Reheat 60-90s microwave."
   ],
@@ -3653,7 +3647,7 @@
     "store": "Walmart"
    },
    {
-    "name": "Plain non-fat Greek yogurt (bang bang sauce)",
+    "name": "Mayo (SUB for Greek yogurt, unavailable)",
     "amount": "151",
     "unit": "g (scaled from 113g)",
     "store": "Costco"
@@ -3683,7 +3677,7 @@
     "store": "Asian Mart"
    }
   ],
-  "notes": "NEW 2026-07-10 — replaces Cheesy Bolognese Crispy Potato Bake (had bell peppers, Will dislikes). From the same meal-prep video (96/4 lean ground beef series). No peppers - onion, carrots, coleslaw mix (cabbage-based), ginger, garlic. EXACT per-serving macros from source: 522 cal / 41g protein (source frames it as '1/3 of the pan' = 3 servings; scaled ingredient quantities up 1.33x to yield 4 servings for Will's M3 gap - per-serving macros are unchanged by scaling). White onion amount wasn't stated precisely in the transcript - flagged as an estimate.",
+  "notes": "NEW 2026-07-10 — replaces Cheesy Bolognese Crispy Potato Bake (had bell peppers, Will dislikes). From the same meal-prep video (96/4 lean ground beef series). No peppers - onion, carrots, coleslaw mix (cabbage-based), ginger, garlic. EXACT per-serving macros from source: 522 cal / 41g protein (source frames it as '1/3 of the pan' = 3 servings; scaled ingredient quantities up 1.33x to yield 4 servings for Will's M3 gap - per-serving macros are unchanged by scaling). White onion amount wasn't stated precisely in the transcript - flagged as an estimate. REVISED 2026-07-11: Greek yogurt unavailable at the store, bang bang sauce base swapped to mayo (arguably the more classic version of this sauce anyway). Raises fat, lowers protein slightly vs. the yogurt version - fine since the dish's protein is already well covered by the beef. New estimate: ~560 cal / 36g protein / 22g fat / 41g carb per serving (was 522/41/-/-).",
   "recipe_available": true,
   "recipe_steps": [
    "Add sliced white onion to a hot pan, cover to steam/char without much oil, until caramelized.",
