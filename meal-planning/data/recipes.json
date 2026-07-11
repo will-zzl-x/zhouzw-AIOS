@@ -627,7 +627,7 @@
   "meal_slots": [
    3
   ],
-  "servings": 5,
+  "servings": 3,
   "protein": "Rotisserie Chicken",
   "ingredients": [
    {
@@ -667,7 +667,7 @@
     "store": "varies"
    }
   ],
-  "notes": "Meal 3 only (you). Keep rotisserie drippings — key for moisture. Garlic rice base is consistent. Side veggie flexes per cycle based on seasonal availability and inventory. No parsley, no potatoes.",
+  "notes": "Meal 3 only (you). Keep rotisserie drippings — key for moisture. Garlic rice base is consistent. Side veggie flexes per cycle based on seasonal availability and inventory. No parsley, no potatoes. CORRECTED 2026-07-10: servings 5->3 (Will's M3 total, 7/wk, is rotisserie(3) + Cheesy Taco Rice #42(4) = 7 exact).",
   "recipe_available": true,
   "recipe_steps": [
    "Cook 1 cup short grain rice per rice cooker instructions.",
@@ -3488,6 +3488,214 @@
    "Air-fry or saute the frozen stir-fry veg mix per package instructions.",
    "Portion chicken + rice + veg evenly into 4 containers.",
    "Refrigerate; reheat 90s-2min microwave."
+  ],
+  "on_break": false
+ },
+ {
+  "id": "42",
+  "name": "Cheesy Taco Rice (Will M3)",
+  "tier": null,
+  "meal_slots": [
+   3
+  ],
+  "servings": 4,
+  "protein": "Ground Beef (96/4 lean)",
+  "ingredients": [
+   {
+    "name": "Lean ground beef (96/4)",
+    "amount": "1.25",
+    "unit": "lb (~20oz, quantity not stated exactly in source - estimate)",
+    "store": "Costco"
+   },
+   {
+    "name": "Taco seasoning packet",
+    "amount": "25",
+    "unit": "g (1 packet)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Cumin",
+    "amount": "0.5",
+    "unit": "tsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Chili powder",
+    "amount": "0.5",
+    "unit": "tsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Sea salt",
+    "amount": "2",
+    "unit": "pinches",
+    "store": "Walmart"
+   },
+   {
+    "name": "Frozen corn",
+    "amount": "1",
+    "unit": "cup (est. - amount not stated exactly)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Bell peppers (orange, yellow, green), diced",
+    "amount": "1.5",
+    "unit": "cups total (est.)",
+    "store": "Walmart"
+   },
+   {
+    "name": "White onion, diced",
+    "amount": "1",
+    "unit": "cup (est.)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Black beans, canned, drained + rinsed",
+    "amount": "15",
+    "unit": "oz (1 can)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Worcestershire sauce",
+    "amount": "5",
+    "unit": "g (~1 tsp)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Beef bone broth",
+    "amount": "1",
+    "unit": "cup (half a 16oz carton, e.g. Kettle & Fire)",
+    "store": "Costco"
+   },
+   {
+    "name": "Tomato sauce",
+    "amount": "227",
+    "unit": "g (~8oz can)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Diced tomatoes with green chilies (Rotel-style)",
+    "amount": "10",
+    "unit": "oz can",
+    "store": "Walmart"
+   },
+   {
+    "name": "Long-grain white rice, dry, rinsed",
+    "amount": "185",
+    "unit": "g (~1 cup dry)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Pepper jack cheese, shredded",
+    "amount": "84",
+    "unit": "g (~3oz)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Fresh jalapenos, sliced (topping)",
+    "amount": "1",
+    "unit": "small, to taste",
+    "store": "Walmart"
+   },
+   {
+    "name": "Light sour cream (topping)",
+    "amount": "3",
+    "unit": "Tbsp (3 scoops)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Fresh cilantro (topping)",
+    "amount": "1",
+    "unit": "handful, chopped",
+    "store": "Walmart"
+   }
+  ],
+  "notes": "NEW 2026-07-10 — from a meal-prep video transcript Will provided (one of 7 recipes built around 96/4 lean ground beef; only this one built out, closes Will's remaining M3 gap of 4). EXACT macros from source (not estimated): 665 cal / 55g protein per serving, 4 servings (source frames it as '1/4 of the pan'). Ground beef weight and raw veg quantities were NOT stated precisely in the transcript - flagged as estimates in the ingredient list; rice (185g), tomato sauce (227g), Rotel (10oz), taco seasoning (25g), Worcestershire (5g), and pepper jack (84g) were explicit in the source and are accurate. One-pan: browned beef + veg (corn/peppers/onion, adds volume without many extra calories) + black beans + taco seasoning + tomato sauce/Rotel/bone broth as cooking liquid + rice, simmered covered ~25-30 min total until rice absorbs the liquid, topped with melted pepper jack, jalapenos, sour cream, cilantro. Freezer/fridge-friendly, reheats well.",
+  "recipe_available": true,
+  "recipe_steps": [
+   "Brown ground beef in a preheated pan (med-high), pressing flat for good browning, ~5-7 min total, breaking up as it cooks.",
+   "Add diced onion, peppers, and frozen corn - the vegetables add volume/moisture without many extra calories.",
+   "Stir in taco seasoning, cumin, chili powder, sea salt.",
+   "Add drained black beans and Worcestershire sauce, mix.",
+   "Add beef bone broth, tomato sauce, and diced tomatoes with green chilies - this becomes the cooking liquid the rice absorbs.",
+   "Stir in rinsed dry rice. Bring to a simmer, then reduce heat, cover, and cook ~12-15 min. Stir once, re-cover, cook another 10-15 min until rice has absorbed most of the liquid and is tender (don't over-stir - it affects texture).",
+   "Top with shredded pepper jack, cover briefly to melt.",
+   "Top with sliced jalapenos, a drizzle of sauce of choice, sour cream, and fresh cilantro.",
+   "Divide into 4 servings (quarter the pan). Refrigerate; reheat in microwave."
+  ],
+  "on_break": false
+ },
+ {
+  "id": "43",
+  "name": "Hot Dog (Will M2)",
+  "tier": null,
+  "meal_slots": [
+   2
+  ],
+  "servings": 1,
+  "protein": "Hot Dog",
+  "ingredients": [
+   {
+    "name": "Hot dogs (lean/97% fat-free)",
+    "amount": "2",
+    "unit": "hot dogs",
+    "store": "Costco"
+   },
+   {
+    "name": "Hot dog buns",
+    "amount": "2",
+    "unit": "buns",
+    "store": "Walmart"
+   },
+   {
+    "name": "Mustard",
+    "amount": "1",
+    "unit": "tsp, to taste",
+    "store": ""
+   },
+   {
+    "name": "Ketchup",
+    "amount": "1",
+    "unit": "tsp, to taste",
+    "store": ""
+   }
+  ],
+  "notes": "NEW 2026-07-10 — Will's simplest M2 day, no batch prep. ~350 cal / 22g protein / 14g fat / 32g carb (ESTIMATE, 2 lean hot dogs + buns + condiments - confirm brand/count against this).",
+  "recipe_available": true,
+  "recipe_steps": [
+   "Grill, pan-fry, or microwave hot dogs. Toast buns if desired. Add condiments."
+  ],
+  "on_break": false
+ },
+ {
+  "id": "44",
+  "name": "Kirkland Frozen Chicken Chunks + Veg/Carb, Flexible (Will M2)",
+  "tier": null,
+  "meal_slots": [
+   2
+  ],
+  "servings": 2,
+  "protein": "Chicken Breast (premade, breaded)",
+  "ingredients": [
+   {
+    "name": "Kirkland lightly breaded chicken breast chunks (frozen, pre-cooked)",
+    "amount": "1",
+    "unit": "lb (~2 srv)",
+    "store": "Costco"
+   },
+   {
+    "name": "Veg or carb side (flexible day-to-day - rice, potato, frozen veg, whatever's on hand)",
+    "amount": "2",
+    "unit": "servings, flexible",
+    "store": "varies"
+   }
+  ],
+  "notes": "NEW 2026-07-10 — Will's other M2 fallback, 2 days/week. Premade Kirkland product, just reheat (air-fryer 400F 5-7 min for crisp, or microwave). Side is deliberately flexible (whatever veg/carb is on hand that day) rather than a fixed pairing - not the inflated 14-serving #24 batch, a real 2-serving version of the same base product. ~350 cal / 30g protein / 12g fat / 30g carb per serving (ESTIMATE, varies with the flex side - confirm once made).",
+  "recipe_available": true,
+  "recipe_steps": [
+   "Air-fry frozen chicken chunks at 400F for 5-7 min until hot and crisp (or microwave if texture isn't critical).",
+   "Prepare whatever veg/carb side is on hand or in the cycle's inventory that day.",
+   "Portion into 2 servings."
   ],
   "on_break": false
  }
