@@ -415,5 +415,13 @@
     "location": "pantry",
     "freshness_date": null,
     "note": "Added 2026-07-11 - Will confirmed on hand, covers #37."
+  },
+  {
+    "item": "Frozen stir-fry veg mix",
+    "quantity": 2,
+    "unit": "bags",
+    "location": "freezer",
+    "freshness_date": null,
+    "note": "Added 2026-07-11 - Will confirmed on hand, covers #44."
   }
 ]
