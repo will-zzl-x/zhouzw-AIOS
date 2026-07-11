@@ -423,5 +423,21 @@
     "location": "freezer",
     "freshness_date": null,
     "note": "Added 2026-07-11 - Will confirmed on hand, covers #44."
+  },
+  {
+    "item": "Arugula",
+    "quantity": 4,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "Added 2026-07-11 - Will confirmed on hand, covers #46."
+  },
+  {
+    "item": "Avocado",
+    "quantity": 1,
+    "unit": "avocado",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Added 2026-07-11 - Will confirmed on hand, covers #46."
   }
 ]
