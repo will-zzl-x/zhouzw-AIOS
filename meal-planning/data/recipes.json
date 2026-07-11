@@ -3699,5 +3699,63 @@
    "Refrigerate; reheat in microwave (or eat cold)."
   ],
   "on_break": false
+ },
+ {
+  "id": "46",
+  "name": "Steak & Arugula Salad with Avocado (Shared M4)",
+  "tier": null,
+  "meal_slots": [
+   4
+  ],
+  "servings": 2,
+  "protein": "Steak",
+  "ingredients": [
+   {
+    "name": "Steak (defrosted 2 days ahead in fridge)",
+    "amount": "2",
+    "unit": "steaks (est. - not specified exactly)",
+    "store": "Costco"
+   },
+   {
+    "name": "Arugula",
+    "amount": "4",
+    "unit": "oz (est.)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Avocado, sliced",
+    "amount": "1",
+    "unit": "avocado",
+    "store": "Walmart"
+   },
+   {
+    "name": "Salt + pepper",
+    "amount": "1",
+    "unit": "to taste",
+    "store": ""
+   },
+   {
+    "name": "Olive oil (dressing)",
+    "amount": "2",
+    "unit": "Tbsp (est.)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Lemon juice or vinegar (dressing)",
+    "amount": "1",
+    "unit": "Tbsp (est.)",
+    "store": "Walmart"
+   }
+  ],
+  "notes": "NEW 2026-07-11 - shared M4 dinner, replaces 2 of Spaghetti's servings (Spaghetti reduced 5->3 total to make room). Simple: seared/grilled steak over arugula + avocado, olive oil + lemon/vinegar dressing. Steak defrosted 2 days ahead in the fridge (not freezer-staged same-week like the other proteins). Macros not estimated precisely - steak is protein/fat-dense, roughly ~500-600 cal / 40-45g protein per serving depending on cut size, confirm once made.",
+  "recipe_available": true,
+  "recipe_steps": [
+   "Move steaks from freezer to fridge 2 days before cooking.",
+   "Day of: pat steaks dry, season with salt and pepper, let rest at room temp ~30 min before cooking.",
+   "Sear steaks in a hot pan or grill to desired doneness. Rest 5 min, slice.",
+   "Toss arugula with olive oil, lemon juice or vinegar, salt, pepper.",
+   "Plate: arugula salad topped with sliced steak and avocado."
+  ],
+  "on_break": false
  }
 ]

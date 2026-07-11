@@ -107,13 +107,25 @@ selections:
       - { member: Elena, slot: M4, servings: 2 }
 
   - recipe_id: "10"
-    planned_servings: 5
+    planned_servings: 3
     notes: |
-      Spaghetti with meat sauce. Confirmed shared M4 dish (not Will-only as
-      first assumed), part of the M4 pool. Corrected servings 6->5 earlier.
+      Spaghetti with meat sauce. Shared M4 dish. Reduced from 5->3 slot-
+      assigned servings (2 given up) to make room for Steak & Salad #46 -
+      the recipe still makes 5 total (sausage removed, 12oz pasta), the extra
+      2 are leftovers/second helpings, not slot-assigned.
     slot_assignments:
-      - { member: Will, slot: M4, servings: 2 }
-      - { member: Elena, slot: M4, servings: 3 }
+      - { member: Will, slot: M4, servings: 1 }
+      - { member: Elena, slot: M4, servings: 2 }
+
+  - recipe_id: "46"
+    planned_servings: 2
+    notes: |
+      Steak & Arugula Salad with Avocado. New shared M4 dish, replaces the 2
+      servings given up from Spaghetti. Steak defrosted 2 days ahead in the
+      fridge, not freezer-staged same-week like the other proteins.
+    slot_assignments:
+      - { member: Will, slot: M4, servings: 1 }
+      - { member: Elena, slot: M4, servings: 1 }
 
 inventory_snapshot: []
 
