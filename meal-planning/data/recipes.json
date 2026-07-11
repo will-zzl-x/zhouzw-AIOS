@@ -3161,6 +3161,12 @@
     "store": "Costco"
    },
    {
+    "name": "2% low-fat cottage cheese",
+    "amount": "16",
+    "unit": "oz (2 cups)",
+    "store": "Costco"
+   },
+   {
     "name": "Mushrooms, sliced",
     "amount": "8",
     "unit": "oz",
@@ -3191,7 +3197,7 @@
     "store": "Walmart"
    }
   ],
-  "notes": "M2 pick (moved off M1 2026-07-10 - shakes are M1 now for both). Servings corrected 7->4: Will confirmed real portions run ~double the original 170 cal/serving estimate, so the same ingredient batch yields ~4 bigger servings, not 7. ~275 cal / 35g protein / 10g fat / 8g carb per serving (ESTIMATE, not verified against a label). Also realistically only holds ~4 days refrigerated (baked egg + dairy dish) - covers the front of the week, paired with a backup M2 for the remaining days rather than assumed to last all 7. REVISED 2026-07-11: cottage cheese unavailable at the store, dropped entirely - now just eggs + egg whites + mushroom + spinach. Slightly less protein/creaminess, still a solid dish. New estimate: ~130 cal / 18g protein / 5g fat / 3g carb per serving (was ~275/35/10/8).",
+  "notes": "M2 pick (moved off M1 2026-07-10 - shakes are M1 now for both). Servings corrected 7->4: Will confirmed real portions run ~double the original 170 cal/serving estimate, so the same ingredient batch yields ~4 bigger servings, not 7. ~275 cal / 35g protein / 10g fat / 8g carb per serving (ESTIMATE, not verified against a label). Also realistically only holds ~4 days refrigerated (baked egg + dairy dish) - covers the front of the week, paired with a backup M2 for the remaining days rather than assumed to last all 7. REVISED 2026-07-11: cottage cheese unavailable at the store, dropped entirely - now just eggs + egg whites + mushroom + spinach. Slightly less protein/creaminess, still a solid dish. New estimate: ~130 cal / 18g protein / 5g fat / 3g carb per serving (was ~275/35/10/8). REVERTED 2026-07-11: cottage cheese misunderstanding corrected - Will hadn't bought it YET, not unavailable. Back to original: ~275 cal / 35g protein / 10g fat / 8g carb per serving with cottage cheese included.",
   "recipe_available": true,
   "recipe_steps": [
    "Preheat oven to 350F. Grease a 9x13 baking dish.",
@@ -3647,7 +3653,7 @@
     "store": "Walmart"
    },
    {
-    "name": "Mayo (SUB for Greek yogurt, unavailable)",
+    "name": "Plain non-fat Greek yogurt (bang bang sauce)",
     "amount": "151",
     "unit": "g (scaled from 113g)",
     "store": "Costco"
@@ -3677,7 +3683,7 @@
     "store": "Asian Mart"
    }
   ],
-  "notes": "NEW 2026-07-10 — replaces Cheesy Bolognese Crispy Potato Bake (had bell peppers, Will dislikes). From the same meal-prep video (96/4 lean ground beef series). No peppers - onion, carrots, coleslaw mix (cabbage-based), ginger, garlic. EXACT per-serving macros from source: 522 cal / 41g protein (source frames it as '1/3 of the pan' = 3 servings; scaled ingredient quantities up 1.33x to yield 4 servings for Will's M3 gap - per-serving macros are unchanged by scaling). White onion amount wasn't stated precisely in the transcript - flagged as an estimate. REVISED 2026-07-11: Greek yogurt unavailable at the store, bang bang sauce base swapped to mayo (arguably the more classic version of this sauce anyway). Raises fat, lowers protein slightly vs. the yogurt version - fine since the dish's protein is already well covered by the beef. New estimate: ~560 cal / 36g protein / 22g fat / 41g carb per serving (was 522/41/-/-).",
+  "notes": "NEW 2026-07-10 — replaces Cheesy Bolognese Crispy Potato Bake (had bell peppers, Will dislikes). From the same meal-prep video (96/4 lean ground beef series). No peppers - onion, carrots, coleslaw mix (cabbage-based), ginger, garlic. EXACT per-serving macros from source: 522 cal / 41g protein (source frames it as '1/3 of the pan' = 3 servings; scaled ingredient quantities up 1.33x to yield 4 servings for Will's M3 gap - per-serving macros are unchanged by scaling). White onion amount wasn't stated precisely in the transcript - flagged as an estimate. REVISED 2026-07-11: Greek yogurt unavailable at the store, bang bang sauce base swapped to mayo (arguably the more classic version of this sauce anyway). Raises fat, lowers protein slightly vs. the yogurt version - fine since the dish's protein is already well covered by the beef. New estimate: ~560 cal / 36g protein / 22g fat / 41g carb per serving (was 522/41/-/-). REVERTED 2026-07-11: Greek yogurt misunderstanding corrected - Will hadn't bought it YET, not unavailable. Back to original: ~522 cal / 41g protein per serving with Greek yogurt in the sauce.",
   "recipe_available": true,
   "recipe_steps": [
    "Add sliced white onion to a hot pan, cover to steam/char without much oil, until caramelized.",
