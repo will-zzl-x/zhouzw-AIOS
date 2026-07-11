@@ -244,6 +244,13 @@ _DISTINGUISHERS = {
     # (Light/Dark/plain soy; reduced-sodium variants). One-sided presence ->
     # different product -> no match (audit 2026-06-14 #14).
     "light", "dark", "reduced",
+    # Dairy product-form modifiers. Without these, "Shredded cheese" ->
+    # {"cheese"} (shredded is a stopword) subset-matches into ANY cheese
+    # ingredient including "2% low-fat cottage cheese" -> {"cottage","cheese"} —
+    # wrongly depleted 22oz off an 8oz shredded-cheese stock from a cottage-
+    # cheese recipe that never touched it (audit 2026-07-10 #1). "cottage" and
+    # "cream" pick out genuinely different dairy products, not just a prep state.
+    "cottage", "cream",
 }
 
 # A few aliases where the short name uses a different head noun than the recipe.
