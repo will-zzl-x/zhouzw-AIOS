@@ -859,12 +859,6 @@
     "store": "Costco"
    },
    {
-    "name": "Ground sausage (cheapest)",
-    "amount": "8",
-    "unit": "oz",
-    "store": "Walmart"
-   },
-   {
     "name": "Garlic, grated",
     "amount": "6",
     "unit": "cloves",
@@ -902,7 +896,7 @@
    },
    {
     "name": "Thin spaghetti, broken in half",
-    "amount": "16",
+    "amount": "12",
     "unit": "oz",
     "store": "Walmart"
    },
@@ -937,13 +931,12 @@
     "store": "Walmart"
    }
   ],
-  "notes": "A-tier. M2 by default, overflow to M4. Reheats well in microwave. Needs large oven-safe pan. 90/10 subbed for 88/12 — slightly leaner. CORRECTED 2026-07-10: servings 6->5 per Will (confirmed real yield).",
+  "notes": "A-tier. M2 by default, overflow to M4. Reheats well in microwave. Needs large oven-safe pan. 90/10 subbed for 88/12 — slightly leaner. CORRECTED 2026-07-10: servings 6->5 per Will (confirmed real yield). REVISED 2026-07-10: sausage removed, pasta cut 16oz->12oz per Will (targeting ~500 cal meals). New estimate: ~460 cal / 31g protein / 11g fat / 58g carb per serving (fat drops sharply without the sausage, which was the dominant fat source).",
   "recipe_available": true,
   "recipe_steps": [
    "Preheat oven to 425°F.",
    "Toss carrot sticks with 1 Tbsp oil + salt. Air fry at 375°F for 20 minutes, shaking every 5 minutes until browned and soft.",
    "In a large oven-safe pan over medium-high, sauté grated garlic + diced onion for 1 minute.",
-   "Add ground beef + sausage. Sear 4 minutes, flip and break up until browned throughout.",
    "Stir in tomato paste, crushed tomatoes, beef bouillon, water, oregano, chili flakes, salt + pepper. Bring to a simmer.",
    "Stir in broken spaghetti until fully submerged.",
    "Transfer pan to oven. Bake uncovered 16–18 minutes, stirring thoroughly at the 5 and 10 minute marks.",
@@ -3567,119 +3560,143 @@
  },
  {
   "id": "45",
-  "name": "Cheesy Bolognese Crispy Potato Bake (Will M3)",
+  "name": "Egg Roll in a Bowl Ramen (Will M3)",
   "tier": null,
   "meal_slots": [
    3
   ],
   "servings": 4,
-  "protein": "Ground Beef (96/4 lean) + Bacon",
+  "protein": "Ground Beef (96/4 lean)",
   "ingredients": [
    {
-    "name": "Yukon Gold potatoes, diced",
-    "amount": "1.5",
-    "unit": "lb (amount not stated exactly in source - estimate)",
-    "store": "Costco"
-   },
-   {
-    "name": "Avocado oil (potatoes)",
-    "amount": "1",
-    "unit": "Tbsp (est.)",
+    "name": "White onion, sliced",
+    "amount": "200",
+    "unit": "g (est. - amount not stated exactly in source)",
     "store": "Walmart"
    },
    {
-    "name": "Sea salt, paprika, garlic powder, basil, oregano (potato seasoning)",
-    "amount": "1",
-    "unit": "set, to taste",
+    "name": "Shredded carrots",
+    "amount": "200",
+    "unit": "g (scaled from 150g x1.33)",
     "store": "Walmart"
-   },
-   {
-    "name": "Parmesan cheese (potatoes)",
-    "amount": "8",
-    "unit": "g",
-    "store": "Walmart"
-   },
-   {
-    "name": "Green and red bell peppers, diced",
-    "amount": "2",
-    "unit": "peppers (~300g, est.)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Onion, diced",
-    "amount": "150",
-    "unit": "g",
-    "store": "Walmart"
-   },
-   {
-    "name": "Carrots, diced",
-    "amount": "150",
-    "unit": "g",
-    "store": "Walmart"
-   },
-   {
-    "name": "Chicken bone broth (veg steam + sauce)",
-    "amount": "60",
-    "unit": "g plus a splash for veg (est.)",
-    "store": "Costco"
-   },
-   {
-    "name": "Garlic, minced",
-    "amount": "3",
-    "unit": "cloves (est.)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Center cut bacon, cut into pieces",
-    "amount": "5",
-    "unit": "slices",
-    "store": "Costco"
    },
    {
     "name": "Lean ground beef (96/4)",
-    "amount": "1",
-    "unit": "lb (amount not stated exactly in source - estimate)",
+    "amount": "1.33",
+    "unit": "lb (scaled from 1 lb x1.33)",
     "store": "Costco"
    },
    {
-    "name": "Tomato paste",
-    "amount": "25",
-    "unit": "g",
+    "name": "Chicken bone broth",
+    "amount": "80",
+    "unit": "g (scaled from 60g x1.33)",
+    "store": "Costco"
+   },
+   {
+    "name": "Garlic, minced (jarred is fine)",
+    "amount": "4",
+    "unit": "cloves (scaled from 3)",
     "store": "Walmart"
    },
    {
-    "name": "Italian seasoning",
+    "name": "Fresh ginger, minced",
+    "amount": "4",
+    "unit": "g (scaled from 3g)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Coleslaw mix (bagged)",
+    "amount": "667",
+    "unit": "g (scaled from 500g x1.33, ~1.5 lb)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Reduced-sodium soy sauce",
+    "amount": "37",
+    "unit": "g (scaled from 28g)",
+    "store": "Asian Mart"
+   },
+   {
+    "name": "Rice vinegar (main)",
+    "amount": "9",
+    "unit": "g (scaled from 7g)",
+    "store": "Asian Mart"
+   },
+   {
+    "name": "Toasted sesame oil",
+    "amount": "5",
+    "unit": "g (scaled from 4g)",
+    "store": "Asian Mart"
+   },
+   {
+    "name": "Sea salt",
+    "amount": "4",
+    "unit": "pinches",
+    "store": "Walmart"
+   },
+   {
+    "name": "Black pepper",
+    "amount": "3",
+    "unit": "pinches",
+    "store": "Walmart"
+   },
+   {
+    "name": "Instant ramen noodles, seasoning packet discarded",
+    "amount": "3",
+    "unit": "packets (scaled from 2, rounded up)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Green onion, sliced (garnish)",
     "amount": "1",
-    "unit": "pinch",
+    "unit": "bunch, to taste",
     "store": "Walmart"
    },
    {
-    "name": "Low-fat marinara sauce",
-    "amount": "240",
-    "unit": "g",
+    "name": "Plain non-fat Greek yogurt (bang bang sauce)",
+    "amount": "151",
+    "unit": "g (scaled from 113g)",
+    "store": "Costco"
+   },
+   {
+    "name": "Honey (bang bang sauce)",
+    "amount": "37",
+    "unit": "g (scaled from 28g)",
     "store": "Walmart"
    },
    {
-    "name": "Part-skim mozzarella, shredded",
-    "amount": "84",
-    "unit": "g",
+    "name": "Sriracha (bang bang sauce)",
+    "amount": "20",
+    "unit": "g (scaled from 15g)",
     "store": "Walmart"
+   },
+   {
+    "name": "Rice vinegar (bang bang sauce)",
+    "amount": "5",
+    "unit": "g (scaled from 4g)",
+    "store": "Asian Mart"
+   },
+   {
+    "name": "Sesame seeds (garnish)",
+    "amount": "1",
+    "unit": "Tbsp, to taste",
+    "store": "Asian Mart"
    }
   ],
-  "notes": "NEW 2026-07-10 — replaces Cheesy Taco Rice (deleted), from the same meal-prep video (96/4 lean ground beef series). Chosen specifically for the 'meals close to 500 cal' preference - it's UNDER at 451 cal, leaving room for a fruit top-up rather than needing correction like the 665-cal Taco Rice did. EXACT macros from source: 451 cal / 40g protein per serving, 4 servings (source frames it as '1/4 of the pan' - exact match to the 4 servings needed, no rescaling). Potato and ground beef weights were not stated precisely in the transcript - flagged as estimates; bacon (5 slices), Parmesan (8g), tomato paste (25g), marinara (240g), and mozzarella (84g) were explicit in the source and are accurate.",
+  "notes": "NEW 2026-07-10 — replaces Cheesy Bolognese Crispy Potato Bake (had bell peppers, Will dislikes). From the same meal-prep video (96/4 lean ground beef series). No peppers - onion, carrots, coleslaw mix (cabbage-based), ginger, garlic. EXACT per-serving macros from source: 522 cal / 41g protein (source frames it as '1/3 of the pan' = 3 servings; scaled ingredient quantities up 1.33x to yield 4 servings for Will's M3 gap - per-serving macros are unchanged by scaling). White onion amount wasn't stated precisely in the transcript - flagged as an estimate.",
   "recipe_available": true,
   "recipe_steps": [
-   "Dice Yukon Gold potatoes. Toss with avocado oil, sea salt, paprika, garlic powder, basil, oregano, and the 8g Parmesan.",
-   "Air fry potatoes at 400F for 15-20 min until golden.",
-   "Meanwhile, in a pan on medium-high, add diced bell peppers, onion, and carrots. Cover to steam/soften, adding a splash of chicken bone broth to speed it up.",
-   "Add minced garlic, cook until fragrant. Set the vegetables aside.",
-   "In the same pan, cook bacon pieces until they start to brown.",
-   "Push bacon to the side, add ground beef to the cleared space, press flat for browning. Cook ~3-4 min per side.",
-   "Add tomato paste, 60g chicken bone broth, Italian seasoning, and marinara. Simmer on low heat.",
-   "Return the vegetables to the pan and combine everything.",
-   "Top with the crispy air-fried potatoes, spread evenly. Top with shredded mozzarella.",
-   "Broil until the cheese is golden and bubbly.",
-   "Divide into 4 servings (quarter the pan). Refrigerate; reheat in microwave."
+   "Add sliced white onion to a hot pan, cover to steam/char without much oil, until caramelized.",
+   "Add shredded carrots, mix in to soften.",
+   "Add ground beef, press flat into the pan for browning. Once browned, break up into pieces.",
+   "Add chicken bone broth, minced garlic, and minced ginger. Mix.",
+   "Add the coleslaw mix - it will look like a lot, cover to help it wilt down.",
+   "Add reduced-sodium soy sauce, rice vinegar, toasted sesame oil, sea salt, black pepper. Mix.",
+   "Separately, cook ramen noodles per package instructions (discard seasoning packet), slightly under al dente.",
+   "Add cooked, drained noodles to the pan, mix everything together.",
+   "Make the bang bang sauce: whisk Greek yogurt, honey, Sriracha, and rice vinegar until smooth.",
+   "Divide into 4 servings. Top with bang bang sauce, sliced green onion, and sesame seeds.",
+   "Refrigerate; reheat in microwave (or eat cold)."
   ],
   "on_break": false
  }

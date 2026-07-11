@@ -6,15 +6,19 @@
 # recipes.json data that turned out to be wrong or fabricated (#20, #28, #31, #32 all
 # deleted or never real). This version is built entirely from serving counts and
 # compositions Will confirmed directly in conversation, not from unverified DB defaults.
-# FIFTH PASS: swapped Cheesy Taco Rice (#42, 665 cal - too far over the new "meals
+# FIFTH PASS: swapped Cheesy Taco Rice (665 cal, too far over the new "meals
 # close to 500 cal, fill carb gaps with fruit separately" preference) for Cheesy
-# Bolognese Crispy Potato Bake (#45, 451 cal, source-exact "1/4 pan" = 4 servings).
+# Bolognese Crispy Potato Bake (451 cal). SIXTH PASS: Bolognese Bake had bell
+# peppers (Will dislikes) - swapped for Egg Roll in a Bowl Ramen (#45, 522 cal/
+# 41g protein, no peppers, scaled from source's 3-serving yield to 4). Spaghetti
+# (#10) also revised: sausage removed + pasta cut 16oz->12oz, now ~460 cal
+# (was 630). Korean chicken (558 cal) confirmed OK as-is, no change.
 # Full roster, every slot an exact match, no buffer/overage:
 #   Will M2 (7): egg bowl #36 (4) + hot dog #43 (1) + Kirkland chicken chunks #44 (2)
-#   Will M3 (7): rotisserie #6 (3) + Cheesy Bolognese Crispy Potato Bake #45 (4)
+#   Will M3 (7): rotisserie #6 (3) + Egg Roll in a Bowl Ramen #45 (4)
 #   Will M4 (7) + Elena M4 (7): shared pool - Chinese chicken #35 (4 total) + Korean
-#     chicken #39 (5 total) + Spaghetti #10 (5 total) = 14, split evenly 7/7
-#     (Chinese 2W/2E, Korean 3W/2E, Spaghetti 2W/3E - uses every serving)
+#     chicken #39 (5 total) + Spaghetti #10 (5 total, revised, no sausage) = 14,
+#     split evenly 7/7 (Chinese 2W/2E, Korean 3W/2E, Spaghetti 2W/3E)
 #   Elena M2 (7): marinated chicken chunks #41 (4) + premade protein pancakes #40 (3)
 #   Will M1 (7) + Elena M1 (7): shakes #37/#38, not coverage-tracked (grab-and-go)
 #
@@ -79,7 +83,7 @@ selections:
 
   - recipe_id: "45"
     planned_servings: 4
-    notes: "Cheesy Bolognese Crispy Potato Bake, Will-only M3. Closes the remaining M3 gap exactly (3+4=7). Swapped in for Cheesy Taco Rice (665 cal, too far over the 500-cal-meal preference) - this one runs 451 cal, under target, leaving room for a fruit top-up."
+    notes: "Egg Roll in a Bowl Ramen, Will-only M3. Closes the remaining M3 gap exactly (3+4=7). Replaces Cheesy Bolognese Crispy Potato Bake (had bell peppers - Will dislikes) - this one runs 522 cal/41g protein, no peppers, scaled up from the source's 3-serving yield to 4."
     slot_assignments:
       - { member: Will, slot: M3, servings: 4 }
 
