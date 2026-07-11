@@ -849,7 +849,7 @@
    2,
    4
   ],
-  "servings": 6,
+  "servings": 5,
   "protein": "Ground Beef",
   "ingredients": [
    {
@@ -937,7 +937,7 @@
     "store": "Walmart"
    }
   ],
-  "notes": "A-tier. M2 by default, overflow to M4. Reheats well in microwave. Needs large oven-safe pan. 90/10 subbed for 88/12 — slightly leaner.",
+  "notes": "A-tier. M2 by default, overflow to M4. Reheats well in microwave. Needs large oven-safe pan. 90/10 subbed for 88/12 — slightly leaner. CORRECTED 2026-07-10: servings 6->5 per Will (confirmed real yield).",
   "recipe_available": true,
   "recipe_steps": [
    "Preheat oven to 425°F.",
