@@ -351,5 +351,69 @@
     "location": "freezer",
     "freshness_date": null,
     "note": "Added 2026-07-11 - Will confirmed on hand, for #44."
+  },
+  {
+    "item": "Premade protein pancakes",
+    "quantity": 3,
+    "unit": "servings",
+    "location": "freezer",
+    "freshness_date": null,
+    "note": "Added 2026-07-11 - Will confirmed on hand, for #40."
+  },
+  {
+    "item": "Chicken bone broth",
+    "quantity": 200,
+    "unit": "g",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Added 2026-07-11 - Will confirmed on hand, covers #45."
+  },
+  {
+    "item": "Honey",
+    "quantity": 100,
+    "unit": "g",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Added 2026-07-11 - Will confirmed on hand, covers #45."
+  },
+  {
+    "item": "Grapeseed oil",
+    "quantity": 8,
+    "unit": "tbsp",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Added 2026-07-11 - Will confirmed on hand, covers #35."
+  },
+  {
+    "item": "Chili flakes",
+    "quantity": 4,
+    "unit": "tsp",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Added 2026-07-11 - Will confirmed on hand, covers #35 + #10."
+  },
+  {
+    "item": "Beef bouillon",
+    "quantity": 4,
+    "unit": "tbsp",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Added 2026-07-11 - Will confirmed on hand, covers #10."
+  },
+  {
+    "item": "Oregano",
+    "quantity": 3,
+    "unit": "tsp",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Added 2026-07-11 - Will confirmed on hand, covers #10."
+  },
+  {
+    "item": "PB2 powdered peanut butter",
+    "quantity": 20,
+    "unit": "tbsp",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Added 2026-07-11 - Will confirmed on hand, covers #37."
   }
 ]

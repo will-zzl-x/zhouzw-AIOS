@@ -251,6 +251,16 @@ _DISTINGUISHERS = {
     # cheese recipe that never touched it (audit 2026-07-10 #1). "cottage" and
     # "cream" pick out genuinely different dairy products, not just a prep state.
     "cottage", "cream",
+    # Manufactured-product modifier. "Kirkland lightly breaded chicken breast
+    # chunks (frozen, pre-cooked)" -> {"kirkland","lightly","breaded","chicken",
+    # "breast","chunks"} (the "(frozen, pre-cooked)" parenthetical is stripped
+    # before tokenization, so "frozen" - already a distinguisher above - never
+    # gets the chance to block anything). Without "breaded" as its own
+    # distinguisher, {"chicken","breast"} from "Chicken breast, cubed" (raw)
+    # is a strict subset and wrongly matches - would have under-bought raw
+    # chicken for two other recipes by crediting a frozen breaded product
+    # toward their need (audit 2026-07-11 #1).
+    "breaded",
 }
 
 # A few aliases where the short name uses a different head noun than the recipe.
