@@ -3674,9 +3674,9 @@
   "name": "Egg + Egg White Bake with Cottage Cheese, Mushroom, Spinach (Will M1)",
   "tier": null,
   "meal_slots": [
-   1
+   2
   ],
-  "servings": 7,
+  "servings": 4,
   "protein": "Eggs + Cottage Cheese",
   "ingredients": [
    {
@@ -3728,7 +3728,7 @@
     "store": "Walmart"
    }
   ],
-  "notes": "NEW 2026-07-10 — Will's actual M1 pick this cycle, replacing #34 pork loin. Starch-free per config.yaml M1 slot rule. ~170 cal / 22g protein / 6g fat / 5g carbs per serving (ESTIMATE, not verified against a nutrition label — confirm before treating as precise). Bake once, cut into 7 portions, reheat.",
+  "notes": "M2 pick (moved off M1 2026-07-10 - shakes are M1 now for both). Servings corrected 7->4: Will confirmed real portions run ~double the original 170 cal/serving estimate, so the same ingredient batch yields ~4 bigger servings, not 7. ~275 cal / 35g protein / 10g fat / 8g carb per serving (ESTIMATE, not verified against a label). Also realistically only holds ~4 days refrigerated (baked egg + dairy dish) - covers the front of the week, paired with a backup M2 for the remaining days rather than assumed to last all 7.",
   "recipe_available": true,
   "recipe_steps": [
    "Preheat oven to 350F. Grease a 9x13 baking dish.",
@@ -3737,6 +3737,67 @@
    "Whisk whole eggs + egg whites in a large bowl. Fold in cottage cheese, mushrooms, spinach, salt, pepper, garlic powder.",
    "Pour into baking dish. Bake 30-35 min until set and lightly golden, center no longer jiggly.",
    "Cool 10 min, cut into 7 portions. Reheat 60-90s microwave."
+  ],
+  "on_break": false
+ },
+ {
+  "id": "37",
+  "name": "Protein Shake with Milk + PB2 (Will M1)",
+  "tier": null,
+  "meal_slots": [
+   1
+  ],
+  "servings": 7,
+  "protein": "Whey Protein Powder",
+  "ingredients": [
+   {
+    "name": "Whey protein powder",
+    "amount": "7",
+    "unit": "scoops (1/day)",
+    "store": "Costco"
+   },
+   {
+    "name": "2% milk",
+    "amount": "10.5",
+    "unit": "cups (1.5 cups/day)",
+    "store": "Walmart"
+   },
+   {
+    "name": "PB2 powdered peanut butter",
+    "amount": "14",
+    "unit": "Tbsp (2 Tbsp/day)",
+    "store": "Walmart"
+   }
+  ],
+  "notes": "NEW 2026-07-10 - Will's actual M1, replaces a cooked-meal M1 entirely (shakes are grab-and-go, not coverage-tracked per config.yaml/coverage.py - M1 slots containing 'shake' are skipped in build_need). ~355 cal / 41g protein / 11g fat / 27g carb per day's shake (ESTIMATE - depends on exact protein powder brand/scoop size and milk fat%, not verified against a label; confirm and adjust). Added specifically to help close the reverse-diet calorie/carb gap versus a plain water-only shake.",
+  "recipe_available": true,
+  "recipe_steps": [
+   "Blend or shake 1 scoop protein powder + 1.5 cups 2% milk + 2 Tbsp PB2 with ice.",
+   "Drink fresh each morning - do not batch-prep in advance (milk-based, spoils)."
+  ],
+  "on_break": false
+ },
+ {
+  "id": "38",
+  "name": "Vanilla Protein Shake, RTD (Elena M1)",
+  "tier": null,
+  "meal_slots": [
+   1
+  ],
+  "servings": 7,
+  "protein": "Whey/Dairy Protein (RTD shake)",
+  "ingredients": [
+   {
+    "name": "Vanilla ready-to-drink protein shake (e.g. Premier Protein or similar)",
+    "amount": "7",
+    "unit": "bottles (1/day)",
+    "store": "Costco"
+   }
+  ],
+  "notes": "NEW 2026-07-10 - Elena's actual M1, replaces the protein-bar M1 entirely (shakes/bars are grab-and-go, not coverage-tracked). ~160 cal / 30g protein / 3g fat / 5g carb per bottle (GENERIC ESTIMATE matched to a typical RTD product - confirm the actual brand/flavor Elena uses and update; macros vary meaningfully by brand, e.g. Premier Protein vs Fairlife Core Power vs Orgain).",
+  "recipe_available": true,
+  "recipe_steps": [
+   "No prep - grab one bottle per day from the fridge."
   ],
   "on_break": false
  }

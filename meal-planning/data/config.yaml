@@ -24,7 +24,7 @@ members:
         need to scale UP from their cut-era defaults to hit this — see
         modular_assembly below.
     slots:
-      M1: lean protein + veg     # breakfast — eggs/egg whites/chicken + spinach/microgreens/asparagus. Starch-free. NO shakes for M1.
+      M1: protein shake          # UPDATED 2026-07-10 — was "lean protein + veg, NO shakes for M1"; Will changed this directly. Grab-and-go, excluded from coverage.py tracking (M1 slots containing "bar"/"shake" are skipped in build_need).
       M2: microwave lunch        # reheatable only
       M3: microwave solo work meal  # reheatable only, Will-only convenience stack. Shakes OK here.
       M4: dinner                 # home-cooked, shared with Elena
@@ -50,7 +50,7 @@ members:
         cause). Protein floor (90g) is the non-negotiable; calories are a
         flexible target given the appetite constraint below.
     slots:
-      M1: protein bar        # grab-and-go, excluded from coverage.py tracking (see coverage.py build_need)
+      M1: vanilla protein shake  # UPDATED 2026-07-10 — was "protein bar". Grab-and-go, excluded from coverage.py tracking.
       M2: microwave lunch        # shared/A-tier vetted recipes
       M4: dinner shared          # shared with Will
 

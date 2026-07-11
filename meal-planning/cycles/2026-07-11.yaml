@@ -1,26 +1,31 @@
 # Cycle Sat 2026-07-11 -> Fri 2026-07-17 — Reverse Diet Step 1 (Will) + Gaintain (Elena)
-# Built via the documented workflow: new_cycle.py --noninteractive skeleton -> make coverage
-# (full gap list) -> ai/suggest_recipes.md ranked picks -> this file.
 # Date follows the household's real Sat-Sat cadence — grocery_day = today (Fri 7/10 local
 # AZ time), cook Sat 7/11.
 #
-# REBUILT 2026-07-10 (second pass) — Will told us what he's actually cooking this cycle:
-# egg+egg white/cottage cheese/mushroom/spinach bake (M1, new recipe #36, replaces #34),
-# Spaghetti with Meat Sauce (#10, ground beef), and Chinese chicken (#28, already picked).
-# Selections below are rebuilt around those 3 confirmed dishes rather than the AI-only
-# picks from the first pass.
+# REBUILT 2026-07-10 (third pass) — full slot restructure after brainstorming with Will:
+# - M1 (BOTH): protein shakes, not the egg bowl / protein bar. Config.yaml's old
+#   "NO shakes for M1" rule is gone — Will changed it directly. Shakes are grab-and-go,
+#   not coverage-tracked (coverage.py skips M1 slots containing "bar"/"shake").
+# - M2 (Will): egg bowl (#36) moved off M1, servings corrected 7->4 (Will: real portions
+#   run ~double the original 170 cal estimate, and a baked egg+dairy dish realistically
+#   only holds ~4 days refrigerated) + the modular recipes' freed-up Will-portions as a
+#   backup for the remaining days, once egg bowl fully covers M2 there's no need for
+#   #31/#32's Will-fork at M2 at all.
+# - M3 (Will): freed-up #32 Will-fork servings (2, previously at M2) now fill the M3 gap
+#   instead of #20 Slow Cooker Shredded Chicken - #20 dropped entirely, no longer needed.
+# - M4 (Will): unchanged - #32 + Spaghetti (#10, confirmed dish).
+# Net effect: recipe count in this cycle drops from 6 to 5 (36, 31, 32, 28, 10 + the 2
+# new shake recipes 37/38), every modular-recipe serving has a real home, no waste.
 #
-# INVENTORY CORRECTIONS (data/inventory.json) across two rounds:
+# INVENTORY CORRECTIONS (data/inventory.json) across two earlier rounds this session:
 # - First pass wrongly trusted 2026-06-22 inventory data (3 weeks stale, no `make deplete`
-#   run since despite real cooking) and planned around ground beef/eggs/salmon/cheese/salsa
-#   that were probably gone — zeroed all of them as a conservative default.
-# - Will then confirmed ground beef, eggs, salsa, and all 4 cheese items ARE actually on
-#   hand — restored to last-logged quantities (2026-06-22, not re-verified, approximate).
-# - Will confirmed canned salmon is genuinely gone (stays 0), red onion is half a unit
-#   (was 1), russet potatoes are ~1 lb / 2 potatoes (was 3 lb).
-# - Net: don't trust "on hand" quantities in this file at face value — cross-check
-#   against what Will actually tells you when it's available; stale inventory.json data
-#   is a real, recurring risk here (see .claude/skills/health-os/skill.md workflow notes).
+#   run since) and zeroed ground beef/eggs/salmon/cheese/salsa as a conservative default.
+# - Will confirmed ground beef, eggs, salsa, and all 4 cheese items ARE on hand — restored.
+#   Canned salmon confirmed genuinely gone (stays 0). Red onion 0.5, russet potatoes ~1 lb.
+# - A units.py fuzzy-matcher bug was also found and fixed this session (cottage cheese was
+#   wrongly matching "Shredded cheese" in inventory) — see git history if curious.
+# - Don't trust "on hand" quantities in this file at face value going forward; stale
+#   inventory.json is a real, recurring risk here (see .claude/skills/health-os/skill.md).
 #
 # Will: 2,000 cal / 150g protein / 50g fat / 238g carbs/day (config.yaml macro_targets).
 # Elena: ~1,500 cal / 90g protein / 50g fat / 173g carbs/day, gaintain, mid-luteal, low
@@ -32,115 +37,127 @@ exceptions: []
 carryover: []
 
 selections:
-  # Gap: Will M1 short 7. CONFIRMED (Will, 2026-07-10): egg + egg white bake with
-  # cottage cheese, mushroom, spinach — new recipe #36, replaces the #34 pork loin
-  # pick from the first pass.
-  - recipe_id: "36"
+  # M1 (both) — shakes, not coverage-tracked (M1 slots containing "shake" are
+  # skipped by coverage.py's build_need). Still slot-assigned here so grocery/
+  # defrost/schedule pick up the ingredients.
+  - recipe_id: "37"
     planned_servings: 7
     notes: |
-      ~170 cal / 22g protein / 6g fat / 5g carbs per serving (ESTIMATE — not verified
-      against a label, flagged in recipes.json notes). Starch-free per config.yaml M1
-      slot rule. 7 mornings.
+      Will's M1. Protein powder + 2% milk + PB2, added specifically to help close
+      the reverse-diet calorie/carb gap vs. a plain water shake. ~355 cal / 41g
+      protein / 11g fat / 27g carb per day (ESTIMATE — confirm Will's actual
+      protein powder brand/scoop size against this).
     slot_assignments:
       - { member: Will, slot: M1, servings: 7 }
 
-  # Gap: Will M2 short 7, Elena M2 short 7. Modular fork backbone (unchanged from
-  # first pass — not contradicted by Will's confirmed dishes, still the best fit
-  # for the dual-macro shared-slot problem).
+  - recipe_id: "38"
+    planned_servings: 7
+    notes: |
+      Elena's M1. RTD vanilla protein shake. ~160 cal / 30g protein / 3g fat / 5g
+      carb per bottle (GENERIC ESTIMATE — confirm the actual brand/flavor and
+      update; macros vary meaningfully by brand).
+    slot_assignments:
+      - { member: Elena, slot: M1, servings: 7 }
+
+  # M2 (Will) — egg bowl covers the front of the week, corrected to 4 realistic-
+  # size servings (not 7). Elena's M2 unaffected (comes from #31/#32 below).
+  - recipe_id: "36"
+    planned_servings: 4
+    notes: |
+      ~275 cal / 35g protein / 10g fat / 8g carb per serving (bigger portions
+      than first estimated, per Will). Covers ~4 of Will's 7 M2 days; the
+      remaining 3 come from #31's freed-up Will-fork below.
+    slot_assignments:
+      - { member: Will, slot: M2, servings: 4 }
+
+  # M2 (Elena, all 7) + M2 backup (Will, 3 — see above) + M3 top-up (Will, 2 —
+  # see #32 below for the rest of that story). Modular fork backbone.
   - recipe_id: "31"
     planned_servings: 10
     notes: |
-      WILL ASSEMBLY: ~530 cal / 50g protein / 5g fat / 63g carbs (5oz chicken + 2 cups
-      roasted veg + 0.75 cup rice + salsa + lime + sriracha — rice bumped to 0.75 cup
-      in recipes.json for the reverse diet). ELENA ASSEMBLY: ~530 cal / 45g protein /
-      18g fat / 45g carbs (5oz chicken + 1 cup veg + 0.75 cup rice + salsa + 1/4
-      avocado + 2 Tbsp Greek yogurt + 2 Tbsp cheese — density-forward for low
-      appetite per config.yaml elena_low_appetite_protocol).
+      WILL ASSEMBLY: ~530 cal / 50g protein / 5g fat / 63g carbs (5oz chicken + 2
+      cups roasted veg + 0.75 cup rice + salsa + lime + sriracha). Only 3 of
+      Will's 5 available servings are slot-assigned (M2 backup, days 5-7 once the
+      egg bowl runs out) — the other 2 are genuine bonus/leftovers, not needed
+      for coverage. ELENA ASSEMBLY: ~530 cal / 45g protein / 18g fat / 45g carbs
+      (density-forward per config.yaml elena_low_appetite_protocol) — all 5
+      slot-assigned to M2, her full need from this recipe.
     slot_assignments:
-      - { member: Will, slot: M2, servings: 5 }
+      - { member: Will, slot: M2, servings: 3 }
       - { member: Elena, slot: M2, servings: 5 }
 
   - recipe_id: "32"
     planned_servings: 10
     notes: |
-      Remaining 2/7 M2 for each + 3/7 M4 for each. WILL ASSEMBLY: ~480 cal / 50g
-      protein / 5g fat / 42g carbs (5oz chicken + 2 cups roasted veg + 0.4 cup farro
-      + tzatziki — farro added to recipes.json for the reverse diet). ELENA ASSEMBLY
-      (unchanged): ~580 cal / 45g protein / 22g fat / 45g carbs (+ farro + pita +
-      feta + olives + oil drizzle).
+      WILL ASSEMBLY: ~480 cal / 50g protein / 5g fat / 42g carbs (5oz chicken + 2
+      cups roasted veg + 0.4 cup farro + tzatziki). Now split 2 to M3 (fills the
+      gap #20 used to cover, since M2 no longer needs Will's portion here) + 3 to
+      M4 — same 5 total, just reallocated. ELENA ASSEMBLY (unchanged): ~580 cal /
+      45g protein / 22g fat / 45g carbs (2 to M2, 3 to M4).
     slot_assignments:
-      - { member: Will, slot: M2, servings: 2 }
+      - { member: Will, slot: M3, servings: 2 }
       - { member: Elena, slot: M2, servings: 2 }
       - { member: Will, slot: M4, servings: 3 }
       - { member: Elena, slot: M4, servings: 3 }
 
-  # Gap: Will M3 short 7. CONFIRMED (Will, 2026-07-10): "Chinese chicken" = this
-  # recipe (Modular Bittman Chinese Steamed Chicken Bowl) — already the pick from
-  # the first pass, kept as-is.
+  # M3 (Will) — "Chinese chicken," confirmed. Combined with #32's reallocated 2
+  # servings above, fully covers Will's M3 (5+2=7) without needing #20 at all.
   - recipe_id: "28"
     planned_servings: 10
     notes: |
       Will fork at M3 (5 srv). Elena fork (4 of 5 srv) at M4. WILL ASSEMBLY: ~510
-      cal / 50g protein / 7g fat / 50g carbs (rice bumped 0.3->0.75 cup in
-      recipes.json). ELENA ASSEMBLY (unchanged): ~530 cal / 50g protein / 17g fat /
-      50g carbs. 1 spare Elena-fork serving not slot-assigned (second-helping buffer).
+      cal / 50g protein / 7g fat / 50g carbs. ELENA ASSEMBLY (unchanged): ~530
+      cal / 50g protein / 17g fat / 50g carbs. 1 spare Elena-fork serving not
+      slot-assigned (second-helping buffer).
     slot_assignments:
       - { member: Will, slot: M3, servings: 5 }
       - { member: Elena, slot: M4, servings: 4 }
 
-  # Remaining Will M3 gap (2 needed after #28's 5). Chicken-based buffer, same pick
-  # as the first pass — canned salmon (#26) is now confirmed genuinely unavailable
-  # (Will: none on hand), dropped from this cycle entirely.
-  - recipe_id: "20"
-    planned_servings: 3
-    notes: |
-      M3 version (not starch-free — M3 allows carbs): chicken + ~0.75 cup rice or 1
-      small potato + frozen veg + G Hughes BBQ or salsa. Note: only ~1 lb russet
-      potatoes on hand (confirmed) — use rice as the starch here, save the potatoes
-      for something smaller. ~380 cal / 40g protein / 6g fat / 40g carbs per serving
-      (est.). 1 buffer serving over the 2 needed.
-    slot_assignments:
-      - { member: Will, slot: M3, servings: 3 }
-
-  # Gap: Will M4 short 4 (after #32's 3). CONFIRMED (Will, 2026-07-10): Spaghetti
-  # with Meat Sauce (ground beef) — replaces the #9 Bibimbap pick from the first
-  # pass (both were ground-beef dishes; no need for two, and this is the one Will
-  # actually named). Elena already at her M4 target via #32 + #28 — not forked
-  # (this recipe has one shared profile, not a Will/Elena split), left Will-only
-  # here to avoid over-stacking her volume.
+  # M4 (Will) — Spaghetti with Meat Sauce, confirmed. Unchanged from the prior pass.
   - recipe_id: "10"
     planned_servings: 6
     notes: |
       Single-profile recipe (not modular) — ~630 cal / 36g protein / 26g fat / 60g
-      carbs per serving (est., not documented in recipes.json notes: 1.2 lb ground
-      beef 90/10 + 8oz sausage + 16oz pasta + tomato sauce, /6 servings). Higher-fat/
-      higher-carb than the modular recipes — fine as one meal against Will's 50g fat
-      /238g carb daily budget, not the whole day's allowance. 4 servings slot-
-      assigned to Will M4 (closes the gap exactly); 2 servings left as buffer/second
-      helpings, not slot-assigned. Uses ~0.8 lb of the ~8.75 lb ground beef on hand
-      (confirmed, not the stale-inventory number) + half the on-hand red onion
-      (confirmed 0.5 onion — recipe calls for 1/2 onion, matches exactly).
+      carbs per serving (est.: 1.2 lb ground beef 90/10 + 8oz sausage + 16oz pasta
+      + tomato sauce, /6 servings). 4 servings to Will M4 (closes the gap exactly);
+      2 as buffer/second helpings. Uses confirmed on-hand ground beef (~1.2 of
+      8.75 lb) + the exact 0.5 onion on hand.
     slot_assignments:
       - { member: Will, slot: M4, servings: 4 }
 
-# Elena M1 (protein bar) — grab-and-go, not coverage-tracked (coverage.py skips M1
-# slots containing "bar"/"shake"). ~190 cal / 20g protein / 6g fat / 20g carbs per bar
-# (est.). Not in inventory.json as a tracked item, so it's a comment, not an
-# inventory_snapshot entry (that field is ADDITIVE on top of data/inventory.json per
-# grocery.py — restating an already-tracked item there double-counts it).
-inventory_snapshot:
-  - { name: "Protein bars (Elena M1)", amount: "0", unit: "bars", note: "buy ~10 — not tracked by coverage.py, note only" }
+# --- Coverage check (manual — see also `make coverage`) ---
+# Will M1: shake, not tracked (7/day, grab-and-go).
+# Will M2: #36 4 + #31 3 = 7 exact.
+# Will M3: #28 5 + #32 2 = 7 exact.
+# Will M4: #32 3 + #10 4 = 7 exact.
+# Elena M1: shake, not tracked.
+# Elena M2: #31 5 + #32 2 = 7 exact.
+# Elena M4: #32 3 + #28 4 = 7 exact (+1 spare #28 not assigned).
+# Fruit as a snack (seasonal, not a tracked meal) is the flex item for closing
+# whatever calorie/carb gap remains after the day's 4 tracked meals — see rollup.
+
+# Elena M1 was "protein bar" (grab-and-go note-only) before this pass; now a real
+# recipe (#38) since shakes need actual ingredients bought. No separate
+# inventory_snapshot note needed anymore.
+inventory_snapshot: []
 
 # --- Daily macro rollup (estimate — not computed by any script) ---
-# WILL, representative day (M1 #36 + M2 #31 + M3 #28 + M4 #10):
-#   170 + 530 + 510 + 630 = 1,840 cal / 158g protein / 44g fat / 160g carbs
-#   vs target 2,000 / 150 / 50 / 238 -> ~160 cal / ~78g carbs short. Protein already
-#   over target, fat close. Close the remaining gap with a carb-forward top-up
-#   (fruit, extra rice) — smaller gap than the first pass thanks to #10's carb load.
-# ELENA, representative day (M1 bar + M2 #31 + M4 #28):
-#   190 + 530 + 530 = 1,250 cal / 115g protein / 41g fat / 115g carbs
-#   vs target 1,500 / 90 / 50 / 173 -> ~250 cal short, protein already well over
-#   floor. Close with DENSITY not volume (extra oil/cheese/nut butter, or a small
-#   dessert) per config.yaml elena_low_appetite_protocol.
+# WILL, representative day (M1 shake#37 + M2 eggbowl#36 + M3 #28 + M4 #10):
+#   355 + 275 + 510 + 630 = 1,770 cal / 162g protein / 54g fat / 145g carbs
+#   vs target 2,000 / 150 / 50 / 238 -> ~230 cal / ~93g carbs short. Protein/fat
+#   already at or slightly over target. STILL A REAL GAP after the shake upgrade
+#   and bigger egg-bowl portions — those helped a lot (gap was ~530 cal before
+#   this pass) but didn't close it. Close the rest with the seasonal-fruit snack
+#   PLUS something more (extra rice at dinner, a second smaller carb snack) —
+#   fruit alone (~100-200 cal) won't fully cover a 230 cal / 93g carb shortfall.
+# WILL, M2-backup-day variant (M1 shake + M2 #31 + M3 #28 + M4 #10):
+#   355 + 530 + 510 + 630 = 2,025 cal / 177g protein / 48g fat / 202g carbs —
+#   MUCH closer to target on backup-M2 days (the #31 Will-fork is 530 cal vs. the
+#   egg bowl's 275) — most of the week's calorie gap concentrates on the ~4 days
+#   the egg bowl covers, not the 3 backup days.
+# ELENA, representative day (M1 shake#38 + M2 #31 + M4 #28):
+#   160 + 530 + 530 = 1,220 cal / 125g protein / 38g fat / 110g carbs
+#   vs target 1,500 / 90 / 50 / 173 -> ~280 cal short, protein well over floor.
+#   Close with DENSITY not volume per config.yaml elena_low_appetite_protocol.
 # Recalibrate both targets against real weight-trend data after 2-3 weeks, same
 # methodology as Will's empirical TDEE (state.md).
