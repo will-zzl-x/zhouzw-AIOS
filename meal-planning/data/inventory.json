@@ -169,11 +169,11 @@
   },
   {
     "item": "Eggs",
-    "quantity": 0,
+    "quantity": 18,
     "unit": "eggs",
     "location": "fridge",
     "freshness_date": "2026-06-25",
-    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
+    "note": "Restored 2026-07-10 \u2014 Will confirmed still on hand. Quantity is the last logged amount (2026-06-22), not re-verified since; treat as approximate."
   },
   {
     "item": "Chicken breasts",
@@ -193,35 +193,35 @@
   },
   {
     "item": "Ground beef (90/10)",
-    "quantity": 0,
+    "quantity": 8.75,
     "unit": "lbs",
     "location": "freezer",
     "freshness_date": "2026-07-15",
-    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
+    "note": "Restored 2026-07-10 \u2014 Will confirmed still on hand. Quantity is the last logged amount (2026-06-22), not re-verified since; treat as approximate."
   },
   {
     "item": "Fat-free cream cheese",
-    "quantity": 0,
+    "quantity": 8,
     "unit": "oz",
     "location": "fridge",
     "freshness_date": null,
-    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
+    "note": "Restored 2026-07-10 \u2014 Will confirmed still on hand. Quantity is the last logged amount (2026-06-22), not re-verified since; treat as approximate."
   },
   {
     "item": "Parmigiano Reggiano",
-    "quantity": 0,
+    "quantity": 4,
     "unit": "oz",
     "location": "fridge",
     "freshness_date": null,
-    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
+    "note": "Restored 2026-07-10 \u2014 Will confirmed still on hand. Quantity is the last logged amount (2026-06-22), not re-verified since; treat as approximate."
   },
   {
     "item": "Shredded cheese",
-    "quantity": 0,
+    "quantity": 8,
     "unit": "oz",
     "location": "fridge",
     "freshness_date": null,
-    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
+    "note": "Restored 2026-07-10 \u2014 Will confirmed still on hand. Quantity is the last logged amount (2026-06-22), not re-verified since; treat as approximate."
   },
   {
     "item": "Cumin",
@@ -239,11 +239,11 @@
   },
   {
     "item": "Salsa",
-    "quantity": 0,
+    "quantity": 16,
     "unit": "oz",
     "location": "fridge",
     "freshness_date": null,
-    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
+    "note": "Restored 2026-07-10 \u2014 Will confirmed still on hand. Quantity is the last logged amount (2026-06-22), not re-verified since; treat as approximate."
   },
   {
     "item": "Canned wild salmon",
@@ -293,11 +293,11 @@
   },
   {
     "item": "Asiago cheese",
-    "quantity": 0,
+    "quantity": 4,
     "unit": "oz",
     "location": "fridge",
     "freshness_date": null,
-    "note": "STALE DATA \u2014 assumed depleted 2026-07-10. No make deplete run since 2026-06-22 despite real cooking since (Will confirmed). Recount and update before trusting this again."
+    "note": "Restored 2026-07-10 \u2014 Will confirmed still on hand. Quantity is the last logged amount (2026-06-22), not re-verified since; treat as approximate."
   },
   {
     "item": "Fettuccine pasta",
