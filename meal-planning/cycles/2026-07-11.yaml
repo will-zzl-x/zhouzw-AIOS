@@ -107,12 +107,15 @@ selections:
       - { member: Elena, slot: M4, servings: 2 }
 
   - recipe_id: "10"
-    planned_servings: 3
+    planned_servings: 5
     notes: |
-      Spaghetti with meat sauce. Shared M4 dish. Reduced from 5->3 slot-
-      assigned servings (2 given up) to make room for Steak & Salad #46 -
-      the recipe still makes 5 total (sausage removed, 12oz pasta), the extra
-      2 are leftovers/second helpings, not slot-assigned.
+      Spaghetti with meat sauce. Shared M4 dish. Cooking the FULL 5-serving
+      batch (sausage removed, 12oz pasta) - planned_servings stays at 5 so
+      grocery buys the right ingredient quantities. Only 3 are slot-assigned
+      (gave up 2 to make room for Steak & Salad #46) - the other 2 are real
+      leftovers/second helpings from the same cooked batch, not a smaller
+      recipe. CORRECTED 2026-07-11: was wrongly set to planned_servings=3,
+      which would have under-bought ingredients by 40%.
     slot_assignments:
       - { member: Will, slot: M4, servings: 1 }
       - { member: Elena, slot: M4, servings: 2 }

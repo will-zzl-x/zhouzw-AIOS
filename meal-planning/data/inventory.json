@@ -319,5 +319,13 @@
     "unit": "jar",
     "location": "fridge",
     "freshness_date": null
+  },
+  {
+    "item": "Steak",
+    "quantity": 2,
+    "unit": "steaks",
+    "location": "freezer",
+    "freshness_date": null,
+    "note": "Added 2026-07-11 - Will confirmed already on hand, for #46 Steak & Arugula Salad. Defrosting 2 days ahead in fridge per his own process, not the standard freezer-stage rule."
   }
 ]
