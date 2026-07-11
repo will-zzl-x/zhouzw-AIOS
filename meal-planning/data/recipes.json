@@ -3062,345 +3062,6 @@
   "on_break": false
  },
  {
-  "id": "31",
-  "name": "Modular Slow-Cooker Chicken + Sheet-Pan Veg + Rice (Will/Elena fork)",
-  "tier": "A",
-  "meal_slots": [
-   2,
-   3,
-   4
-  ],
-  "servings": 10,
-  "protein": "Chicken Breast",
-  "for": "both",
-  "ingredients": [
-   {
-    "name": "Chicken breast",
-    "amount": "4",
-    "unit": "lb (raw — ~64 oz, yields ~50 oz cooked = 5 oz × 10 srv)",
-    "store": "Costco"
-   },
-   {
-    "name": "Salt (chicken)",
-    "amount": "2",
-    "unit": "tsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Garlic powder (chicken)",
-    "amount": "2",
-    "unit": "tsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Black pepper (chicken)",
-    "amount": "1",
-    "unit": "tsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Chicken stock or water + 1 bouillon cube",
-    "amount": "1",
-    "unit": "cup",
-    "store": "Walmart"
-   },
-   {
-    "name": "Broccoli florets",
-    "amount": "2",
-    "unit": "lb (~10 cups raw → ~7 cups roasted)",
-    "store": "Costco"
-   },
-   {
-    "name": "Bell pepper, sliced (mixed colors)",
-    "amount": "3",
-    "unit": "peppers (~6 cups raw)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Zucchini, sliced",
-    "amount": "2",
-    "unit": "medium (~4 cups raw)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Olive oil (roast)",
-    "amount": "2",
-    "unit": "Tbsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Salt (roast)",
-    "amount": "1",
-    "unit": "tsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Black pepper (roast)",
-    "amount": "0.5",
-    "unit": "tsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Dry white rice",
-    "amount": "2.5",
-    "unit": "cups dry (~7.5 cups cooked — Will 0.75 cup x 5 + Elena 0.75 cup x 5)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Salsa (SHARED topping — Elena wants it too)",
-    "amount": "2.5",
-    "unit": "cups (~one 16oz jar)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Cilantro, chopped (SHARED)",
-    "amount": "1",
-    "unit": "bunch",
-    "store": "Walmart"
-   },
-   {
-    "name": "Lime, wedged (SHARED)",
-    "amount": "2",
-    "unit": "limes",
-    "store": "Walmart"
-   },
-   {
-    "name": "Sriracha (Will fork — low-cal flavor)",
-    "amount": "to taste",
-    "unit": "",
-    "store": "Walmart"
-   },
-   {
-    "name": "Hot sauce (Will fork — low-cal flavor)",
-    "amount": "to taste",
-    "unit": "",
-    "store": "Walmart"
-   },
-   {
-    "name": "Avocado (Elena fork)",
-    "amount": "2",
-    "unit": "medium (~0.4/srv)",
-    "store": "Walmart"
-   },
-   {
-    "name": "0% Greek yogurt (Elena fork — sour cream sub)",
-    "amount": "0.75",
-    "unit": "cup (~10 Tbsp)",
-    "store": "Costco"
-   },
-   {
-    "name": "Shredded Mexican cheese blend (Elena fork)",
-    "amount": "0.75",
-    "unit": "cup (~3oz)",
-    "store": "Walmart"
-   }
-  ],
-  "notes": "MODULAR — cook once, fork at the plate. 5 srv Will + 5 srv Elena = 10 total. BULK PREP: slow-cooker shredded chicken + sheet-pan roasted veg + Instant Pot rice + jar salsa. WILL ASSEMBLY (~530 cal / 50P / 5F / 63C): 5 oz chicken + 2 cups roasted veg + 0.75 cup rice + 1/4 cup salsa + cilantro + lime + sriracha/hot sauce. Volume-maxed plate, low-fat, salsa+heat+acid for flavor. ELENA ASSEMBLY (~530 cal / 45P / 18F / 45C): 5 oz chicken + 1 cup roasted veg + 0.75 cup rice + 1/4 cup salsa + 1/4 avocado + 2 Tbsp Greek yogurt + 2 Tbsp cheese + cilantro + lime. Salsa is SHARED — both get it (Elena flagged she wants salsa too, not a Will-only low-cal sub). NEW 2026-06-10 — first modular fork recipe. UPDATED 2026-07-10: Will fork rice bumped 0.3->0.75 cup (matching Elena's portion) for the Jul 12+ reverse diet — the cut-era 0.3 cup portion under-shoots the new ~2,000+ cal/day target; veg volume and sauce stay restrained (fiber/volume lever unchanged, just more carbs alongside it).",
-  "recipe_available": true,
-  "recipe_steps": [
-   "BULK PREP — cook once Sunday:",
-   "Slow cooker: 4 lb chicken breast + 2 tsp salt + 2 tsp garlic powder + 1 tsp pepper + 1 cup stock. Cook HIGH 3-4 hr or LOW 5-6 hr until shreddable. Shred, reserve juices, divide chicken+juices into 10 portions (5 oz each).",
-   "Roast veg: oven 425F, sheet pan w/ broccoli + bell pepper + zucchini tossed w/ 2 Tbsp olive oil + 1 tsp salt + 0.5 tsp pepper. Roast 25-30 min until edges char. Cool. Divide: 5 portions × 2 cups each (Will) + 5 portions × 1 cup each (Elena).",
-   "Rice: Instant Pot 2 cups dry rice + 2 cups water, HIGH 4 min, NR 10 min, fluff. Divide: Will gets 1.5 cups cooked (0.3 cup × 5); Elena gets 3.75 cups cooked (0.75 cup × 5).",
-   "Salsa: open jar, transfer to 10 small portion containers (~1/4 cup / 4 Tbsp per srv) — both eat the same amount.",
-   "PACK Will (5 containers): 5 oz chicken + 2 cups veg + 0.75 cup rice. Salsa cup + lime wedge + cilantro pinch separate (kept fresh). Sriracha/hot sauce added at serving.",
-   "PACK Elena (5 containers): 5 oz chicken + 1 cup veg + 0.75 cup rice. Salsa cup + lime + cilantro separate. AVOCADO sliced FRESH PER MEAL (1/4 avocado per day — don't pre-pack, browns). Greek yogurt dollop (~2 Tbsp) + cheese (~2 Tbsp) at serving time.",
-   "REHEAT (both): microwave main container 90s; add salsa + fresh toppings on top after heating."
-  ],
-  "on_break": false
- },
- {
-  "id": "32",
-  "name": "Modular Mediterranean Lemon Chicken + Roasted Veg + Tzatziki Fork",
-  "tier": "A",
-  "meal_slots": [
-   2,
-   3,
-   4
-  ],
-  "servings": 10,
-  "protein": "Chicken Breast",
-  "for": "both",
-  "ingredients": [
-   {
-    "name": "Chicken breast",
-    "amount": "4",
-    "unit": "lb (raw — ~64 oz, yields ~50 oz cooked = 5 oz × 10 srv)",
-    "store": "Costco"
-   },
-   {
-    "name": "Olive oil (marinade)",
-    "amount": "2",
-    "unit": "Tbsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Lemon juice (marinade)",
-    "amount": "3",
-    "unit": "Tbsp (~1.5 lemons)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Lemon zest (marinade)",
-    "amount": "1",
-    "unit": "Tbsp (~1 lemon)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Garlic, minced (marinade)",
-    "amount": "1.5",
-    "unit": "Tbsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Dried oregano (marinade)",
-    "amount": "1",
-    "unit": "Tbsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Dried thyme (marinade)",
-    "amount": "1",
-    "unit": "tsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Salt (marinade)",
-    "amount": "2",
-    "unit": "tsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Black pepper (marinade)",
-    "amount": "1",
-    "unit": "tsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Zucchini, sliced",
-    "amount": "3",
-    "unit": "medium (~6 cups raw)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Bell pepper, sliced (mixed colors)",
-    "amount": "3",
-    "unit": "peppers (~6 cups raw)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Red onion, sliced",
-    "amount": "1",
-    "unit": "large (~2 cups raw)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Cherry tomatoes, halved",
-    "amount": "1",
-    "unit": "pint (~2 cups)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Olive oil (roast)",
-    "amount": "2",
-    "unit": "Tbsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Salt (roast)",
-    "amount": "1",
-    "unit": "tsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Dried oregano (roast)",
-    "amount": "1",
-    "unit": "tsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "0% Greek yogurt (tzatziki — SHARED)",
-    "amount": "1.5",
-    "unit": "cups (~12oz)",
-    "store": "Costco"
-   },
-   {
-    "name": "Cucumber, grated + squeezed (tzatziki)",
-    "amount": "1",
-    "unit": "medium",
-    "store": "Walmart"
-   },
-   {
-    "name": "Garlic, minced (tzatziki)",
-    "amount": "1",
-    "unit": "Tbsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Lemon juice (tzatziki)",
-    "amount": "2",
-    "unit": "Tbsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Fresh dill, chopped (tzatziki — SHARED, both get sprinkle)",
-    "amount": "3",
-    "unit": "Tbsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Salt (tzatziki)",
-    "amount": "0.5",
-    "unit": "tsp",
-    "store": "Walmart"
-   },
-   {
-    "name": "Dry farro (both forks — carb, see notes)",
-    "amount": "1.75",
-    "unit": "cups dry (~5.25 cups cooked — Elena 0.6 cup x 5 + Will 0.4 cup x 5)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Pita bread (Elena fork — carb)",
-    "amount": "5",
-    "unit": "small pita (1 per Elena srv)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Feta crumbles (Elena fork)",
-    "amount": "4",
-    "unit": "oz total (~0.8 oz/srv)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Kalamata olives (Elena fork)",
-    "amount": "15",
-    "unit": "olives total (~3/srv)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Olive oil drizzle (Elena fork)",
-    "amount": "5",
-    "unit": "tsp total (~1 tsp/srv)",
-    "store": "Walmart"
-   }
-  ],
-  "notes": "MODULAR — cook once, fork at the plate. 5 srv Will + 5 srv Elena = 10 total. Combines original Set 4 (Mediterranean) + Set 6 (Greek lemon chicken) per Will's modular brief — lean chicken instead of salmon since Will wants leaner protein for the Mediterranean profile. BULK PREP (shared): lemon-oregano marinated chicken + Mediterranean roasted veg sheet pan + tzatziki batch + fresh dill. WILL ASSEMBLY (~480 cal / 50P / 5F / 42C): 5 oz chicken + 2 cups roasted veg + 0.4 cup cooked farro + 3 Tbsp tzatziki + extra lemon + dill. NO pita, NO feta, NO olives, NO olive oil drizzle. Tzatziki (nonfat Greek yogurt) gives creaminess without the fat. ELENA ASSEMBLY (~580 cal / 45P / 22F / 45C): 5 oz chicken + 1 cup roasted veg + 0.6 cup cooked farro + 1 pita + 3 Tbsp tzatziki + 0.8 oz feta + 3 kalamata olives + 1 tsp olive oil drizzle + dill. NEW 2026-06-10 — third modular fork recipe. UPDATED 2026-07-10: added 0.4 cup farro to Will's fork (was NO farro on the cut) for the Jul 12+ reverse diet — his fork otherwise had zero starch, too big a carb gap against the new ~2,000+ cal/day target. Elena's fork (farro + pita + feta + olives) unchanged.",
-  "recipe_available": true,
-  "recipe_steps": [
-   "BULK PREP — cook once Sunday:",
-   "Marinate chicken: whisk olive oil + lemon juice + zest + garlic + oregano + thyme + salt + pepper. Add 4 lb chicken, coat, marinate 30 min minimum, ideally overnight.",
-   "Cook chicken: oven 425F on sheet pan 22-25 min until 165F internal, OR air fryer 380F 12-15 min in batches. Rest 5 min, slice across grain. Divide into 10 portions × 5 oz.",
-   "Roast veg: same oven (different sheet pan): zucchini + bell pepper + red onion + cherry tomato tossed w/ 2 Tbsp olive oil + 1 tsp salt + 1 tsp oregano. 425F 25-30 min until charred. Divide: 5 × 2 cups (Will) + 5 × 1 cup (Elena).",
-   "Cook farro (Elena only): 1 cup dry farro + 3 cups water + pinch salt, simmer 25-30 min until tender, drain. Divide 5 × 0.6 cup.",
-   "Make tzatziki: combine Greek yogurt + grated/squeezed cucumber + garlic + lemon juice + dill + salt. Stir, taste, refrigerate (better day 2). Portion into 10 small cups × 3 Tbsp each.",
-   "PACK Will (5 containers): 5 oz chicken + 2 cups roasted veg + 0.4 cup farro. Tzatziki cup + extra dill sprinkle + lemon wedge separate.",
-   "PACK Elena (5 containers): 5 oz chicken + 1 cup veg + 0.6 cup farro. Tzatziki cup + feta crumble pack + olive pack + dill separate. PITA kept whole (warm in toaster at serving). Olive oil drizzle (1 tsp) added at serving.",
-   "REHEAT (both): microwave main container 90s; add tzatziki + Elena's add-ons on top after heating."
-  ],
-  "on_break": false
- },
- {
   "id": "33",
   "name": "Homemade Crunchwrap Supreme (Beef)",
   "tier": "A",
@@ -3798,6 +3459,131 @@
   "recipe_available": true,
   "recipe_steps": [
    "No prep - grab one bottle per day from the fridge."
+  ],
+  "on_break": false
+ },
+ {
+  "id": "39",
+  "name": "Korean Gochujang Chicken + Sweet Potato Meal Prep (Zucchini/Mushroom Sub)",
+  "tier": null,
+  "meal_slots": [
+   4
+  ],
+  "servings": 5,
+  "protein": "Chicken Breast",
+  "ingredients": [
+   {
+    "name": "Sweet potatoes, halved, unpeeled (scrub clean)",
+    "amount": "1250",
+    "unit": "g (~2.75 lb total, ~250g/serving)",
+    "store": "Costco"
+   },
+   {
+    "name": "White onion, diced",
+    "amount": "200",
+    "unit": "g (~1 large onion, 7oz)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Carrots, cut into planks then chopped",
+    "amount": "200",
+    "unit": "g (~7oz)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Zucchini, diced (SUB for bell pepper)",
+    "amount": "150",
+    "unit": "g (~5.3oz)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Mushrooms, sliced (SUB for bell pepper)",
+    "amount": "150",
+    "unit": "g (~5.3oz)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Olive oil (veg roast)",
+    "amount": "10",
+    "unit": "g (1 Tbsp)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Salt (veg)",
+    "amount": "1",
+    "unit": "pinch",
+    "store": "Walmart"
+   },
+   {
+    "name": "Black pepper (veg)",
+    "amount": "1",
+    "unit": "pinch, fresh ground",
+    "store": "Walmart"
+   },
+   {
+    "name": "Gochujang",
+    "amount": "40",
+    "unit": "g (4 Tbsp)",
+    "store": "Asian Mart"
+   },
+   {
+    "name": "Low-sodium soy sauce (use HALF this amount if using regular full-sodium soy sauce)",
+    "amount": "100",
+    "unit": "g (~6.5 Tbsp)",
+    "store": "Asian Mart"
+   },
+   {
+    "name": "Water (sauce)",
+    "amount": "30",
+    "unit": "g (~2 Tbsp)",
+    "store": ""
+   },
+   {
+    "name": "Cornstarch",
+    "amount": "4",
+    "unit": "g (1 tsp)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Chicken breast, boneless skinless, cut into bite-size cubes",
+    "amount": "900",
+    "unit": "g (~2 lb, ~4 breasts)",
+    "store": "Costco"
+   },
+   {
+    "name": "Salt (chicken)",
+    "amount": "1",
+    "unit": "pinch",
+    "store": "Walmart"
+   },
+   {
+    "name": "Olive oil (pan-frying chicken)",
+    "amount": "1",
+    "unit": "tsp, per batch (2 batches)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Canned corn, drained",
+    "amount": "150",
+    "unit": "g (~1 cup)",
+    "store": "Walmart"
+   }
+  ],
+  "notes": "NEW 2026-07-10 — from a meal-prep video transcript Will provided, zucchini+mushroom subbed for the original bell pepper per Will's request. Shared meal (Will + Elena), M4, single profile (not modular-forked — same portion for both, unlike #28/31/32 which were dropped for not matching real cooking). EXACT macros from source (not estimated): 558 cal / 48g protein / 8g fat / 80g carb per serving, 5 servings total. Keeps 5 days refrigerated, freezer-friendly, good reheated (2-3 min microwave) or cold. Sweet potatoes: don't peel before cooking (scrub clean with a brush ~30 sec instead) — much easier to peel AFTER baking if desired. Halving them before baking (vs. whole) cuts bake time roughly in half with no taste difference.",
+  "recipe_available": true,
+  "recipe_steps": [
+   "Scrub sweet potatoes clean with a brush (no peeling), ~30 sec each. Cut each in half lengthwise.",
+   "Line a baking sheet/rack with parchment paper. Place sweet potato halves on top. Don't bake yet.",
+   "Dice onion, carrots, zucchini, mushrooms into similar bite-size pieces. Toss in a baking dish with the 1 Tbsp olive oil, pinch salt, black pepper.",
+   "Place both the sweet potatoes and the veggie dish in the oven at 400F/200C. Sweet potatoes need ~30 min until tender; veggies take ~20-25 min.",
+   "Make the sauce while the oven runs: combine gochujang + low-sodium soy sauce + water in a bowl. Stir in the cornstarch immediately to avoid clumps. Set aside.",
+   "Cut chicken breasts into strips, then bite-size cubes. Season with a pinch of salt.",
+   "Heat an 11-inch pan to medium-high with a thin layer of olive oil. Cook chicken in 2 batches (half at a time): sear one side ~90 sec, flip, cook other side ~90 sec (~3 min total per batch, don't overcook — cubes cook fast). Remove and repeat.",
+   "Once veggies are roasted (they'll carry some liquid from baking), add them to the pan and fry 2-3 min to reduce the liquid and add browning.",
+   "Add the cooked chicken back to the pan. Pour in the sauce, cook ~1 min stirring until it thickens to a syrupy consistency that coats everything. Taste and adjust salt.",
+   "Remove sweet potatoes from the oven once tender.",
+   "Divide sweet potatoes evenly across 5 meal-prep containers (weigh the total and divide by 5 for precision — they lose water weight during baking, so weigh AFTER baking). Divide the chicken+veggie mixture evenly. Top each with ~30g (150g/5) canned corn.",
+   "Store in fridge up to 5 days, or freeze. Reheat 2-3 min microwave, or eat cold."
   ],
   "on_break": false
  }
