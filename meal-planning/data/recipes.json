@@ -3150,26 +3150,26 @@
   "ingredients": [
    {
     "name": "Whole eggs",
-    "amount": "9",
-    "unit": "eggs (6 base + 3 extra for the 6-portion cut)",
+    "amount": "10",
+    "unit": "eggs",
     "store": "Costco"
    },
    {
     "name": "Egg whites",
-    "amount": "1.25",
-    "unit": "cups (Will's actual; more is fine - lean protein, adds volume without cal/fat)",
+    "amount": "2",
+    "unit": "cups (~480g; bumped from 1.25c for the video's ~50g-white-per-egg ratio)",
     "store": "Costco"
    },
    {
     "name": "2% low-fat cottage cheese",
-    "amount": "16",
-    "unit": "oz (2 cups)",
+    "amount": "20",
+    "unit": "oz (~2.5 cups; bumped from 16oz for the ~56g-per-egg ratio)",
     "store": "Costco"
    },
    {
     "name": "Mushrooms, sliced",
-    "amount": "8",
-    "unit": "oz",
+    "amount": "16",
+    "unit": "oz raw, cooked down (~2x the base; water cooked off so it still sets)",
     "store": "Walmart"
    },
    {
@@ -3209,7 +3209,7 @@
     "store": "Walmart"
    }
   ],
-  "notes": "M2 pick (moved off M1 2026-07-10 - shakes are M1 now for both). Servings corrected 7->4: Will confirmed real portions run ~double the original 170 cal/serving estimate, so the same ingredient batch yields ~4 bigger servings, not 7. ~275 cal / 35g protein / 10g fat / 8g carb per serving (ESTIMATE, not verified against a label). Also realistically only holds ~4 days refrigerated (baked egg + dairy dish) - covers the front of the week, paired with a backup M2 for the remaining days rather than assumed to last all 7. REVISED 2026-07-11: cottage cheese unavailable at the store, dropped entirely - now just eggs + egg whites + mushroom + spinach. Slightly less protein/creaminess, still a solid dish. New estimate: ~130 cal / 18g protein / 5g fat / 3g carb per serving (was ~275/35/10/8). REVERTED 2026-07-11: cottage cheese misunderstanding corrected - Will hadn't bought it YET, not unavailable. Back to original: ~275 cal / 35g protein / 10g fat / 8g carb per serving with cottage cheese included. PORTIONS 4->6 (Will 2026-07-12): same batch cut into 6 smaller portions + 3 extra whole eggs added (9 total, has 10). ~215 cal / 26g protein / 8g fat / 3g carb per portion. Fridge life still ~4 days - freeze 2 of the 6, pull mid-week. GREEN ONION added 2026-07-12 per Will (recipe was reconstructed from a brief description, may still be missing items he normally uses - confirm full list). SOURCE CONFIRMED 2026-07-12: this is Will's adaptation of a budget high-protein cutting-plan video (egg power bowl: eggs + egg whites + cottage cheese + onion + mushroom, 400F ~30min, 6 containers, topped fresh with tomato/green onion/sesame/hot sauce). Will's version adds spinach and runs a smaller batch (16oz cottage cheese / 9 eggs vs video's 24oz / 12) - kept per his purchases. Bake temp corrected 350->400F to match source (crispier edges + enables air-fryer finish). EGG WHITES corrected 1.5c->1.25c (Will's actual, 2026-07-12). Adding extra egg white + cottage cheese encouraged if on hand - raises protein/volume, keeps it lean. One 9x13 bake cut into 6, NOT 6 separate containers.",
+  "notes": "M2 pick (moved off M1 2026-07-10 - shakes are M1 now for both). Servings corrected 7->4: Will confirmed real portions run ~double the original 170 cal/serving estimate, so the same ingredient batch yields ~4 bigger servings, not 7. ~275 cal / 35g protein / 10g fat / 8g carb per serving (ESTIMATE, not verified against a label). Also realistically only holds ~4 days refrigerated (baked egg + dairy dish) - covers the front of the week, paired with a backup M2 for the remaining days rather than assumed to last all 7. REVISED 2026-07-11: cottage cheese unavailable at the store, dropped entirely - now just eggs + egg whites + mushroom + spinach. Slightly less protein/creaminess, still a solid dish. New estimate: ~130 cal / 18g protein / 5g fat / 3g carb per serving (was ~275/35/10/8). REVERTED 2026-07-11: cottage cheese misunderstanding corrected - Will hadn't bought it YET, not unavailable. Back to original: ~275 cal / 35g protein / 10g fat / 8g carb per serving with cottage cheese included. PORTIONS 4->6 (Will 2026-07-12): same batch cut into 6 smaller portions + 3 extra whole eggs added (9 total, has 10). ~215 cal / 26g protein / 8g fat / 3g carb per portion. Fridge life still ~4 days - freeze 2 of the 6, pull mid-week. GREEN ONION added 2026-07-12 per Will (recipe was reconstructed from a brief description, may still be missing items he normally uses - confirm full list). SOURCE CONFIRMED 2026-07-12: this is Will's adaptation of a budget high-protein cutting-plan video (egg power bowl: eggs + egg whites + cottage cheese + onion + mushroom, 400F ~30min, 6 containers, topped fresh with tomato/green onion/sesame/hot sauce). Will's version adds spinach and runs a smaller batch (16oz cottage cheese / 9 eggs vs video's 24oz / 12) - kept per his purchases. Bake temp corrected 350->400F to match source (crispier edges + enables air-fryer finish). EGG WHITES corrected 1.5c->1.25c (Will's actual, 2026-07-12). Adding extra egg white + cottage cheese encouraged if on hand - raises protein/volume, keeps it lean. One 9x13 bake cut into 6, NOT 6 separate containers. RATIO SET 2026-07-12: bumped to 10 eggs / 2c egg white / 20oz cottage cheese (video ratio ~50g white + 56g cottage per whole egg) + 16oz raw cooked-down mushroom. ~265 cal / 30g protein / 10g fat / 5g carb per portion x6. Uses all 10 eggs (no spare for shake bridge - use an RTD until powder ships).",
   "recipe_available": true,
   "recipe_steps": [
    "Preheat oven to 400F. Grease a 9x13 baking dish.",
