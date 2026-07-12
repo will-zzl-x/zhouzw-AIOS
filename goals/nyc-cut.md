@@ -65,6 +65,8 @@ End date: July 11, 2026 — reverse diet Jul 12–29, NYC loose maintenance Jul 
 
 Cut reached a low of 177.4 lb (6/19) and Wk7 (6/28) averaged 177.9 — essentially landed the re-baselined 177 lb target (see `state.md` for the original-172-not-achievable re-baseline logic and the abort-canary trigger that drove it). Then Banff travel week rebounded +2.6 lb to a 180.5 avg, and today's single reading holds at 180.4 — 3 lb above the low, not continuing down.
 
-**Open, not yet resolved:** whether this is a travel-week water/sodium bounce (likely, per Schofield — too fast/large to be fat) or the start of a genuine post-cut settle point. Needs 3-4 days of normal-routine weigh-ins post-Banff before judging where the cut actually landed. Calorie/protein/step/sleep tracking (Cronometer, `/health-os check`) went quiet after Week 1 — no data for weeks 2-9 despite the system calling for it weekly.
+**Open, not yet resolved:** whether this is a travel-week water/sodium bounce (likely, per Schofield — too fast/large to be fat) or the start of a genuine post-cut settle point. Judge Friday Jul 17 on a week of normal-routine weigh-ins. Calorie/protein/step tracking was **deliberately dropped after Week 1 (Will's call, confirmed 7/12)** — weight-only steering carried the cut.
 
-**Next phase per `state.md`:** reverse diet Jul 12–29, then NYC loose maintenance Jul 30–Aug 5.
+**Canary at close (Jul 11, first post-Banff session):** Larsen 145×6 @9 (e1RM ~−9% vs 6/19 — inside the expected 5–10% push slide + travel), pulls STRONG (Narrow Pulldown 112.5×13 @9.5) = lean-mass anti-goal held. Pull-up → machine pulldown swap live. Full read: `journals/workout-log.md`.
+
+**Next phase (LIVE):** reverse diet Jul 12–29 (+150–200 cal/wk, daily weigh-ins mandatory), then NYC loose maintenance Jul 30–Aug 5. Cut retro belongs to the Aug quarterly review.

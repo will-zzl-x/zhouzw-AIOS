@@ -103,3 +103,33 @@ Running training log. All sessions logged here — GVS Ravage, bodyweight, and o
 - RDL reps slipped (W4D4 70 × 7,4 → 5,3 @ same load) — minor, expected on a deficit for a hinge. Watch next Legs day; not a flag yet.
 - Quad isolation holding (leg curl/ext steady). Calves left in the tank (RPE 6.5 / 8.5) — room to add load.
 - No May 25 session in the export.
+
+---
+
+## Deload wrap + new block through Banff (Jun 30 – Jul 12) — logged via Liftosaur CSV 7/12
+
+**Sessions (9 in 13 days, incl. 3 during Banff):**
+- Jun 30 — Wk10 Deload Legs B (Smith Squat 140×8 @8, RDL 65×6, calf 185×20 @6.5)
+- Jul 1 — Wk10 Deload Torso B (DB Bench 60×11 @9, Machine Pulldown 120×11, Seated Row 87.5×12)
+- Jul 2 AM — Wk10 Deload Bro B (pre-flight; deload complete)
+- Jul 3 — **NEW BLOCK Wk1 Torso A** (Banff — DB Bench 40s×11,8,7; Narrow Pulldown 100×9,8,6 AMRAP; Machine Pulldown in slot 2)
+- Jul 4 — Wk1 Bro A (Banff)
+- Jul 6 — Wk1 Torso B (Banff)
+- Jul 9 — Wk1 Bro B
+- Jul 10 — Wk2 Legs A (Hack Squat, SLDL, lunges, leg curl 82.5×10,9 @10)
+- Jul 11 — **Wk2 Torso A — first canary session post-Banff:**
+  - Smith CG Larsen Press **145 — 6, 4, 4 @ RPE 9**
+  - Narrow Pulldown **105×15 @9; 112.5×13 @9.5; 112.5×12 @10**
+  - Smith Reverse-Grip Bench 105 — 11, 6 @9
+  - Machine Pulldown 105 — 14, 12 @9.5–10
+  - Cable Crossover 15/17.5 — 15, 15 @6–6.5 (in the tank)
+- Jul 12 — **Z2 stationary bike 35 min — FIRST keystone rep on the bike+phone modality since the 6/14 change.**
+
+**Canary read (vs. 3-lift model, thresholds set on old block):**
+| Lift | Threshold (old block) | Jul 11 | Status |
+|------|----------------------|--------|--------|
+| Larsen top set | ≥155×5 @9 | 145×6 @9 | ⚠️ e1RM ~−9% vs 6/19 (155×7) |
+| Larsen back-offs | ≥5 reps/set | 4, 4 @9 | ⚠️ 3rd consecutive sub-5 |
+| Pull-up → **machine pulldown swap LIVE** | not below 3,3,1 | swap executed both Torso days ✓ | retired — replace metric |
+
+**Read:** −9% Larsen e1RM is inside Schofield's expected 5–10% push-lift slide on a cut, measured 3 days after a 6-day trip with an all-nighter and 6 days off the lift, on a new block where prescribed load was 120–130 (Will loaded 145). Not an abort signal — the cut is over and the reverse diet is the fix already in motion. **Pulls are the tell and pulls are strong** (Narrow Pulldown 112.5×13 @9.5 — pulls should hold on a cut if muscle is retained, and they did). Isolations fine. **Action: recalibrate canary thresholds to the new block after 2–3 reverse-diet weeks; expect Larsen to recover toward 155+ as calories come up.**
