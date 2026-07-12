@@ -347,3 +347,12 @@ Format: ✓ = done, □ = planned/pending
 □ Text Dan to lock in-person day/time
 □ Run 1–2 listings through deal-eval framework
 □ Book Sedona cabin + restaurants + sitter
+
+**2026-07-11 (Sat)** — NYC Cut Wk 7 of 8
+□ Walk 12,500 steps today
+□ Zone 2 cardio: 60–90 min stationary bike
+□ Phone off nightstand, charge in kitchen
+□ Sunday paste: log weight + sessions + steps
+□ Run 1–2 listings through deal-eval framework
+□ Text Dan to lock in-person day/time
+□ Book Sedona cabin, restaurants, dog sitter
