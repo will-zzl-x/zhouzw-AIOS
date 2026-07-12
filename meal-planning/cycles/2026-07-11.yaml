@@ -29,7 +29,11 @@
 date: "2026-07-11"
 grocery_day: "2026-07-10"
 
-exceptions: []
+exceptions:
+  # Dining out one dinner this week (both) - restaurant, exact night TBD.
+  # Drops Will M4 + Elena M4 need by 1 each; Steak & Salad #46 removed to match
+  # (its 2 servings = the exact -2). Steak stays frozen for a future week.
+  - { date: "2026-07-15", member: Both, slot: M4, reason: "dining out - restaurant dinner (night TBD)" }
 carryover: []
 
 selections:
@@ -124,15 +128,10 @@ selections:
       - { member: Will, slot: M4, servings: 2 }
       - { member: Elena, slot: M4, servings: 2 }
 
-  - recipe_id: "46"
-    planned_servings: 2
-    notes: |
-      Steak & Arugula Salad with Avocado. New shared M4 dish, replaces the 2
-      servings given up from Spaghetti. Steak defrosted 2 days ahead in the
-      fridge, not freezer-staged same-week like the other proteins.
-    slot_assignments:
-      - { member: Will, slot: M4, servings: 1 }
-      - { member: Elena, slot: M4, servings: 1 }
+  # REMOVED 2026-07-12: Steak & Salad #46 cut to cover one dining-out dinner
+  # this week (the -2 servings). Dining-out exception added at top. Steak stays
+  # frozen for a future cycle; arugula + avocado now free (use as a side / in
+  # something else so they don't spoil).
 
 inventory_snapshot: []
 
