@@ -3277,37 +3277,37 @@
   "meal_slots": [
    4
   ],
-  "servings": 5,
+  "servings": 4,
   "protein": "Chicken Breast",
   "ingredients": [
    {
     "name": "Sweet potatoes, halved, unpeeled (scrub clean)",
-    "amount": "1250",
-    "unit": "g (~2.75 lb total, ~250g/serving)",
+    "amount": "1000",
+    "unit": "g (~2.2 lb total, ~250g/serving)",
     "store": "Costco"
    },
    {
     "name": "White onion, diced",
-    "amount": "200",
-    "unit": "g (~1 large onion, 7oz)",
+    "amount": "160",
+    "unit": "g (~0.8 large onion)",
     "store": "Walmart"
    },
    {
     "name": "Carrots, cut into planks then chopped",
-    "amount": "200",
-    "unit": "g (~7oz)",
+    "amount": "160",
+    "unit": "g (~5.6oz)",
     "store": "Walmart"
    },
    {
     "name": "Zucchini, diced (SUB for bell pepper)",
-    "amount": "150",
-    "unit": "g (~5.3oz)",
+    "amount": "120",
+    "unit": "g (~4.2oz)",
     "store": "Walmart"
    },
    {
     "name": "Mushrooms, sliced (SUB for bell pepper)",
-    "amount": "150",
-    "unit": "g (~5.3oz)",
+    "amount": "120",
+    "unit": "g (~4.2oz)",
     "store": "Walmart"
    },
    {
@@ -3330,26 +3330,26 @@
    },
    {
     "name": "Gochujang",
-    "amount": "40",
-    "unit": "g (4 Tbsp)",
+    "amount": "32",
+    "unit": "g (~3.2 Tbsp)",
     "store": "Asian Mart"
    },
    {
     "name": "Low-sodium soy sauce (use HALF this amount if using regular full-sodium soy sauce)",
-    "amount": "100",
-    "unit": "g (~6.5 Tbsp)",
+    "amount": "80",
+    "unit": "g (~5 Tbsp)",
     "store": "Asian Mart"
    },
    {
     "name": "Water (sauce)",
-    "amount": "30",
-    "unit": "g (~2 Tbsp)",
+    "amount": "24",
+    "unit": "g (~1.6 Tbsp)",
     "store": ""
    },
    {
     "name": "Cornstarch",
-    "amount": "4",
-    "unit": "g (1 tsp)",
+    "amount": "3",
+    "unit": "g (~0.8 tsp)",
     "store": "Walmart"
    },
    {
@@ -3372,12 +3372,12 @@
    },
    {
     "name": "Canned corn, drained",
-    "amount": "150",
-    "unit": "g (~1 cup)",
+    "amount": "120",
+    "unit": "g (~0.8 cup)",
     "store": "Walmart"
    }
   ],
-  "notes": "NEW 2026-07-10 — from a meal-prep video transcript Will provided, zucchini+mushroom subbed for the original bell pepper per Will's request. Shared meal (Will + Elena), M4, single profile (not modular-forked — same portion for both, unlike #28/31/32 which were dropped for not matching real cooking). EXACT macros from source (not estimated): 558 cal / 48g protein / 8g fat / 80g carb per serving, 5 servings total. Keeps 5 days refrigerated, freezer-friendly, good reheated (2-3 min microwave) or cold. Sweet potatoes: don't peel before cooking (scrub clean with a brush ~30 sec instead) — much easier to peel AFTER baking if desired. Halving them before baking (vs. whole) cuts bake time roughly in half with no taste difference. CHICKEN REDUCED 2026-07-12: 900g->25oz raw per Will. Veg/sweet potato/sauce held constant, still 5 servings (M4 coverage intact) - only protein per serving drops. New estimate ~515 cal / 39g protein / 7g fat / 80g carb per serving (was 558/48/8/80). Lands closer to the ~500-cal target while keeping the high-carb/volume base.",
+  "notes": "NEW 2026-07-10 — from a meal-prep video transcript Will provided, zucchini+mushroom subbed for the original bell pepper per Will's request. Shared meal (Will + Elena), M4, single profile (not modular-forked — same portion for both, unlike #28/31/32 which were dropped for not matching real cooking). EXACT macros from source (not estimated): 558 cal / 48g protein / 8g fat / 80g carb per serving, 5 servings total. Keeps 5 days refrigerated, freezer-friendly, good reheated (2-3 min microwave) or cold. Sweet potatoes: don't peel before cooking (scrub clean with a brush ~30 sec instead) — much easier to peel AFTER baking if desired. Halving them before baking (vs. whole) cuts bake time roughly in half with no taste difference. CHICKEN REDUCED 2026-07-12: 900g->25oz raw per Will. Veg/sweet potato/sauce held constant, still 5 servings (M4 coverage intact) - only protein per serving drops. New estimate ~515 cal / 39g protein / 7g fat / 80g carb per serving (was 558/48/8/80). Lands closer to the ~500-cal target while keeping the high-carb/volume base. SERVINGS 5->4 (Will 2026-07-12): with chicken at 25oz that's ~6oz/serving (original portion), so veg/sweet potato/corn/sauce scaled to 4 servings too. Per-serving macros back to ~558 cal / 48g protein / 8g fat / 80g carb (original full portion), just 4 servings. M4 gap from the lost serving filled by promoting 1 Spaghetti leftover.",
   "recipe_available": true,
   "recipe_steps": [
    "Scrub sweet potatoes clean with a brush (no peeling), ~30 sec each. Cut each in half lengthwise.",
