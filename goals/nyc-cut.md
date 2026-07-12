@@ -61,5 +61,10 @@ End date: July 11, 2026 — reverse diet Jul 12–29, NYC loose maintenance Jul 
 
 ## Status
 
-**Cut active — Week 2 (as of May 25).** Week 1 clean: 182.6 avg (−3.0 WoW, mostly water), Larsen held 155 (canary green), protein/steps over target. Open gap: sleep tracking not flowing yet.
-Check-in: ~June 7. End date: July 11.
+**Cut window closed (May 17–Jul 11) — outcome mixed, unresolved.** Full weight backfill in `journals/health-log.md` (2026-07-12 entry). Weekly trend: 182.6 → 182.2 → 180.5 → 179.7 → 178.4 → 178.9 → 177.9 → 180.5 (Banff) → 180.4 (today, single reading).
+
+Cut reached a low of 177.4 lb (6/19) and Wk7 (6/28) averaged 177.9 — essentially landed the re-baselined 177 lb target (see `state.md` for the original-172-not-achievable re-baseline logic and the abort-canary trigger that drove it). Then Banff travel week rebounded +2.6 lb to a 180.5 avg, and today's single reading holds at 180.4 — 3 lb above the low, not continuing down.
+
+**Open, not yet resolved:** whether this is a travel-week water/sodium bounce (likely, per Schofield — too fast/large to be fat) or the start of a genuine post-cut settle point. Needs 3-4 days of normal-routine weigh-ins post-Banff before judging where the cut actually landed. Calorie/protein/step/sleep tracking (Cronometer, `/health-os check`) went quiet after Week 1 — no data for weeks 2-9 despite the system calling for it weekly.
+
+**Next phase per `state.md`:** reverse diet Jul 12–29, then NYC loose maintenance Jul 30–Aug 5.
