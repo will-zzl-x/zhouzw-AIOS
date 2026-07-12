@@ -3354,8 +3354,8 @@
    },
    {
     "name": "Chicken breast, boneless skinless, cut into bite-size cubes",
-    "amount": "900",
-    "unit": "g (~2 lb, ~4 breasts)",
+    "amount": "25",
+    "unit": "oz raw (~709g, reduced from 900g/32oz per Will 2026-07-12)",
     "store": "Costco"
    },
    {
@@ -3377,7 +3377,7 @@
     "store": "Walmart"
    }
   ],
-  "notes": "NEW 2026-07-10 — from a meal-prep video transcript Will provided, zucchini+mushroom subbed for the original bell pepper per Will's request. Shared meal (Will + Elena), M4, single profile (not modular-forked — same portion for both, unlike #28/31/32 which were dropped for not matching real cooking). EXACT macros from source (not estimated): 558 cal / 48g protein / 8g fat / 80g carb per serving, 5 servings total. Keeps 5 days refrigerated, freezer-friendly, good reheated (2-3 min microwave) or cold. Sweet potatoes: don't peel before cooking (scrub clean with a brush ~30 sec instead) — much easier to peel AFTER baking if desired. Halving them before baking (vs. whole) cuts bake time roughly in half with no taste difference.",
+  "notes": "NEW 2026-07-10 — from a meal-prep video transcript Will provided, zucchini+mushroom subbed for the original bell pepper per Will's request. Shared meal (Will + Elena), M4, single profile (not modular-forked — same portion for both, unlike #28/31/32 which were dropped for not matching real cooking). EXACT macros from source (not estimated): 558 cal / 48g protein / 8g fat / 80g carb per serving, 5 servings total. Keeps 5 days refrigerated, freezer-friendly, good reheated (2-3 min microwave) or cold. Sweet potatoes: don't peel before cooking (scrub clean with a brush ~30 sec instead) — much easier to peel AFTER baking if desired. Halving them before baking (vs. whole) cuts bake time roughly in half with no taste difference. CHICKEN REDUCED 2026-07-12: 900g->25oz raw per Will. Veg/sweet potato/sauce held constant, still 5 servings (M4 coverage intact) - only protein per serving drops. New estimate ~515 cal / 39g protein / 7g fat / 80g carb per serving (was 558/48/8/80). Lands closer to the ~500-cal target while keeping the high-carb/volume base.",
   "recipe_available": true,
   "recipe_steps": [
    "Scrub sweet potatoes clean with a brush (no peeling), ~30 sec each. Cut each in half lengthwise.",
@@ -3385,7 +3385,7 @@
    "Dice onion, carrots, zucchini, mushrooms into similar bite-size pieces. Toss in a baking dish with the 1 Tbsp olive oil, pinch salt, black pepper.",
    "Place both the sweet potatoes and the veggie dish in the oven at 400F/200C. Sweet potatoes need ~30 min until tender; veggies take ~20-25 min.",
    "Make the sauce while the oven runs: combine gochujang + low-sodium soy sauce + water in a bowl. Stir in the cornstarch immediately to avoid clumps. Set aside.",
-   "Cut chicken breasts into strips, then bite-size cubes. Season with a pinch of salt.",
+   "Cut ~25oz chicken breast into strips, then bite-size cubes. Season with a pinch of salt.",
    "Heat an 11-inch pan to medium-high with a thin layer of olive oil. Cook chicken in 2 batches (half at a time): sear one side ~90 sec, flip, cook other side ~90 sec (~3 min total per batch, don't overcook — cubes cook fast). Remove and repeat.",
    "Once veggies are roasted (they'll carry some liquid from baking), add them to the pan and fry 2-3 min to reduce the liquid and add browning.",
    "Add the cooked chicken back to the pan. Pour in the sauce, cook ~1 min stirring until it thickens to a syrupy consistency that coats everything. Taste and adjust salt.",
