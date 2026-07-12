@@ -31,8 +31,10 @@ grocery_day: "2026-07-10"
 
 exceptions:
   # Dining out one dinner this week (both) - restaurant, exact night TBD.
-  # Drops Will M4 + Elena M4 need by 1 each; Steak & Salad #46 removed to match
-  # (its 2 servings = the exact -2). Steak stays frozen for a future week.
+  # Drops Will M4 + Elena M4 need by 1 each. Per Will 2026-07-12: NOT cutting
+  # any recipe to match - cook everything as planned, the 2 freed servings
+  # just become leftovers/second helpings. So M4 will show 1-over per person
+  # in coverage (planned 7 vs need 6) - that's intended, not a bug.
   - { date: "2026-07-15", member: Both, slot: M4, reason: "dining out - restaurant dinner (night TBD)" }
 carryover: []
 
@@ -128,10 +130,14 @@ selections:
       - { member: Will, slot: M4, servings: 2 }
       - { member: Elena, slot: M4, servings: 2 }
 
-  # REMOVED 2026-07-12: Steak & Salad #46 cut to cover one dining-out dinner
-  # this week (the -2 servings). Dining-out exception added at top. Steak stays
-  # frozen for a future cycle; arugula + avocado now free (use as a side / in
-  # something else so they don't spoil).
+  - recipe_id: "46"
+    planned_servings: 2
+    notes: |
+      Steak & Arugula Salad with Avocado. Shared M4 dish. Steak defrosted 2
+      days ahead in the fridge, not freezer-staged same-week.
+    slot_assignments:
+      - { member: Will, slot: M4, servings: 1 }
+      - { member: Elena, slot: M4, servings: 1 }
 
 inventory_snapshot: []
 
