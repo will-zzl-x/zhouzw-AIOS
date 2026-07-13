@@ -51,7 +51,7 @@ Reflect back a synthesis. Name the year in one sentence — a title, like a chap
 
 ### Phase 3 — Wheel of Life, Year-over-Year
 
-Same 10 axes as `/quarterly-review` (Mission, Money, Growth, Body, Mind, Heart, Romantic, Family, Friends, Joy), rated 0–10 first-instinct. Then show the **trendline, not the snapshot**: this rating next to each quarterly's ratings from the year.
+Same 10 axes as `/quarterly-review` (Mission, Money, Growth, Body, Mind, Heart, Romantic, Family, Friends, Joy), **rated against `references/wheel-of-life-rubric.md`** — find the band whose markers you meet, pick the number within it by instinct. Never rate on vibes; cross-review comparability depends on the rubric. Then show the **trendline, not the snapshot**: this rating next to each quarterly's ratings from the year.
 
 ```
 Axis      Feb  May  Aug  Nov  Annual  Trend
