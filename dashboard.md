@@ -1,37 +1,36 @@
-# Dashboard — Week of June 21, 2026
-Q2 quests · Work main: deal-ready by Aug 31 (ON TRACK) · Life main: become my own point of origin (AT RISK / prescription open) · Cut Wk 6 of 8
+# Dashboard — Week of July 12, 2026
+Q2 quests · Work main: deal-ready by Aug 31 (**AT RISK — Dan status unverified, reconcile Mon**) · Life main: become my own point of origin (**AT RISK — post-cut review DUE NOW**) · Phase: **Reverse diet Jul 12–29** (cut ended Jul 11, closing weight owed) · NYC trip Jul 30–Aug 5
 
 ## Daily Consistents (every day, do not rotate)
 
 These fire daily until status changes. Brief always emits these alongside the daily-standard.md gates — never rotated by anti-repeat. Gate-clear = surfaces.
 
-- **Phone off the nightstand at bedtime** — charge in kitchen / living room, alarm clock for wake-up. Newport's single highest-leverage rule. (`references/newport.md`)
-- **Step target 12,500/day, no exceptions** — last week's source data unaudited; treat as live gate. Grocery/cook days need a deliberate evening walk to clear floor.
-- **Zone 2 cardio: scenario C** — Sunday 60–90 min keystone via **stationary bike + phone (temptation-bundled show)** + **1 weekday 20-min Z2** (Tue or Thu, off-leg days, post-lift fasted AM). Walk / bike / row / incline (no running). NEW modality 6/14 — still untested on Sunday (W24 missed during SoCal travel). FIRE THIS SUNDAY 6/28. (`references/schofield.md` L130)
-- **Desire-polarity rep today** — **PRESCRIPTION DELIBERATELY DEFERRED to post-cut review Jul 12+.** The May rotation list doesn't pull Will; forcing new activities is the performance frame this quest exists to dissolve. **NEW READ from W25 reflection: dance lesson outperformed architected dinner for desire-polarity rep.** Salsa II re-weighted as a quest move, not a side hobby. Hold daily Mindset cues + anti-goals from `goals/desire-polarity.md` (no dread, no scoring, no reaction-watching, no dynamic-talk with Elena).
-- **Sunday paste habit** (Sundays only) — 5-min weight + sessions + steps to journals/daily-log.md.
-- **Friend cadence: one real touchpoint every ~2 weeks** (keep rhythm)
+- **Phone off the nightstand at bedtime** — charge in kitchen / living room, alarm clock for wake-up. (`references/newport.md`)
+- **Step target 12,500/day, no exceptions** — source data still unaudited; treat as live gate.
+- **Zone 2 keystone: Sunday 60–90 min stationary bike + phone** + 1 weekday 20-min Z2 (Tue or Thu, post-lift fasted AM). The bike + phone modality (set 6/14) has **never confirmed-fired** — first clean shot is **Sun 7/19**. (`references/schofield.md` L130)
+- **Reverse-diet gates (Jul 12–29):** weigh-in anchor Mon 7/13, then calories per post-cut review — cut-era 1,820/refeed rules are RETIRED. Protein ≥150g in Cronometer holds.
+- **Desire-polarity rep today** — the "post-cut Jul 12+" deferral is OVER: rotation gets picked at this week's post-cut review, with dance/Salsa II weighted up per the W25 finding. Until picked, hold daily Mindset cues + anti-goals from `goals/desire-polarity.md` (no dread, no scoring, no reaction-watching, no dynamic-talk with Elena). **Re-entry week after Banff distance: don't over-pursue the reconnect.**
+- **Sunday paste habit** (Sundays only) — 5-min weight + sessions + steps to journals/daily-log.md. **Broken 5 straight weeks; restart today/Monday.**
+- **Friend cadence: one real touchpoint every ~2 weeks** — Banff (Jul 2–8) = big green; next due ~wk of 7/20.
 
 ### Reference-only (already structurally handled — do NOT surface as Todoist tasks)
-- **Lifting canary (3-lift model, 6/14 status: 🟢🟢⚠️):** Larsen top set ≥155×5 @9 + back-offs ≥5 reps + neutral pull-up not below 3,3,1. Any 2 yellow OR 1 sustained red → drop to scenario B. Watch weekly via workout log.
-- **YouTube Shorts:** structurally killed via app Settings → Time management → Shorts feed 0 min.
-- **Phone during deep work blocks:** already habituated.
+- **Lifting canary:** STALE (last read 6/19: 🟢⚠️🟢). First post-cut Larsen session = new baseline read, not a verdict.
+- **YouTube Shorts:** structurally killed. Tier-3 escalation check happens at the post-cut review.
+- **Phone during deep work blocks:** habituated.
 - **Pregnancy thread:** CLOSED.
-- **No intimacy talk at night** (preserved as a hard rule, but not a daily surfaced task).
-
-Cut-phase fitness gates (training / protein 150g+ / cals ~1,820 / steps) → see `context/daily-standard.md`.
+- **No intimacy talk at night** (hard rule, not a surfaced task).
 
 ## Major Moves This Week
 
 Top of `backlog.md`. Brief picks 1-2 strategic per day from this rotation pool. Full ranked list in `backlog.md`.
 
-1. **TEXT DAN TO LOCK DAY/TIME for this week's in-person meeting** (work-main #1, LOAD-BEARING) — pivoted to in-person 6/18; Elena signed off on her own Frame B numbers. The 5-point verbal spine prep is the actual work; the text-to-lock is a 2-min admin move that's been in inbox for 4 days. **SEND TODAY MONDAY 6/22.** Within 24h of the conversation: follow-up email with `context/dan-pipeline-brief.md` + `sourcing/leads-dan-shortlist.md`.
-2. **Promo doc — SELF-DEADLINE Fri Jun 26** (Will tightened from Jun 27-28 weekend in W25 reflection). Lift IFSA_CHILD + GL_MW write-ups in (L5 systems-thinking evidence). Likely real ship: Thu evening + Fri morning polish.
-3. **DOE Redirect Automation — STALE 30d, ★STRONG promo deliverable** — eligibility-vs-4-gate decision at next Matt 1:1 (Matt back this week from paternity 6/15-20), then ship by Jun 30 Felix commit.
-4. **Re-auth Liftosaur MCP** — token expired; W25 reflection had no live fitness data. Three reflections running on stale numbers. AIOS-infra unblock this week.
-5. **Style sprint Sun Jun 28 audit block** — calendar already locked 10:30am-12pm. Avatar exercise = pre-work done (locked 6/17). Run the 3-pile cull rubric; PM buys per cycle plan (~$680-1080 OAS linen pieces + black loafers + Cuts SS tee).
-6. **Pre-Cana — confirm next session date** with St. Andrew (Elena lead).
-7. **Sedona cabin booking — Stargazer cluster click-through** by early July per deadline 7/20 (inbox shortlist 6/15).
-8. **Banff trip logistics** — PHX→YYC flight (this week, fares climbing), Moraine Lake shuttle (urgent, sells out).
-9. **Hotel block premium-tier chase** — re-RFP The Remi / Hotel Valley Ho. No longer urgent (19 rooms secured); fill on bandwidth.
-10. **Solo deal pipeline + ZoG sector-pick** — parallel hedge to Dan track, post sector-pick. Demoted per 6/14 pivot.
+1. **MONDAY RECONCILIATION CAPTURE (10 min), then the Dan action it unlocks** (work-main #1, LOAD-BEARING) — answer three questions into the inbox: Dan conversation happened or not · promo doc shipped or slipped · cut-end weight (step on the scale). Then same day: text Dan if unsent, or send the follow-up packet (`context/dan-pipeline-brief.md` + `sourcing/leads-dan-shortlist.md`) if the meeting happened. 7 weeks to Aug 31.
+2. **Post-cut review** (life-main + fitness) — set reverse-diet calories off Monday's weigh-in; pick the solo-space rotation (dance/Salsa II weighted up); decide Thu Muay Thai ramp; Tier-3 screen-time check.
+3. **Sedona cabin booking — DEADLINE 7/20 (this week)** — Stargazer cluster click-through; then restaurants + stargazing tour + dog sitter mid/late July.
+4. **AIOS pipeline repair** — daily-log archiver (dead since 6/26), Friday synthesis cron (dead since W24), Liftosaur re-auth + auto-pull build (gate open now).
+5. **Promo doc / DOE reconcile + AZNG evidence port** — pending Monday's answers: ship-or-slip both, and lift the W26 AZNG-cap escalation (3P-vs-1P-cap root-cause, Matt bridge doctrine) into the promo doc before it goes cold like IFSA_CHILD almost did.
+6. **Site-Closures Retrofit taker-list** (Paul Kaye / LTL) + rDC PO-flip daily standup — new work-side deliverables; tactical detail owned by work-laptop Claude.
+7. **Style sprint reschedule** — confirm 6/28 audit outcome; rebook slipped Jul-5 add-ons (Aer pack, aviators, tailor drop-off).
+8. **Pre-Cana — confirm next session date** with St. Andrew (Elena lead; open since W24 — it's a phone call).
+9. **Banff retro capture** — one paragraph on what the trip surfaced about the friendship gap (`context/relationships.md` revisit owed).
+10. **Wedding chain watch** — Elena-dependent website→save-the-date chain starts ramping in ~4–6 weeks; expect first artifacts by early August or flag slippage.

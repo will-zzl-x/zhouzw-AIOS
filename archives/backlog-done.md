@@ -2,6 +2,15 @@
 
 Rows moved here from `backlog.md` at Sunday reflections. Newest batch on top.
 
+## Archived 2026-07-12
+
+| id | Title | Area | Quest | Notes | Completed |
+|---|---|---|---|---|---|
+| dan-fill-numbers | Fill the 3 load-bearing numbers in Frame B before sending | Money | work-main | (a) Elena's $50K + timing locked, signed off 6/18; (b) hours/week = full-time-early → taper Year 1, signed off 6/18; (c) Dan CPA-licensure framed as open call question. Send-channel question retired — `dan-reachout` pivoted to in-person 6/18. | 2026-06-18 (archived 7/12) |
+| meal-grocery-fix | meal-planning grocery.py: read cycle.inventory_snapshot + fuzzy/unit match | AIOS-Infra | not-quest | Shipped 6/14 PM weekly-run-confident commit (+ `run_week.py` orchestrator, inventory_add/remove, balance_check). Validated across 2026-06-20 + 2026-06-27 (Banff-split) cycles incl. zero-qty coverage fix. | 2026-06-14 (archived 7/12) |
+| meal-defrost-fix | meal-planning defrost.py: skip fresh-buy cycles | AIOS-Infra | not-quest | Same weekly-run-confident commit; validated over subsequent cycles. | 2026-06-14 (archived 7/12) |
+| brief-description-fix | Morning-brief: propagate Daily Consistent / gate descriptions into Todoist | AIOS-Infra | not-quest | Shipped 2026-06-15 (brief_generator.py Rule 10, todoist_client description passthrough, archiver-safe `sm:<id>` format, unit-tested). Live on 7am GitHub Action. | 2026-06-15 (archived 7/12) |
+
 ## Archived 2026-06-14
 
 | id | Title | Area | Quest | Notes | Completed |
