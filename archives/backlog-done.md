@@ -2,6 +2,12 @@
 
 Rows moved here from `backlog.md` at Sunday reflections. Newest batch on top.
 
+## Archived 2026-07-12
+
+| id | Title | Area | Quest | Notes | Completed |
+|---|---|---|---|---|---|
+| banff-moraine-shuttle | Banff — book Moraine Lake + Lake Louise shuttles + park pass | Travel | side | CLOSED — trip executed Jul 2–12 (Will P1 Jul 2–8, incl. Moraine sunrise all-nighter Jul 7→8). Row moot post-trip. | 2026-07-08 |
+
 ## Archived 2026-06-28
 
 | id | Title | Area | Quest | Notes | Completed |

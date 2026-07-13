@@ -87,4 +87,4 @@ The fitness logging pipeline is split into the part that needs Will's input and 
 | `ANTHROPIC_API_KEY` | Claude API call in morning function |
 | `TODOIST_API_KEY` | Todoist REST API |
 | `GITHUB_TOKEN` | Read AIOS files + commit to daily-log.md (fine-grained, contents:write on this repo) |
-| `AIOS_BRANCH` | Optional — defaults to `claude/build-coding-skills-K5mpd` |
+| `AIOS_BRANCH` | Optional — defaults to `master` (see `aios_reader.py`). **Reflection/synthesis updates must land on this branch or the brief never sees them.** |

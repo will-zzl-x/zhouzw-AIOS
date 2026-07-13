@@ -73,6 +73,10 @@ Most stalling happens at System, not Goal. The goal is clear, the plan exists, b
 
 ---
 
+## Annual Layer (LifeOS top floor) — adopted into the AIOS 2026-07-12
+
+Above quarterly quests, LifeOS runs a **life compass + yearly layer**: an annual review that celebrates/learns the year, re-checks the Wheel of Life as a trend, refreshes the vision, and sets **yearly themes** that the four quarterly quest selections draw from. Themes are directional (no win condition); quests stay quarterly. This was the missing layer in the AIOS until 7/12 — implemented as `.claude/skills/annual-review/skill.md`, anchored to the 2nd Sunday of December. Stack decision + expert survey: `decisions/2026-07-12-planning-cadence.md`. Source: [aliabdaal.com/lifeos](https://aliabdaal.com/lifeos).
+
 ## Quarterly Rhythm
 
 - **Week 1:** Set quests, define win conditions, map milestones

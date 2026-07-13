@@ -14,6 +14,7 @@ Do not rush this. It's the most leveraged hour Will spends all quarter.
 - `state.md` — current life model
 - `context/` — all context files
 - `archives/` — last quarterly review + last weekly reflection
+- `archives/YYYY-annual-review.md` (latest, if present) — **yearly themes steer this quarter's quest selection**; flag any proposed main quest that serves no theme
 - `goals/` — active GPS docs
 - `journals/inbox.md` — any pre-session captures
 - `references/integrated-coach.md` — coaching lens
