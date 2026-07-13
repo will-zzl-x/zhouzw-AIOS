@@ -356,3 +356,10 @@ Format: ✓ = done, □ = planned/pending
 □ Run 1–2 listings through deal-eval framework
 □ Text Dan to lock in-person day/time
 □ Book Sedona cabin, restaurants, dog sitter
+
+**2026-07-12 (Sun)** — Reverse diet Jul 12–29
+□ Walk 12,500 steps today
+□ Zone 2 cardio: 60–90 min stationary bike
+□ Run 1–2 listings through deal-eval framework
+□ Text Dan to lock in-person day/time
+□ Book Sedona cabin, restaurants, dog sitter
