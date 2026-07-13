@@ -10,7 +10,7 @@ Updated each time a phase changes or a quarterly review runs.
 | Quest | Major Moves |
 |-------|-------------|
 | **Business acquisition (Work/Income)** | Learn-phase reps: Saturday deliberate deal-eval (1–2 listings → three-question test → `/deal-eval` → log the gaps); one broker / known-buyer contact; build SBA + SDE literacy. Buying is **not** a learn-phase activity. See `goals/acquisition.md`. |
-| NYC Cut — execute clean through Jul 11 (Fitness) | 150g protein daily; training 3x/week; 12,500 steps/day (raised from 10k 6/7 — primary cut lever); ~1,820 cal (BMR floor) in deficit phase; track in **Cronometer** |
+| Reverse diet Jul 12–29, then NYC maintenance Jul 30–Aug 5 (Fitness) | Protein-first ~150g (muscle-retention floor, Schofield); training 3x/week; 12,500 steps/day; calories step up +150–200/wk **by feel — NO Cronometer** (tracking deliberately dropped after cut Wk1). **Daily morning weigh-in is the only instrument.** Cut closed at ~177.9 lb Wk7 avg; judge the Banff bounce Fri Jul 17. |
 | Desire-polarity / differentiation (Relationship) | **Solo-pursuit keystone (cut phase): Sunday morning Zone 2 indoor incline treadmill, 60–90 min, 1×/wk.** BJJ + Thursday Muay Thai resume post-cut (Jul 12+) as the embodied/skill axis. Keep gravity (cut, friendships, own interests) visible not narrated. Weekly 3-question check in the reflection. See `goals/desire-polarity.md`. |
 
 **Career/Amazon — maintenance, not a tracked quest.** Ship the promo doc + manager-align, then maintain. **SCM II behavior-logging is retired** — measure promotion by real deliverables (promo doc shipped, escalation scraper finished), not weekly behavior counts. Leaving Amazon late 2027; acquisition is the actual exit vehicle.
@@ -19,7 +19,7 @@ Updated each time a phase changes or a quarterly review runs.
 
 ## Phase Definitions
 
-**CURRENT PHASE: NYC Cut (May 17 – Jul 11)** — use the "NYC Cut — Work Days / Weekends" gates below. The Vacation and Maintenance blocks are past; kept only as templates for future phases.
+**CURRENT PHASE: Reverse Diet (Jul 12 – Jul 29)** — use the "Reverse Diet — Work Days / Weekends" gates below. The Vacation, Maintenance, and NYC Cut blocks are past; kept only as templates for future phases.
 
 ### Vacation / Travel (e.g., Destin May 7–11)
 Amazon work: off-limits.
@@ -47,7 +47,25 @@ Done when:
 2. **Nutrition** — Protein ≥ 150g
 3. **Side/Relationship** — Meaningful time on acquisition (reading, research) OR intentional time with Elena
 
-### NYC Cut — Work Days (May 17 – Jul 11)
+### Reverse Diet — Work Days (Jul 12 – Jul 29) — CURRENT
+Done when:
+1. **Career** — Advance/ship the promo doc (hard line Fri Jul 17), or maintain Amazon. Acquisition reps optional on weekdays.
+2. **Training** — Ravage session (if training day) — minimum 3x/week. New block underway (Wk2).
+3. **Nutrition** — Protein-first, ~150g (retention floor). Calories stepping up +150–200/wk **by feel — do NOT log Cronometer** (tracking deliberately dropped). No calorie task in the brief; the nutrition gate is "protein-first, eat a bit more than last week."
+4. **Steps** — ≥ 12,500
+
+Scale rule (reverse): the daily morning weigh-in is the instrument (surfaced as a Daily Consistent, not duplicated here). Hold the 7-day avg ≤ ~180–181; if it climbs 2 weeks running, pause the calorie add. Hard floor 168 lb irrelevant this phase.
+
+### Reverse Diet — Weekends (Jul 12 – Jul 29) — CURRENT
+Done when:
+1. **Training** — Ravage session OR active recovery (long walk ≥ 12.5k steps)
+2. **Nutrition** — Protein-first ~150g; calories by feel, no logging
+3. **Steps** — ≥ 12,500
+4. **Acquisition (Saturday keystone)** — the deliberate deal-eval rep (1–2 listings through the framework)
+
+---
+
+### NYC Cut — Work Days (May 17 – Jul 11) — PAST (template)
 Done when:
 1. **Career** — Advance the promo doc, or maintain Amazon. No behavior-logging. Acquisition reps optional on weekdays.
 2. **Training** — Ravage session (if training day) — minimum 3x/week
@@ -56,7 +74,7 @@ Done when:
 
 Scale rule: 7-day rolling avg hits ≤176 lb → add one refeed day/week (maintenance cals, fat ≤40g, carbs 350g+). Don't react to single weigh-ins.
 
-### NYC Cut — Weekends (May 17 – Jul 11)
+### NYC Cut — Weekends (May 17 – Jul 11) — PAST (template)
 Done when:
 1. **Training** — Ravage session OR active recovery (yoga, long walk ≥ 12.5k steps)
 2. **Nutrition** — Protein ≥ 150g AND calories ~1,820 (track in Cronometer)
