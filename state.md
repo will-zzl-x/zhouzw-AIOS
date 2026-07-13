@@ -66,7 +66,7 @@ Phase: **Reverse diet Jul 12–29** → NYC loose maintenance Jul 30–Aug 5. Ne
 - **Tier 3 review NOW IN-WINDOW (post-cut):** check screen-time — if YouTube shifted to long-form binge, escalate.
 
 ## AIOS / Meta
-- **Planning cadence stack ratified 7/12** (`decisions/2026-07-12-planning-cadence.md`): Abdaal LifeOS — 3-yr sketch / yearly themes / quarterly quests / weekly / daily. **NEW `/annual-review` skill, anchored 2nd Sunday of December (first: Dec 13, 2026).** Monthly layer explicitly rejected. **Pipe bug fixed:** reflections must merge to `master` same-session or the 7am Todoist brief never sees them (reader defaults to `master`).
+- **Planning cadence stack ratified 7/12** (`decisions/2026-07-12-planning-cadence.md`): Abdaal LifeOS — 3-yr sketch / yearly themes / quarterly quests / weekly / daily. **NEW `/annual-review` skill, anchored first Sunday of January (first: Jan 3, 2027 — Abdaal's annual-planning window).** Monthly layer explicitly rejected. **Pipe bug fixed:** reflections must merge to `master` same-session or the 7am Todoist brief never sees them (reader defaults to `master`).
 - **First CSV-direct reflection cycle completed 7/12** — Liftosaur export ingested, canary read produced, weight sheet backfilled. Pipeline pattern proven.
 - Meal-planning: Banff-split cycle complete; new reverse-diet cycle needed this week.
 - Style sprint: Jul 5 add-on buys (Aer Travel Pack 3, Ray-Ban aviators, tailor drop-off) NOT confirmed — reschedule this week or fold into NYC.
