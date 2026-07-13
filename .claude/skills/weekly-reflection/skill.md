@@ -25,6 +25,8 @@ Run a complete weekly synthesis: surface what happened, what shifted, and what m
 - `archives/YYYY-MM-DD-reflection.md` — new reflection file
 - `state.md` — updated live model
 - `dashboard.md` — fresh weekly dashboard
+- `backlog.md` — regenerated (done rows archived, inbox absorbed, re-ranked)
+- `context/daily-standard.md` — **ONLY when the week included a phase transition** (see Phase 4 step 2)
 - `journals/inbox.md` — cleared after synthesis
 
 ## Steps
@@ -101,6 +103,7 @@ Based on Will's answers + the context files, identify:
 2. Update `state.md`:
    - Update each section with current reality
    - Note date updated
+   - **Phase-transition check (load-bearing):** if the week included a phase change (cut → reverse diet → maintenance, travel mode, new program block, quarterly quest change), ALSO update `context/daily-standard.md` — flip `CURRENT PHASE`, relabel the old block `PAST (template)`, and write the new phase's Done-when gates. **The morning brief reads its mandatory daily tasks (calories, protein, tracking method, steps) from `daily-standard.md`, NOT from state.md/dashboard.md** — updating only the narrative files leaves Todoist emitting stale targets (root cause of the 7/12 stale-macros bug, PR #5).
 
 3. Regenerate `dashboard.md`: Daily Consistents section + Major Moves This Week section pulling top of newly-regenerated backlog.md (rows where status != done AND eligibility filter passes today).
 
@@ -128,3 +131,4 @@ Based on Will's answers + the context files, identify:
 - Dashboard movers must be specific and startable, not vague.
 - If state.md hasn't been updated since last reflection, note the drift explicitly.
 - Don't fabricate coach observations — only surface what genuinely fits.
+- **Land it on master before ending the session** — the morning brief reads `master` (see `decisions/2026-07-12-planning-cadence.md`). Commit on the working branch, then PR-merge to master. A reflection that only lives on a `claude/*` branch never reaches Todoist.
