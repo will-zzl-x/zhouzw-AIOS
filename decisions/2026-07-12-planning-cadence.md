@@ -9,12 +9,12 @@ Expert survey run 7/12 (sources below). All four converge on the same architectu
 | Altitude | Ritual | Cadence | Owner |
 |---|---|---|---|
 | 3-year vision | 3-Year Sketch (re-run fresh) | Annually, inside annual review | `/annual-review` |
-| **Yearly themes** | **Annual Review — NEW** | **2nd Sunday of December** (first: Dec 13, 2026) | `/annual-review` |
+| **Yearly themes** | **Annual Review — NEW** | **First Sunday of January** (first: Jan 3, 2027) | `/annual-review` |
 | Quarterly quests | RAP quarterly review | ~Feb / May / Aug / Nov | `/quarterly-review` |
 | Weekly | Synthesis (Fri) + Reflection (Sun) | Weekly | `/weekly-synthesis`, `/weekly-reflection` |
 | Daily | Morning brief → Todoist → evening archive | Daily 7am/9pm AZ | `cloud/morning-brief/` |
 
-- **System chosen: Ali Abdaal LifeOS** (life compass → yearly themes → quarterly quests → weekly/daily) — the framework the quarterly review, quest vocabulary, and backlog quest-tags were already built on. The annual review is its previously-missing top layer. Anchor: standalone date (Will's pick), 2nd Sunday of December — clear of holidays, between the Nov and Feb quarterlies.
+- **System chosen: Ali Abdaal LifeOS** (life compass → yearly themes → quarterly quests → weekly/daily) — the framework the quarterly review, quest vocabulary, and backlog quest-tags were already built on. The annual review is its previously-missing top layer. Anchor (amended same-day, Will's call): **first Sunday of January** — matching Abdaal's own Annual Planning Workshop window (he runs it ~Jan 6, per [his workshop invites](https://twitter.com/AliAbdaal/status/1740775178576216490)), the system-native timing. An initial 2nd-Sunday-of-December proposal was superseded within the same session.
 - **Monthly layer: REJECTED** for the general system. GTD makes weekly the only hard cadence below annual; Newport's multi-scale planning runs quarterly/weekly/daily with no monthly; this repo's own history shows even the weekly cadence slips under load (no reflection ran Jul 5). More layers fragment the same Sunday attention; they don't multiply it. Exception unchanged: `/relationship-os` keeps its domain-specific monthly check-in.
 - **Hard rule inherited:** themes are annual and directional; quests are quarterly with win conditions; the annual never sets quests.
 
