@@ -363,3 +363,7 @@ Format: ✓ = done, □ = planned/pending
 □ Run 1–2 listings through deal-eval framework
 □ Text Dan to lock in-person day/time
 □ Book Sedona cabin, restaurants, dog sitter
+
+**2026-07-13 (Mon)** — Reverse diet Jul 12–29
+□ Ship promo doc — final review complete
+□ Lock day/time with Dan this week
