@@ -1,4 +1,12 @@
-# State — Last updated July 12, 2026
+# State — Last updated July 12, 2026 (late night — annual review bootstrap)
+
+## Yearly Themes (set 7/12 annual bootstrap, `archives/2026-annual-review.md`; refresh Jan 3, 2027)
+1. **Externalize every trigger** — no weekly behavior survives on willpower (targets the four wheel-4s: Mission, Growth, Mind, Family)
+2. **Proof over consumption** — reps and paper: 12+ evals, one sub-$300k LOI, promo shipped
+3. **Let it land** — therapist intake this month; wins registered before "next" eats them
+
+**Buffer routing rule:** monthly surplus → therapist → deal-flow costs → sweep to acquisition fund.
+**Wheel 7/12 (first rubric-rated, new baseline):** Money 8 · Body 7 · Friends 7 · Romantic 7 · Heart 5 · Joy 5 · Mission 4 · Growth 4 · Mind 4 · Family 4 — avg 5.5. Rubric: `references/wheel-of-life-rubric.md`.
 
 ## Quests (Q2 — set in the May 25 quarterly review; full doc `archives/2026-Q2-quarterly-review.md`)
 - **Work main:** Exit Codie's 3-mo acquisition Learn phase deal-ready by Aug 31 (12+ framework reps, 2+ broker contacts, LOI template). `goals/acquisition.md`. **MOVING AGAIN** — Will made verbal contact with Dan (~Banff week) about continuing the conversation soon. Next action: **lock day/time this week.** Promo doc no longer gates Dan — both run in parallel now.
@@ -54,6 +62,9 @@ Phase: **Reverse diet Jul 12–29** → NYC loose maintenance Jul 30–Aug 5. Ne
 - **NYC Jul 30 – Aug 5** — Paramount Hotel 4 nights + Hell's Kitchen + ESM dance festival. Reverse diet lands at loose maintenance on schedule.
 
 ## Money / Acquisition
+- **PATH REVISED 7/12 (annual review):** first deal SMALL — $150–300k, mostly cash + seller note, minimal SBA — closed while both W-2s exist, Elena operating (her exit = out of her current civil-eng role type, not out of income). $500k–$1M box becomes deal #2 (2028+, on deal #1's track record). Will steps fully into a business only when cash flow is provably there — **W-2 exit gated on CF, never the calendar.** Debt aversion honored by design (Apr 2025 cold-feet moment treated as data). `goals/acquisition.md` re-scope owed at the Aug quarterly.
+- **Promo = exit asset:** no Amazon presence in candidate cities for Will's function → no transfer; the L5 title's value is the non-Amazon senior-ops market post-move. Promo by end of 2026, set.
+- **Location criteria (7/12):** sunny, moderate, no AZ extremes/dryness, not gray-rainy. Dallas leads (0% tax, ~2h to PHX, ops market); Chicago demoted (gray winters); Southeast opened (Raleigh/Charlotte/Nashville — Elena water-sector optionality). Scouting weekends 2027.
 - $70k earmarked, not deployed. $2k/mo recurring allocations.
 - **Dan track PRIMARY — MOVING AGAIN.** Verbal contact made (~Banff week): continue conversation soon. **Next action: lock day/time this week.** Frame B numbers LOCKED 6/18. Prep for the sit-down = 5-point verbal spine (honest reset / what changed / Dan's role / what's locked / 4-part ask). Within 24h after: follow-up email with `context/dan-pipeline-brief.md` + `sourcing/leads-dan-shortlist.md`.
 - **Track 2 (Solo):** 620 ranked leads, correctly paused. Sector-pick demoted.

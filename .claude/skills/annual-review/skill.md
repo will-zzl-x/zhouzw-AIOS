@@ -51,7 +51,7 @@ Reflect back a synthesis. Name the year in one sentence — a title, like a chap
 
 ### Phase 3 — Wheel of Life, Year-over-Year
 
-Same 10 axes as `/quarterly-review` (Mission, Money, Growth, Body, Mind, Heart, Romantic, Family, Friends, Joy), rated 0–10 first-instinct. Then show the **trendline, not the snapshot**: this rating next to each quarterly's ratings from the year.
+Same 10 axes as `/quarterly-review` (Mission, Money, Growth, Body, Mind, Heart, Romantic, Family, Friends, Joy), **rated against `references/wheel-of-life-rubric.md`** — find the band whose markers you meet, pick the number within it by instinct. Never rate on vibes; cross-review comparability depends on the rubric. Then show the **trendline, not the snapshot**: this rating next to each quarterly's ratings from the year.
 
 ```
 Axis      Feb  May  Aug  Nov  Annual  Trend
@@ -81,6 +81,8 @@ Rules for a valid theme:
 
 Optionally attach one 12-month milestone per theme — a "by next annual review" marker, verifiable, not a plan.
 
+**Money alignment (same phase, after themes lock):** set a **buffer routing rule** — a standing answer for where monthly discretionary surplus goes, derived from the themes (e.g., "excess buffer routes to [theme-serving spend] first, then [second], anything past $X sweeps to the acquisition fund"). Structural allocations (401k/Roth/acquisition/wedding autos in `context/financial-state.md`) are NOT touched here — this rule only governs the leftover. The point: a monthly surplus should never require a fresh decision; it should already know where it's going.
+
 ### Phase 6 — Write Outputs
 
 **1. Write `archives/YYYY-annual-review.md`:**
@@ -107,6 +109,8 @@ System: Abdaal LifeOS annual layer (references/abdaal.md)
 1. [Theme] — lifts [axis]. 12-mo marker: [optional]
 2. [Theme] — lifts [axis]. 12-mo marker: [optional]
 3. [Theme] — lifts [axis]. 12-mo marker: [optional]
+
+**Buffer routing rule:** [where monthly discretionary surplus goes, in priority order, derived from the themes]
 
 ## Note to February's Quarterly Review
 [2–3 sentences: what the Q1 quest selection should remember from tonight]

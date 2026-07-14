@@ -70,3 +70,5 @@ Cut reached a low of 177.4 lb (6/19) and Wk7 (6/28) averaged 177.9 — essential
 **Canary at close (Jul 11, first post-Banff session):** Larsen 145×6 @9 (e1RM ~−9% vs 6/19 — inside the expected 5–10% push slide + travel), pulls STRONG (Narrow Pulldown 112.5×13 @9.5) = lean-mass anti-goal held. Pull-up → machine pulldown swap live. Full read: `journals/workout-log.md`.
 
 **Next phase (LIVE):** reverse diet Jul 12–29 (+150–200 cal/wk, daily weigh-ins mandatory), then NYC loose maintenance Jul 30–Aug 5. Cut retro belongs to the Aug quarterly review.
+
+**Next-cut rule (set 7/12, Will's call):** set the target pace assuming ~200–300 cal/day of uncounted leakage (this cut's actual pace ran ~1.1 lb/wk against a plan that assumed ~1.4–1.7), **but never set target intake below BMR** — the floor must stay safe in case adherence is perfect.

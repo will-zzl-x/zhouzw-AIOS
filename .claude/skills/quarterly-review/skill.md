@@ -46,7 +46,7 @@ Read all files above. Note: what's changed since last quarter? What goals are ac
 
 **2A — Wheel of Life**
 
-Present Will with 9 categories and ask him to rate each 0–10, plus a 10th for Joy:
+Present Will with 9 categories and ask him to rate each 0–10, plus a 10th for Joy — **rated against `references/wheel-of-life-rubric.md`** (find the band whose markers you meet; pick the number within the band by instinct):
 
 ```
 Work area:
