@@ -177,7 +177,26 @@ This is a known constraint — not a dealbreaker, but must be resolved in deal s
 
 ---
 
-## Deal Box *(active — Scenario B Codie-honest, May 31, 2026)*
+## Deal #1 Risk-Sizing Principles *(2026-07-12 annual review — SUPERSEDES the Scenario B box below for the FIRST deal; Scenario B becomes deal #2's box)*
+
+Will's call 7/12: **the first deal is sized by risk-tolerance principles, not by income-replacement math.** Deal #1's job is to prove the muscle, cover its own debt, and throw off real cash — NOT to replace two salaries. Income replacement stays gated on deal #2 / scale.
+
+**The principles (derived from `context/financial-state.md`):**
+1. **Only the S&ME fund is deal capital.** House fund ($98k), retirement, both emergency funds, Elena's earmarked $44k, wedding savings: untouchable, always.
+2. **Reserve floor:** ≥$20k stays in the fund post-close.
+3. **Total-loss test (the freeze test):** if the business goes to zero, the loss is fund capital only, rebuilt by the standing $2k/mo autos in ≤24 months (~$48k). → **Max cash into deal #1: ~$50k now, growing with the fund** (+ Dan's $50k if he's in at this scale).
+4. **Debt:** seller note preferred, target ≥50% of price; SBA minimal or none on deal #1 (the personal guarantee at $500k+ scale is what froze the 2025 search — respect it, don't fight it). **DSCR ≥2.0×** — the business's own SDE covers debt service twice over.
+5. **Price box: $150–300k** at ≤3× SDE → **SDE ~$60–120k/yr**, recurring revenue ≥70%, margin ≥30%.
+6. **Anywhere-operable by Dec 2027 — hard filter** (remote/digital, or manager-run; the move breaks anything owner-present).
+7. **Say the sentence before every LOI:** "If this goes to zero we lose ≤$[cash-in]k of fund money and rebuild it in ~2 years of autos, touching nothing else." If that sentence doesn't freeze you, the size is right.
+
+**Hard-filter overrides for deal #1:** filters #7 ($1.0M ceiling) and #4 (physical presence) stand; **filters #9 ($286k SDE floor) and the $953k revenue floor apply ONLY to the deal-#2 / Scenario B box** — for deal #1 the floors are SDE ≥$60k, revenue ≥$200k at 30%+ margin, and filter #10 becomes: *the business affords a part-time manager (~$25–30k) by month 12*.
+
+**Dan fit at this scale:** a $150–300k bookkeeping book of business fits the Dan thesis AND these principles AND the anywhere-operable filter. The 5-point spine's point 4 gets rewritten around this box before the sit-down (~Fri Jul 24 — confirm date).
+
+---
+
+## Deal Box *(Scenario B Codie-honest, May 31, 2026 — now DEAL #2's box per the 7/12 re-scope above)*
 
 **Sequencing decision (May 31, 2026):** Elena scales W-2 back to ~20 hr/week **at close** (trigger #3). Will and Elena run Year 1 as semi-absentee operators. **12-month manager-hire trigger** moves the business to truly-absentee in Year 2. Underwriting bakes in market-rate operator salary even though Elena is unpaid Year 1 — so the manager hire is structurally affordable, not a future cash-flow shock.
 

@@ -48,9 +48,10 @@ Last updated: June 1, 2026
 ### Capital
 
 - Available: $70k (Will's S&ME fund) + $2k/mo contributions; keep ≥$20k reserve post-close
-- Financing: SBA 7(a) ~10.5% / 10-yr + seller carry preferred. Standby seller note unlocks the $700k–$1.0M stretch range.
-- Effective down payment: **$50k**
-- Target acquisition price: **$500k–$700k clean / $700k–$1.0M stretch / $1.0M hard ceiling**
+- **TWO-TIER (7/12 annual review): Deal #1 = $150–300k risk-sized** (max ~$50k cash in, seller note ≥50%, SBA minimal/none, DSCR ≥2.0×, SDE ≥$60k, anywhere-operable by Dec 2027 — full principles in `context/acquisition.md` "Deal #1 Risk-Sizing"). **Deal #2 (2028+, on deal #1's track record) = the Scenario B box below.**
+- Financing (deal #2): SBA 7(a) ~10.5% / 10-yr + seller carry preferred. Standby seller note unlocks the $700k–$1.0M stretch range.
+- Effective down payment (deal #2): **$50k**
+- Target price: **deal #1 $150–300k · deal #2 $500k–$700k clean / $1.0M hard ceiling**
 
 ### Return Targets
 
