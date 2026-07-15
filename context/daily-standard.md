@@ -71,10 +71,13 @@ Done when:
 
 ## Differentiation Cues (morning brief rotates one in a few mornings/week)
 
-From `goals/desire-polarity.md`. Each cue is a frame-keeper (the aphorism) paired with a concrete behavior for the day — the morning brief copies the whole line verbatim into Todoist so it reads as an action, not a riddle:
+From `goals/desire-polarity.md`. Each cue is a frame-keeper (the aphorism) paired with a concrete behavior for the day — the morning brief copies the whole line verbatim into Todoist so it reads as an action, not a riddle.
+
+**Cycle-phase eligibility** (cross-referenced by Rule 8 in `cloud/morning-brief/brief_generator.py` against `context/relationships.md`'s cycle tracker — Will's behavior calibration only, never surfaced to Elena): the full rotation below is eligible during Follicular, Ovulatory, and Mid-Luteal. During **Late-Luteal or Menstrual**, skip the cue marked *(skip: Late-Luteal/Menstrual)* — going quiet/unpredictable during her most sensitive window reads as withdrawal, not gravity — and prefer the cue marked *(prefer: Late-Luteal/Menstrual)* below. This isn't a deviation from the framework: holding your own center under someone else's friction is the same differentiation skill, applied to the harder case.
 
 - The lever is you, not her — build yourself, let desire follow. Pick one self-investment move today (training, acquisition work, friend reach-out) and execute it without telling Elena about it.
-- Take small space without explaining it. Find one small window today to do your own thing — a walk, a podcast, an errand alone. No "I'm going to do X" preamble; just do it and come back.
+- Take small space without explaining it. Find one small window today to do your own thing — a walk, a podcast, an errand alone. No "I'm going to do X" preamble; just do it and come back. *(skip: Late-Luteal/Menstrual)*
+- Holding your center isn't caving, and it isn't distance either — steadiness is its own gravity. If friction shows up today, respond with the same calm you'd bring on any other day; don't escalate, don't over-explain, don't withdraw. Offer comfort without narrating why you're offering it. *(prefer: Late-Luteal/Menstrual)*
 - Don't grade or score — out loud or in your head. When you catch yourself rating an interaction with Elena today (good/bad/regressing/improving), cut the thought mid-sentence and redirect to the next concrete thing in front of you.
 - Don't over-pursue when you feel the gap; redirect into your own thing. The next time you feel the pull to text-check / seek reassurance from Elena, route that energy into a workout, a work problem, or a friend instead.
 - Desire needs distance; love needs closeness — a marriage holds both. Today, lean fully into one moment of closeness AND one moment of separateness — don't try to compromise them into one balanced middle.

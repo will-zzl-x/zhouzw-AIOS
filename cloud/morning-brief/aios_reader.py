@@ -14,6 +14,7 @@ FILES = {
     "dashboard": "dashboard.md",
     "daily_log": "journals/daily-log.md",
     "backlog": "backlog.md",
+    "relationships": "context/relationships.md",
 }
 
 

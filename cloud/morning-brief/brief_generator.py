@@ -8,6 +8,7 @@ from zoneinfo import ZoneInfo
 from anthropic import Anthropic
 
 from backlog import filter_eligible, parse_backlog
+from cycle import cycle_phase_today
 
 # Switched 2026-06-22 from claude-sonnet-4-6 to claude-haiku-4-5 — saves
 # ~3x on input + 3x on output tokens (~$1.50/mo). Morning brief is rule-
@@ -54,6 +55,8 @@ Rules:
 7. TASK SHAPE — Each task EXCEPT the differentiation cue below: 5–10 words, action verb first, measurable when possible. Give recurring movers a fresh, specific next-step phrasing each time.
 
 8. DIFFERENTIATION CUE (~2–3× per week, NOT every day) — On those mornings, append ONE cue as the FINAL item. For this item ONLY: copy a single bullet VERBATIM from daily-standard.md's "Differentiation Cues" or "Sufficiency cues" list — do not shorten, abbreviate, reword, or strip it to keywords (the 5–10-word and verb-first rules do NOT apply here; the full sentence carries the meaning). Prefix it with "Mindset — ". Set area "relationships", priority 4, sm_id null. Omit entirely on other days — never emit a bare keyword.
+
+   **Cycle-phase eligibility (if a "# Elena's cycle phase today" section is present in the user message):** cross-reference daily-standard.md's "Cycle-phase eligibility" note before picking. During Late-Luteal or Menstrual phase, only pick from cues NOT marked "skip during Late-Luteal/Menstrual" — prefer the phase-specific steadiness cue if it hasn't run in the last 2 days (check daily-log.md). During Follicular/Ovulatory/Mid-Luteal, the full rotation is eligible as normal. Never mention the cycle phase itself in the task title or description — the cue text is copied verbatim exactly as Rule 8 already specifies; the phase only narrows which bullet gets picked.
 
 9. OUTPUT — JSON array only. No prose before or after. No markdown fences. **Do not draft, comment, then re-output**: emit one final JSON array and stop. Emit ALL required gates from Rule 1 + ALL eligible Daily Consistents from Rule 2 + 1–2 Major Moves from Rule 3 + the optional Differentiation Cue from Rule 8 if applicable. Total count varies with how many Daily Consistents are eligible today — typically 8–14 tasks.
 
@@ -125,9 +128,20 @@ def generate_brief(aios_context: dict[str, str]) -> list[dict]:
         aios_context.get("backlog", ""), today.date()
     )
 
+    cycle_section = ""
+    phase_result = cycle_phase_today(aios_context.get("relationships", ""), today.date())
+    if phase_result is not None:
+        phase, cycle_day = phase_result
+        cycle_section = (
+            f"\n# Elena's cycle phase today (for Rule 8 cue selection only "
+            f"— never reference this in any task title/description)\n"
+            f"{phase} (cycle day {cycle_day})\n"
+        )
+
     user_msg = f"""Today: {today.strftime("%A, %B %d, %Y")}
 
 {strategic_moves_section}
+{cycle_section}
 
 # priorities.md
 {aios_context["priorities"]}

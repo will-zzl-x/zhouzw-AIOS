@@ -14,6 +14,16 @@
 
 ---
 
+## Elena's Cycle (Will's own behavior-calibration only — never shown to Elena, never used to grade her)
+
+Purpose: lets the morning brief pick a Differentiation Cue (`context/daily-standard.md`) that fits the week — steadiness cues during her most sensitive window, full rotation otherwise. This is about *Will's* conduct (hold the center, absorb don't escalate), never about tracking or managing Elena.
+
+- **Last period start:** 2026-06-21 *(seeded estimate 2026-07-15 from "today = late-luteal day 1" — confirm/correct via `/relationship-os log cycle <date>` on the next actual period start)*
+- **Typical cycle length:** 28 days *(default — adjust once 2-3 cycles are logged)*
+- **Phase boundaries (approx, adjust to her real pattern):** Menstrual d1-5 · Follicular d6-13 · Ovulatory d14-16 · Mid-Luteal d17-24 · Late-Luteal d25-28
+
+---
+
 ## Will's Working Framework (May 2026)
 
 Healthy desire requires wanting. Wanting requires distance. Access-driven activity is not the same quality as connection-driven activity. The principles below are for Will's internal use — not a system to apply to Elena, not something to discuss with her, not something to grade afterward.

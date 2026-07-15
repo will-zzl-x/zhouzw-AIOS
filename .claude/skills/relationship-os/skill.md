@@ -1,14 +1,15 @@
 ---
 name: relationship-os
-description: Relationship OS — monthly relationship reviews, standing social event tracking, and birthday/touch point system. Keeps the relationship side of life from drifting under workload. Triggered by "relationship review", "log a touch point", "birthday", "standing events", or "/relationship-os".
+description: Relationship OS — monthly relationship reviews, standing social event tracking, birthday/touch point system, and Elena's cycle tracker (calibrates the morning brief's Differentiation Cue rotation). Keeps the relationship side of life from drifting under workload. Triggered by "relationship review", "log a touch point", "birthday", "standing events", "log cycle", "period started", or "/relationship-os".
 ---
 
 ## Goal
 
-Three modes:
+Four modes:
 1. **Monthly review** — structured check-in on the state of Will's key relationships.
 2. **Touch point log** — capture a meaningful moment with Elena, family, or a friend.
 3. **Event check** — surface upcoming birthdays, standing events, or relationship movers due this week.
+4. **Cycle log** — update Elena's cycle tracker anchor date (feeds the morning brief's cycle-aware Differentiation Cue selection).
 
 ## Reads
 
@@ -79,6 +80,17 @@ Triggered by: "relationship check", "what's coming up for relationships", "/rela
 
    Due: [anything that's overdue or hasn't happened in too long]
    ```
+
+## Steps — Cycle Log
+
+Triggered by: "log cycle", "period started", "log period start [date]", "/relationship-os log cycle <date>"
+
+1. Read `context/relationships.md`'s "Elena's Cycle" section.
+2. Update `**Last period start:**` to the confirmed date (default to today if no date given). Drop the seeded-estimate parenthetical once a real date is logged.
+3. If Will mentions cycle length varied from the tracked default, update `**Typical cycle length:**` too.
+4. Confirm written: "Cycle anchor updated to [date]. Morning brief's Differentiation Cue rotation will recalculate phase from here."
+
+This is Will's own behavior-calibration input — never framed as tracking Elena for any purpose beyond which of *Will's own* differentiation cues fits the week.
 
 ## Rules
 
