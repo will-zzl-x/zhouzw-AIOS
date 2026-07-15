@@ -367,3 +367,9 @@ Format: ✓ = done, □ = planned/pending
 **2026-07-13 (Mon)** — Reverse diet Jul 12–29
 □ Ship promo doc — final review complete
 □ Lock day/time with Dan this week
+
+**2026-07-14 (Tue)** — Reverse diet Jul 12–29
+□ Walk 12,500 steps today
+□ Zone 2: one weekday 20-min (Tue or Thu)
+□ Ship promo doc — hard line Friday Jul 17
+□ Dan: lock in-person day/time this week
