@@ -2,7 +2,7 @@
 
 ## Yearly Themes (set 7/12 annual bootstrap, `archives/2026-annual-review.md`; refresh Jan 3, 2027)
 1. **Externalize every trigger** — no weekly behavior survives on willpower (targets the four wheel-4s: Mission, Growth, Mind, Family)
-2. **Proof over consumption** — reps and paper: 12+ evals, one sub-$300k LOI, promo shipped
+2. **Proof over consumption** — reps and paper: 12+ evals, one sub-$300k LOI in real diligence by Jan 2027, promo shipped (close happens in 2027 — corrected from "closed by Jan")
 3. **Let it land** — therapist intake this month; wins registered before "next" eats them
 
 **Buffer routing rule:** monthly surplus → therapist → deal-flow costs → sweep to acquisition fund.
@@ -10,7 +10,7 @@
 
 ## Quests (Q2 — set in the May 25 quarterly review; full doc `archives/2026-Q2-quarterly-review.md`)
 - **Work main:** Exit Codie's 3-mo acquisition Learn phase deal-ready by Aug 31 (12+ framework reps, 2+ broker contacts, LOI template). `goals/acquisition.md`. **MOVING AGAIN** — Will made verbal contact with Dan (~Banff week) about continuing the conversation soon. Next action: **lock day/time this week.** Promo doc no longer gates Dan — both run in parallel now. **AMENDED 7/12 (annual review): deal box for deal #1 shrinks to $150–300k, debt-light** — the Learn-phase win conditions (reps/contacts/LOI) stand unchanged; full quest re-scope at the Aug 24 quarterly.
-- **Life main:** Become my own point of origin — self-validation, worth from inside not the scoreboard. Keystone: **Sunday Zone 2 — stationary bike + phone, building to 60–90 min.** **IMPROVING — first keystone rep fired Jul 12 (35 min)** after 4 weeks at zero. **Deferral window ended: solo-space rotation ACTIVATES this week** (silent walk / violin / meditation / style moves — `goals/desire-polarity.md`). Strongest external signal to date: Elena said she's **fallen for Will more** and is enjoying their sex life (Jul 12) — desire-fuel language, unprompted. Observed, not scored.
+- **Life main:** Become my own point of origin — self-validation, worth from inside not the scoreboard. Keystone: **Sunday Zone 2 — stationary bike + phone, building to 60–90 min.** **IMPROVING — first keystone rep fired Jul 12 (35 min)** after 4 weeks at zero. **Deferral window ended: solo-space rotation ACTIVATES this week** (silent walk / violin / meditation / style moves — `goals/desire-polarity.md`). **Win-condition #1 AMENDED 7/12** — the original "Friday BJJ 8+ of 13 weeks" became formally impossible when the keystone was replaced mid-quarter (0 through wk 7); amended to match the real design: **solo-space rep ≥5 days/wk + Sunday Z2, for the remaining ~7 weeks to Aug 31.** Win-condition #2 (differentiation self-check in ≥10 reflections) on pace (~7 of 10). Therapist intake (Jul 31 deadline) strengthens the quest. Strongest external signal to date: Elena said she's **fallen for Will more** and is enjoying their sex life (Jul 12) — desire-fuel language, unprompted. Observed, not scored.
 - **Side:** ship promo doc (**THIRD SLIP — new hard line Fri Jul 17**) · reverse diet Jul 12–29 (cut closed at ~177.9 Wk7 avg) · friend touchpoint every 2 wks (reset by Banff — next due ~Jul 26).
 - **Wheel low axis (the focus):** Joy 4, Heart 5 — winning on paper, not feeling it. Rotation going live is the first direct work on the root.
 
