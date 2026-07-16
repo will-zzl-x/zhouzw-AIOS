@@ -373,3 +373,10 @@ Format: ✓ = done, □ = planned/pending
 □ Zone 2: one weekday 20-min (Tue or Thu)
 □ Ship promo doc — hard line Friday Jul 17
 □ Dan: lock in-person day/time this week
+
+**2026-07-15 (Wed)** — Reverse diet Jul 12–29
+□ Ship promo doc — final review complete
+□ Lock day/time with Dan this week
+□ Ravage training session (Leg day)
+□ Walk 12,500 steps today
+□ Zone 2: one weekday 20-min session
