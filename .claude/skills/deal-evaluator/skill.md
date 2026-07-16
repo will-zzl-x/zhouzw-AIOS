@@ -13,45 +13,43 @@ Run a pasted business listing through Will's acquisition filters. Return: go/no-
 - `references/hormozi.md` — offer/value lens (if available)
 - `references/sanchez.md` — Codie Sanchez framework (if available)
 
-## Deal Box (canonical: `context/acquisition.md`)
+## Deal Box (canonical: `context/acquisition.md`) — TWO-TIER as of 2026-07-12 annual review
 
-**Active sequencing (May 31, 2026):** Scenario B Codie-honest — Elena scales W-2 to ~20 hr/week **at close**, Year 1 operator unpaid; 12-month manager-hire trigger ($55k market rate) moves business to truly-absentee Year 2. Underwriting bakes in operator salary so the manager hire is structurally affordable, not a future cash-flow shock.
+**Deal #1 is the ACTIVE box.** The Scenario B box below it is now DEAL #2's box (2028+, on deal #1's track record). Evaluate current listings against DEAL #1 unless Will explicitly says "score this as a deal #2." Full principles: `context/acquisition.md` "Deal #1 Risk-Sizing Principles."
 
-**Capital:** $70k available; $50k effective down payment; ≥$20k reserve post-close. SBA 7(a) ~10.5% / 10-yr + seller financing preferred; standby seller note unlocks stretch range.
-**Price range:** $500k–$700k clean / $700k–$1.0M stretch (with standby seller note) / **$1.0M hard ceiling**.
-**Pre-debt CF floor:** $213k/yr ($101k Will + $57k Elena + $55k operator).
-**SDE floor:** **$286k at $500k price → $367k at $1.0M** (price-scaled; pre-debt CF + debt service).
-**Revenue floor:** $953k+ (at 30% margin).
-**Margin floor:** 30%+ — pass below.
-**Multiple:** ≤4× SDE hard ceiling; prefer 2–3×.
-**Operator model:** Year 1 — Elena 20 hr/week, Will 5–10 hr/week, no outside manager. Year 2 — $55k manager hired at month 12 trigger after 90-day continuous-CF test; Elena steps out.
-**Location:** Arizona preferred. Remote-manageable by late-2027 mandatory.
-**Timeline:** Close in 2026 (search/LOI window ~Aug 2026). Stable + remote-manageable by late 2027.
+### DEAL #1 — Risk-Sized Box (ACTIVE — evaluate against this)
 
-**Price-bound math (SBA 7(a) @ 10.5% / 10-yr / $50k down):**
+Deal #1's job: prove the muscle, cover its own debt, throw off real cash. NOT replace two salaries (that's gated on deal #2 / scale).
 
-| Deal price | Loan | Debt service | Required SDE | Multiple |
-|---|---|---|---|---|
-| $500k | $450k | $73k | $286k | 1.75× |
-| $600k | $550k | $89k | $302k | 1.99× |
-| $700k | $650k | $105k | $318k | 2.20× |
-| $800k | $750k | $122k | $335k | 2.39× |
-| $1.0M | $950k | $154k | $367k | 2.72× |
+**Capital:** ONLY the S&ME fund is deal capital (house/retirement/emergency/wedding funds untouchable). **Max ~$50k cash in**, ≥$20k reserve stays in the fund.
+**Price box:** **$150k–$300k.**
+**SDE floor:** **≥$60k/yr** (NOT $286k — that's deal #2). At ≤3× that's $60–120k SDE across the price box.
+**Revenue floor:** ≥$200k at 30%+ margin.
+**Multiple:** ≤3× SDE.
+**Debt:** seller note preferred (target ≥50% of price), SBA minimal or none. **DSCR ≥2.0×** — business SDE covers debt service twice over. (The $500k+ personal guarantee is what froze the 2025 search — respect it.)
+**Freeze test (say it before any LOI):** "If this goes to zero we lose ≤$[cash-in]k of fund money, rebuilt in ~2 years of $2k/mo autos, touching nothing else." If that sentence doesn't freeze Will, the size is right.
+**Operator model:** anywhere-operable (remote/digital or manager-run) by Dec 2027 — the late-2027 move breaks anything owner-present. Business affords a part-time manager (~$25–30k) by month 12.
+**Recurring revenue:** ≥70%.
+**Dan fit:** a $150–300k bookkeeping book of business fits this box AND the Dan thesis AND the anywhere-operable filter.
 
-## Hard Filters (Auto-Disqualify)
+### DEAL #2 — Scenario B box (NOT active — for reference / explicit deal-#2 scoring only)
+
+Price $500k–$700k clean / $1.0M hard ceiling; SDE floor $286k@$500k → $367k@$1M; revenue floor $953k+; pre-debt CF $213k; SBA 7(a) ~10.5%/10-yr. Full price-bound math in `context/acquisition.md`.
+
+## Hard Filters (Auto-Disqualify) — DEAL #1 active thresholds
 
 Any of these → immediate NO:
 1. Requires Will or Elena to hold a license (CDL, contractor's, CPA)
-2. Owner sole operator, no staff, full-time — and Elena can't step into the work directly
+2. Owner sole operator, no staff, full-time — and neither Will nor Elena can step into the work directly
 3. Single client >25% revenue concentration
 4. Declining revenue 2+ consecutive years without clear explanation
-5. Acquisition price >4× SDE (hard multiple ceiling)
-6. Acquisition price >$1.0M (hard absolute ceiling regardless of multiple — cash position binds)
+5. Acquisition price >3× SDE (deal #1 multiple ceiling)
+6. Acquisition price >$300k (deal #1 box ceiling — a bigger deal is a deal-#2 conversation, not an auto-eval)
 7. Net margin <30%
-8. SDE below the price-bound floor (look up in price-bound math table; $286k at $500k → $367k at $1M)
-9. Business can't afford a $55k operator by month 12 — fails "buying a job" test
-10. Requires physical presence from Will or Elena >1×/month (post-2027 move killer)
-11. Owner unwilling to discuss any seller financing
+8. **SDE <$60k/yr** (deal #1 floor — NOT $286k; that floor is deal #2 only)
+9. Requires cash-in >~$50k OR SBA debt with DSCR <2.0× (fails the risk-sizing principle)
+10. Not anywhere-operable by Dec 2027 — requires physical presence from Will or Elena >1×/month
+11. Owner unwilling to discuss any seller financing (deal #1 leans heavily on the seller note)
 
 ## Steps
 
@@ -68,12 +66,14 @@ Any of these → immediate NO:
    ```
 5. If no hard filters triggered, run the full evaluation:
 
-   **Price / Return Check:**
-   - Does asking price fit $200k–$500k?
-   - Implied multiple: [price ÷ SDE]
-   - Estimated debt service (SBA 7(a), 10-yr, ~7%): ~[monthly payment]
+   **Price / Return Check (deal #1):**
+   - Does asking price fit $150k–$300k?
+   - Implied multiple: [price ÷ SDE] — ≤3×?
+   - Structure: seller note ≥50%? Cash-in ≤~$50k?
+   - Estimated debt service on the note/loan + DSCR: [SDE ÷ annual debt service] — ≥2.0×?
    - Net cash flow after debt service: ~[amount/year]
-   - Cash-on-cash return on $70k down: ~[%]
+   - Cash-on-cash return on cash-in: ~[%]
+   - Run the freeze test explicitly: state the total-loss number.
 
    **Operator Model Check:**
    - Is semi-absentee realistic for this type of business?

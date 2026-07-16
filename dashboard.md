@@ -26,7 +26,7 @@ Top of `backlog.md`. Brief picks 1-2 strategic per day from this rotation pool.
 1. **SHIP PROMO DOC — Friday Jul 17** (Will committed 7/12: done by end of week).
 2. **Dan sit-down ~Fri Jul 24 (confirm date):** rewrite spine point 4 around the risk-sized deal-#1 box (`context/acquisition.md` "Deal #1 Risk-Sizing") before the meeting.
 3. **Deal evals: 2 this Saturday Jul 18, +1–2 weekday** — walk into the Dan meeting with 3–4 reps on paper. Process: BizBuySell/Acquire.com saved search in the deal-#1 box ($150–300k, bookkeeping/prof-services or ZoG sectors, recurring ≥70%) → three-question test → `/deal-eval` → log to `journals/acquisition-log.md`. First reps ever — small is fine, done is the point.
-4. **Elena — flowers Wednesday Jul 15** (buffer-funded). Ordinary day, no occasion, handed over without commentary — they work because they're unengineered. Desk decision stays hers; confirm it proceeds, zero commentary on necessity.
+4. **Elena — flowers RETIMED to ~week of Jul 28 (closer to ovulation, Will's timing call).** Not this week. Ordinary-day delivery, no occasion, no commentary — unengineered is the point. Desk decision stays hers; confirm it proceeds, zero commentary on necessity.
 5. **Book therapist intake by Jul 31** — theme 3, buffer-funded. ACT / differentiation-oriented; the script is in the backlog row.
 5. **New meal cycle (first at reverse-diet calories)** — Banff-split cycle is done; plan + cook this week.
 6. **Solo-space rotation first rep** — violin or silent walk, unannounced. The Life-main move of the week.
