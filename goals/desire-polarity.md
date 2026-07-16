@@ -78,6 +78,7 @@ The daily 15–30 min unannounced solo block (`dashboard.md` Daily Consistents) 
 |---|---|---|---|
 | **Treadmill walk (no phone / podcast / music — silent)** | Default — most days when nothing else fits | Schnarch self-soothing rep | Indoor only (per Will preference); pairs with the Zone 2 target; the silence is the point — don't fill it |
 | **Violin practice** | 1–2× / wk | Perel interior life + distinctive skill | Cut-compatible (zero recovery cost); compounds across years; an identity vector Elena isn't part of |
+| **Freestyle bachata (1–2 songs)** | Daily micro-rep | Perel interior life + Freedom-to-Play | Expressive play for its own sake, un-graded; full framework `references/dance-practice.md`; doubles as the day's solo-space rep |
 | **Meditation / breathwork** | 1–2× / wk | Schnarch self-soothing (deeper rep) | 10–20 min sufficient; just-be is the muscle being trained |
 | **Style/grooming sprint moves** | While `backlog #16` active (deadline 6/22) | Direct attractiveness lever — adjacent to polarity work | Try a piece, schedule the stylist, pick up tailored item, browse with intent |
 

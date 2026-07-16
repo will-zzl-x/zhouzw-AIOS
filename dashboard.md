@@ -9,7 +9,8 @@ These fire daily until status changes. Brief always emits these alongside the da
 - **Step target 12,500/day, no exceptions** — sources still unaudited; treat as live gate.
 - **Morning weigh-in, every day** — reverse diet runs tracking-free (deliberate), so the scale is the only instrument. 7-day avg steers; judge the Banff bounce Friday Jul 17, not before.
 - **Zone 2: Sunday keystone (bike + phone, build 35 → 60–90 min) + 1 weekday 20-min** (Tue or Thu, off-leg days). **First rep fired Sun 7/12 (35 min)** — streak is alive at 1; protect it.
-- **Solo-space rep: ACTIVE (deferral ended 7/12)** — one 15–30 min unannounced block daily from the rotation: silent treadmill walk / violin / meditation / style-sprint move. Vary activity AND timing. Anti-goals hold: no dread, no scoring, no reaction-watching, no dynamic-talk with Elena. (`goals/desire-polarity.md`)
+- **Solo-space rep: ACTIVE (deferral ended 7/12)** — one 15–30 min unannounced block daily from the rotation: silent treadmill walk / violin / meditation / style-sprint move / **freestyle bachata**. Vary activity AND timing. Anti-goals hold: no dread, no scoring, no reaction-watching, no dynamic-talk with Elena. (`goals/desire-polarity.md`)
+- **Dance micro-rep, daily (1–2 songs):** private-lesson homework first, then the day's rotating pillar — FUNDAMENTALS (isolations/hips/weight transfer) · FOOTWORK (one four-count, both sides, all week, then social-deploy) · MUSIC (counts/breaks/instrument-spotting, rides on car/chores/lifting audio) · FREEDOM TO PLAY (a song or two of freestyle, un-graded). Binary check only — did the rep happen, never grade the dancing. Freestyle bachata doubles as a solo-space rep. (`references/dance-practice.md`)
 - **Sunday paste habit** (Sundays only) — 5-min weight + sessions + steps. (Fired 7/12 ✓ — the weight-sheet paste ran this reflection.)
 - **Friend cadence: reset by Banff** — next real touchpoint due ~Jul 26. Not urgent this week.
 
