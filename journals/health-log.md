@@ -46,3 +46,13 @@ Sleep and diet tracking. Exercise lives in workout-log.md.
 **Read:** Cut got as low as 177.4 lb (6/19) and Wk7 averaged 177.9 — essentially hit the re-baselined 177 lb target. The official cut end-date (7/11) has now passed with the scale sitting at 180.4, ~3 lb above the low point. Banff (travel, restaurant food, likely alcohol/sodium/schedule disruption) is the obvious driver of the rebound — 8 days is too fast and too large a swing to be fat regain, reads as water/glycogen. Per Schofield: don't react to this single week: get 3-4 days of normal-routine weigh-ins post-Banff before judging where the cut actually landed.
 
 **Tracking note (confirmed by Will 7/12):** weeks 2-9 are weight-only **by deliberate decision** — Cronometer/protein/step logging was consciously dropped after Week 1, not drift. Weight-only steering carried the cut. Consequence for the reverse diet (Jul 12–29): with no intake tracking, **daily weigh-ins are the only instrument** — non-negotiable through the reverse.
+
+## 2026-07-13 — Sleep stack protocol + dose-response note
+
+**Current stack (Will's working protocol):** ½ aSquared apigenin/theanine gummy (~25mg apigenin + ~25mg theanine) + magnesium, 30–60 min pre-bed, melatonin-free.
+
+**Dose-response finding (n=1, established through use):** 50mg apigenin (1 full gummy) produces a **paradoxical alerting effect** — Will is MORE awake on it. 25mg (half gummy) works. Known biphasic-response pattern; dose to response, not to the protocol spec. Confound noted: the gummy fuses apigenin+theanine 50/50, so halving cuts both — attribution to apigenin specifically is Will's read, not isolated. Not worth disentangling while the protocol works.
+
+**Restock guidance:** aSquared is the only real apigenin gummy on the market (2026 survey — all other brands at dose are capsules). Magnesium leg: glycinate/threonate combo gummy at ~200mg elemental (half the labeled serving). Optional theanine top-up (MaryRuth's sugar-free, melatonin-free) only if wind-down feels insufficient — do NOT add apigenin past 25mg.
+
+**Open:** sleep still untracked (Mind axis 4) — the stack is an intervention with no outcome measure. Cheapest fix: morning 1–5 subjective sleep-quality score alongside the daily weigh-in, or Apple Watch sleep data if worn overnight.
