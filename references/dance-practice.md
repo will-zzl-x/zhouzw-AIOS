@@ -29,7 +29,24 @@ Listen while driving, laundry, working out — bachata is the default audio. **A
 ## Private-lesson homework
 Whatever the current private assigns is the **priority overlay** on top of the rotation — homework first, then the day's pillar. Capture each lesson's homework via `/mid-week-capture` so it doesn't evaporate before the next session; log it here or in the capture inbox.
 
-**Current homework:** _(none logged yet — add after next private)_
+**Current homework (private ~2026-07-13):** body-rolls + transitions sequence. Overlay these on the daily rep until the next private; most map to FUNDAMENTALS (isolations/body movement).
+
+*Transitions & posture:*
+- **Keep the plank, keep your line on the transition** — turn *in place*, not a weird directional turn.
+- **No slouch on the transition** (recurring correction) — stay tall through it.
+- Stepping variation: **5, 6 → L, and L — the second L stops.** Step toward partner.
+- Trace/stop → **transition to shadow.**
+
+*Shadow position:*
+- Step up, **rock forward on the right.** Posture check: **nose over the back foot, back foot behind you.** (Don't forget this one.)
+
+*Body-roll sequence (the core homework):*
+- **Chest roll — TUCK FIRST.** The tuck creates the connection and must happen *before* the roll, not during. Finish the chest roll → into a **hip roll.**
+- **Variation 1:** hip roll → **snake** (go forward, set the frame a little before moving).
+- **Variation 2:** chest roll → **up → concave forward → head roll →** finish with the **frame going forward** (should *feel* like you're traveling forward).
+- Goal: chain all of it into one smooth pass (chest → hip → snake / concave → head), not four separate moves.
+
+*This week's FOOTWORK focus:* the **5,6 L-L (second L stops)** step — both sides, all week, then sprinkle into socials.
 
 ---
 
