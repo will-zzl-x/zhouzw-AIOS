@@ -5,7 +5,7 @@ Q2 quests · Work main: deal-ready by Aug 31 (MOVING — Dan verbal made, lock d
 
 These fire daily until status changes. Brief always emits these alongside the daily-standard.md gates — never rotated by anti-repeat. Gate-clear = surfaces.
 
-- **Phone off the nightstand at bedtime** — charge in kitchen / living room, alarm clock for wake-up. (`references/newport.md`)
+- **Phone check-off (MORNING, retrospective — reworded 7/12 per Will):** the Todoist task fires each morning as *"Did the phone charge outside the bedroom last night?"* — check it off if yes, leave it if no. The behavior happens at bedtime; the verification happens the next morning. Relapse was live as of 7/12 (phone back next to bed) — streak restarts tonight. (`references/newport.md`)
 - **Step target 12,500/day, no exceptions** — sources still unaudited; treat as live gate.
 - **Morning weigh-in, every day** — reverse diet runs tracking-free (deliberate), so the scale is the only instrument. 7-day avg steers; judge the Banff bounce Friday Jul 17, not before.
 - **Zone 2: Sunday keystone (bike + phone, build 35 → 60–90 min) + 1 weekday 20-min** (Tue or Thu, off-leg days). **First rep fired Sun 7/12 (35 min)** — streak is alive at 1; protect it.
@@ -23,11 +23,11 @@ These fire daily until status changes. Brief always emits these alongside the da
 
 Top of `backlog.md`. Brief picks 1-2 strategic per day from this rotation pool.
 
-1. **SHIP PROMO DOC — hard line Friday Jul 17.** Third deadline. It gates nothing but itself now — no sequencing, no review-pass framing, just out the door.
-2. **Dan: convert verbal → locked day/time.** The opener is done; a calendar block this week keeps Aug 31 alive. Then: 5-point spine prep before the sit-down.
-3. **Sedona booking — deadline Jul 20 (8 days):** cabin + Cucina Rustica + stargazing tour + dog sitter. #1 relationship logistics move.
-4. **Elena — flowers this week** (Will's call, buffer-funded) **+ desk decision stays hers:** flowers are an addition, not a substitute — the desk was the want; confirm with Elena whether it proceeds before closing this. Zero further commentary on necessity either way.
-4b. **Book therapist intake by Jul 31** — theme 3, buffer-funded. ACT / differentiation-oriented; the script is in the backlog row.
+1. **SHIP PROMO DOC — Friday Jul 17** (Will committed 7/12: done by end of week).
+2. **Dan sit-down ~Fri Jul 24 (confirm date):** rewrite spine point 4 around the risk-sized deal-#1 box (`context/acquisition.md` "Deal #1 Risk-Sizing") before the meeting.
+3. **Deal evals: 2 this Saturday Jul 18, +1–2 weekday** — walk into the Dan meeting with 3–4 reps on paper. Process: BizBuySell/Acquire.com saved search in the deal-#1 box ($150–300k, bookkeeping/prof-services or ZoG sectors, recurring ≥70%) → three-question test → `/deal-eval` → log to `journals/acquisition-log.md`. First reps ever — small is fine, done is the point.
+4. **Elena — flowers Wednesday Jul 15** (buffer-funded). Ordinary day, no occasion, handed over without commentary — they work because they're unengineered. Desk decision stays hers; confirm it proceeds, zero commentary on necessity.
+5. **Book therapist intake by Jul 31** — theme 3, buffer-funded. ACT / differentiation-oriented; the script is in the backlog row.
 5. **New meal cycle (first at reverse-diet calories)** — Banff-split cycle is done; plan + cook this week.
 6. **Solo-space rotation first rep** — violin or silent walk, unannounced. The Life-main move of the week.
 7. **Style sprint carried buys** (Aer Travel Pack 3, aviators, tailor drop-off) — execute or explicitly fold into NYC.
