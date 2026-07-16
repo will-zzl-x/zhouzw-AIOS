@@ -15,8 +15,8 @@ The whole regimen fits in the time it takes to play one or two tracks. Volume is
 ### 1. FUNDAMENTALS — body movement
 Isolations · hip movement · upper-body movement · weight transfers. Go back to the base whenever technique feels flashy-but-hollow. This is the pillar everything else rides on.
 
-### 2. FOOTWORK — depth over flash
-"It doesn't need to be flashy." **Protocol:** pick ONE four-count, drill it **both sides of the body for a full week** at home, *then* sprinkle it into social dancing. One clean pattern, both sides, socially deployed = more than enough. Do not collect patterns; install one at a time.
+### 2. FOOTWORK — lead STYLING footwork (depth over flash)
+Standalone lead styling footwork — the solo footwork you add as your own styling, distinct from footwork embedded in a partner-work technique (that lives with the partner/transition homework). "It doesn't need to be flashy." **Protocol:** pick ONE four-count styling pattern, drill it **both sides of the body for a full week** at home, *then* sprinkle it into social dancing. One clean pattern, both sides, socially deployed = more than enough. Do not collect patterns; install one at a time.
 
 ### 3. MUSIC — passive + active listening
 Listen while driving, laundry, working out — bachata is the default audio. **Active drills inside the passive time:** find the counts mid-song · spot the breaks · pick out one specific instrument and track it. This pillar costs zero dedicated time; it rides on time already spent.
@@ -46,7 +46,7 @@ Whatever the current private assigns is the **priority overlay** on top of the r
 - **Variation 2:** chest roll → **up → concave forward → head roll →** finish with the **frame going forward** (should *feel* like you're traveling forward).
 - Goal: chain all of it into one smooth pass (chest → hip → snake / concave → head), not four separate moves.
 
-*This week's FOOTWORK focus:* the **5,6 L-L (second L stops)** step — both sides, all week, then sprinkle into socials.
+*Note on the 5,6 L-L step:* it's **footwork embedded in the partner-work transition technique — NOT lead styling footwork.** It lives with the transitions homework above, not in the FOOTWORK pillar. This private assigned no standalone styling-footwork; the FOOTWORK pillar runs its own independent single-four-count styling drill (Will's pick) this week.
 
 ---
 
