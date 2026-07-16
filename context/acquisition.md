@@ -194,6 +194,14 @@ Will's call 7/12: **the first deal is sized by risk-tolerance principles, not by
 
 **Dan fit at this scale:** a $150–300k bookkeeping book of business fits the Dan thesis AND these principles AND the anywhere-operable filter. The 5-point spine's point 4 gets rewritten around this box before the sit-down (~Fri Jul 24 — confirm date).
 
+**Off-market starting sectors for deal #1 (set 7/13 — Tier-1 first-time-buyer, Dan-bridgeable; REVISIT after Dan meeting):**
+Codie Tier 1 = simple, boring, recurring, first-time-buyer-appropriate. The intersection of *Tier 1 + could-become-Dan-partnership + $150–300k* is **small back-office / financial-services books of business:**
+1. **Small bookkeeping books of business** (non-CPA services — dodges AZ 51%-CPA rule) — THE Dan bridge; recurring, remote-operable, abundant at $150–300k. Primary.
+2. **Payroll processing (small)** — recurring, back-office, remote.
+3. **Tax-prep** — Dan-adjacent but seasonal (flag; recurring-revenue floor harder to hit) — secondary only.
+
+**Use what exists:** `sourcing/leads-ranked-dan.md` already holds 505 ranked bookkeeping/accounting leads. For deal #1, **filter that list to the smaller/owner-operated end** (lower review counts, no-website solos = cheaper, more likely in the $150–300k range) rather than re-scraping. The scrape *configs* still target the old $500k–$1M box — leave them; re-point post-Dan (the sit-down may reshape sector focus anyway). This is the "update for now" pass; full sourcing rework is gated on the Dan meeting.
+
 ---
 
 ## Deal Box *(Scenario B Codie-honest, May 31, 2026 — now DEAL #2's box per the 7/12 re-scope above)*
