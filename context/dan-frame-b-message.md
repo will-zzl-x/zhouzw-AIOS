@@ -2,6 +2,8 @@
 
 **SEND-READY 2026-06-15.** Main message below is clean — no brackets, all numbers filled ($50K/$50K, Elena full-time-early→taper, Dan CPA left as a call question). Will sends Wednesday. Two pre-send checks only: (1) Elena sees her own $50K + full-time-early sentence before it goes; (2) pick channel (text teeing up the note, or email). AIOS never sends.
 
+> **⚠️ RE-SCOPE OVERLAY (2026-07-13) — read before the ~Jul 24 sit-down.** Verbal contact already made (Banff week); this doc is now **verbal-spine prep + post-meeting follow-up email basis**, not a message to send. One load-bearing change since it was drafted: **deal #1 is re-sized to $150–300K, seller-note-led (≥50%), DSCR ≥2.0×, ~$50K max cash in** — the *real* answer to the 2025 debt wall is sizing, not just Elena's capital. The $500K–$1M box below becomes **deal #2**, earned on deal #1's track record. A $150–300K bookkeeping book of business keeps the whole thesis intact at the smaller scale AND passes the anywhere-operable-by-Dec-2027 filter. Frame for Dan: "same thesis, smaller first bite by design — the wall never comes back." Full principles: `context/acquisition.md` "Deal #1 Risk-Sizing." Update spine point 4 accordingly; asks (a)–(d) unchanged, plus one new call question: **is Dan in at deal-#1 scale, or does he anchor deal #2?**
+
 This is the **direct reactivation ask to an existing partner** — not cold seller outreach. Do NOT use the Frazier "investor looking for a fit" walls-down script here (that's for strangers in `context/frazier-outreach-script.md`). Dan already knows the thesis; this message names what stalled it, names what's fixed, and asks if he's in. No re-litigating the 2025 analysis.
 
 ---
@@ -23,7 +25,7 @@ This is the **direct reactivation ask to an existing partner** — not cold sell
 >
 > - **Sector's locked** — bookkeeping/accounting, Phoenix metro, 20-mile radius. One sector, one city, no scatter.
 > - **Sourcing pipeline is live and modernized.** I rebuilt the 2025 lead-pull — a Google Maps scrape feeds an automated scoring engine, and it just produced **500+ ranked Phoenix-metro firms** in our exact box. We're not starting from a blank page; there's a real, prioritized contact list sitting here right now.
-> - **Deal box is recalibrated and honest.** $500K–$700K clean / $700K–$1M stretch / $1M hard ceiling, with a $55K operator salary baked into the underwriting from day one — so the manager hire that lets Elena taper is structurally affordable instead of a future cash-flow surprise. Elena operates hard early; the business has to be able to pay for its own management as she steps back, or it failed the test.
+> - **Deal box is recalibrated and honest — two tiers now.** *(REWRITTEN 7/13 per re-scope:)* **Deal #1: $150–300K, seller-note-led, sized so the debt could go to zero without touching anything that matters** — that's the actual fix for what stalled us in 2025. **Deal #2: the $500K–$700K-to-$1M play**, earned on deal #1's track record, with the $55K operator salary baked into the underwriting from day one — so the manager hire that lets Elena taper is structurally affordable instead of a future cash-flow surprise. Elena operates hard early; the business has to pay for its own management as she steps back, or it failed the test.
 >
 > So the wall's gone, the sector's set, and the pipeline's loaded. What I want is 30 minutes to align on four things:
 >
@@ -42,7 +44,7 @@ This is the **direct reactivation ask to an existing partner** — not cold sell
 
 **Shorter / punchier (text or chat):**
 
-> Hey Dan — reviving the accounting-firm idea, but with the thing that killed it last year actually solved this time. The debt-vs-Amazon wall is gone (Elena's in, capital + operating), the sector's locked, and I've got a live pipeline of 500+ Phoenix firms in our box. Got 30 min this week? I want a straight answer on whether you're still in.
+> Hey Dan — reviving the accounting-firm idea, but with the thing that killed it last year actually solved this time. The debt-vs-Amazon wall is gone — Elena's in (capital + operating), and we're starting deliberately smaller ($150–300K first bite, seller-note-led) so the wall can't come back; the big play is deal #2 once the first one proves out. Sector's locked, live pipeline of 500+ Phoenix firms. Got 30 min this week? I want a straight answer on whether you're still in.
 
 **Longer / warmer (if more dormancy distance to bridge):**
 

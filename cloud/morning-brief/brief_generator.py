@@ -64,6 +64,8 @@ Rules:
    - **Differentiation cue (Rule 8):** null — the full sentence already lives in the title.
    Keep descriptions faithful to the source text; do not invent detail that isn't in dashboard.md / daily-standard.md / the backlog notes. A null description is fine when there's genuinely nothing to add.
 
+11. CARRIED-TASK FLAG (theme 1 — externalize every trigger) — The user message may include a "# carried_tasks" section, deterministically computed from daily-log.md: tasks that re-appeared on 5+ of the last 7 logged days. Daily-standard gates and Daily Consistents are EXEMPT — they repeat by design; ignore any carried_tasks entry that is one of those. But if a MAJOR MOVE you are about to emit matches a carried_tasks entry: (a) phrase its title as the smallest concrete next physical step (15 minutes or less), never the standing objective; (b) append to its description: " ⚠️ Carried [N]d — a task that survives this many briefs is too big, wrongly gated, or dead. Do the 15-min version today or explicitly re-gate it." Never silently re-emit a carried Major Move unchanged — re-emission without redesign is how the Dan text ran 15 days.
+
 Output schema:
 [
   {"title": "string (5-10 words)", "area": "career|fitness|relationships|money|wedding", "priority": 1-4, "sm_id": "string | null", "description": "string | null"}
@@ -116,6 +118,63 @@ def build_strategic_moves_section(backlog_text: str, today: date) -> str:
     )
 
 
+def _normalize_task(line: str) -> set[str]:
+    """Task line -> significant-token set for fuzzy matching."""
+    text = re.sub(r"[^a-z0-9 ]", " ", line.lower())
+    stop = {"the", "a", "an", "to", "for", "of", "in", "on", "and", "or",
+            "today", "this", "week", "via", "one", "with", "your", "my"}
+    return {t for t in text.split() if t not in stop and len(t) > 2}
+
+
+def build_carried_tasks_section(daily_log_text: str, window: int = 7, min_days: int = 5) -> str:
+    """Deterministically detect tasks re-appearing >=min_days of the last
+    `window` dated daily-log entries. Zero tokens; the LLM applies Rule 11.
+    Mindset lines are skipped (they rotate by design)."""
+    days = re.split(r"\n\*\*(\d{4}-\d{2}-\d{2})", "\n" + daily_log_text)
+    dated: dict[str, list[str]] = {}
+    for i in range(1, len(days) - 1, 2):
+        date, body = days[i], days[i + 1]
+        tasks = [
+            ln.strip().lstrip("✓□").strip()
+            for ln in body.splitlines()
+            if ln.strip().startswith(("✓", "□"))
+        ]
+        dated[date] = [t for t in tasks if t and not t.lower().startswith("mindset")]
+    recent = sorted(dated)[-window:]
+    if len(recent) < min_days:
+        return ""
+
+    clusters: list[dict] = []  # {"tokens": set, "title": str, "dates": set}
+    for date in recent:
+        for task in dated[date]:
+            toks = _normalize_task(task)
+            if not toks:
+                continue
+            for c in clusters:
+                inter = len(toks & c["tokens"])
+                union = len(toks | c["tokens"])
+                if union and inter / union >= 0.5:
+                    c["dates"].add(date)
+                    c["tokens"] |= toks
+                    break
+            else:
+                clusters.append({"tokens": toks, "title": task, "dates": {date}})
+
+    carried = [
+        {"task": c["title"], "days_seen": len(c["dates"]), "window": len(recent)}
+        for c in clusters
+        if len(c["dates"]) >= min_days
+    ]
+    if not carried:
+        return ""
+    carried.sort(key=lambda c: -c["days_seen"])
+    return (
+        "# carried_tasks (re-appeared on 5+ of the last "
+        f"{len(recent)} logged days — Rule 11 applies; gates/consistents exempt)\n\n"
+        + json.dumps(carried, indent=2, ensure_ascii=False)
+    )
+
+
 def generate_brief(aios_context: dict[str, str]) -> list[dict]:
     """Call Claude API with AIOS context, return parsed task list."""
     client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
@@ -124,10 +183,13 @@ def generate_brief(aios_context: dict[str, str]) -> list[dict]:
     strategic_moves_section = build_strategic_moves_section(
         aios_context.get("backlog", ""), today.date()
     )
+    carried_section = build_carried_tasks_section(aios_context.get("daily_log", ""))
 
     user_msg = f"""Today: {today.strftime("%A, %B %d, %Y")}
 
 {strategic_moves_section}
+
+{carried_section}
 
 # priorities.md
 {aios_context["priorities"]}
