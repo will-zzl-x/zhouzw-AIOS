@@ -22,14 +22,14 @@
   },
   {
     "item": "Soy sauce",
-    "quantity": 25,
+    "quantity": 20.87,
     "unit": "oz",
     "location": "pantry",
     "freshness_date": null
   },
   {
     "item": "Light soy sauce",
-    "quantity": 15,
+    "quantity": 13.5,
     "unit": "oz",
     "location": "pantry",
     "freshness_date": null
@@ -43,21 +43,21 @@
   },
   {
     "item": "Rice vinegar",
-    "quantity": 12,
+    "quantity": 10.51,
     "unit": "oz",
     "location": "pantry",
     "freshness_date": null
   },
   {
     "item": "Toasted sesame oil",
-    "quantity": 8,
+    "quantity": 7.16,
     "unit": "oz",
     "location": "pantry",
     "freshness_date": null
   },
   {
     "item": "Gochujang",
-    "quantity": 16,
+    "quantity": 14.87,
     "unit": "oz",
     "location": "fridge",
     "freshness_date": "2026-09-01"
@@ -78,35 +78,35 @@
   },
   {
     "item": "Sriracha",
-    "quantity": 17,
+    "quantity": 16.29,
     "unit": "oz",
     "location": "pantry",
     "freshness_date": null
   },
   {
     "item": "Cornstarch",
-    "quantity": 16,
+    "quantity": 15.89,
     "unit": "oz",
     "location": "pantry",
     "freshness_date": null
   },
   {
     "item": "Avocado oil",
-    "quantity": 32,
+    "quantity": 31.33,
     "unit": "oz",
     "location": "pantry",
     "freshness_date": null
   },
   {
     "item": "Olive oil",
-    "quantity": 25,
+    "quantity": 23.15,
     "unit": "oz",
     "location": "pantry",
     "freshness_date": null
   },
   {
     "item": "Garlic powder",
-    "quantity": 8,
+    "quantity": 7.83,
     "unit": "oz",
     "location": "pantry",
     "freshness_date": null
@@ -141,14 +141,14 @@
   },
   {
     "item": "Black pepper",
-    "quantity": 6,
+    "quantity": 5.92,
     "unit": "oz",
     "location": "pantry",
     "freshness_date": null
   },
   {
     "item": "Salt",
-    "quantity": 26,
+    "quantity": 25.5,
     "unit": "oz",
     "location": "pantry",
     "freshness_date": null
@@ -169,7 +169,7 @@
   },
   {
     "item": "Eggs",
-    "quantity": 10,
+    "quantity": 0.0,
     "unit": "eggs",
     "location": "fridge",
     "freshness_date": "2026-06-25",
@@ -193,7 +193,7 @@
   },
   {
     "item": "Ground beef (90/10)",
-    "quantity": 8.75,
+    "quantity": 6.22,
     "unit": "lbs",
     "location": "freezer",
     "freshness_date": "2026-07-15",
@@ -263,7 +263,7 @@
   },
   {
     "item": "Red onion",
-    "quantity": 0.5,
+    "quantity": 0.0,
     "unit": "onion",
     "location": "pantry",
     "freshness_date": null,
@@ -322,7 +322,7 @@
   },
   {
     "item": "Steak",
-    "quantity": 2,
+    "quantity": 0.0,
     "unit": "steaks",
     "location": "freezer",
     "freshness_date": null,
@@ -330,7 +330,7 @@
   },
   {
     "item": "Spinach",
-    "quantity": 10,
+    "quantity": 0.0,
     "unit": "oz",
     "location": "fridge",
     "freshness_date": null,
@@ -338,7 +338,7 @@
   },
   {
     "item": "Sesame seeds",
-    "quantity": 4,
+    "quantity": 3.0,
     "unit": "tbsp",
     "location": "pantry",
     "freshness_date": null,
@@ -346,7 +346,7 @@
   },
   {
     "item": "Kirkland lightly breaded chicken breast chunks",
-    "quantity": 1,
+    "quantity": 0.0,
     "unit": "lb",
     "location": "freezer",
     "freshness_date": null,
@@ -354,7 +354,7 @@
   },
   {
     "item": "Premade protein pancakes",
-    "quantity": 3,
+    "quantity": 0.0,
     "unit": "servings",
     "location": "freezer",
     "freshness_date": null,
@@ -362,7 +362,7 @@
   },
   {
     "item": "Chicken bone broth",
-    "quantity": 200,
+    "quantity": 120.0,
     "unit": "g",
     "location": "pantry",
     "freshness_date": null,
@@ -370,7 +370,7 @@
   },
   {
     "item": "Honey",
-    "quantity": 100,
+    "quantity": 63.0,
     "unit": "g",
     "location": "pantry",
     "freshness_date": null,
@@ -378,7 +378,7 @@
   },
   {
     "item": "Grapeseed oil",
-    "quantity": 8,
+    "quantity": 4.0,
     "unit": "tbsp",
     "location": "pantry",
     "freshness_date": null,
@@ -386,7 +386,7 @@
   },
   {
     "item": "Chili flakes",
-    "quantity": 4,
+    "quantity": 2.5,
     "unit": "tsp",
     "location": "pantry",
     "freshness_date": null,
@@ -394,7 +394,7 @@
   },
   {
     "item": "Beef bouillon",
-    "quantity": 4,
+    "quantity": 2.5,
     "unit": "tbsp",
     "location": "pantry",
     "freshness_date": null,
@@ -402,7 +402,7 @@
   },
   {
     "item": "Oregano",
-    "quantity": 3,
+    "quantity": 2.5,
     "unit": "tsp",
     "location": "pantry",
     "freshness_date": null,
@@ -410,7 +410,7 @@
   },
   {
     "item": "PB2 powdered peanut butter",
-    "quantity": 20,
+    "quantity": 6.0,
     "unit": "tbsp",
     "location": "pantry",
     "freshness_date": null,
@@ -426,7 +426,7 @@
   },
   {
     "item": "Arugula",
-    "quantity": 4,
+    "quantity": 0.0,
     "unit": "oz",
     "location": "fridge",
     "freshness_date": null,
@@ -434,7 +434,7 @@
   },
   {
     "item": "Avocado",
-    "quantity": 1,
+    "quantity": 0.0,
     "unit": "avocado",
     "location": "pantry",
     "freshness_date": null,
@@ -442,7 +442,7 @@
   },
   {
     "item": "Chicken breast",
-    "quantity": 5,
+    "quantity": 2.11,
     "unit": "lb",
     "location": "freezer",
     "freshness_date": null,
@@ -450,7 +450,7 @@
   },
   {
     "item": "Rotisserie chicken",
-    "quantity": 1,
+    "quantity": 0.0,
     "unit": "whole",
     "location": "fridge",
     "freshness_date": null,
@@ -458,7 +458,7 @@
   },
   {
     "item": "Vanilla ready-to-drink protein shake",
-    "quantity": 7,
+    "quantity": 0.0,
     "unit": "bottles",
     "location": "fridge",
     "freshness_date": null,
