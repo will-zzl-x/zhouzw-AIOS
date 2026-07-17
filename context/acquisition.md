@@ -194,6 +194,8 @@ Will's call 7/12: **the first deal is sized by risk-tolerance principles, not by
 
 **Dan fit at this scale:** a $150–300k bookkeeping book of business fits the Dan thesis AND these principles AND the anywhere-operable filter. The 5-point spine's point 4 gets rewritten around this box before the sit-down (~Fri Jul 24 — confirm date).
 
+**CLARIFICATION (7/13 — structure-first, size-second):** the $150–300k line is an OUTPUT of the principles under solo capital, not a principle itself. The hard constraints are #1–#4 + #6–#7 above. **If Dan's capital / an outside raise + large standby seller note lets a $400–700k deal pass the same constraints (cash-in, DSCR 2.0×, freeze test, PG exposure), the bigger deal is genuinely safer AND affordable — take it.** Regardless of size, import big-deal safety features as filters: **≥1 non-owner staff member, contractual recurring revenue (not pure owner-relationships), a revenue-protection clause, 60–90-day seller transition.** $1M stays out this round. Full adjudication of the size question: `context/dan-frame-b-message.md` prep block.
+
 **Off-market starting sectors for deal #1 (set 7/13 — Tier-1 first-time-buyer, Dan-bridgeable; REVISIT after Dan meeting):**
 Codie Tier 1 = simple, boring, recurring, first-time-buyer-appropriate. The intersection of *Tier 1 + could-become-Dan-partnership + $150–300k* is **small back-office / financial-services books of business:**
 1. **Small bookkeeping books of business** (non-CPA services — dodges AZ 51%-CPA rule) — THE Dan bridge; recurring, remote-operable, abundant at $150–300k. Primary.
