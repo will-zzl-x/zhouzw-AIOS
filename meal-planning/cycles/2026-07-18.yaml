@@ -1,0 +1,111 @@
+# Cycle Sat 2026-07-18 -> Fri 2026-07-24 — Reverse Diet Step 2 (Will) + Gaintain (Elena)
+# Planned 2026-07-12 via the documented workflow: deplete 2026-07-11 applied first
+# (inventory is true), config bumped to Step 2 (2,150 / 150P / 50F / 275C), skeleton ->
+# coverage gaps -> selections from the PROVEN roster (every dish below was confirmed or
+# cooked by Will in the 7/11 cycle; no fabricated recipes). Meals ~500 cal, remaining
+# carbs/cals from fruit (bananas/grapes/melon) — Step 2 adds +150 cal/day vs Step 1,
+# which lands almost entirely on the fruit budget, not bigger meals.
+#
+# Inventory use-up drivers: ground beef 6.22 lb on hand (Spaghetti 1.2 + Bibimbap 1.33
+# ≈ 2.5 used), chicken breast 2.11 lb on hand (need ~2.9 across #35+#39 — buy ~1 pack).
+#
+# OPEN DECISION (Will): the 4th M4 dish. Drafted #9 Bibimbap (A-tier, real June-cooked
+# recipe, uses the beef stash, ~480 cal est) — swap freely (burgers #23 / taco salad
+# #16 / repeat steak = buy steaks / another video recipe).
+# OPEN: Elena cycle_phase still says mid_luteal from ~7/10 — update if known.
+# OPEN: protein powder is shipping; if not arrived by 7/18, Will M1 leans on RTDs.
+date: "2026-07-18"
+grocery_day: "2026-07-17"
+
+exceptions: []
+carryover: []
+
+selections:
+  - recipe_id: "37"
+    planned_servings: 7
+    notes: "Will M1 shake. Powder shipping — confirm arrival; RTD fallback if not."
+    slot_assignments:
+      - { member: Will, slot: M1, servings: 7 }
+
+  - recipe_id: "38"
+    planned_servings: 7
+    notes: "Elena M1 RTD shake. Stock is 0 — buy 7 bottles."
+    slot_assignments:
+      - { member: Elena, slot: M1, servings: 7 }
+
+  - recipe_id: "36"
+    planned_servings: 6
+    notes: |
+      Egg bake, proven this week at the 10-egg / 2c-white / 20oz-cottage ratio
+      (~265 cal / 30g protein per portion). One 9x13, cut 6, freeze 2. Split
+      4 Will / 2 Elena at M2, same as last cycle.
+    slot_assignments:
+      - { member: Will, slot: M2, servings: 4 }
+      - { member: Elena, slot: M2, servings: 2 }
+
+  - recipe_id: "44"
+    planned_servings: 2
+    notes: "Kirkland chunks (~16 pieces, buy — stock 0) + veg/carb side of choice."
+    slot_assignments:
+      - { member: Will, slot: M2, servings: 2 }
+
+  - recipe_id: "40"
+    planned_servings: 3
+    notes: "Premade protein pancakes (buy — stock 0). Elena M2 x3."
+    slot_assignments:
+      - { member: Elena, slot: M2, servings: 3 }
+
+  - recipe_id: "6"
+    planned_servings: 3
+    notes: "Rotisserie + garlic rice (buy 1 rotisserie). Veggie side: pick fresh at store."
+    slot_assignments:
+      - { member: Will, slot: M3, servings: 3 }
+
+  - recipe_id: "45"
+    planned_servings: 4
+    notes: |
+      Egg Roll Ramen, repeat. If this week's batch slipped to Monday and covers
+      into 7/18+, reduce this and re-run coverage.
+    slot_assignments:
+      - { member: Will, slot: M3, servings: 4 }
+
+  - recipe_id: "35"
+    planned_servings: 4
+    notes: "Chinese chicken, repeat. Chicken: ~1.33 lb of the on-hand + bought pool."
+    slot_assignments:
+      - { member: Will, slot: M4, servings: 2 }
+      - { member: Elena, slot: M4, servings: 2 }
+
+  - recipe_id: "39"
+    planned_servings: 4
+    notes: "Korean chicken, repeat at the settled 4-serving / 25oz-chicken scale."
+    slot_assignments:
+      - { member: Will, slot: M4, servings: 2 }
+      - { member: Elena, slot: M4, servings: 2 }
+
+  - recipe_id: "10"
+    planned_servings: 5
+    notes: |
+      Spaghetti (no-sausage, 12oz pasta, ~460 cal), repeat, lunch-first split
+      that worked this week. Uses 1.2 lb of the on-hand beef.
+    slot_assignments:
+      - { member: Will, slot: M2, servings: 1 }
+      - { member: Elena, slot: M2, servings: 2 }
+      - { member: Will, slot: M4, servings: 1 }
+      - { member: Elena, slot: M4, servings: 1 }
+
+  - recipe_id: "9"
+    planned_servings: 4
+    notes: |
+      DRAFT PICK — Bibimbap at 4 servings (recipe is 6; scale beef to ~1.33 lb
+      of the on-hand stash, 4 eggs, 1 cup dry rice, 2/3 each of the cauli-rice/
+      shredded-carrot/spinach bags). A-tier, real June-cooked recipe, ~480 cal
+      est. WILL TO CONFIRM OR SWAP (burgers / taco salad / steak / other).
+    slot_assignments:
+      - { member: Will, slot: M4, servings: 2 }
+      - { member: Elena, slot: M4, servings: 2 }
+
+inventory_snapshot: []
+
+# Coverage: Will M2 4+2+1=7, M3 3+4=7, M4 2+2+1+2=7; Elena M2 2+3+2=7, M4 2+2+1+2=7.
+# Fruit (not a tracked meal): bananas + grapes + melon — the Step 2 carb/cal filler.
