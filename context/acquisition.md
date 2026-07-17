@@ -198,9 +198,14 @@ Will's call 7/12: **the first deal is sized by risk-tolerance principles, not by
 
 **Off-market starting sectors for deal #1 (set 7/13 — Tier-1 first-time-buyer, Dan-bridgeable; REVISIT after Dan meeting):**
 Codie Tier 1 = simple, boring, recurring, first-time-buyer-appropriate. The intersection of *Tier 1 + could-become-Dan-partnership + $150–300k* is **small back-office / financial-services books of business:**
-1. **Small bookkeeping books of business** (non-CPA services — dodges AZ 51%-CPA rule) — THE Dan bridge; recurring, remote-operable, abundant at $150–300k. Primary.
-2. **Payroll processing (small)** — recurring, back-office, remote.
-3. **Tax-prep** — Dan-adjacent but seasonal (flag; recurring-revenue floor harder to hit) — secondary only.
+**AI-positioning rule (7/13):** favor finance sectors where revenue = a compliance/contractual obligation (someone MUST insure, file, process, remit) and AI attacks the COST side; avoid where AI attacks the REVENUE itself.
+
+1. **P&C insurance books of business / small independent agencies** — best structural fit in finance: renewal commissions = contractual recurring revenue, retiring-agent supply (7 Ds), seller financing industry-standard, remote-operable, AI = pure cost-lever. **Needs a producer license (~2-wk course + exam, Will or Elena) — flag: hard filter #1's intent was CDL/contractor/CPA-class licenses, not exam licenses; amend.** Medicare/health books = same logic + demographic tailwind.
+2. **Small bookkeeping books** (non-CPA — dodges AZ 51%-CPA rule) — the Dan bridge; AI blast-radius caveat known and PRICED IN (the fear discount IS the thesis — buy as the disruptor); filter for contractual niche-vertical books, not hourly generalists.
+3. **Payroll bureaus (small/niche-vertical)** — monthly recurring, penalty-fear stickiness, compliance moat, AI = cost-lever.
+4. **HOA financial management** — dues/reserves/statements; leverages the existing 114 ranked HOA leads; Elena program-management bullseye.
+5. **Medical billing (small)** — recurring + HIPAA moat, but same AI-revenue caveat as bookkeeping — secondary.
+6. **Tax-prep** — seasonal + IRS direct-file pressure — deprioritized.
 
 **Use what exists:** `sourcing/leads-ranked-dan.md` already holds 505 ranked bookkeeping/accounting leads. For deal #1, **filter that list to the smaller/owner-operated end** (lower review counts, no-website solos = cheaper, more likely in the $150–300k range) rather than re-scraping. The scrape *configs* still target the old $500k–$1M box — leave them; re-point post-Dan (the sit-down may reshape sector focus anyway). This is the "update for now" pass; full sourcing rework is gated on the Dan meeting.
 
