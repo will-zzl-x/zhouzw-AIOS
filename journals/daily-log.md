@@ -380,3 +380,9 @@ Format: ✓ = done, □ = planned/pending
 □ Ravage training session (Leg day)
 □ Walk 12,500 steps today
 □ Zone 2: one weekday 20-min session
+
+**2026-07-16 (Thu)** — Reverse diet Jul 12–29
+□ Train Session 5: legs — new block
+□ Walk 12,500 steps
+□ Dan sit-down: lock Fri Jul 24 date
+□ Ship promo doc — hard line Friday
