@@ -19,7 +19,7 @@ Updated each time a phase changes or a quarterly review runs.
 
 ## Phase Definitions
 
-**CURRENT PHASE: NYC Cut (May 17 – Jul 11) through Sat Jul 11 — then Reverse Diet Step 1 (Jul 12–18).** Use "NYC Cut — Work Days / Weekends" gates through Jul 11; use "Reverse Diet — Step 1 (Jul 12–18)" gates below starting Jul 12. Step 2 (~Jul 19–25) and Step 3 (~Jul 26–29) will need their own gate updates when those weeks arrive (see `goals/nyc-cut.md` for the full stepped plan). The Vacation and Maintenance blocks are past; kept only as templates for future phases.
+**CURRENT PHASE: Reverse Diet — Step 1 (Jul 12–18), then Step 2 (Jul 19–25).** Use the "Reverse Diet — Step 1" gates below through Sat Jul 18, then the "Reverse Diet — Step 2" gates from Sun Jul 19 (both defined below; Step 3, ~Jul 26–29 at ~2,300, still needs its gates when that week arrives — see `goals/nyc-cut.md`). The NYC Cut, Vacation, and Maintenance blocks are past; kept only as templates.
 
 ### Vacation / Travel (e.g., Destin May 7–11)
 Amazon work: off-limits.
@@ -75,6 +75,15 @@ Done when:
 4. **Steps** — ≥ 12,500 (unchanged — steps target isn't phase-gated, see `dashboard.md` Daily Consistents).
 
 Feedback rule: if the 7-day rolling weight avg jumps faster than ~0.5–1 lb/week this week, hold at 2,000 cal a few extra days before Step 2's ~2,150 rather than stepping up on the calendar date regardless.
+
+### Reverse Diet — Step 2 (Jul 19–25)
+Done when:
+1. **Career** — Advance the promo doc, or maintain Amazon. No behavior-logging.
+2. **Training** — Ravage session (if training day) — minimum 3x/week. BJJ + Thursday Muay Thai continue.
+3. **Nutrition** — Protein ≥ 150g AND calories ~2,150 (~150g protein / ~50g fat / ~275g carbs — see `goals/nyc-cut.md`). Meals ~500 cal each, remaining carbs/cals from fruit (bananas/grapes/melon), not bigger meals. Track in Cronometer; restaurant-meal rule unchanged (one indulgence, protein-forward, weekly trend governs).
+4. **Steps** — ≥ 12,500 (unchanged).
+
+Watch closely this step: 2,150 sits right AT the empirically-derived real TDEE — weight should roughly flatten. Still dropping → Step 3 (~2,300, Jul 26–29) can pull forward. Jumping >~1 lb/week → hold at 2,150 longer before Step 3.
 
 ---
 

@@ -11,18 +11,20 @@ household:
 members:
   - id: Will
     on_cut: false          # cut ended Jul 11 2026 — now in reverse diet (see goals/nyc-cut.md)
-    phase: reverse_diet_step1   # Jul 12-18: step 1 of 3. Step 2 (~Jul 19-25) and Step 3 (~Jul 26-29) bump these numbers — update here when the phase rolls.
+    phase: reverse_diet_step2   # Jul 19-25: step 2 of 3 (updated 2026-07-12 while planning the 7/18 cycle, which is 6/7 days Step 2; Sat 7/18 is Step 1's last day at 2,000 — not worth split targets). Step 3 (~Jul 26-29, ~2,300) rolls next.
     macro_targets:
-      calories: 2000
+      calories: 2150
       protein_g: 150
       fat_g: 50
-      carbs_g: 238
+      carbs_g: 275
       note: >
-        Derived from empirical TDEE (~2,150-2,250 at ~180lb, see state.md), not a
-        textbook formula. Protein/fat held flat across all 3 reverse-diet steps;
-        carbs are the flex lever. Modular-recipe Will-fork portions (rice/starch)
-        need to scale UP from their cut-era defaults to hit this — see
-        modular_assembly below.
+        Reverse diet Step 2 per goals/nyc-cut.md — 2,150 sits right AT the
+        empirically-derived real TDEE (~2,150-2,250 at ~180lb, see state.md),
+        so weight should roughly flatten this week; if it's still dropping,
+        Step 3 can pull forward, if it jumps >~1 lb/wk hold here longer.
+        Protein/fat flat across all steps; carbs are the flex lever. Meals
+        target ~500 cal each (Will 2026-07-11), remaining carbs/cals filled
+        by fruit (bananas/grapes/melon), not bigger meals.
     slots:
       M1: protein shake          # UPDATED 2026-07-10 — was "lean protein + veg, NO shakes for M1"; Will changed this directly. Grab-and-go, excluded from coverage.py tracking (M1 slots containing "bar"/"shake" are skipped in build_need).
       M2: microwave lunch        # reheatable only
