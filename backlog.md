@@ -73,6 +73,10 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | bridesmaid-dresses-order | 53 | Order bridesmaid dresses | Wedding | side | open | window:2027-03 | — | Target March 2027. Final alterations ~Aug-Sep 2027. |
 | villa-solara-confirm-beds | 54 | Confirm Villa Solara beds filled by guests | Wedding | side | open | deadline:2026-08-31 | — | House already paid/booked — confirm all rooms actually claimed. Ahead of Dec 2026 guest payback deadline. |
 | diy-bouquets-boutonnieres | 55 | DIY bouquets + boutonnieres — assemble | Wedding | side | open | deadline:2027-10-20 | — | Assemble Wed Oct 20, 2027 (2 days before) — Oct 21 is packed with rehearsal/check-in/dinner. Refrigerate overnight, touch up morning of Oct 22. |
+| hmu-informal-headsup | 56 | Hair/makeup — informal heads-up to Elena's friend, pencil in date | Wedding | side | open | deadline:2026-09-30 | — | Low-pressure ask to hold Oct 22, 2027. Protects against peak-season calendar fill. |
+| hmu-formal-confirm | 57 | Hair/makeup — formal confirmation with Elena's friend | Wedding | side | blocked | window:2027-01 | hmu-informal-headsup | ~9-10 months out. |
+| hmu-trial-run | 58 | Hair/makeup — trial run | Wedding | side | blocked | window:2027-07-to-08 | hmu-formal-confirm | ~2-3 months out. |
+| hmu-dayof-timeline | 59 | Hair/makeup — confirm day-of timeline | Wedding | side | blocked | window:2027-09 | hmu-trial-run | ~1 month out, batches with DJ/shot-list Sep check-ins. |
 
 ## Inbox (unranked) — sorted in next reflection
 
