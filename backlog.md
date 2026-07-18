@@ -41,6 +41,8 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 
 | wedding-website-live | 24a | Wedding website live (Elena building) | Wedding | side | open | deadline:2026-10-31 | — | Pushed back from original mid-Aug 2026 target to October 2026. Still ahead of registry + save-the-dates (early Nov 2026) — tight but workable. |
 | wedding-registry | 25 | Set up wedding registry | Wedding | side | open | deadline:2026-10-31 | wedding-website-live | Must be live before save-the-dates ship (early Nov 2026) — registry link goes on the website, not the physical card. |
+| save-the-dates-order | 25a | Design + order save-the-dates | Wedding | side | blocked | window:2026-10-mid | wedding-website-live | QR code needs the live website URL. Order mid-Oct 2026 to allow print/ship turnaround before Nov send. |
+| save-the-dates-send | 25b | Send save-the-dates | Wedding | side | blocked | window:2026-11-early | save-the-dates-order | Target early Nov 2026 (~11.5 months out). |
 | will-suit-order | 26 | Will's suit — order/get measured, State and Liberty custom | Wedding | side | open | deadline:2027-06-30 | — | Target May–June 2027 (4-5 months out, buffers production + alterations). |
 | will-suit-fitting | 27 | Will's suit — final fitting | Wedding | side | blocked | deadline:2027-09-30 | will-suit-order | Target mid-Sep 2027 (4-6 weeks out) — batch with Sep 7 Clayton House Details Meeting trip. |
 | cake-tasting-call | 28a | Call Piece of Cake Desserts to schedule cake tasting | Wedding | side | open | window:2027-04-to-05 | — | Call ahead to lock a June 2027 tasting slot (batch w/ June 24 Planning Meeting trip). |

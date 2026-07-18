@@ -97,7 +97,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 3. **Wedding website** — Elena building it. Must be live by **October 2026** (pushed back from original mid-August target) — still ahead of the registry (Oct 2026) and save-the-dates (early Nov 2026), URL → QR code → save-the-date design → print → send.
 4. **Pre-Cana** — Elena contacted St. Andrew and got the session date locked (as of 2026-07-18). Full requirement breakdown below in **Pre-Cana / St. Andrew Marriage Prep** section.
 5. **Guest list complete** — missing last names/emails for several entries. Needed before save-the-dates.
-6. **Save-the-dates** — send early November 2026 (~11.5 months out, pushed back from original late-Sept/12-months-out plan — Elena's call, 13 months felt too far in advance). QR code to wedding website on card.
+6. **Save-the-dates** — design + order **mid-October 2026** (after website is live, since the QR code needs the URL; allows printing/shipping turnaround). Send **early November 2026** (~11.5 months out, pushed back from original late-Sept/12-months-out plan — Elena's call, 13 months felt too far in advance).
 7. **Elena's dress** — begin shopping by fall 2026. St. Andrew requires covered shoulders, no plunging neckline or back.
 8. **St. Andrew $400 balance** — due November 12, 2026.
 9. **Wedding insurance** — recommended by Wedgewood. Not purchased.
