@@ -96,6 +96,11 @@ def check_cycle(cycle_path):
         return [f"cycle unreadable: {e}"], [], None
     if not cycle.date:
         fails.append("cycle has no date")
+    # Empty-cycle guard (review #3): a cycle with no recipe selections runs clean —
+    # grocery prints "0 to buy", coverage shows no gap — which reads as "all covered"
+    # when it actually means "I forgot to select recipes". Fail fast so `make week` aborts.
+    if not cycle.selections:
+        fails.append("cycle has no recipe selections (nothing to plan — did you forget to select recipes?)")
     recipes = {r.id: r for r in models.load_recipes()}
     for sel in cycle.selections:
         rid = str(sel.get("recipe_id", ""))

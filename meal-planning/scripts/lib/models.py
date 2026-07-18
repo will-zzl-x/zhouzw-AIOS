@@ -170,10 +170,19 @@ def load_inventory(path: Path = INVENTORY_PATH) -> List[InventoryItem]:
 
 def _load_yaml(path: Path) -> Any:
     import yaml
+    import sys as _sys
     if not path.exists():
         return {}
     with open(path, encoding="utf-8") as f:
-        return yaml.safe_load(f) or {}
+        data = yaml.safe_load(f)
+    # A file that EXISTS but parses to None is malformed/truncated — coercing it to {}
+    # silently runs all-defaults (review #4). Warn loudly; still return {} so the caller
+    # doesn't crash, but Will sees the config didn't load.
+    if data is None:
+        print(f"  ⚠ {path.name} exists but loaded as empty (None) — malformed/truncated YAML? "
+              f"running with DEFAULTS for this file.", file=_sys.stderr)
+        return {}
+    return data
 
 
 def load_config(path: Path = CONFIG_PATH) -> Dict[str, Any]:

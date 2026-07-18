@@ -854,15 +854,9 @@
   "ingredients": [
    {
     "name": "Ground beef (90/10)",
-    "amount": "1.2",
+    "amount": "1.5",
     "unit": "lbs",
     "store": "Costco"
-   },
-   {
-    "name": "Ground sausage (cheapest)",
-    "amount": "8",
-    "unit": "oz",
-    "store": "Walmart"
    },
    {
     "name": "Garlic, grated",
@@ -925,9 +919,9 @@
     "store": "Walmart"
    },
    {
-    "name": "Carrots",
+    "name": "Zucchini",
     "amount": "1",
-    "unit": "lb (side)",
+    "unit": "lb (air-fryer roasted side)",
     "store": "Walmart"
    },
    {
@@ -937,18 +931,18 @@
     "store": "Walmart"
    }
   ],
-  "notes": "A-tier. M2 by default, overflow to M4. Reheats well in microwave. Needs large oven-safe pan. 90/10 subbed for 88/12 — slightly leaner.",
+  "notes": "A-tier. M2 by default, overflow to M4. Reheats well in microwave. Needs large oven-safe pan. 90/10 subbed for 88/12 — slightly leaner. MODIFIED 2026-06-27: no sausage — lean 90/10 ground beef only (Will cut). FIXED 2026-07-12: beef-browning step restored (lost in the 6/27 sausage-removal edit).",
   "recipe_available": true,
   "recipe_steps": [
    "Preheat oven to 425°F.",
-   "Toss carrot sticks with 1 Tbsp oil + salt. Air fry at 375°F for 20 minutes, shaking every 5 minutes until browned and soft.",
-   "In a large oven-safe pan over medium-high, sauté grated garlic + diced onion for 1 minute.",
-   "Add ground beef + sausage. Sear 4 minutes, flip and break up until browned throughout.",
+   "Toss zucchini sticks with 1 Tbsp oil + salt. Air fry at 375°F for 20 minutes, shaking every 5 minutes until browned and soft.",
+   "In a large oven-safe pan over medium-high, brown the ground beef, breaking it up, until no pink (~6-8 min; 90/10 needs no draining).",
+   "Add grated garlic + diced onion to the beef; saute ~1 minute until fragrant.",
    "Stir in tomato paste, crushed tomatoes, beef bouillon, water, oregano, chili flakes, salt + pepper. Bring to a simmer.",
    "Stir in broken spaghetti until fully submerged.",
    "Transfer pan to oven. Bake uncovered 16–18 minutes, stirring thoroughly at the 5 and 10 minute marks.",
    "Remove from oven, rest 2 minutes.",
-   "Divide into 6 containers with air fried carrots on the side."
+   "Divide into 6 containers with air fried zucchinis on the side."
   ],
   "on_break": false
  },
@@ -978,12 +972,6 @@
     "name": "Garlic powder",
     "amount": "to taste",
     "unit": "",
-    "store": "Walmart"
-   },
-   {
-    "name": "Porcini powder",
-    "amount": "1/2",
-    "unit": "tsp per steak",
     "store": "Walmart"
    },
    {
@@ -1047,42 +1035,28 @@
     "store": "Walmart"
    },
    {
-    "name": "Carrot tops",
+    "name": "Shallot, minced (pan sauce)",
     "amount": "1",
-    "unit": "cup packed, finely chopped (chimichurri)",
+    "unit": "shallot",
     "store": "Walmart"
    },
    {
-    "name": "Garlic",
-    "amount": "3",
-    "unit": "cloves, minced (chimichurri)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Sherry vinegar",
+    "name": "Butter (pan sauce)",
     "amount": "2",
-    "unit": "Tbsp (chimichurri)",
+    "unit": "Tbsp",
     "store": "Walmart"
    },
    {
-    "name": "EVOO",
-    "amount": "4",
-    "unit": "Tbsp (chimichurri)",
-    "store": "Walmart"
-   },
-   {
-    "name": "Chili flakes",
-    "amount": "1/2",
-    "unit": "tsp (chimichurri)",
+    "name": "Beef stock or water (pan sauce deglaze)",
+    "amount": "1/4",
+    "unit": "cup",
     "store": "Walmart"
    }
   ],
-  "notes": "S-tier. M4 only. Porcini powder adds deep umami. Carrot top chimichurri as steak sauce. Light sherry vinegar + EVOO dressing on salad. Use greens medley immediately — most perishable.",
+  "notes": "S-tier. M4 only. Porcini powder adds deep umami. Carrot top chimichurri as steak sauce. Light sherry vinegar + EVOO dressing on salad. Use greens medley immediately — most perishable. MODIFIED 2026-06-27: no porcini powder — salt + pepper only. PAN SAUCE (replaces chimichurri): after searing, lower heat, sauté minced shallot in the drippings + 2 Tbsp butter ~1 min, deglaze with 1/4 cup beef stock, reduce to a glaze, spoon over. Salt+pepper steak only (no porcini). Shallot ON HAND.",
   "recipe_available": true,
   "recipe_steps": [
-   "Pat steaks dry. Season with salt, pepper, garlic powder, and ½ tsp porcini powder per steak.",
    "Place steaks in freezer for 45 minutes.",
-   "Make chimichurri: finely chop 1 cup packed carrot tops, combine with 3 cloves minced garlic, 2 Tbsp sherry vinegar, 4 Tbsp EVOO, ½ tsp chili flakes, salt + pepper. Set aside.",
    "Pull steaks, rest 5 minutes at room temp while cast iron heats to level 9.",
    "Preheat oven to 200°F.",
    "Add grape seed oil to cast iron. Sear steaks 1 minute each side.",
@@ -1090,7 +1064,7 @@
    "While steak rests, sauté 4 large bulb green onions in same cast iron with 1 tsp avocado oil. Cook 3–4 minutes until charred.",
    "Dress salad: greens medley + torn kale, 1 Tbsp sherry vinegar, 2 Tbsp EVOO, salt + pepper. Toss lightly.",
    "Add sliced Roma tomato and avocado, toss gently.",
-   "Plate: steak + chimichurri + salad + green onions."
+   "Pan sauce: sauté minced shallot in steak drippings + butter ~1 min; deglaze with beef stock; reduce to glaze; spoon over rested steak."
   ],
   "on_break": false
  },
@@ -3668,5 +3642,608 @@
    "Plate: sliced poached chicken over rice, spoon the overnight ginger-scallion sauce on top (light for the cut), cucumber salad on the side.",
    "Store components separately; reheat chicken gently or serve cold. Sauce + cucumber salad keep ~5-7 days. Freeze surplus chicken before travel."
   ]
+ },
+ {
+  "id": "36",
+  "name": "Ginger-Scallion Chinese Chicken",
+  "tier": "A",
+  "meal_slots": [
+   2,
+   4
+  ],
+  "servings": 4,
+  "protein": "Chicken Breast",
+  "ingredients": [
+   {
+    "name": "Chicken breast (poached/steamed, sliced)",
+    "amount": "22",
+    "unit": "oz (1 pack ~1.375 lb)",
+    "store": "Costco"
+   },
+   {
+    "name": "Green onions, finely sliced",
+    "amount": "1",
+    "unit": "bunch",
+    "store": "Walmart"
+   },
+   {
+    "name": "Ginger powder",
+    "amount": "1",
+    "unit": "Tbsp (sub for fresh)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Garlic, grated",
+    "amount": "2",
+    "unit": "cloves",
+    "store": "Walmart"
+   },
+   {
+    "name": "Neutral oil (avocado/grape seed)",
+    "amount": "3",
+    "unit": "Tbsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Low-sodium soy sauce",
+    "amount": "2",
+    "unit": "Tbsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Rice vinegar",
+    "amount": "1",
+    "unit": "Tbsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Sesame oil",
+    "amount": "1",
+    "unit": "tsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "White rice (M4 side)",
+    "amount": "2",
+    "unit": "cups cooked",
+    "store": "Costco"
+   },
+   {
+    "name": "Salt",
+    "amount": "to taste",
+    "unit": "",
+    "store": "Walmart"
+   }
+  ],
+  "notes": "M2/M4. Uses the 2nd defrosted chicken pack. Overnight ginger-scallion sauce: combine sliced green onion + ginger + garlic + salt in a heatproof bowl; heat oil until shimmering and pour over to bloom, then stir in soy + rice vinegar + sesame oil. Rest overnight in fridge for best flavor. Poach or steam chicken, slice, spoon sauce per portion. Low-cal: sauce is oil-forward so portion ~1 Tbsp; lean protein + rice for M4, skip rice for Will M2.",
+  "recipe_available": true,
+  "recipe_steps": [
+   "Make sauce the night before: mince green onion, ginger, garlic into a heatproof bowl with a pinch of salt.",
+   "Heat 3 Tbsp neutral oil until shimmering; pour over the aromatics to bloom (it will sizzle).",
+   "Stir in soy sauce, rice vinegar, sesame oil. Cool, cover, refrigerate overnight.",
+   "Poach or steam 1.75 lb chicken breast until 165F; rest, then slice.",
+   "Portion sliced chicken over rice (M4) or alone (Will M2, starch-free); spoon ~1 Tbsp sauce per serving.",
+   "Reheat chicken gently; add sauce cold after reheating so it stays fresh."
+  ],
+  "on_break": false
+ },
+ {
+  "id": "37",
+  "name": "Low-Calorie Crunchwrap Supreme",
+  "tier": "A",
+  "meal_slots": [
+   2,
+   4
+  ],
+  "servings": 4,
+  "protein": "Ground Beef",
+  "ingredients": [
+   {
+    "name": "Ground beef (90/10)",
+    "amount": "1",
+    "unit": "lb",
+    "store": "Costco"
+   },
+   {
+    "name": "Taco seasoning packet",
+    "amount": "1",
+    "unit": "packet (or homemade)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Low-carb / high-fiber large tortillas",
+    "amount": "4",
+    "unit": "large",
+    "store": "Walmart"
+   },
+   {
+    "name": "Tostada shells (or small corn tortillas, crisped)",
+    "amount": "4",
+    "unit": "shells",
+    "store": "Walmart"
+   },
+   {
+    "name": "0% Greek yogurt (sour-cream sub)",
+    "amount": "1/2",
+    "unit": "cup",
+    "store": "Costco"
+   },
+   {
+    "name": "Shredded lettuce",
+    "amount": "2",
+    "unit": "cups",
+    "store": "Walmart"
+   },
+   {
+    "name": "Roma tomato, diced",
+    "amount": "1",
+    "unit": "tomato",
+    "store": "Walmart"
+   },
+   {
+    "name": "Reduced-fat shredded cheese",
+    "amount": "1",
+    "unit": "cup",
+    "store": "Walmart"
+   },
+   {
+    "name": "Salsa",
+    "amount": "1/2",
+    "unit": "cup",
+    "store": "Walmart"
+   },
+   {
+    "name": "Salt + pepper",
+    "amount": "to taste",
+    "unit": "",
+    "store": "Walmart"
+   }
+  ],
+  "notes": "M2/M4. Low-cal crunchwrap: lean 90/10 beef browned with taco seasoning, Greek yogurt instead of sour cream, low-carb tortilla, reduced-fat cheese. Assemble: large tortilla -> beef -> tostada shell -> yogurt + cheese + lettuce + tomato + salsa -> fold edges over and griddle seam-side down until sealed and crisp. Holds for M2 reheat (crisp in dry pan/air-fryer, not microwave, to keep crunch).",
+  "recipe_available": true,
+  "recipe_steps": [
+   "Brown 1 lb lean ground beef; drain, add taco seasoning + splash water, simmer 3-4 min.",
+   "Lay a large low-carb tortilla; mound ~1/4 of the beef in the center.",
+   "Top beef with a tostada shell, then Greek yogurt, cheese, lettuce, diced tomato, salsa.",
+   "Fold the tortilla edges up over the center into pleats to seal into a hexagon.",
+   "Griddle seam-side down in a dry/lightly-oiled pan 2-3 min until sealed and golden; flip.",
+   "For M2 batch: store assembled but un-griddled, or griddle then re-crisp in air-fryer before eating."
+  ],
+  "on_break": false
+ },
+ {
+  "id": "38",
+  "name": "Egg + Summer Squash Breakfast Batch",
+  "tier": null,
+  "meal_slots": [
+   1
+  ],
+  "servings": 6,
+  "protein": "Eggs",
+  "ingredients": [
+   {
+    "name": "Eggs",
+    "amount": "11",
+    "unit": "eggs",
+    "store": "Costco"
+   },
+   {
+    "name": "Lemon squash (yellow summer squash), diced",
+    "amount": "1",
+    "unit": "large (use ~half of a huge one)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Spinach",
+    "amount": "2",
+    "unit": "large handfuls (plenty on hand)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Salt + pepper",
+    "amount": "to taste",
+    "unit": "",
+    "store": "Walmart"
+   },
+   {
+    "name": "Garlic powder",
+    "amount": "to taste",
+    "unit": "",
+    "store": "Walmart"
+   },
+   {
+    "name": "Avocado oil",
+    "amount": "1",
+    "unit": "Tbsp",
+    "store": "Walmart"
+   }
+  ],
+  "notes": "Will M1 breakfast batch (cut: lean protein + veg, starch-free). 11 eggs (have 11) + ~half a huge lemon squash (yellow summer squash) + a couple big handfuls spinach -> 6 microwave containers. Veg-forward since squash/spinach are abundant. Keeps 4-5 days; reheat 60 sec.",
+  "recipe_available": true,
+  "recipe_steps": [
+   "Dice lemon squash; sauté in avocado oil with spinach until softened.",
+   "Scramble 11 eggs with salt, pepper, garlic powder.",
+   "Combine eggs + veg in pan until just set.",
+   "Portion into 6 equal containers. Reheat 60 sec microwave."
+  ],
+  "on_break": false
+ },
+ {
+  "id": "39",
+  "name": "Chicken Shawarma Meal Prep (Will/Elena fork)",
+  "tier": "A",
+  "meal_slots": [
+   2,
+   4
+  ],
+  "servings": 4,
+  "protein": "Chicken Breast",
+  "ingredients": [
+   {
+    "name": "Chicken breast (sliced thin or 1-inch)",
+    "amount": "22",
+    "unit": "oz (1 pack ~1.375 lb)",
+    "store": "Costco"
+   },
+   {
+    "name": "Extra virgin olive oil",
+    "amount": "1",
+    "unit": "Tbsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Lemon",
+    "amount": "1",
+    "unit": "medium (juiced)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Garlic, minced",
+    "amount": "3",
+    "unit": "cloves",
+    "store": "Walmart"
+   },
+   {
+    "name": "Cumin",
+    "amount": "1",
+    "unit": "tsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Smoked paprika",
+    "amount": "1",
+    "unit": "tsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Turmeric",
+    "amount": "1/4",
+    "unit": "tsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Curry powder",
+    "amount": "1/4",
+    "unit": "tsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Cinnamon",
+    "amount": "1/8",
+    "unit": "tsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Coriander",
+    "amount": "1/2",
+    "unit": "tsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Red pepper flakes",
+    "amount": "to taste",
+    "unit": "",
+    "store": "Walmart"
+   },
+   {
+    "name": "Salt + pepper",
+    "amount": "to taste",
+    "unit": "",
+    "store": "Walmart"
+   },
+   {
+    "name": "White or basmati rice (Elena share base)",
+    "amount": "2",
+    "unit": "cups cooked",
+    "store": "Costco"
+   },
+   {
+    "name": "Roasted veg (bell pepper + onion + zucchini)",
+    "amount": "4",
+    "unit": "cups",
+    "store": "Walmart"
+   },
+   {
+    "name": "Persian cucumbers, chopped (side, fresh)",
+    "amount": "3",
+    "unit": "cucumbers",
+    "store": "Walmart"
+   },
+   {
+    "name": "Cherry tomatoes, halved (side, fresh)",
+    "amount": "1",
+    "unit": "cup",
+    "store": "Walmart"
+   },
+   {
+    "name": "Red onion, thinly sliced",
+    "amount": "1/4",
+    "unit": "onion",
+    "store": "Walmart"
+   },
+   {
+    "name": "Feta, crumbled (Elena share)",
+    "amount": "1/4",
+    "unit": "cup",
+    "store": "Walmart"
+   },
+   {
+    "name": "Greek-yogurt tzatziki (cucumber + garlic + lemon)",
+    "amount": "1",
+    "unit": "cup",
+    "store": "Walmart"
+   },
+   {
+    "name": "Pita (Elena share, optional)",
+    "amount": "2",
+    "unit": "rounds",
+    "store": "Walmart"
+   }
+  ],
+  "notes": "M2/M4 MEAL PREP — batch-cook + reheat. Chicken breast shawarma (Skinnytaste-derived, breast not thighs: none-on-hand + leaner for cut). Marinade 30min-overnight; cook the WHOLE 1 pack (22oz ~1.375 lb) at once (sheet-pan 425F ~18-22min, air-fryer batches, or grill-pan), slice, portion into 6 containers. Reheats well (breast — don't overcook initially; reheat gentle 60-90s microwave or air-fryer). Pair the HOT components (chicken + roasted veg + rice) in containers; keep the COLD/fresh stuff (cucumber-tomato, tzatziki, feta, pita) separate and add at eating. WILL FORK (cut, M2 starch-free): chicken + roasted veg + Greek-yogurt tzatziki, NO rice/pita, light feta — ~45g protein, low-cal. ELENA FORK (M2/M4): chicken + rice + roasted veg + feta + warm pita + tzatziki. Easiest fork in the book — same protein batch, just different sides per container.",
+  "recipe_available": true,
+  "recipe_steps": [
+   "Slice 1 pack (~22oz) chicken breast thin (faster cook, more surface for marinade).",
+   "Whisk olive oil + lemon juice + garlic + cumin, smoked paprika, turmeric, curry, cinnamon, coriander, red pepper, salt, pepper.",
+   "Coat chicken; marinate 30 min to overnight (don't over-marinate — lemon firms breast).",
+   "Cook the full batch: sheet-pan 425F ~18-22 min (or air-fryer in batches / grill-pan). Pull at 165F, don't overcook — it reheats.",
+   "Roast veg (bell pepper, onion, zucchini) on a 2nd sheet pan, same temp.",
+   "Cook rice (Elena base).",
+   "Portion 6 containers: chicken + roasted veg (+ rice for Elena). Keep cucumber-tomato salad, tzatziki, feta, pita SEPARATE — add fresh at eating.",
+   "Will cut containers: chicken + veg + tzatziki, no rice/pita. Elena: full build."
+  ],
+  "on_break": false
+ },
+ {
+  "id": "40",
+  "name": "Egg Roll Ramen with Ground Beef",
+  "tier": null,
+  "meal_slots": [
+   2,
+   4
+  ],
+  "servings": 4,
+  "protein": "Ground Beef",
+  "ingredients": [
+   {
+    "name": "Ground beef (90/10)",
+    "amount": "1.25",
+    "unit": "lb (1 freezer bag; original calls 96/4 lean)",
+    "store": "Costco"
+   },
+   {
+    "name": "Sweet onion, diced",
+    "amount": "1",
+    "unit": "large (~265g)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Carrots, diced or shredded",
+    "amount": "2",
+    "unit": "medium (~200g)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Minced ginger",
+    "amount": "1.5",
+    "unit": "tsp (~4g)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Garlic, minced",
+    "amount": "4",
+    "unit": "cloves",
+    "store": "Walmart"
+   },
+   {
+    "name": "Chicken broth",
+    "amount": "0.33",
+    "unit": "cup (~80ml)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Coleslaw mix (or shredded cabbage)",
+    "amount": "1.5",
+    "unit": "lb (~665g; 2 x 14oz bags)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Soy sauce (reduced sodium)",
+    "amount": "2.5",
+    "unit": "Tbsp (~37g)",
+    "store": "Asian Mart"
+   },
+   {
+    "name": "Rice vinegar",
+    "amount": "2",
+    "unit": "tsp (~9g)",
+    "store": "Asian Mart"
+   },
+   {
+    "name": "Toasted sesame oil",
+    "amount": "1",
+    "unit": "tsp (~5g)",
+    "store": "Asian Mart"
+   },
+   {
+    "name": "Ramen blocks (noodles only, discard seasoning)",
+    "amount": "3",
+    "unit": "blocks (2.67 scaled, rounded up)",
+    "store": "Asian Mart"
+   },
+   {
+    "name": "Green onions, sliced",
+    "amount": "3",
+    "unit": "stalks (garnish)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Sea salt",
+    "amount": "4",
+    "unit": "big pinches",
+    "store": "Walmart"
+   },
+   {
+    "name": "Black pepper",
+    "amount": "3",
+    "unit": "big pinches",
+    "store": "Walmart"
+   },
+   {
+    "name": "Sesame seeds (garnish)",
+    "amount": "1",
+    "unit": "tsp",
+    "store": "Asian Mart"
+   },
+   {
+    "name": "0% Greek yogurt (bang bang sauce)",
+    "amount": "0.5",
+    "unit": "cup (~113g — NOT scaled; you only use ~1/3 of sauce)",
+    "store": "Costco"
+   },
+   {
+    "name": "Honey (bang bang sauce)",
+    "amount": "1.5",
+    "unit": "Tbsp (~28g; sub zero-cal sweetener + G Hughes heat for tighter cut)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Sriracha (bang bang sauce)",
+    "amount": "1",
+    "unit": "Tbsp (~15g)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Rice vinegar (bang bang sauce)",
+    "amount": "1",
+    "unit": "tsp (~4g)",
+    "store": "Asian Mart"
+   }
+  ],
+  "notes": "Scaled x4/3 from a 3-serving original (1lb 96/4 beef) to 4 servings on a 1.25lb freezer bag. NOTE: our bags are 90/10 not 96/4 — fat/cals run higher than the original macros. Bang bang sauce deliberately NOT scaled (original already ~3x what gets used — Will uses ~1/3). Egg-roll-in-a-bowl over ramen; reheats fine in microwave (M2-eligible). Ramen = carb-forward — Will portion = noodle-light on cut days. Elena tier: TBD after first cook (guess A).",
+  "recipe_available": true,
+  "recipe_steps": [
+   "Preheat stovetop pan to 7/10 heat. Cook diced sweet onion until softened and golden.",
+   "Add carrots; cook until they start to soften.",
+   "Add ground beef, brown 2-3 minutes per side, then chop with spatula and combine with onions and carrots.",
+   "Add chicken broth, garlic, and ginger; saute a few minutes. Add coleslaw mix, cover the pan to soften the cabbage, then mix through.",
+   "Cook 3 ramen blocks separately (discard seasoning packets); drain.",
+   "Add soy sauce, rice vinegar, sesame oil, salt, pepper, and the cooked ramen. Mix 1-2 minutes until combined.",
+   "Bang bang sauce: whisk Greek yogurt + honey + sriracha + rice vinegar.",
+   "Top with green onions, a drizzle of bang bang sauce (~1/3 of batch across servings), and sesame seeds."
+  ],
+  "on_break": false
+ },
+ {
+  "id": "41",
+  "name": "Stealth Health Chicken Fried Rice (500-cal Meal Prep)",
+  "tier": null,
+  "meal_slots": [
+   2,
+   4
+  ],
+  "servings": 5,
+  "protein": "Chicken Breast",
+  "ingredients": [
+   {
+    "name": "Chicken breast, thin sliced + diced",
+    "amount": "25",
+    "unit": "oz (~1 freezer pack 22oz + supplement, or round to 1 pack)",
+    "store": "Costco"
+   },
+   {
+    "name": "Garlic powder",
+    "amount": "1",
+    "unit": "Tbsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Soy sauce (marinade)",
+    "amount": "2",
+    "unit": "Tbsp",
+    "store": "Asian Mart"
+   },
+   {
+    "name": "Avocado oil (or olive oil)",
+    "amount": "1",
+    "unit": "Tbsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Sriracha",
+    "amount": "1",
+    "unit": "Tbsp",
+    "store": "Walmart"
+   },
+   {
+    "name": "Mixed frozen veggies (carrots/peas/mushrooms/onions)",
+    "amount": "300",
+    "unit": "g (~0.66 lb; Costco stir-fry bags work)",
+    "store": "Costco"
+   },
+   {
+    "name": "Egg whites",
+    "amount": "200",
+    "unit": "g (~7oz carton pour)",
+    "store": "Walmart"
+   },
+   {
+    "name": "Eggs",
+    "amount": "3",
+    "unit": "eggs",
+    "store": "Costco"
+   },
+   {
+    "name": "Day-old cooked white rice",
+    "amount": "700",
+    "unit": "g cooked (300g / ~1.5 cups dry — COOK THE RICE A DAY AHEAD)",
+    "store": "Costco"
+   },
+   {
+    "name": "Soy sauce (rice)",
+    "amount": "3",
+    "unit": "Tbsp",
+    "store": "Asian Mart"
+   },
+   {
+    "name": "Toasted sesame oil",
+    "amount": "3",
+    "unit": "Tbsp (each Tbsp ~3g fat/srv — reduce to taste, 3 = tested best flavor/fat balance)",
+    "store": "Asian Mart"
+   }
+  ],
+  "notes": "500 cal / 41g protein / 47g carbs / 17g fat per serving (makes 5). From @stealth_health_life 500-Calorie Meal Prep Series. DAY-OLD RICE required (house rule) — cook rice the day before. Reheats fine in microwave (M2-eligible). Carb-forward for Will's cut M2 — better as shared M4 / Elena meals; Will portion on cut days = lighter rice. Sesame oil is the fat lever: 3 Tbsp = classic flavor, scale down to cut fat ~3g/srv per Tbsp. Elena tier: TBD after first cook.",
+  "recipe_available": true,
+  "recipe_steps": [
+   "DAY BEFORE: cook 300g (dry) rice; chill overnight (day-old rice fries properly).",
+   "Marinate thin-sliced diced chicken breast with garlic powder, 2 Tbsp soy sauce, avocado oil, and sriracha.",
+   "Hot pan/wok: cook chicken through; set aside.",
+   "Cook frozen mixed veg in the same pan until heated and moisture cooked off.",
+   "Scramble egg whites + 3 eggs in the pan, breaking into small curds.",
+   "Add day-old rice, breaking up clumps; toss everything together on high heat.",
+   "Season with 3 Tbsp soy sauce + 3 Tbsp toasted sesame oil; toss until evenly coated and lightly fried.",
+   "Portion into 5 containers."
+  ],
+  "on_break": false
  }
 ]

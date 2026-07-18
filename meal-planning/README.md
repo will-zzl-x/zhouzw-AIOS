@@ -5,7 +5,7 @@ most of the workflow is deterministic and runs as plain Python with zero AI call
 AI is invoked only for four genuinely fuzzy tasks. Lives inside the AIOS repo and is
 wired to the `/health-os` skill (see "AIOS integration" below).
 
-`data/recipes.json` (20 vetted recipes) is the **source of truth** and is never
+`data/recipes.json` (33 vetted recipes) is the **source of truth** and is never
 modified by any script.
 
 ---
@@ -71,7 +71,7 @@ Requires `pyyaml` (`pip install pyyaml`); everything else is Python stdlib.
 ```
 meal-planning/
   data/
-    recipes.json      # 20 vetted recipes — SOURCE OF TRUTH, never modified
+    recipes.json      # 33 vetted recipes — SOURCE OF TRUTH, never modified
     config.yaml       # household, members+slots, stores, equipment, cut rules, defrost/cook rules
     tier_list.yaml    # Elena S–E tier + on_break bench
     inventory.json    # fridge/freezer/pantry state

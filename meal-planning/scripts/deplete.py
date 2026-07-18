@@ -61,7 +61,11 @@ def main():
 
     # Load raw inventory (preserve unknown fields on write)
     inv_path = models.INVENTORY_PATH
-    raw = json.load(open(inv_path, encoding="utf-8")) if inv_path.exists() else []
+    if inv_path.exists():
+        with open(inv_path, encoding="utf-8") as _f:   # context-managed (review #7: was a leaked handle / Windows lock risk)
+            raw = json.load(_f)
+    else:
+        raw = []
 
     print(f"Deplete — cycle {cycle.date} ({Path(cycle_path).name})  {'[APPLY]' if apply else '[dry-run]'}\n")
     changes = []
