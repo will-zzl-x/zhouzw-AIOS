@@ -1,6 +1,6 @@
 # Wedding
 
-Last updated: 2026-06-07
+Last updated: 2026-07-18
 
 ## The Basics
 
@@ -71,7 +71,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 - **Ceremony drive** (all lodging → St. Andrew, Chandler): ~18 mi via Loop 101, 22–25 min off-peak; budget 30–40 min Friday afternoon.
 - **2-night Fri+Sat all-in:** Courtyard ≈ **$383** ($155×2 + tax + $15×2 parking) · Element ≈ **$481** ($199×2 + tax + $14×2 parking).
 3. **Wedding website** — Elena building it. Must be live by mid-August 2026 (URL → QR code → save-the-date design → print → send).
-4. **Pre-Cana** — Elena contacts St. Andrew. Not started. Urgent — has scheduling lead time.
+4. **Pre-Cana** — Elena contacted St. Andrew and got the session date locked (as of 2026-07-18).
 5. **Guest list complete** — missing last names/emails for several entries. Needed before save-the-dates.
 6. **Save-the-dates** — send late September 2026 (12 months out). QR code to wedding website on card.
 7. **Elena's dress** — begin shopping by fall 2026. St. Andrew requires covered shoulders, no plunging neckline or back.
@@ -95,9 +95,9 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 |-------|------|-------|------|--------|
 | Courtyard Marriott (Old Town) | Budget/solo | 10 single | ~$159 | ✅ SIGNED |
 | Element by Marriott SkySong | Mid-value | 9 double | $199 (incl. breakfast/laundry/kitchenette) | Sign 6/7 (deadline today) |
-| Premium (The Remi OR Hotel Valley Ho) | Premium | 12–15 | TBD | CHASE — re-RFP via Engine + direct group-sales call. Both ghosted Engine this week. No backup tier, so push hard + ask 15 for margin. |
+| Premium (The Remi OR Hotel Valley Ho) | Premium | — | — | **DROPPED (2026-07-18)** — Villa Solara Airbnb covers the overflow/premium need. No further chase. |
 
-**Secured after Element = 19 rooms; +12–15 premium → 31–34 total (covers target).**
+**Secured after Element = 19 rooms; remaining overflow covered by Villa Solara group house — no premium tier needed.**
 
 **DECLINED (do not pursue):**
 - Senna House Curio (Hilton) — not a "hell yes," $372/night + $45 parking, premium but lukewarm
@@ -121,12 +121,12 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
   - *Pair A (all Old Town, zero Uber):* **The Mission Old Town** Sat brunch (chef-driven Mexican brunch, walkable)
   - *Pair B (Camelback corridor, 1 Uber):* **The Henry — Camelback** (Fox Restaurant Concepts, top-tier brunch)
   - *Pair C (resort day):* **Hearth '61 at Mountain Shadows** (chef-driven, resort vibe)
-- **Saturday dinner (LOCKED):** **Brat Haüs Old Town** — 3950 N Drinkwater Blvd
-  - Format: **No-host, ~20 ppl, family-style/communal**
+- **Saturday dinner (STILL DECIDING — not booked):** Leading idea is **Brat Haüs Old Town** — 3950 N Drinkwater Blvd
+  - Format under consideration: **No-host, ~20 ppl, family-style/communal**
   - Cuisine: German beer hall — bratwurst, schnitzel, pretzels, shared plates, lively
-  - Why: walking distance from Old Town hotel block (Courtyard + premium), communal-table format literally drives mingling by design (Oktoberfest energy), $25-40/pp, splits checks easily
-  - Announcement format: "Sat 7pm Brat Haüs Old Town — separate checks, beer hall vibes, come if you're around. Walking distance from the hotels."
-  - Reservation: needed by Spring 2027 (~6 months out); confirm 20-top + split-check policy when booking
+  - Why it's appealing: walking distance from Old Town hotel block, communal-table format drives mingling (Oktoberfest energy), $25-40/pp, splits checks easily
+  - Still open to other ideas — nothing reserved yet
+  - Decision + reservation needed by Spring 2027 (~6 months out); confirm 20-top + split-check policy when booking
 
 **Sunday Oct 24, 2027** — Departures
 - No formal event; some guests may breakfast at hotel before heading out
