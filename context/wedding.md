@@ -116,10 +116,14 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 22. **Bridesmaid dresses — order.** Standard guidance: order 6-8 months before the wedding for production + alterations lead time. **Target: March 2027.** Final alterations closer to the date, ~August-September 2027 (same logic as Will's suit).
 23. **Villa Solara — confirm beds filled.** House is already fully paid/booked, but need to confirm all rooms are actually claimed by guests. **Target: end of August 2026**, ahead of the **December 2026** guest payback deadline.
 24. **DIY bridal + bridesmaid bouquets and boutonnieres.** Assemble **Wednesday, October 20, 2027 (2 days before)** — Oct 21 (rehearsal + Villa Solara check-in + rehearsal dinner) is already packed. Keep refrigerated/cool overnight; quick touch-up morning of Oct 22 if needed.
-25. **Hair + makeup.** Elena has a friend she'd like to hire (not a professional, no client-load pressure — so no peak-season urgency). Availability not yet confirmed.
+25. **Makeup.** Elena has a friend she'd like to hire (not a professional, no client-load pressure — so no peak-season urgency). Availability not yet confirmed.
     - **Ask + confirm — ~January 2027** (9-10 months out) — real lead time since she's not a pro and may want to prepare/practice.
     - **Trial run — ~July-August 2027** (2-3 months out).
     - **Day-of timeline confirmed — ~September 2027** (1 month out, batches with DJ/shot-list check-ins).
+26. **Hair — separate vendor needed** (friend does makeup only, not hair). Not yet researched/booked. This one carries real peak-season risk (unlike the makeup friend) — same logic as Mystic Lites: October in Scottsdale is peak season, popular stylists book out ~12 months ahead.
+    - **Research + book — target by December 2026-January 2027** (~10-12 months out).
+    - **Trial run — ~July-August 2027** (2-3 months out).
+    - **Day-of timeline confirmed — ~September 2027** (1 month out, batches with DJ/shot-list/makeup check-ins).
 
 ## Hotel Block — Current State (updated 2026-06-07)
 

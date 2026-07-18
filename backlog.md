@@ -73,9 +73,12 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | bridesmaid-dresses-order | 53 | Order bridesmaid dresses | Wedding | side | open | window:2027-03 | — | Target March 2027. Final alterations ~Aug-Sep 2027. |
 | villa-solara-confirm-beds | 54 | Confirm Villa Solara beds filled by guests | Wedding | side | open | deadline:2026-08-31 | — | House already paid/booked — confirm all rooms actually claimed. Ahead of Dec 2026 guest payback deadline. |
 | diy-bouquets-boutonnieres | 55 | DIY bouquets + boutonnieres — assemble | Wedding | side | open | deadline:2027-10-20 | — | Assemble Wed Oct 20, 2027 (2 days before) — Oct 21 is packed with rehearsal/check-in/dinner. Refrigerate overnight, touch up morning of Oct 22. |
-| hmu-ask-confirm | 57 | Hair/makeup — ask + confirm with Elena's friend | Wedding | side | open | window:2027-01 | — | Not a pro, no client-load pressure — no peak-season urgency. ~9-10 months out gives her real lead time to prepare/practice. |
-| hmu-trial-run | 58 | Hair/makeup — trial run | Wedding | side | blocked | window:2027-07-to-08 | hmu-ask-confirm | ~2-3 months out. |
-| hmu-dayof-timeline | 59 | Hair/makeup — confirm day-of timeline | Wedding | side | blocked | window:2027-09 | hmu-trial-run | ~1 month out, batches with DJ/shot-list Sep check-ins. |
+| makeup-ask-confirm | 57 | Makeup — ask + confirm with Elena's friend | Wedding | side | open | window:2027-01 | — | Not a pro, no client-load pressure — no peak-season urgency. ~9-10 months out gives her real lead time to prepare/practice. |
+| makeup-trial-run | 58a | Makeup — trial run | Wedding | side | blocked | window:2027-07-to-08 | makeup-ask-confirm | ~2-3 months out. |
+| makeup-dayof-timeline | 59a | Makeup — confirm day-of timeline | Wedding | side | blocked | window:2027-09 | makeup-trial-run | ~1 month out, batches with DJ/shot-list Sep check-ins. |
+| hair-research-book | 60 | Hair — research + book stylist | Wedding | side | open | deadline:2027-01-31 | — | Friend doesn't do hair — separate vendor needed. Peak-season (Oct) risk like Mystic Lites — target book by Dec 2026-Jan 2027 (~10-12 months out). |
+| hair-trial-run | 61 | Hair — trial run | Wedding | side | blocked | window:2027-07-to-08 | hair-research-book | ~2-3 months out. |
+| hair-dayof-timeline | 62 | Hair — confirm day-of timeline | Wedding | side | blocked | window:2027-09 | hair-trial-run | ~1 month out, batches with DJ/shot-list/makeup Sep check-ins. |
 
 ## Inbox (unranked) — sorted in next reflection
 
