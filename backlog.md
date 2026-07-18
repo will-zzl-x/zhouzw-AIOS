@@ -66,6 +66,7 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | affidavit-will-michael | 46 | Affidavit of Free Status — Will's side, Michael (best man) | Wedding | side | open | deadline:2026-08-07 | — | First week of August 2026. Sealed at a parish. |
 | affidavit-will-mother | 47 | Affidavit of Free Status — Will's side, Will's mother | Wedding | side | open | window:2026-11 | — | November 2026, over Thanksgiving visit. Sealed at a parish. |
 | affidavit-elena-parents | 48 | Affidavit of Free Status — Elena's side, her parents | Wedding | side | open | window:2026-10-early | — | Beginning of October 2026, during Elena's visit to NWA. Sealed at a parish. |
+| photographer-church-agreement | 49 | Get photographer to fill out St. Andrew church agreement, return by rehearsal | Wedding | side | open | deadline:2027-10-21 | — | Due back by rehearsal night (Oct 21, 2027). Send to photographer with lead time. Rehearsal time TBD — likely confirmed at ~Aug 22, 2027 coordinator meeting. |
 
 ## Inbox (unranked) — sorted in next reflection
 

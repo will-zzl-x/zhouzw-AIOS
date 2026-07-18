@@ -50,6 +50,7 @@ Full requirement breakdown (added 2026-07-18):
 11. **Affidavit of Free Status** — two people per side (groom + bride), each completed by a parent or close friend, sealed at a parish.
     - **Will's side:** Best man Michael — **first week of August 2026**. Will's mother — **November 2026, over Thanksgiving visit**.
     - **Elena's side:** Her parents — **beginning of October 2026**, during Elena's visit to NWA.
+12. **Photographer church agreement** — St. Andrew requires the photographer to fill out a church agreement, due back **by rehearsal night (Oct 21, 2027)**. Get this to the photographer with enough lead time to complete/return it. Rehearsal time itself is still TBD — likely confirmed at the wedding coordinator meeting **2 months before the wedding (~Aug 22, 2027)**.
 
 ## Scheduled Meetings
 
