@@ -51,6 +51,7 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | mystic-lites-contact | 31 | Contact Mystic Lites for canopy lighting pricing + book date | Wedding | side | open | deadline:2026-09-30 | — | Extra-cost add-on, already budgeted. Peak-season (Oct) specialty vendors book 12+ months out — contact ASAP to protect the date. |
 | invitations-design | 32 | Design wedding invitations — Wedgewood credit | Wedding | side | open | window:2027-04-to-05 | — | $575 credit code arrives ~6 months out (April 2027). Design + finalize proof April-May 2027. |
 | invitations-send | 33 | Send wedding invitations | Wedding | side | blocked | window:2027-07 | invitations-design | Target July 2027 (~3 months out, earlier than standard 6-8 weeks given 86% OOT guests). RSVP deadline mid-Sep 2027, buffer before Oct 12 Final Meeting headcount lock. |
+| bridal-shower | 34 | Bridal shower — confirm date with MOH | Wedding | side | open | window:2027-08 | — | Target August 2027. Traditionally planned/hosted by MOH or bridal party, not the couple. |
 
 ## Inbox (unranked) — sorted in next reflection
 
