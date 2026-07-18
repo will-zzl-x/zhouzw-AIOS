@@ -49,6 +49,8 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | dj-worksheet-call | 30a | Call Direct Sounds to confirm DJ review meeting date + get music worksheet | Wedding | side | open | window:2027-08 | — | Confirm exact date for the ~1-month-before review (~Sep 22, 2027) and get the Clayton House-provided music worksheet to fill out beforehand. |
 | dj-review-meeting | 30b | Attend DJ review meeting — Direct Sounds | Wedding | side | blocked | window:2027-09 | dj-worksheet-call | Review completed music worksheet ~1 month before wedding. Add confirmed date to calendar. |
 | mystic-lites-contact | 31 | Contact Mystic Lites for canopy lighting pricing + book date | Wedding | side | open | deadline:2026-09-30 | — | Extra-cost add-on, already budgeted. Peak-season (Oct) specialty vendors book 12+ months out — contact ASAP to protect the date. |
+| invitations-design | 32 | Design wedding invitations — Wedgewood credit | Wedding | side | open | window:2027-04-to-05 | — | $575 credit code arrives ~6 months out (April 2027). Design + finalize proof April-May 2027. |
+| invitations-send | 33 | Send wedding invitations | Wedding | side | blocked | window:2027-07 | invitations-design | Target July 2027 (~3 months out, earlier than standard 6-8 weeks given 86% OOT guests). RSVP deadline mid-Sep 2027, buffer before Oct 12 Final Meeting headcount lock. |
 
 ## Inbox (unranked) — sorted in next reflection
 
