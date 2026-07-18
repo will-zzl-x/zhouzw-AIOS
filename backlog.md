@@ -48,6 +48,7 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | floral-consultation-attend | 29b | Attend floral consultation — Stem Swag | Wedding | side | blocked | window:2027-06 | floral-consultation-call | Clayton House's designated florist, centerpieces only (not held items). Target June 2027. |
 | dj-worksheet-call | 30a | Call Direct Sounds to confirm DJ review meeting date + get music worksheet | Wedding | side | open | window:2027-08 | — | Confirm exact date for the ~1-month-before review (~Sep 22, 2027) and get the Clayton House-provided music worksheet to fill out beforehand. |
 | dj-review-meeting | 30b | Attend DJ review meeting — Direct Sounds | Wedding | side | blocked | window:2027-09 | dj-worksheet-call | Review completed music worksheet ~1 month before wedding. Add confirmed date to calendar. |
+| mystic-lites-contact | 31 | Contact Mystic Lites for canopy lighting pricing + book date | Wedding | side | open | deadline:2026-09-30 | — | Extra-cost add-on, already budgeted. Peak-season (Oct) specialty vendors book 12+ months out — contact ASAP to protect the date. |
 
 ## Inbox (unranked) — sorted in next reflection
 
