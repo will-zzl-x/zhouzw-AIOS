@@ -386,3 +386,9 @@ Format: ✓ = done, □ = planned/pending
 □ Walk 12,500 steps
 □ Dan sit-down: lock Fri Jul 24 date
 □ Ship promo doc — hard line Friday
+
+**2026-07-17 (Fri)** — Reverse diet Jul 12–29
+□ Walk 12,500 steps today
+□ Zone 2: 20 min weekday walk or incline
+□ Ship promo doc — hard line Friday
+□ Text Dan: lock Fri Jul 24 sit-down
