@@ -80,6 +80,13 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | hair-research-book | 60 | Hair — research + book stylist | Wedding | side | open | deadline:2027-01-31 | bridesmaids-hmu-preference | Friend doesn't do hair — separate vendor needed. Peak-season (Oct) risk like Mystic Lites — target book by Dec 2026-Jan 2027 (~10-12 months out). |
 | hair-trial-run | 61 | Hair — trial run | Wedding | side | blocked | window:2027-07-to-08 | hair-research-book | ~2-3 months out. |
 | hair-dayof-timeline | 62 | Hair — confirm day-of timeline | Wedding | side | blocked | window:2027-09 | hair-trial-run | ~1 month out, batches with DJ/shot-list/makeup Sep check-ins. |
+| rehearsal-dinner-venue | 63 | Decide rehearsal dinner venue + catering | Wedding | side | open | window:2027-spring | — | Virehouse is the photographer, NOT the rehearsal dinner venue (corrected 7/18). Need to pick location + catering. Elena's parents paying. Target Spring 2027, same window as Sat brunch/dinner decisions. |
+| groomsmen-attire | 64 | Confirm groomsmen attire | Wedding | side | open | deadline:2027-02-28 | — | Coordinate with Will's State and Liberty suit — matching group order or own sourcing. Target Feb 2027. |
+| welcome-bags | 65 | Assemble welcome bags for OOT guests | Wedding | side | blocked | window:2027-10-13-to-18 | — | Blocked on final guest count (Oct 12 Final Meeting). Assemble in light window before Villa Solara check-in, same window as seating chart. |
+| speaker-lineup-share-dj | 66 | Share wedding weekend speaker lineup with DJ/MC | Wedding | side | open | window:2027-09 | — | Rehearsal dinner opener (groomsman 1), cocktail hour (groomsman 2), dinner (groomsman 3 + bridesmaid), Elena's dad prayer before dinner. Batches with Sep 22 DJ review meeting. |
+| wedding-emergency-kit | 67 | Prepare wedding day emergency kit | Wedding | side | open | window:2027-10-wk-of | — | Contents TBD — standard checklist pass (safety pins, stain remover, sewing kit, pain relievers, snacks). Prepare week of wedding. |
+| thank-you-cards-buy | 68 | Buy thank-you cards | Wedding | side | open | window:2027-09 | — | Sent after the wedding. |
+| name-change-paperwork | 69 | Name change paperwork (SSA, DMV, passport) | Wedding | side | blocked | window:after-wedding | — | Post-wedding task, after Oct 22, 2027. |
 
 ## Inbox (unranked) — sorted in next reflection
 

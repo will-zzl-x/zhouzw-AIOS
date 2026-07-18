@@ -86,7 +86,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 
 ## Open Items (Priority Order)
 
-1. **Photographer — BOOKED**, deposit paid (post 5/18 meeting). $3,160 est. total, groom pays. Still confirm: videography (first dance) free per quote, no-drone rule at St. Andrew flagged to photographer.
+1. **Photographer (Virehouse) — BOOKED**, deposit paid (post 5/18 meeting). $3,160 est. total, groom pays. Videography confirmed included in package — no open item. No-drone rule doesn't need separate flagging.
    - **Shot list** — draft rough version summer 2027 (family/group combos take longer than expected), send finalized list to photographer by **beginning of September 2027** (pulled earlier than the standard 4-6 week guidance for breathing room before Sep 7 Details Meeting / Sep 22 DJ review).
    - **Engagement shoot — November 2026**, included in photography package. Website likely gets updated with these photos once received.
 2. **Hotel room block — BOTH SIGNED** (Courtyard 5/28/26, Element 6/10/26). 19 rooms/night × 3 nights = **57 room nights** across two properties (vs. 30–40 target — inclusive of bridal-party rooms). Both **cut off Tue Sep 21, 2027**. Individuals book + pay their own. Tax 13.97%. Commission routed via Hotel Engine, LLC. (See Hotel Block — Current State section below for guest-math derivation, declined options, and remaining premium-tier chase.)
@@ -125,6 +125,19 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
     - **Research + book — target by December 2026-January 2027** (~10-12 months out).
     - **Trial run — ~July-August 2027** (2-3 months out).
     - **Day-of timeline confirmed — ~September 2027** (1 month out, batches with DJ/shot-list/makeup check-ins).
+27. **Wedding bands** — cheap Amazon bands already purchased for the wedding itself. Plan to buy the actual/real bands at the **1st anniversary** (Oct 2028) — not a pre-wedding task.
+28. **Groomsmen attire** — confirm with the three groomsmen (coordinate with Will's State and Liberty suit — matching group order or sourcing own?). **Target: February 2027.**
+29. **Welcome bags for OOT guests** — good idea, but **blocked on final guest count** (locks at the Oct 12, 2027 Final Meeting). Assemble in the light window right after headcount locks, before Villa Solara check-in — **target mid-October 2027 (Oct 13-18)**, same window as the seating chart.
+30. **Wedding weekend speaker lineup (locked):**
+    - Rehearsal dinner opener: one groomsman kicks off the weekend
+    - Cocktail hour: second groomsman speaks
+    - Reception dinner: third groomsman speaks + one bridesmaid speaks
+    - Elena's dad gives the prayer/blessing before dinner starts
+    - Share this lineup with the DJ/MC (Direct Sounds) for the reception timeline — batches with the **Sep 22, 2027 DJ review meeting**.
+31. **Programs — SKIPPED.** Will doesn't think they're necessary. Decided, no action needed.
+32. **Wedding day emergency kit** — prepare **week of the wedding**. Contents TBD — worth a quick pass on a standard checklist (safety pins, stain remover, sewing kit, tissues, pain relievers, snacks, etc.) closer to the date.
+33. **Thank-you cards — buy** in **September 2027**. (Sent after the wedding.)
+34. **Name change paperwork** (SSA, DMV, passport, etc.) — **post-wedding task**, after Oct 22, 2027.
 
 ## Hotel Block — Current State (updated 2026-06-07)
 
@@ -161,7 +174,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 ## Weekend Itinerary — Meal Anchors (locked 2026-06-08)
 
 **Friday Oct 22, 2027** — Wedding day
-- Rehearsal/welcome dinner: **Virehouse** (already booked; confirm scope — rehearsal only OR rehearsal+welcome)
+- Rehearsal dinner: **venue TBD, not Virehouse** (Virehouse is the photographer, not a rehearsal dinner venue — corrected 2026-07-18). Need to pick a location + catering. **Elena's parents paying.** Target: decide by Spring 2027 (same window as Sat brunch/dinner decisions).
 - Reception dinner: Clayton House catering (locked)
 
 **Saturday Oct 23, 2027** — Post-wedding day
