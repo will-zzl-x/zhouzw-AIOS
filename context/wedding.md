@@ -110,6 +110,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 16. **Invitations — Wedgewood credit ($575).** Code sent ~6 months out = **April 2027**. Plan: design in April–May 2027, send invitations **July 2027** (~3 months out — earlier than the standard 6-8 weeks given 86% OOT guests need travel lead time). **RSVP deadline: mid-September 2027**, buffer before guest count locks at the Oct 12 Final Meeting.
 17. **Bridal shower — target August 2027.** Traditionally planned/hosted by MOH or bridal party, not the couple — confirm date with MOH.
 18. **Marriage license — Maricopa County Clerk of Superior Court.** AZ licenses are valid exactly **1 year from issue date**, no waiting period. **Target: early-to-mid September 2027** (~6 weeks out) — comfortably inside the 1-year window with buffer, not last-minute. Both must apply together (some counties allow starting online, then in-person pickup).
+19. **Bachelor party (Will) + bachelorette party (Elena)** — both want one. **Target: summer 2027.** Traditionally planned/hosted by best man / bridal party respectively, not the couple — confirm dates with Michael (best man) and MOH.
 
 ## Hotel Block — Current State (updated 2026-06-07)
 
