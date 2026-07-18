@@ -42,6 +42,9 @@ Note: Clayton House final payment cannot be personal check or ACH — debit/cred
 | Clayton House – Details Meeting | Tue September 7, 2027 at 12:00 PM | By phone |
 | Clayton House – Final Meeting | Tue October 12, 2027 at 2:00 PM | TBD |
 | Rehearsal / Drop-off | Thu October 21, 2027 at 10:00 AM | In person |
+| Cake tasting — Piece of Cake Desserts | **June 2027** (target, batch w/ Planning Meeting trip) | TBD |
+| Floral consultation — Stem Swag | **June 2027** (target, batch w/ Planning Meeting trip) | TBD |
+| DJ review meeting — Direct Sounds | **~Sep 22, 2027** (policy: 1 month before wedding; exact date TBD) | TBD |
 
 ## Villa Solara — Group House (booked)
 
@@ -80,7 +83,9 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 9. **Wedding insurance** — recommended by Wedgewood. Not purchased.
 10. **Wedding registry** — not started. Target: set up by October 2026, before save-the-dates ship — registry link goes on the website (not the physical card, per etiquette), so it should be live before guests start visiting the site.
 11. **Will's suit — State and Liberty, custom tailored.** Order/get measured ~May–June 2027 (4–5 months out, buffers production + alterations). Final fitting ~mid-September 2027 (4–6 weeks out) — can batch with the Sep 7 Clayton House Details Meeting trip.
-12. **Cake tasting — Piece of Cake Desserts.** This is Clayton House's designated cake vendor — already covered under the "wedding cake" line in the venue package, no separate cost. Vendor guidance: schedule tasting 4–6 months before the wedding → window is **April–June 2027**.
+12. **Cake tasting — Piece of Cake Desserts.** This is Clayton House's designated cake vendor — already covered under the "wedding cake" line in the venue package, no separate cost. Vendor guidance: schedule tasting 4–6 months before the wedding. **Target: June 2027**, batched with the June 24 Planning Meeting trip.
+13. **Floral consultation — Stem Swag.** Clayton House's designated florist — handling centerpieces (table florals only, not held/personal items like bouquets/boutonnieres). Vendor guidance: reach out 4–6 months before the wedding. **Target: June 2027**, batched with the June 24 Planning Meeting trip.
+14. **DJ music worksheet + review meeting — Direct Sounds.** Clayton House provides a music worksheet to fill out ahead of time. DJ meets with us **one month before the wedding (~Sep 22, 2027)** to review it. Exact date TBD closer to the time — add to calendar once confirmed.
 
 ## Hotel Block — Current State (updated 2026-06-07)
 

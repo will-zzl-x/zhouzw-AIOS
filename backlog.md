@@ -42,7 +42,9 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | wedding-registry | 25 | Set up wedding registry | Wedding | side | open | deadline:2026-10-31 | — | Must be live before save-the-dates ship (early Nov 2026) — registry link goes on the website, not the physical card. |
 | will-suit-order | 26 | Will's suit — order/get measured, State and Liberty custom | Wedding | side | open | deadline:2027-06-30 | — | Target May–June 2027 (4-5 months out, buffers production + alterations). |
 | will-suit-fitting | 27 | Will's suit — final fitting | Wedding | side | blocked | deadline:2027-09-30 | will-suit-order | Target mid-Sep 2027 (4-6 weeks out) — batch with Sep 7 Clayton House Details Meeting trip. |
-| cake-tasting-schedule | 28 | Schedule + attend cake tasting — Piece of Cake Desserts | Wedding | side | open | window:2027-04-to-06 | — | Clayton House's designated cake vendor, included in venue price — no separate cost. Vendor guidance: schedule tasting 4-6 months before wedding. |
+| cake-tasting-schedule | 28 | Schedule + attend cake tasting — Piece of Cake Desserts | Wedding | side | open | window:2027-06 | — | Clayton House's designated cake vendor, included in venue price — no separate cost. Target June 2027, batch w/ June 24 Planning Meeting trip. |
+| floral-consultation-schedule | 29 | Reach out + schedule floral consultation — Stem Swag | Wedding | side | open | window:2027-06 | — | Clayton House's designated florist, centerpieces only (not held items). Target June 2027, batch w/ June 24 Planning Meeting trip. |
+| dj-music-worksheet | 30 | Fill out DJ music worksheet + review meeting — Direct Sounds | Wedding | side | open | window:2027-09 | — | Clayton House-provided worksheet. DJ review meeting ~1 month before wedding (~Sep 22, 2027, exact date TBD). Add to calendar once confirmed. |
 
 ## Inbox (unranked) — sorted in next reflection
 
