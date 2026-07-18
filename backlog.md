@@ -71,7 +71,7 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | dog-sitter-wedding-weekend | 51 | Book dog sitter for Koda — wedding weekend | Wedding | side | open | deadline:2027-08-07 | — | Book by 2.5 months out (~Aug 7, 2027). |
 | seating-chart | 52 | Draft + finalize seating chart | Wedding | side | open | deadline:2027-10-15 | — | Draft as RSVPs come in (Sep-early Oct 2027). Finalize once headcount locks at Oct 12 Final Meeting — target Oct 13-15, 2027. |
 | bridesmaid-dresses-order | 53 | Order bridesmaid dresses | Wedding | side | open | window:2027-03 | — | Target March 2027. Final alterations ~Aug-Sep 2027. |
-| villa-solara-confirm-beds | 54 | Confirm Villa Solara beds filled + guest payback collected | Wedding | side | open | deadline:2027-08-31 | — | House already paid/booked — confirm all rooms actually claimed and everyone's repaid Will + Elena. |
+| villa-solara-confirm-beds | 54 | Confirm Villa Solara beds filled by guests | Wedding | side | open | deadline:2026-08-31 | — | House already paid/booked — confirm all rooms actually claimed. Ahead of Dec 2026 guest payback deadline. |
 
 ## Inbox (unranked) — sorted in next reflection
 

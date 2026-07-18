@@ -114,7 +114,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 20. **Dog sitter for Koda — wedding weekend.** Book by **2.5 months out = ~August 7, 2027.**
 21. **Seating chart.** Draft as RSVPs come in (September–early October 2027, per the mid-Sep RSVP deadline). Finalize once headcount locks at the **Oct 12, 2027 Final Meeting** — target **October 13-15, 2027**, well ahead of rehearsal (Oct 21).
 22. **Bridesmaid dresses — order.** Standard guidance: order 6-8 months before the wedding for production + alterations lead time. **Target: March 2027.** Final alterations closer to the date, ~August-September 2027 (same logic as Will's suit).
-23. **Villa Solara — confirm beds filled + payback collected.** House is already fully paid/booked, but need to confirm all rooms are actually claimed by guests and everyone's repaid Will + Elena. **Target: end of August 2027.**
+23. **Villa Solara — confirm beds filled.** House is already fully paid/booked, but need to confirm all rooms are actually claimed by guests. **Target: end of August 2026**, ahead of the **December 2026** guest payback deadline.
 
 ## Hotel Block — Current State (updated 2026-06-07)
 
