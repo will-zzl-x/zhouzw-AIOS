@@ -256,6 +256,10 @@ _DISTINGUISHERS = {
     # (Light/Dark/plain soy; reduced-sodium variants). One-sided presence ->
     # different product -> no match (audit 2026-06-14 #14).
     "light", "dark", "reduced",
+    # "cream" distinguishes dairy products (cream cheese != shredded/other cheese,
+    # sour cream != cream). Added 2026-07-18: a generic "Shredded cheese" need was
+    # reading fat-free CREAM cheese as coverage (validate-cycle false-OK lesson).
+    "cream",
 }
 
 # A few aliases where the short name uses a different head noun than the recipe.

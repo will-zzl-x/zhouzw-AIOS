@@ -21,7 +21,7 @@ def _grocery(cycle):
 def test_zero_qty_snapshot_does_not_fake_coverage():
     """On the live Banff cycle, crushed tomatoes (not on hand; only a Roma:0
     placeholder shares the 'tomatoes' token) must be a BUY, not covered/CHECK."""
-    out = _grocery(ROOT / "cycles" / "2026-06-27.yaml")
+    out = _grocery(ROOT / "cycles" / "archive" / "2026-06-27.yaml")
     # find the crushed tomatoes line
     line = next((l for l in out.splitlines() if "Crushed tomatoes" in l), "")
     assert line, "crushed tomatoes line missing from grocery output"
@@ -32,6 +32,6 @@ def test_zero_qty_snapshot_does_not_fake_coverage():
 def test_real_quantity_still_covers():
     """Sanity: items with a REAL on-hand quantity still net as covered (chicken/beef),
     so the zero-guard didn't over-correct into false BUYs."""
-    out = _grocery(ROOT / "cycles" / "2026-06-27.yaml")
+    out = _grocery(ROOT / "cycles" / "archive" / "2026-06-27.yaml")
     chick = next((l for l in out.splitlines() if "Raw chicken breast" in l), "")
     assert "covered" in chick.lower(), f"chicken should stay covered, got: {chick.strip()}"

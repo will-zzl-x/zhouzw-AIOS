@@ -127,12 +127,35 @@ def check_cycle(cycle_path):
     return fails, warns, cycle
 
 
+def check_prior_deplete(cycle_path):
+    """DEPLETE-NUDGE (warn, never fail; never auto-applies). If the cycle
+    immediately BEFORE this one was never `deplete --apply`'d (per
+    data/deplete_log.json), inventory.json still carries last week's consumed
+    quantities — so grocery/validate-cycle for THIS cycle will trust stale
+    numbers. Surface it loudly and tell Will the exact command to run first."""
+    prior = models.prior_cycle_path(cycle_path)
+    if not prior:
+        return []
+    applied = {str(e.get("cycle", "")) for e in models.load_deplete_log()["applied"]}
+    if prior.stem in applied:
+        return []
+    rel = prior.relative_to(models.ROOT) if str(prior).startswith(str(models.ROOT)) else prior
+    return [
+        f"DEPLETE NUDGE — prior cycle {prior.stem} was never depleted "
+        f"(no `deplete --apply` on record in data/deplete_log.json). "
+        f"inventory.json likely still holds quantities that week already consumed, "
+        f"so this cycle's grocery/validate-cycle will over-trust on-hand stock. "
+        f"Run FIRST:  python scripts/deplete.py {rel.as_posix()} --apply"
+    ]
+
+
 def preflight(cycle_path):
     print("== PREFLIGHT ==")
     all_fails, all_warns = [], []
     rf, rw = check_recipes(); all_fails += rf; all_warns += rw
     inf, inw = check_inventory(); all_fails += inf; all_warns += inw
     cf, cw, _ = check_cycle(cycle_path); all_fails += cf; all_warns += cw
+    all_warns += check_prior_deplete(cycle_path)
     for f in all_fails:
         print(f"  ⛔ FAIL: {f}")
     for w in all_warns:
@@ -204,6 +227,7 @@ def main():
         rf, rw = check_recipes(); pf_fails += rf; pf_warns += rw
         inf, inw = check_inventory(); pf_fails += inf; pf_warns += inw
         cf, cw, _ = check_cycle(cycle_path); pf_fails += cf; pf_warns += cw
+        pf_warns += check_prior_deplete(cycle_path)
         report = {
             "cycle_date": cycle.date,
             "cycle_file": Path(cycle_path).name,

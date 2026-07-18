@@ -99,20 +99,56 @@ token-efficient by design: the weekly loop is deterministic Python — run the s
 do NOT reason through serving math / grocery aggregation / scheduling yourself.** Only
 four tasks spend tokens, via the prompt templates in `meal-planning/ai/`.
 
+**Cycle layout:** the CURRENT cycle (`cycles/<date>.yaml` + `<date>-cook-plan.md`)
+sits at the TOP LEVEL of `meal-planning/cycles/`; all past cycles are in
+`cycles/archive/` (see `cycles/README.md` for the index + CURRENT pointer — keep it
+updated when a new cycle starts). Never delete archived cycles.
+
+**Planning order (Will's preferences — encoded in `data/config.yaml`):**
+1. `deplete --apply` the FINISHED cycle first (the `make week` preflight nudges if
+   skipped). Only then plan the new week — otherwise inventory lies.
+2. **COVER-FIRST:** lock Elena's meals first (only things she likes —
+   `data/tier_list.yaml`), then fill Will's around her. `make coverage` leads
+   with her gap analysis.
+3. Weekend-cook model: all cooking Sat+Sun (3-4 cooks Sat — aging-ingredient dish
+   is cook #1 — + 3-4 preps Sun); Sat M2 = hot dogs; fresh-vs-frozen pack swap
+   when a cook moves earlier; day-old rice for fried rice. Cycles are Sat→Fri;
+   Walmart order Fri night, Costco Sat AM.
+4. Macro closer = larger portion of an existing high-protein item (7oz
+   breaded-chunk bowl ≈ 410 cal/39g) — NOT whey/cottage-cheese/egg snacks. Fill
+   with on-hand first, then in-season fruit; bananas only in shakes; shakes get
+   flax + chia. (`config.cut.macro_closer`)
+
 **Deterministic loop (NO TOKENS — run the script, report the output):**
 
 | Ask | Command (from `meal-planning/`) |
 |---|---|
-| start a new week | `make new-cycle` (or `python scripts/new_cycle.py`) |
-| what's covered / what's short | `make coverage` |
+| start a new week | `make new-cycle` (writes top-level cycle, auto-archives the old one) |
+| run the whole weekly check | `make week` (preflight incl. deplete-nudge + coverage + grocery + defrost + schedule) |
+| what's covered / what's short | `make coverage` (Elena cover-first leads) |
 | grocery list | `make grocery` |
+| is every ingredient really on hand? | `make validate-cycle` — per-recipe checklist vs inventory.json; covered = name match AND qty>0 AND unit-convertible AND enough. Run before shopping; surface every ⚠ to Will, never assume. |
 | defrost schedule | `make defrost` |
 | cook order | `make schedule` |
-| update pantry after the week | `make deplete APPLY=1` |
+| phone cook plan | `make cook-plan` — generates `cycles/<date>-cook-plan.md` scaffold; hand-finish day mapping, then commit + push (phone access) |
+| update pantry after the week | `make deplete APPLY=1` (records to `data/deplete_log.json`) |
 | check the recipe DB | `make validate` |
+| run the regression tests | `make test` |
 
 (`make` may be absent on Windows — fall back to `python scripts/<name>.py`.
 `recipes.json` is the source of truth; never modify recipe data.)
+
+**inventory_snapshot ADDS, never overrides:** a cycle's `inventory_snapshot` adds
+to `data/inventory.json` — listing an item tracked in both double-counts it.
+Deplete the finished cycle first; snapshot only genuinely NEW purchases (or better,
+add them to inventory.json and leave the snapshot empty).
+
+**Git model (single branch, always push):** the AIOS repo default branch is
+`master`. Phone/web sessions commit to `master`; laptop meal work commits
+`meal-planning/` paths to `master` and PUSHES immediately (the cook plan is read
+on Will's phone). Never work on a stale side-branch — that's what caused the
+2026-06-27 banff-cycle divergence. If push is rejected, `git pull --rebase` and
+push; stop if conflicts touch non-meal files.
 
 **AI touchpoints (TOKENS — only these four):** read the matching template in
 `meal-planning/ai/` and follow its output contract:

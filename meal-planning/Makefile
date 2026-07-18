@@ -7,19 +7,22 @@ PY ?= python
 SCRIPTS := scripts
 CYCLE ?=        # optional: make coverage CYCLE=cycles/2026-06-07.yaml
 
-.PHONY: help new-cycle week coverage grocery defrost schedule deplete deplete-apply validate demo
+.PHONY: help new-cycle week coverage grocery defrost schedule deplete deplete-apply validate validate-cycle cook-plan test demo
 
 help:
 	@echo "Meal-planning loop (all no-tokens):"
-	@echo "  make new-cycle   - interactive: write cycles/<date>.yaml"
-	@echo "  make week        - PREFLIGHT + coverage + grocery + defrost + schedule (the weekly run)"
-	@echo "  make coverage    - needed vs planned per slot/person; prints gaps"
-	@echo "  make grocery     - aggregate ingredients x servings - inventory, by store"
-	@echo "  make defrost     - freezer->fridge move schedule"
-	@echo "  make schedule    - ordered cook plan for the cycle"
-	@echo "  make deplete     - dry-run inventory depletion (add APPLY=1 to write)"
-	@echo "  make validate    - recipe DB schema + integrity (add STRICT=1 to harden)"
-	@echo "  make demo        - validate + coverage + grocery + defrost + schedule on latest cycle"
+	@echo "  make new-cycle      - interactive: write cycles/<date>.yaml (auto-archives the prior cycle)"
+	@echo "  make week           - PREFLIGHT (incl. deplete-nudge) + coverage + grocery + defrost + schedule"
+	@echo "  make coverage       - needed vs planned per slot/person; Elena (cover-first) leads"
+	@echo "  make grocery        - aggregate ingredients x servings - inventory, by store"
+	@echo "  make defrost        - freezer->fridge move schedule"
+	@echo "  make schedule       - ordered cook plan for the cycle"
+	@echo "  make validate-cycle - per-ingredient inventory check for the cycle (file value vs need, flags short/zero/missing)"
+	@echo "  make cook-plan      - generate cycles/<date>-cook-plan.md scaffold (phone artifact)"
+	@echo "  make deplete        - dry-run inventory depletion (add APPLY=1 to write)"
+	@echo "  make validate       - recipe DB schema + integrity (add STRICT=1 to harden)"
+	@echo "  make test           - run the regression tests (scripts/tests/)"
+	@echo "  make demo           - validate + coverage + grocery + defrost + schedule on latest cycle"
 	@echo ""
 	@echo "AI (TOKENS, run by hand — not make): ai/vet_recipe.md, ai/suggest_recipes.md,"
 	@echo "  ai/produce_pairing.md, ai/troubleshoot.md"
@@ -47,6 +50,15 @@ deplete:
 
 validate:
 	@$(PY) $(SCRIPTS)/validate.py $(if $(STRICT),--strict,)
+
+validate-cycle:
+	@$(PY) $(SCRIPTS)/validate_cycle.py $(CYCLE)
+
+cook-plan:
+	@$(PY) $(SCRIPTS)/cook_plan.py $(CYCLE) $(if $(FORCE),--force,)
+
+test:
+	@$(PY) -m pytest $(SCRIPTS)/tests -q
 
 demo: validate coverage grocery defrost schedule
 	@echo ""

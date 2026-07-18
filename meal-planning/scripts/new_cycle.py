@@ -6,9 +6,15 @@ cycles/<YYYY-MM-DD>.yaml in the schema the other scripts read. Interactive by
 default; supports --noninteractive to emit a skeleton (used by tests / Makefile
 demo so the loop never blocks on stdin).
 
+Always writes to the TOP LEVEL of cycles/ (the current-cycle spot) and then
+auto-archives any older top-level cycle (yaml + its <date>-*.md artifacts) into
+cycles/archive/ — so the top level only ever holds the cycle you're living in
+(see cycles/README.md). Pass --keep-old to skip the auto-archive.
+
 Usage:
   python new_cycle.py                 # interactive prompts
   python new_cycle.py --noninteractive [--date YYYY-MM-DD]   # skeleton cycle
+  python new_cycle.py --keep-old      # don't auto-archive the prior cycle
 """
 import sys
 from datetime import date, timedelta
@@ -91,11 +97,20 @@ def interactive():
         carryover.append({"recipe_id": rid, "servings": int(ask("    servings", "0"))})
 
     # inventory_snapshot — items already on hand for THIS cycle that reduce the
-    # grocery list. grocery.py + deplete.py net these out by (name, amount, unit),
-    # so populating it here prevents the false-positive BUYs flagged in retro #1/#12
+    # grocery list. grocery.py nets these out via the fuzzy matcher, so populating
+    # it here prevents the false-positive BUYs flagged in retro #1/#12
     # (the 2026-06-06 cycle had 20+ hand-struck buys because this was left empty).
+    #
+    # ⚠ ADD SEMANTICS: snapshot entries ADD to the on-hand pool ON TOP OF
+    # data/inventory.json — they do NOT override or replace it. Re-listing an
+    # item that's already in inventory.json DOUBLE-COUNTS it (this caused real
+    # double-counting earlier). Correct pattern: run `deplete --apply` for the
+    # finished cycle FIRST so inventory.json is true, then use the snapshot ONLY
+    # for genuinely new purchases / items not tracked in inventory.json.
     inventory_snapshot = []
     print("\nItems already on hand for this cycle (reduce the grocery list). Blank name to finish.")
+    print("  NOTE: these ADD to data/inventory.json (not override) — don't re-list items")
+    print("  already tracked there, or they double-count. New/untracked purchases only.")
     while True:
         nm = ask("  on-hand item name")
         if not nm:
@@ -123,8 +138,30 @@ def skeleton(d=None):
     }
 
 
+def archive_prior_cycles(new_stem):
+    """Move every OTHER top-level cycle (yaml + its <date>-*.md artifacts:
+    cook-plan, grocery, retro, ...) into cycles/archive/, so the top level only
+    holds the new current cycle. Non-destructive: files are MOVED, never
+    deleted; an existing archive file of the same name is left alone (the
+    top-level copy stays put and is reported for manual review)."""
+    moved, skipped = [], []
+    models.CYCLES_ARCHIVE.mkdir(exist_ok=True)
+    for p in sorted(models.CYCLES.glob("*.yaml")):
+        if p.stem == new_stem:
+            continue
+        for f in [p] + sorted(models.CYCLES.glob(f"{p.stem}-*.md")):
+            dest = models.CYCLES_ARCHIVE / f.name
+            if dest.exists():
+                skipped.append(f.name)
+                continue
+            f.rename(dest)
+            moved.append(f.name)
+    return moved, skipped
+
+
 def main():
     noninteractive = "--noninteractive" in sys.argv
+    keep_old = "--keep-old" in sys.argv
     dval = None
     if "--date" in sys.argv:
         dval = sys.argv[sys.argv.index("--date") + 1]
@@ -141,7 +178,17 @@ def main():
     models.CYCLES.mkdir(exist_ok=True)
     out.write_text(to_yaml(cyc), encoding="utf-8")
     print(f"Wrote {out}")
-    print("Next: make coverage   (then grocery / defrost / schedule)")
+
+    if not keep_old:
+        moved, skipped = archive_prior_cycles(cdate)
+        if moved:
+            print(f"Archived prior cycle file(s) -> cycles/archive/: {', '.join(moved)}")
+            print("  -> update cycles/README.md (new row on top + move the CURRENT pointer)")
+        if skipped:
+            print(f"  ⚠ left at top level (same name already in archive/): {', '.join(skipped)}")
+
+    print("Next: make week   (preflight will nudge if the prior cycle was never depleted)")
+    print("Then: make validate-cycle   (per-ingredient inventory check before shopping)")
 
 
 if __name__ == "__main__":

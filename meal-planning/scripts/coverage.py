@@ -19,7 +19,7 @@ from collections import defaultdict
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from lib import models
 
-CYCLE_DAYS = 7  # Sat -> Sat
+CYCLE_DAYS = 7  # Sat -> Fri, 7 days (all cooking Sat+Sun; week eats leftovers)
 
 
 def build_need(config):
@@ -110,8 +110,15 @@ def compute_coverage(config, recipes, cycle):
         else:
             dist[(who, slot)] += n
 
+    # COVER-FIRST ordering (Will 2026-07-18: "I need to make sure her meals are
+    # covered with things she likes and then I'll fill in mine"). The member in
+    # config.planning.cover_first (default Elena) sorts FIRST in rows/gaps, and
+    # the text render leads with that member's gap analysis — plan their
+    # coverage first, then fill the other member's meals around it.
+    cover_first = str((config.get("planning", {}) or {}).get("cover_first", "Elena"))
+
     rows, gaps = [], []
-    for (mid, slot) in sorted(need):
+    for (mid, slot) in sorted(need, key=lambda k: (k[0] != cover_first, k)):
         nd = need[(mid, slot)]
         pl = dist.get((mid, slot), 0)
         gap = nd - pl
@@ -121,6 +128,7 @@ def compute_coverage(config, recipes, cycle):
 
     return {
         "cycle_date": cycle.date,
+        "cover_first": cover_first,
         "rows": rows,
         "gaps": gaps,
         "total_short": sum(g["short"] for g in gaps),
@@ -129,9 +137,26 @@ def compute_coverage(config, recipes, cycle):
 
 
 def render_text(result, cycle_path):
-    lines = [f"Coverage — cycle {result['cycle_date']} ({Path(cycle_path).name})",
-             f"{'Member':6} {'Slot':4} {'Need':>5} {'Planned':>8} {'Gap':>5}",
-             "-" * 32]
+    lines = [f"Coverage — cycle {result['cycle_date']} ({Path(cycle_path).name})"]
+
+    # Lead with the cover-first member's gap analysis (plan her coverage first —
+    # only meals she likes, per data/tier_list.yaml — THEN fill Will's around it).
+    cf = result.get("cover_first")
+    if cf:
+        cf_rows = [r for r in result["rows"] if r["member"] == cf]
+        cf_gaps = [g for g in result["gaps"] if g["member"] == cf]
+        lines.append(f"\n== COVER FIRST: {cf} — lock her meals (tier list) before filling the rest ==")
+        for r in cf_rows:
+            mark = f"  <-- GAP: short {r['gap']}" if r["gap"] > 0 else "  ✓"
+            lines.append(f"  {cf} {r['slot']}: need {r['need']}, planned {r['planned']}{mark}")
+        if cf_gaps:
+            lines.append(f"  -> FILL {cf}'s gaps FIRST (things she likes — data/tier_list.yaml), then Will's.")
+        else:
+            lines.append(f"  {cf} fully covered — now fill the remaining meals around her.")
+        lines.append("")
+
+    lines += [f"{'Member':6} {'Slot':4} {'Need':>5} {'Planned':>8} {'Gap':>5}",
+              "-" * 32]
     for r in result["rows"]:
         flag = "  <-- GAP" if r["gap"] > 0 else ("  (over)" if r["gap"] < 0 else "")
         lines.append(f"{r['member']:6} {r['slot']:4} {r['need']:>5} {r['planned']:>8} {r['gap']:>5}{flag}")

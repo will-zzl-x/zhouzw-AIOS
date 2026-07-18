@@ -120,8 +120,29 @@ def main():
         from lib import inv_io
         inv_io.write_inventory(raw, inv_path)
         print(f"\nWrote {inv_path}")
+        _record_apply(cycle_path)
     else:
         print("\nDry-run only. Re-run with --apply to write data/inventory.json.")
+
+
+def _record_apply(cycle_path):
+    """Append/refresh this cycle in data/deplete_log.json so run_week.py's
+    preflight knows the cycle's consumption HAS been drawn down (the deplete-
+    nudge). Upserts by cycle stem; best-effort (a log failure never blocks the
+    inventory write that already happened)."""
+    from datetime import date
+    try:
+        log = models.load_deplete_log()
+        stem = Path(cycle_path).stem
+        log["applied"] = [e for e in log["applied"] if e.get("cycle") != stem]
+        log["applied"].append({"cycle": stem, "applied_at": date.today().isoformat()})
+        log["applied"].sort(key=lambda e: str(e.get("cycle", "")))
+        with open(models.DEPLETE_LOG_PATH, "w", encoding="utf-8") as f:
+            json.dump(log, f, indent=2)
+            f.write("\n")
+        print(f"Recorded in {models.DEPLETE_LOG_PATH.name} (clears the run_week deplete-nudge).")
+    except Exception as e:  # pragma: no cover — never fail the apply over the log
+        print(f"  ⚠ could not update {models.DEPLETE_LOG_PATH.name}: {e}")
 
 
 if __name__ == "__main__":

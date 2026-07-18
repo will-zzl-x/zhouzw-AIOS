@@ -3,10 +3,30 @@
 
 household:
   location: Chandler, AZ
-  cycle: Sat-to-Sat
+  cycle: Sat-to-Fri            # 7 days; ALL cooking happens Sat+Sun, week eats leftovers/reheats
   grocery:
     walmart_order: Friday night   # online order
     costco_run: Saturday morning
+
+# Planning order + weekly-workflow preferences (encoded from the 2026-07-18 cycle —
+# how Will actually works; coverage.py / cook_plan.py read these).
+planning:
+  cover_first: Elena   # plan Elena's coverage FIRST (only meals she likes — data/tier_list.yaml),
+                       # THEN fill Will's meals around it. coverage.py leads with her gap analysis.
+  deplete_before_plan: true   # run `deplete --apply` on the finished cycle BEFORE planning the
+                              # next one (run_week preflight nudges via data/deplete_log.json)
+
+weekend_cook:
+  model: all cooking Sat+Sun; the week eats leftovers/reheats
+  saturday: >-
+    3-4 cooks — the AGING-INGREDIENT dish is always cook #1 (e.g. coleslaw -> egg-roll
+    ramen 7/18); rotisserie breakdown; cook rice TODAY for any Sunday fried rice (day-old rule)
+  saturday_m2: hot dogs — Will's standing no-cook Saturday lunch (cycle exception, not a recipe)
+  sunday: 3-4 preps
+  pack_swap: >-
+    when a cook moves EARLIER, give it a FRESH same-day-bought protein pack (no thaw
+    needed) and let the frozen packs thaw freezer->fridge for the LATER cook (7/18 — #36 took
+    the fresh Costco pack, freezer breasts thawed for Sunday's #41 fried rice)
 
 members:
   - id: Will
@@ -49,6 +69,17 @@ cut:
     carb-forward low-fat refeed. Japanese / Vietnamese / Korean best.
     Mediterranean OK if lean-ordered (grilled protein + rice/pita; go easy on
     hummus/falafel/gyro/oil).
+  # MACRO CLOSER — how to close the day's remaining protein/calories (Will 7/17-18).
+  macro_closer:
+    preferred: >-
+      larger portion of an existing high-protein item — e.g. bump the breaded-chunk
+      bowl to 7oz (~410 cal / ~39g protein). Scale UP a meal already in the plan.
+    avoid: [whey top-ups, cottage cheese, hard-boiled eggs]   # Will dislikes snacking on these
+    fill_order: [on-hand items FIRST, then in-season fruit]   # check inventory + data/seasonal.yaml
+    fruit: >-
+      bananas ONLY in shakes, never as standalone fruit (rejected 7/17); pineapple was the
+      in-season pick — cube Sunday into M3 fruit cups
+    shakes: always add flax + chia
 
 # Meal-type split — which recipe pool feeds which meals.
 meal_type_split:
@@ -95,7 +126,9 @@ cooking_rules:
   - dissolve bouillon in warm water first
   - electric-stove Dutch oven preheat 60-90s max, water-drop test (burn risk)
   - always break down rotisserie Saturday
-  - day-old chilled rice for fried rice
+  - day-old chilled rice for fried rice — cook the rice SATURDAY, fry SUNDAY
+  - the aging-ingredient dish is always weekend cook #1 (freshness_urgency)
+  - pack swap — a cook moved earlier uses a FRESH same-day-bought protein pack; frozen packs thaw for the later cook
   - air-fried kale goes limp in storage; sauté for batch containers, air-fry only fresh-day
 
 # Cook-ordering weights for cook_schedule.py (lower = cook earlier).

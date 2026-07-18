@@ -49,6 +49,13 @@ def main():
 
     # On-hand pool: persistent pantry (data/inventory.json) PLUS this cycle's
     # inventory_snapshot (items Will flagged as already on hand for THIS week).
+    #
+    # ⚠ ADD SEMANTICS (caused real double-counting): the snapshot ADDS to
+    # inventory.json — it does NOT override it. An item listed in BOTH is
+    # counted twice here. Correct pattern: `deplete --apply` the finished cycle
+    # first (inventory.json becomes true), then snapshot ONLY genuinely new
+    # purchases / items inventory.json doesn't track. See README "inventory_snapshot".
+    #
     # Bug #1 fix: grocery now reads cycle.inventory_snapshot exactly like deplete
     # does, so snapshot items stop showing up as false BUYs. Each entry keeps its
     # display name so fuzzy matching (bug #2) can run per-entry, not via a strict

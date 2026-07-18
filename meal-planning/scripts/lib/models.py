@@ -20,6 +20,8 @@ SCRIPTS_DIR = Path(__file__).resolve().parent.parent
 ROOT = SCRIPTS_DIR.parent                      # meal-planning/
 DATA = ROOT / "data"
 CYCLES = ROOT / "cycles"
+CYCLES_ARCHIVE = CYCLES / "archive"            # past cycles live here (preserved, never deleted)
+DEPLETE_LOG_PATH = DATA / "deplete_log.json"   # cycles whose consumption was drawn down (deplete --apply)
 RECIPES_PATH = DATA / "recipes.json"
 CONFIG_PATH = DATA / "config.yaml"
 INVENTORY_PATH = DATA / "inventory.json"
@@ -134,6 +136,10 @@ class Cycle:
     exceptions: List[Dict[str, Any]] = field(default_factory=list)   # dining-out / covered meals
     carryover: List[Dict[str, Any]] = field(default_factory=list)    # leftover servings from last cycle
     selections: List[Dict[str, Any]] = field(default_factory=list)   # {recipe_id, planned_servings, slot_assignments}
+    # ⚠ ADD semantics: inventory_snapshot ADDS to data/inventory.json (never
+    # overrides). Listing an item that's already in inventory.json double-counts
+    # it in grocery/validate-cycle. Deplete the prior cycle first; snapshot only
+    # genuinely NEW purchases. See README "inventory_snapshot".
     inventory_snapshot: List[Dict[str, Any]] = field(default_factory=list)
 
     @classmethod
@@ -202,5 +208,42 @@ def load_cycle(path: Path) -> Cycle:
 
 
 def latest_cycle_path() -> Optional[Path]:
+    """Newest TOP-LEVEL cycle yaml. Deliberately non-recursive: past cycles are
+    moved to cycles/archive/ (see cycles/README.md) and must NOT be picked up
+    here — the top level holds only the current cycle, so `make week` with no
+    CYCLE arg always runs the current one. Filenames are ISO dates, so
+    lexicographic sort == chronological."""
     files = sorted(CYCLES.glob("*.yaml"))
     return files[-1] if files else None
+
+
+def all_cycle_paths() -> List[Path]:
+    """Every cycle yaml — top-level (current) plus cycles/archive/ (past),
+    sorted chronologically by filename date. For history-aware checks (e.g. the
+    run_week deplete-nudge) that need to see archived cycles too."""
+    files = list(CYCLES.glob("*.yaml"))
+    if CYCLES_ARCHIVE.exists():
+        files += list(CYCLES_ARCHIVE.glob("*.yaml"))
+    return sorted(files, key=lambda p: p.stem)
+
+
+def prior_cycle_path(current) -> Optional[Path]:
+    """The cycle immediately BEFORE `current` (by filename date), searching both
+    the top level and cycles/archive/. None if `current` is the oldest."""
+    cur_stem = Path(current).stem
+    older = [p for p in all_cycle_paths() if p.stem < cur_stem]
+    return older[-1] if older else None
+
+
+def load_deplete_log(path: Path = None) -> Dict[str, Any]:
+    """The deplete log: which cycles have had `deplete --apply` run (inventory
+    drawn down). Written by deplete.py, read by run_week.py's preflight nudge.
+    Shape: {"applied": [{"cycle": "<stem>", "applied_at": "...", ...}, ...]}."""
+    p = Path(path or DEPLETE_LOG_PATH)
+    if not p.exists():
+        return {"applied": []}
+    with open(p, encoding="utf-8") as f:
+        data = json.load(f)
+    if not isinstance(data, dict) or not isinstance(data.get("applied"), list):
+        return {"applied": []}
+    return data

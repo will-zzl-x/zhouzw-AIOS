@@ -100,6 +100,14 @@ def test_names_match_distinguishers_block_false_merge():
     assert names_match("Light soy sauce", "Soy sauce") is False
     assert names_match("Garlic powder", "Garlic") is False
 
+
+def test_names_match_cream_is_a_distinguisher():
+    """REGRESSION (2026-07-18 validate-cycle lesson): CREAM cheese must not cover a
+    generic shredded-cheese need (one-sided 'cream' = different product), while
+    same-product cream matches still hold."""
+    assert names_match("Shredded cheese (cheddar or Mexican blend)", "Fat-free cream cheese") is False
+    assert names_match("Fat free cream cheese", "Cream cheese") is True
+
 def test_names_match_unrelated_is_false():
     assert names_match("Chicken thighs", "Olive oil") is False
 
