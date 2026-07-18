@@ -94,7 +94,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 - **Element Scottsdale at SkySong** — 1345 N Scottsdale Rd, 85257. Watson-Zhou Wedding Block (DocuSign 71D8A884…). **$199/night Studio (2 Queen + Sofa) × 9 rooms × 3 nights.** $14/night parking. Sales: Rebecca Potter, rebecca.potter@elementskysong.com, (623) 244-3126. ~3.4 mi to Clayton House (~10-min drive).
 - **Ceremony drive** (all lodging → St. Andrew, Chandler): ~18 mi via Loop 101, 22–25 min off-peak; budget 30–40 min Friday afternoon.
 - **2-night Fri+Sat all-in:** Courtyard ≈ **$383** ($155×2 + tax + $15×2 parking) · Element ≈ **$481** ($199×2 + tax + $14×2 parking).
-3. **Wedding website** — Elena building it. Must be live by mid-August 2026 (URL → QR code → save-the-date design → print → send).
+3. **Wedding website** — Elena building it. Must be live by **October 2026** (pushed back from original mid-August target) — still ahead of the registry (Oct 2026) and save-the-dates (early Nov 2026), URL → QR code → save-the-date design → print → send.
 4. **Pre-Cana** — Elena contacted St. Andrew and got the session date locked (as of 2026-07-18). Full requirement breakdown below in **Pre-Cana / St. Andrew Marriage Prep** section.
 5. **Guest list complete** — missing last names/emails for several entries. Needed before save-the-dates.
 6. **Save-the-dates** — send early November 2026 (~11.5 months out, pushed back from original late-Sept/12-months-out plan — Elena's call, 13 months felt too far in advance). QR code to wedding website on card.
