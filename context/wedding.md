@@ -65,6 +65,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 ## Open Items (Priority Order)
 
 1. **Photographer — BOOKED**, deposit paid (post 5/18 meeting). $3,160 est. total, groom pays. Still confirm: videography (first dance) free per quote, no-drone rule at St. Andrew flagged to photographer.
+   - **Engagement shoot — November 2026**, included in photography package. Website likely gets updated with these photos once received.
 2. **Hotel room block — BOTH SIGNED** (Courtyard 5/28/26, Element 6/10/26). 19 rooms/night × 3 nights = **57 room nights** across two properties (vs. 30–40 target — inclusive of bridal-party rooms). Both **cut off Tue Sep 21, 2027**. Individuals book + pay their own. Tax 13.97%. Commission routed via Hotel Engine, LLC. (See Hotel Block — Current State section below for guest-math derivation, declined options, and remaining premium-tier chase.)
 - **Courtyard by Marriott Scottsdale Old Town** — 3311 N Scottsdale Rd, 85251. Ref M-WGJX5HE / HE-226261. **$155/night Run of House × 10 rooms × 3 nights.** $15/night self-parking, WiFi incl. Booking: ResLink, (800) 321-2211 x1, (480) 429-7785. Sales: Ruby Grieme, ruby.grieme@marriott.com, (949) 892-2128. ~1 mi to Clayton House (~4-min drive / ~15–20 min walk).
 - **Element Scottsdale at SkySong** — 1345 N Scottsdale Rd, 85257. Watson-Zhou Wedding Block (DocuSign 71D8A884…). **$199/night Studio (2 Queen + Sofa) × 9 rooms × 3 nights.** $14/night parking. Sales: Rebecca Potter, rebecca.potter@elementskysong.com, (623) 244-3126. ~3.4 mi to Clayton House (~10-min drive).
@@ -77,6 +78,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 7. **Elena's dress** — begin shopping by fall 2026. St. Andrew requires covered shoulders, no plunging neckline or back.
 8. **St. Andrew $400 balance** — due November 12, 2026.
 9. **Wedding insurance** — recommended by Wedgewood. Not purchased.
+10. **Wedding registry** — not started. Target: set up by October 2026, before save-the-dates ship — registry link goes on the website (not the physical card, per etiquette), so it should be live before guests start visiting the site.
 
 ## Hotel Block — Current State (updated 2026-06-07)
 
