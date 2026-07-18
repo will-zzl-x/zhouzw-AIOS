@@ -113,7 +113,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 19. **Bachelor party (Will) + bachelorette party (Elena)** — both want one. **Target: summer 2027.** Traditionally planned/hosted by best man / bridal party respectively, not the couple — confirm dates with Michael (best man) and MOH.
 20. **Dog sitter for Koda — wedding weekend.** Book by **2.5 months out = ~August 7, 2027.**
 21. **Seating chart.** Draft as RSVPs come in (September–early October 2027, per the mid-Sep RSVP deadline). Finalize once headcount locks at the **Oct 12, 2027 Final Meeting** — target **October 13-15, 2027**, well ahead of rehearsal (Oct 21).
-22. **Bridesmaid dresses — order.** Standard guidance: order 6-8 months before the wedding for production + alterations lead time. **Target: February-March 2027.** Final alterations closer to the date, ~August-September 2027 (same logic as Will's suit).
+22. **Bridesmaid dresses — order.** Standard guidance: order 6-8 months before the wedding for production + alterations lead time. **Target: March 2027.** Final alterations closer to the date, ~August-September 2027 (same logic as Will's suit).
 
 ## Hotel Block — Current State (updated 2026-06-07)
 
