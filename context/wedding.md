@@ -138,6 +138,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 32. **Wedding day emergency kit** — prepare **week of the wedding**. Contents TBD — worth a quick pass on a standard checklist (safety pins, stain remover, sewing kit, tissues, pain relievers, snacks, etc.) closer to the date.
 33. **Thank-you cards — buy** in **September 2027**. (Sent after the wedding.)
 34. **Name change paperwork** (SSA, DMV, passport, etc.) — **post-wedding task**, after Oct 22, 2027.
+35. **Clayton House food tasting** — expecting an invitation **fall 2026** (not yet received/confirmed). **Watch for it**; if nothing arrives by end of fall 2026 (~Nov 30), follow up with Bailee/Rileigh directly.
 
 ## Hotel Block — Current State (updated 2026-06-07)
 
