@@ -33,6 +33,21 @@ Last updated: 2026-07-18
 
 Note: Clayton House final payment cannot be personal check or ACH — debit/credit/cashier's check only.
 
+## Pre-Cana / St. Andrew Marriage Prep
+
+Full requirement breakdown (added 2026-07-18):
+
+1. **Marriage Preparation Inventory** — contact Deacon Ramsey to arrange. **Complete by August 2026.**
+2. **Class #1 — Life Skills course.** Starts **September 11, 2026**, 4 consecutive Thursday evenings + 1 Saturday. **$140/couple.** Held at St. Andrew.
+3. **Class #2 — God's Plan.** 1-day Saturday class. **$85.** Register at phxmarriageprep.org.
+4. **Class #3 — Natural Family Planning Instruction.** Completed **after Classes #1 and #2** are done. Register at phxmarriageprep.org.
+5. **Baptismal certificate (Elena, with notations)** — St. Andrew needs a new copy, due **9 months before the wedding = January 22, 2027**. Baptismal church: **Corpus Christi, Lawrence KS** (Elena to confirm — not 100% certain).
+6. **Wedding coordinator contact** — St. Andrew's coordinator will reach out **2 months before the wedding = August 22, 2027**.
+7. **Music coordinator outreach** — couple to reach out **2 months before the wedding = August 22, 2027** to confirm musician/singer.
+8. **Ceremony readings + prayer selections** — submit **1 month before the wedding = September 22, 2027**.
+9. **Meet with deacon/priest** — set up a get-to-know-the-couple appointment **1 month before the wedding = September 22, 2027**.
+10. **Confession (Elena)** — **1 week before the wedding = October 15, 2027**.
+
 ## Scheduled Meetings
 
 | Meeting | Date | Format |
@@ -76,7 +91,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 - **Ceremony drive** (all lodging → St. Andrew, Chandler): ~18 mi via Loop 101, 22–25 min off-peak; budget 30–40 min Friday afternoon.
 - **2-night Fri+Sat all-in:** Courtyard ≈ **$383** ($155×2 + tax + $15×2 parking) · Element ≈ **$481** ($199×2 + tax + $14×2 parking).
 3. **Wedding website** — Elena building it. Must be live by mid-August 2026 (URL → QR code → save-the-date design → print → send).
-4. **Pre-Cana** — Elena contacted St. Andrew and got the session date locked (as of 2026-07-18).
+4. **Pre-Cana** — Elena contacted St. Andrew and got the session date locked (as of 2026-07-18). Full requirement breakdown below in **Pre-Cana / St. Andrew Marriage Prep** section.
 5. **Guest list complete** — missing last names/emails for several entries. Needed before save-the-dates.
 6. **Save-the-dates** — send early November 2026 (~11.5 months out, pushed back from original late-Sept/12-months-out plan — Elena's call, 13 months felt too far in advance). QR code to wedding website on card.
 7. **Elena's dress** — begin shopping by fall 2026. St. Andrew requires covered shoulders, no plunging neckline or back.

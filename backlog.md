@@ -53,6 +53,15 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | invitations-send | 33 | Send wedding invitations | Wedding | side | blocked | window:2027-07 | invitations-design | Target July 2027 (~3 months out, earlier than standard 6-8 weeks given 86% OOT guests). RSVP deadline mid-Sep 2027, buffer before Oct 12 Final Meeting headcount lock. |
 | bridal-shower | 34 | Bridal shower — confirm date with MOH | Wedding | side | open | window:2027-08 | — | Target August 2027. Traditionally planned/hosted by MOH or bridal party, not the couple. |
 | photographer-shot-list | 35 | Draft + finalize photographer shot list | Wedding | side | open | deadline:2027-09-05 | — | Draft rough version summer 2027 (family/group combos take time), send finalized list by beginning of Sep 2027 — pulled earlier than standard for breathing room before Sep meetings. |
+| precana-marriage-inventory | 36 | Contact Deacon Ramsey — Marriage Preparation Inventory | Wedding | side | open | deadline:2026-08-31 | — | Complete by August 2026. |
+| precana-class1-life-skills | 37 | Pre-Cana Class #1 — Life Skills course | Wedding | side | open | deadline:2026-09-11 | — | Starts Sep 11, 2026. 4 consecutive Thursday evenings + 1 Saturday. $140/couple, at St. Andrew. |
+| precana-class2-gods-plan | 38 | Pre-Cana Class #2 — God's Plan | Wedding | side | open | window:2026-fall | — | 1-day Saturday class, $85. Register at phxmarriageprep.org. |
+| precana-class3-nfp | 39 | Pre-Cana Class #3 — Natural Family Planning Instruction | Wedding | side | blocked | window:after-class1-2 | precana-class1-life-skills,precana-class2-gods-plan | Register at phxmarriageprep.org. Must be completed after Classes #1 and #2. |
+| baptismal-cert-confirm | 40 | Elena — get new baptismal certificate w/ notations for St. Andrew | Wedding | side | open | deadline:2027-01-22 | — | Due 9 months before wedding. Baptismal church: Corpus Christi, Lawrence KS (Elena to confirm). |
+| music-coordinator-outreach | 41 | Reach out to St. Andrew music coordinator — confirm musician/singer | Wedding | side | open | deadline:2027-08-22 | — | Due 2 months before wedding. |
+| ceremony-readings-submit | 42 | Submit ceremony readings + prayer selections to St. Andrew | Wedding | side | open | deadline:2027-09-22 | — | Due 1 month before wedding. |
+| deacon-priest-meeting | 43 | Set up appointment with deacon/priest — get-to-know-the-couple meeting | Wedding | side | open | deadline:2027-09-22 | — | Due 1 month before wedding. |
+| elena-confession | 44 | Elena — go to confession | Wedding | side | open | deadline:2027-10-15 | — | Due 1 week before wedding. |
 
 ## Inbox (unranked) — sorted in next reflection
 
