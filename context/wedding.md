@@ -47,6 +47,9 @@ Full requirement breakdown (added 2026-07-18):
 8. **Ceremony readings + prayer selections** — submit **1 month before the wedding = September 22, 2027**.
 9. **Meet with deacon/priest** — set up a get-to-know-the-couple appointment **1 month before the wedding = September 22, 2027**.
 10. **Confession (Elena)** — **1 week before the wedding = October 15, 2027**.
+11. **Affidavit of Free Status** — two people per side (groom + bride), each completed by a parent or close friend, sealed at a parish.
+    - **Will's side:** Best man Michael — **first week of August 2026**. Will's mother — **November 2026, over Thanksgiving visit**.
+    - **Elena's side:** Her parents — **beginning of October 2026**, during Elena's visit to NWA.
 
 ## Scheduled Meetings
 

@@ -63,6 +63,9 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | deacon-priest-meeting | 43 | Set up appointment with deacon/priest — get-to-know-the-couple meeting | Wedding | side | open | deadline:2027-09-22 | — | Due 1 month before wedding. |
 | elena-confession | 44 | Elena — go to confession | Wedding | side | open | deadline:2027-10-15 | — | Due 1 week before wedding. |
 | marriage-license | 45 | Get marriage license — Maricopa County Clerk of Superior Court | Wedding | side | open | window:2027-09 | — | AZ license valid exactly 1 year from issue, no waiting period. Target early-to-mid Sep 2027 (~6 weeks out) — inside window with buffer, not last-minute. Both apply together. |
+| affidavit-will-michael | 46 | Affidavit of Free Status — Will's side, Michael (best man) | Wedding | side | open | deadline:2026-08-07 | — | First week of August 2026. Sealed at a parish. |
+| affidavit-will-mother | 47 | Affidavit of Free Status — Will's side, Will's mother | Wedding | side | open | window:2026-11 | — | November 2026, over Thanksgiving visit. Sealed at a parish. |
+| affidavit-elena-parents | 48 | Affidavit of Free Status — Elena's side, her parents | Wedding | side | open | window:2026-10-early | — | Beginning of October 2026, during Elena's visit to NWA. Sealed at a parish. |
 
 ## Inbox (unranked) — sorted in next reflection
 
