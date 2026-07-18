@@ -111,6 +111,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 17. **Bridal shower — target August 2027.** Traditionally planned/hosted by MOH or bridal party, not the couple — confirm date with MOH.
 18. **Marriage license — Maricopa County Clerk of Superior Court.** AZ licenses are valid exactly **1 year from issue date**, no waiting period. **Target: early-to-mid September 2027** (~6 weeks out) — comfortably inside the 1-year window with buffer, not last-minute. Both must apply together (some counties allow starting online, then in-person pickup).
 19. **Bachelor party (Will) + bachelorette party (Elena)** — both want one. **Target: summer 2027.** Traditionally planned/hosted by best man / bridal party respectively, not the couple — confirm dates with Michael (best man) and MOH.
+20. **Dog sitter for Koda — wedding weekend.** Book by **2.5 months out = ~August 7, 2027.**
 
 ## Hotel Block — Current State (updated 2026-06-07)
 

@@ -68,6 +68,7 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | affidavit-elena-parents | 48 | Affidavit of Free Status — Elena's side, her parents | Wedding | side | open | window:2026-10-early | — | Beginning of October 2026, during Elena's visit to NWA. Sealed at a parish. |
 | photographer-church-agreement | 49 | Get photographer to fill out St. Andrew church agreement, return by rehearsal | Wedding | side | open | deadline:2027-10-21 | — | Due back by rehearsal night (Oct 21, 2027). Send to photographer with lead time. Rehearsal time TBD — likely confirmed at ~Aug 22, 2027 coordinator meeting. |
 | bachelor-bachelorette-parties | 50 | Bachelor (Will) + bachelorette (Elena) parties — confirm dates | Wedding | side | open | window:2027-summer | — | Target summer 2027. Traditionally planned by best man (Michael) / MOH respectively, not the couple. |
+| dog-sitter-wedding-weekend | 51 | Book dog sitter for Koda — wedding weekend | Wedding | side | open | deadline:2027-08-07 | — | Book by 2.5 months out (~Aug 7, 2027). |
 
 ## Inbox (unranked) — sorted in next reflection
 
