@@ -90,15 +90,16 @@ selections:
       - { member: Both, slot: M4, servings: 2 }     # Sun 7/19 dinner
       - { member: Elena, slot: M2, servings: 2 }    # Wed + Thu lunches
 
-  # #36 Ginger-Scallion Chinese Chicken — SUNDAY cook (freezer breast pack)
+  # #36 Ginger-Scallion Chinese Chicken — SATURDAY cook #2 (moved up per Will 7/18)
   - recipe_id: "36"
     planned_servings: 4
     notes: |
-      SUNDAY cook #2. Uses a freezer breast pack (~1.5 packs / 2.06lb on hand — #41 fried
-      rice needs 25oz too; total breast need ~47oz vs ~33oz on hand -> BUY 1 more breast
-      pack at Costco Sat). Breast thaw 18–24h: move freezer→fridge FRI/SAT night.
-      Ginger-scallion sauce SAT night so it rests overnight (green onions + fresh ginger:
-      BUY — shared with #40 ramen). Eaten Mon as leftovers (cooked Sunday).
+      SATURDAY cook #2 (was Sunday — Will rebalanced 7/18: 4 cooks Sat / 3 preps Sun).
+      PACK SWAP: uses the FRESH Costco breast pack bought Sat AM (no thaw needed);
+      the freezer packs (~33oz) thaw Sat AM -> fridge for #41 fried rice Sunday.
+      Total breast need ~47oz vs ~33oz on hand -> the Sat Costco pack still covers.
+      Ginger-scallion sauce made Sat right after Costco run (few hours' rest, not
+      overnight — acceptable). Eaten Mon as leftovers (cooked Saturday, 2 days ahead).
     slot_assignments:
       - { member: Both, slot: M4, servings: 2 }     # Mon 7/20 dinner (leftover of Sun cook)
       - { member: Elena, slot: M2, servings: 1 }    # Fri lunch
@@ -109,8 +110,9 @@ selections:
     planned_servings: 5
     notes: |
       NEW (vetted 7/17). DAY-OLD RICE: cook the rice SATURDAY (counts toward Sat cooking),
-      fry SUNDAY. Needs 25oz breast (see #36 note — buy 1 extra pack), 3 eggs + egg-white
-      carton (BUY — eggs at 0), frozen mixed veg (Costco stir-fry bags on hand — confirm).
+      fry SUNDAY. Needs 25oz breast — now the THAWED FREEZER packs (swapped with #36,
+      which took the fresh Sat Costco pack; move freezer->fridge SAT MORNING). 3 eggs +
+      egg-white carton (BUY — eggs at 0), frozen mixed veg (Costco bags on hand — confirm).
       5 srv close Elena's remaining slots exactly: shared Wed dinner + her Thu/Fri dinners
       + her Tue lunch.
     slot_assignments:
@@ -119,11 +121,13 @@ selections:
       - { member: Elena, slot: M4, servings: 1 }    # Fri dinner
       - { member: Elena, slot: M2, servings: 1 }    # Tue lunch
 
-# WEEKEND COOK PLAN (all cooking on Sat+Sun per Will):
-#   SAT (2 cooks + prep): #40 egg-roll ramen (cook #1, shared dinner) · rice batch for #41
-#     (day-old prep) · hot dog M2 (no cook) · Costco run AM · break down rotisserie.
-#   SUN (3 cooks): #16 taco salad (shared dinner) · #36 ginger-scallion chinese chicken ·
-#     #41 chicken fried rice. Ginger-scallion sauce made SAT night (overnight rest).
+# WEEKEND COOK PLAN (all cooking on Sat+Sun per Will; rebalanced 7/18 — 4 Sat / 3 Sun):
+#   SAT (4 cooks): #40 egg-roll ramen (cook #1, shared dinner) · #36 ginger-scallion
+#     chinese chicken (fresh Costco pack; sauce made after Costco run) · rotisserie
+#     breakdown · #25 chipotle assembly · rice batch for #41 (day-old prep) · hot dog M2
+#     (no cook) · freezer breasts -> fridge SAT AM for #41.
+#   SUN (3 preps): #16 taco salad (shared dinner) · #41 chicken fried rice (thawed
+#     freezer breast) · #24 chunks bowls · cube pineapple.
 #   Week eats on leftovers/reheats: Mon #36 · Tue ramen(E)/chipotle(W) · Wed #41 shared ·
 #   Thu #41(E)/chipotle(W) · Fri #41(E)/chipotle or leftover-sweep(W).
 
