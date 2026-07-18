@@ -39,6 +39,8 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | q3-quarterly-review | 23 | Run /quarterly-review — Q3 quest reset | AIOS-Ritual | side | open | deadline:2026-08-24 | — | **Theme-1 applied to the ritual layer itself: the quarterly now has an external trigger instead of relying on memory.** Reads `archives/2026-annual-review.md` (themes steer quest picks) + rubric. Agenda already written in the annual review's closing note: re-scope `goals/acquisition.md` to small-first/CF-gated; promo must be shipped by then or it's agenda item #1. |
 | jan-annual-review | 24 | Run /annual-review — first anchored annual (Sun Jan 3, 2027) | AIOS-Ritual | side | open | deadline:2027-01-03 | — | First on-anchor annual (bootstrap ran Jul 12, 2026). Full cycle: celebrate/learn → rubric wheel trend → sketch re-write → theme refresh → buffer rule re-set. |
 
+| wedding-registry | 25 | Set up wedding registry | Wedding | side | open | deadline:2026-10-31 | — | Must be live before save-the-dates ship (early Nov 2026) — registry link goes on the website, not the physical card. |
+
 ## Inbox (unranked) — sorted in next reflection
 
 <!-- Mid-week captures land here. /mid-week-capture appends with date + area + gate. Sunday absorbs them into the ranked table. -->
