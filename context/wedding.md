@@ -68,6 +68,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 ## Open Items (Priority Order)
 
 1. **Photographer — BOOKED**, deposit paid (post 5/18 meeting). $3,160 est. total, groom pays. Still confirm: videography (first dance) free per quote, no-drone rule at St. Andrew flagged to photographer.
+   - **Shot list** — draft rough version summer 2027 (family/group combos take longer than expected), send finalized list to photographer by **mid-September 2027** (4-6 weeks out, standard guidance — batches with Sep 7 Details Meeting / Sep 22 DJ review).
    - **Engagement shoot — November 2026**, included in photography package. Website likely gets updated with these photos once received.
 2. **Hotel room block — BOTH SIGNED** (Courtyard 5/28/26, Element 6/10/26). 19 rooms/night × 3 nights = **57 room nights** across two properties (vs. 30–40 target — inclusive of bridal-party rooms). Both **cut off Tue Sep 21, 2027**. Individuals book + pay their own. Tax 13.97%. Commission routed via Hotel Engine, LLC. (See Hotel Block — Current State section below for guest-math derivation, declined options, and remaining premium-tier chase.)
 - **Courtyard by Marriott Scottsdale Old Town** — 3311 N Scottsdale Rd, 85251. Ref M-WGJX5HE / HE-226261. **$155/night Run of House × 10 rooms × 3 nights.** $15/night self-parking, WiFi incl. Booking: ResLink, (800) 321-2211 x1, (480) 429-7785. Sales: Ruby Grieme, ruby.grieme@marriott.com, (949) 892-2128. ~1 mi to Clayton House (~4-min drive / ~15–20 min walk).
