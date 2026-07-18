@@ -62,6 +62,7 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | ceremony-readings-submit | 42 | Submit ceremony readings + prayer selections to St. Andrew | Wedding | side | open | deadline:2027-09-22 | — | Due 1 month before wedding. |
 | deacon-priest-meeting | 43 | Set up appointment with deacon/priest — get-to-know-the-couple meeting | Wedding | side | open | deadline:2027-09-22 | — | Due 1 month before wedding. |
 | elena-confession | 44 | Elena — go to confession | Wedding | side | open | deadline:2027-10-15 | — | Due 1 week before wedding. |
+| marriage-license | 45 | Get marriage license — Maricopa County Clerk of Superior Court | Wedding | side | open | window:2027-09 | — | AZ license valid exactly 1 year from issue, no waiting period. Target early-to-mid Sep 2027 (~6 weeks out) — inside window with buffer, not last-minute. Both apply together. |
 
 ## Inbox (unranked) — sorted in next reflection
 

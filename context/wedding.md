@@ -105,6 +105,7 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 15. **Mystic Lites — canopy lighting over the rafters.** Extra-cost add-on (beyond Clayton House's included base lighting), already accounted for in the budget line. **Contact ASAP — target September 2026** for pricing + availability. Reasoning: October is peak season in Scottsdale (flagged elsewhere as a constraint — "lock in early"), and specialty decor/lighting vendors for peak-season dates commonly book out 12+ months ahead. Contacting now (~14 months out) protects the date before their calendar fills.
 16. **Invitations — Wedgewood credit ($575).** Code sent ~6 months out = **April 2027**. Plan: design in April–May 2027, send invitations **July 2027** (~3 months out — earlier than the standard 6-8 weeks given 86% OOT guests need travel lead time). **RSVP deadline: mid-September 2027**, buffer before guest count locks at the Oct 12 Final Meeting.
 17. **Bridal shower — target August 2027.** Traditionally planned/hosted by MOH or bridal party, not the couple — confirm date with MOH.
+18. **Marriage license — Maricopa County Clerk of Superior Court.** AZ licenses are valid exactly **1 year from issue date**, no waiting period. **Target: early-to-mid September 2027** (~6 weeks out) — comfortably inside the 1-year window with buffer, not last-minute. Both must apply together (some counties allow starting online, then in-person pickup).
 
 ## Hotel Block — Current State (updated 2026-06-07)
 
