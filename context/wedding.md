@@ -79,6 +79,8 @@ Catering (3-entree buffet + 6 appetizers), open bar (beer/wine/well liquor), wed
 8. **St. Andrew $400 balance** — due November 12, 2026.
 9. **Wedding insurance** — recommended by Wedgewood. Not purchased.
 10. **Wedding registry** — not started. Target: set up by October 2026, before save-the-dates ship — registry link goes on the website (not the physical card, per etiquette), so it should be live before guests start visiting the site.
+11. **Will's suit — State and Liberty, custom tailored.** Order/get measured ~May–June 2027 (4–5 months out, buffers production + alterations). Final fitting ~mid-September 2027 (4–6 weeks out) — can batch with the Sep 7 Clayton House Details Meeting trip.
+12. **Cake tasting — Piece of Cake Desserts.** Vendor guidance: schedule 4–6 months before the wedding → window is **April–June 2027**. (Clayton House's included package already covers "wedding cake" per the venue package — confirm whether Piece of Cake is a supplemental/upgrade vendor or the actual cake supplier when scheduling the tasting.)
 
 ## Hotel Block — Current State (updated 2026-06-07)
 

@@ -40,6 +40,9 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | jan-annual-review | 24 | Run /annual-review — first anchored annual (Sun Jan 3, 2027) | AIOS-Ritual | side | open | deadline:2027-01-03 | — | First on-anchor annual (bootstrap ran Jul 12, 2026). Full cycle: celebrate/learn → rubric wheel trend → sketch re-write → theme refresh → buffer rule re-set. |
 
 | wedding-registry | 25 | Set up wedding registry | Wedding | side | open | deadline:2026-10-31 | — | Must be live before save-the-dates ship (early Nov 2026) — registry link goes on the website, not the physical card. |
+| will-suit-order | 26 | Will's suit — order/get measured, State and Liberty custom | Wedding | side | open | deadline:2027-06-30 | — | Target May–June 2027 (4-5 months out, buffers production + alterations). |
+| will-suit-fitting | 27 | Will's suit — final fitting | Wedding | side | blocked | deadline:2027-09-30 | will-suit-order | Target mid-Sep 2027 (4-6 weeks out) — batch with Sep 7 Clayton House Details Meeting trip. |
+| cake-tasting-schedule | 28 | Schedule + attend cake tasting — Piece of Cake Desserts | Wedding | side | open | window:2027-04-to-06 | — | Vendor guidance: 4-6 months before wedding. Confirm whether they're supplemental/upgrade or the actual cake supplier vs. Clayton House's included package. |
 
 ## Inbox (unranked) — sorted in next reflection
 
