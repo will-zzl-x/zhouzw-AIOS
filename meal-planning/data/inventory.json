@@ -193,11 +193,11 @@
   },
   {
     "item": "Ground beef (90/10)",
-    "quantity": 6.22,
+    "quantity": 7.55,
     "unit": "lbs",
     "location": "freezer",
     "freshness_date": "2026-07-15",
-    "note": "Restored 2026-07-10 \u2014 Will confirmed still on hand. Quantity is the last logged amount (2026-06-22), not re-verified since; treat as approximate."
+    "note": "Retro-corrected 2026-07-17: ramen (#45) never cooked last cycle, its 1.33 lb restored. ~7.55 lb frozen."
   },
   {
     "item": "Fat-free cream cheese",
@@ -362,7 +362,7 @@
   },
   {
     "item": "Chicken bone broth",
-    "quantity": 120.0,
+    "quantity": 200,
     "unit": "g",
     "location": "pantry",
     "freshness_date": null,
@@ -370,7 +370,7 @@
   },
   {
     "item": "Honey",
-    "quantity": 63.0,
+    "quantity": 100,
     "unit": "g",
     "location": "pantry",
     "freshness_date": null,
@@ -442,11 +442,11 @@
   },
   {
     "item": "Chicken breast",
-    "quantity": 2.11,
+    "quantity": 3.44,
     "unit": "lb",
     "location": "freezer",
     "freshness_date": null,
-    "note": "Added 2026-07-11 - Costco run done, covers #41 (1.25lb) + #35 (1.33lb) + #39 (2lb) = 4.58lb needed."
+    "note": "Retro-corrected 2026-07-17: one pack (~1.33 lb) never cooked last cycle (which dish TBD - asked Will). ~3.44 lb."
   },
   {
     "item": "Rotisserie chicken",
@@ -458,10 +458,42 @@
   },
   {
     "item": "Vanilla ready-to-drink protein shake",
-    "quantity": 0.0,
+    "quantity": 14,
     "unit": "bottles",
     "location": "fridge",
     "freshness_date": null,
-    "note": "Added 2026-07-11 - Costco run done, covers #38."
+    "note": "Retro-corrected 2026-07-17: Will says ~2 weeks worth on hand (~14, approx)."
+  },
+  {
+    "item": "Whey protein powder",
+    "quantity": 30,
+    "unit": "scoops",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Shipped order arrived. Tub, ~30 scoops approx - adjust when known."
+  },
+  {
+    "item": "Coleslaw mix (bagged)",
+    "quantity": 667,
+    "unit": "g",
+    "location": "fridge",
+    "freshness_date": "2026-07-20",
+    "note": "Bought for uncooked ramen (#45) - perishable, use this cycle."
+  },
+  {
+    "item": "Instant ramen noodles",
+    "quantity": 3,
+    "unit": "packets",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Bought for uncooked ramen (#45)."
+  },
+  {
+    "item": "Shredded carrots",
+    "quantity": 200,
+    "unit": "g",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "Bought for uncooked ramen (#45)."
   }
 ]

@@ -1,19 +1,17 @@
 # Cycle Sat 2026-07-18 -> Fri 2026-07-24 — Reverse Diet Step 2 (Will) + Gaintain (Elena)
-# Planned 2026-07-12 via the documented workflow: deplete 2026-07-11 applied first
-# (inventory is true), config bumped to Step 2 (2,150 / 150P / 50F / 275C), skeleton ->
-# coverage gaps -> selections from the PROVEN roster (every dish below was confirmed or
-# cooked by Will in the 7/11 cycle; no fabricated recipes). Meals ~500 cal, remaining
-# carbs/cals from fruit (bananas/grapes/melon) — Step 2 adds +150 cal/day vs Step 1,
-# which lands almost entirely on the fruit budget, not bigger meals.
-#
-# Inventory use-up drivers: ground beef 6.22 lb on hand (Spaghetti 1.2 + Bibimbap 1.33
-# ≈ 2.5 used), chicken breast 2.11 lb on hand (need ~2.9 across #35+#39 — buy ~1 pack).
-#
-# OPEN DECISION (Will): the 4th M4 dish. Drafted #9 Bibimbap (A-tier, real June-cooked
-# recipe, uses the beef stash, ~480 cal est) — swap freely (burgers #23 / taco salad
-# #16 / repeat steak = buy steaks / another video recipe).
-# OPEN: Elena cycle_phase still says mid_luteal from ~7/10 — update if known.
-# OPEN: protein powder is shipping; if not arrived by 7/18, Will M1 leans on RTDs.
+# REBUILT 2026-07-17 after Will's retro feedback (the workflow now REQUIRES this
+# retro before selection - see health-os skill):
+# - Egg bake #36: cooked, DISLIKED -> benched. M2 anchor replacement TBD (asked).
+# - Korean chicken #39: cooked, not a hit -> benched.
+# - Spaghetti #10: liked but just had it -> spaced out, not this week.
+# - Ramen #45: NEVER COOKED last week - beef/coleslaw/noodles all on hand
+#   (coleslaw perishable) -> carried into this cycle as default.
+# - Chinese chicken #35: one chicken pack went uncooked last week - status asked.
+# - RTD shakes ~14 on hand; protein powder ARRIVED (both M1s covered, no buys).
+# CALORIES: Step 2 confirmed by Week-1 actuals (avg 179.8, FELL 0.7 lb on the
+# step-up) - 2,150 / 150P / 50F / 275C, meals ~500, fruit fills the rest.
+# OPEN GAPS pending Will's answers: Will M2 short 5, Elena M2 short 4,
+# Will M4 short 3, Elena M4 short 3.
 date: "2026-07-18"
 grocery_day: "2026-07-17"
 
@@ -32,16 +30,6 @@ selections:
     notes: "Elena M1 RTD shake. Stock is 0 — buy 7 bottles."
     slot_assignments:
       - { member: Elena, slot: M1, servings: 7 }
-
-  - recipe_id: "36"
-    planned_servings: 6
-    notes: |
-      Egg bake, proven this week at the 10-egg / 2c-white / 20oz-cottage ratio
-      (~265 cal / 30g protein per portion). One 9x13, cut 6, freeze 2. Split
-      4 Will / 2 Elena at M2, same as last cycle.
-    slot_assignments:
-      - { member: Will, slot: M2, servings: 4 }
-      - { member: Elena, slot: M2, servings: 2 }
 
   - recipe_id: "44"
     planned_servings: 2
@@ -75,24 +63,6 @@ selections:
     slot_assignments:
       - { member: Will, slot: M4, servings: 2 }
       - { member: Elena, slot: M4, servings: 2 }
-
-  - recipe_id: "39"
-    planned_servings: 4
-    notes: "Korean chicken, repeat at the settled 4-serving / 25oz-chicken scale."
-    slot_assignments:
-      - { member: Will, slot: M4, servings: 2 }
-      - { member: Elena, slot: M4, servings: 2 }
-
-  - recipe_id: "10"
-    planned_servings: 5
-    notes: |
-      Spaghetti (no-sausage, 12oz pasta, ~460 cal), repeat, lunch-first split
-      that worked this week. Uses 1.2 lb of the on-hand beef.
-    slot_assignments:
-      - { member: Will, slot: M2, servings: 1 }
-      - { member: Elena, slot: M2, servings: 2 }
-      - { member: Will, slot: M4, servings: 1 }
-      - { member: Elena, slot: M4, servings: 1 }
 
   - recipe_id: "9"
     planned_servings: 4

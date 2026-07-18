@@ -143,6 +143,15 @@ fast at Step 2, hold longer before Step 3.
   recipes where possible — home-cooked, pre-weighed meals cut estimation error
   far more than trying to count more carefully at restaurants (Hall's point,
   `references/hall.md`).
+
+**WEEK 1 ACTUAL (Step 1, 7/12–7/18 @ ~2,000):** weekly avg **179.8** vs final cut
+week's 180.5 — **fell ~0.7 lb despite the +180 cal step-up** (Banff water washout
+still flushing + 2,000 evidently still under true TDEE; Fri 7/17 spot 178.4 was
+the lowest since the cut ended). Per the plan's own rule this green-lights
+**Step 2 (2,150) on schedule Jul 19**. New trigger added: if the rolling avg is
+still clearly falling at 2,150 by ~Wed 7/22, pull Step 3 (~2,300) forward rather
+than waiting for Jul 26 — the empirical TDEE was, if anything, conservative.
+
 - **Feedback rule:** if the 7-day rolling weight avg jumps faster than ~0.5–1
   lb/week after a step-up, hold at that calorie level a few extra days before the
   next increase — let the scale trend gate the pace, not a rigid calendar.

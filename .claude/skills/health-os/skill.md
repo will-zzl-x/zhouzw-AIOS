@@ -117,6 +117,19 @@ Elena inherits or shares Will's phase.
 
 ### Full cycle-planning workflow, in order
 
+0a. **CYCLE RETRO — ASK THE USER BEFORE SELECTING ANYTHING. Never skip this.**
+   Planned ≠ cooked ≠ liked. Before building the next cycle, ask:
+   - What actually got cooked vs. skipped last cycle? (Correct `make deplete`'s
+     assumptions — un-deplete skipped dishes' ingredients, they're still on hand.)
+   - What did you like / dislike? (Bench dislikes in `recipes.json` with
+     `on_break: true` + a dated note; liked-but-just-had dishes get a rotation-
+     spacing note, not auto-repeated back-to-back.)
+   - Any weight/targets update, upcoming dining-out, travel, or schedule quirks?
+   Added 2026-07-17 after the 7/18 cycle was fully drafted on the assumption
+   that everything planned was cooked and liked — three dishes weren't, and the
+   whole draft had to be rebuilt. Auto-repeating a "proven roster" without this
+   check is the same class of error as trusting stale inventory.
+
 0. **Confirm current targets before touching recipes.** Read `context/daily-standard.md`
    CURRENT PHASE for Will's live macro target and `meal-planning/data/config.yaml`
    `members[].macro_targets` for both Will and Elena (structured version). If
