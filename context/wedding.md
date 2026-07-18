@@ -41,7 +41,7 @@ Full requirement breakdown (added 2026-07-18):
 2. **Class #1 — Life Skills course.** Starts **September 11, 2026**, 4 consecutive Thursday evenings + 1 Saturday. **$140/couple.** Held at St. Andrew.
 3. **Class #2 — God's Plan.** 1-day Saturday class. **$85.** Register at phxmarriageprep.org.
 4. **Class #3 — Natural Family Planning Instruction.** Completed **after Classes #1 and #2** are done. Register at phxmarriageprep.org.
-5. **Baptismal certificate (Elena, with notations)** — St. Andrew needs a new copy, due **9 months before the wedding = January 22, 2027**. Baptismal church: **Corpus Christi, Lawrence KS** (Elena to confirm — not 100% certain).
+5. **Baptismal certificate (Elena, with notations)** — St. Andrew needs a new copy. Standard guidance is 9 months out (Jan 22, 2027), but **pushed to February 2027**. Baptismal church: **Corpus Christi, Lawrence KS** (Elena to confirm — not 100% certain).
 6. **Wedding coordinator contact** — St. Andrew's coordinator will reach out **2 months before the wedding = August 22, 2027**.
 7. **Music coordinator outreach** — couple to reach out **2 months before the wedding = August 22, 2027** to confirm musician/singer.
 8. **Ceremony readings + prayer selections** — submit **1 month before the wedding = September 22, 2027**.
