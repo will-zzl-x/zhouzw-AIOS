@@ -10,8 +10,11 @@
 # - RTD shakes ~14 on hand; protein powder ARRIVED (both M1s covered, no buys).
 # CALORIES: Step 2 confirmed by Week-1 actuals (avg 179.8, FELL 0.7 lb on the
 # step-up) - 2,150 / 150P / 50F / 275C, meals ~500, fruit fills the rest.
-# OPEN GAPS pending Will's answers: Will M2 short 5, Elena M2 short 4,
-# Will M4 short 3, Elena M4 short 3.
+# RETRO ANSWERS APPLIED (2026-07-17): Chinese chicken was cooked & LIKED ->
+# doubled to 8 srv this week (2.66 of 3.44 lb chicken on hand - no chicken buy).
+# M2 anchor = Kirkland chunk meals (Will x7, Elena x4, frozen stir-fry veg side).
+# M4 remainder = Taco Salad #16 scaled 1.5x (6 srv, ~1.9 lb of the beef stash).
+# Bibimbap NOT picked - removed.
 date: "2026-07-18"
 grocery_day: "2026-07-17"
 
@@ -32,10 +35,14 @@ selections:
       - { member: Elena, slot: M1, servings: 7 }
 
   - recipe_id: "44"
-    planned_servings: 2
-    notes: "Kirkland chunks (~16 pieces, buy — stock 0) + veg/carb side of choice."
+    planned_servings: 11
+    notes: |
+      M2 ANCHOR per retro: chunk meals all week - Will x7, Elena x4. ~0.5 lb
+      chunks/meal = ~5.5 lb total (1-2 big Costco bags; extras keep frozen).
+      Side: frozen stir-fry veg (have 2 bags, buy 1 more big bag).
     slot_assignments:
-      - { member: Will, slot: M2, servings: 2 }
+      - { member: Will, slot: M2, servings: 7 }
+      - { member: Elena, slot: M2, servings: 4 }
 
   - recipe_id: "40"
     planned_servings: 3
@@ -58,24 +65,25 @@ selections:
       - { member: Will, slot: M3, servings: 4 }
 
   - recipe_id: "35"
-    planned_servings: 4
-    notes: "Chinese chicken, repeat. Chicken: ~1.33 lb of the on-hand + bought pool."
-    slot_assignments:
-      - { member: Will, slot: M4, servings: 2 }
-      - { member: Elena, slot: M4, servings: 2 }
-
-  - recipe_id: "9"
-    planned_servings: 4
+    planned_servings: 8
     notes: |
-      DRAFT PICK — Bibimbap at 4 servings (recipe is 6; scale beef to ~1.33 lb
-      of the on-hand stash, 4 eggs, 1 cup dry rice, 2/3 each of the cauli-rice/
-      shredded-carrot/spinach bags). A-tier, real June-cooked recipe, ~480 cal
-      est. WILL TO CONFIRM OR SWAP (burgers / taco salad / steak / other).
+      Cooked & liked last week -> DOUBLE batch (2x everything incl. sauce).
+      Uses 2.66 of the 3.44 lb chicken on hand - no chicken purchase needed.
     slot_assignments:
-      - { member: Will, slot: M4, servings: 2 }
-      - { member: Elena, slot: M4, servings: 2 }
+      - { member: Will, slot: M4, servings: 4 }
+      - { member: Elena, slot: M4, servings: 4 }
+
+  - recipe_id: "16"
+    planned_servings: 6
+    notes: |
+      Taco Salad, scaled 1.5x (recipe is 4 srv). ~1.9 lb of the 7.55 lb beef
+      stash. B-tier but Will picked it in the retro - lighter dinner (~450 est)
+      to balance the week.
+    slot_assignments:
+      - { member: Will, slot: M4, servings: 3 }
+      - { member: Elena, slot: M4, servings: 3 }
 
 inventory_snapshot: []
 
-# Coverage: Will M2 4+2+1=7, M3 3+4=7, M4 2+2+1+2=7; Elena M2 2+3+2=7, M4 2+2+1+2=7.
-# Fruit (not a tracked meal): bananas + grapes + melon — the Step 2 carb/cal filler.
+# Coverage: Will M2 7(chunks), M3 3+4, M4 4+3; Elena M2 3+4, M4 4+3 - all 7/7.
+# Fruit (bananas/grapes/melon) = untracked Step 2 carb/cal filler.
