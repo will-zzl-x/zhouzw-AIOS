@@ -70,6 +70,7 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | bachelor-bachelorette-parties | 50 | Bachelor (Will) + bachelorette (Elena) parties — confirm dates | Wedding | side | open | window:2027-summer | — | Target summer 2027. Traditionally planned by best man (Michael) / MOH respectively, not the couple. |
 | dog-sitter-wedding-weekend | 51 | Book dog sitter for Koda — wedding weekend | Wedding | side | open | deadline:2027-08-07 | — | Book by 2.5 months out (~Aug 7, 2027). |
 | seating-chart | 52 | Draft + finalize seating chart | Wedding | side | open | deadline:2027-10-15 | — | Draft as RSVPs come in (Sep-early Oct 2027). Finalize once headcount locks at Oct 12 Final Meeting — target Oct 13-15, 2027. |
+| bridesmaid-dresses-order | 53 | Order bridesmaid dresses | Wedding | side | open | window:2027-02-to-03 | — | Standard guidance: order 6-8 months out for production + alterations. Final alterations ~Aug-Sep 2027. |
 
 ## Inbox (unranked) — sorted in next reflection
 
