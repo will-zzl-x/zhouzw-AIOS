@@ -91,6 +91,7 @@ Morning brief prioritizes `work-main` and `life-main` items above `side` items w
 | thank-you-cards-buy | 68 | Buy thank-you cards | Wedding | side | open | window:2027-09 | — | Sent after the wedding. |
 | name-change-paperwork | 69 | Name change paperwork (SSA, DMV, passport) | Wedding | side | blocked | window:after-wedding | — | Post-wedding task, after Oct 22, 2027. |
 | clayton-house-food-tasting | 70 | Clayton House food tasting — watch for invitation | Wedding | side | open | deadline:2026-11-30 | — | Expecting an invite fall 2026, not yet received. If nothing arrives by end of fall, follow up with Bailee/Rileigh directly. |
+| decorations-dropoff | 71 | Drop off decorations at Clayton House | Wedding | side | open | deadline:2027-10-21 | — | Thu Oct 21, 2027, 10:00 AM — same trip as rehearsal. |
 
 ## Inbox (unranked) — sorted in next reflection
 

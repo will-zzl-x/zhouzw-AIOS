@@ -60,7 +60,7 @@ Full requirement breakdown (added 2026-07-18):
 | Clayton House – Planning Meeting | Thu June 24, 2027 at 10:00 AM | In person |
 | Clayton House – Details Meeting | Tue September 7, 2027 at 12:00 PM | By phone |
 | Clayton House – Final Meeting | Tue October 12, 2027 at 2:00 PM | TBD |
-| Rehearsal / Drop-off | Thu October 21, 2027 at 10:00 AM | In person |
+| Rehearsal / Decorations Drop-off | Thu October 21, 2027 at 10:00 AM | In person — decorations dropped off at Clayton House |
 | Cake tasting — Piece of Cake Desserts | **June 2027** (target, batch w/ Planning Meeting trip) | TBD |
 | Floral consultation — Stem Swag | **June 2027** (target, batch w/ Planning Meeting trip) | TBD |
 | DJ review meeting — Direct Sounds | **~Sep 22, 2027** (policy: 1 month before wedding; exact date TBD) | TBD |
