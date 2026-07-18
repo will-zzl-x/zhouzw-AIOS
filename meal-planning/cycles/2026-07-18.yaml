@@ -74,7 +74,10 @@ selections:
     notes: |
       Precooked Costco chipotle thighs Sat AM. WILL's meals only — Elena confirmed out.
       6 srv fill Will's M4 nights not covered by shared cooks (+ spillover if any).
-      Salsa (12oz) + Greek yogurt on hand for toppings.
+      Salsa (12oz) + Greek yogurt (24oz tub 7/18) on hand for toppings.
+      SWAP (Will 7/18 at assembly): fajita pepper/onion mix -> CORN SALSA from canned corn
+      (corn + red onion + jalapeno + cilantro + lime). Corn salsa packs fine (unlike pico);
+      pepper/onion bag stays in freezer for a later cycle.
     slot_assignments:
       - { member: Will, slot: M4, servings: 4 }     # Tue/Wed/Thu/Fri dinners as needed
       - { member: Will, slot: M2, servings: 2 }     # spillover lunches / flex
