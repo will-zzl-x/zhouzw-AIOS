@@ -33,3 +33,23 @@ Top of `backlog.md`. Brief picks 1-2 strategic per day from this rotation pool.
 7. **Marriage Prep Inventory — Deacon Ramsey contact** (couple task, Elena likely coordinates; complete by Aug).
 8. **Digital minimalism (screen-time check ran 7/19, Tier 3 trigger MET):** (a) decide the 30-day declutter — run now or defer past the crunch; (b) **fix the IG 15-min override this week regardless** (delete app or move the passcode — ~3× overage); (c) confirm the going-forward screen-time review mechanism.
 9. **Z2 restart:** Sunday rep today post-reflection; Tue + Thu 20-min slots on the calendar.
+
+## W30 Scorecard — pre-registered 7/19, grade at the Jul 26 reflection
+
+**Headline three (all green = week succeeded; any red = first topic next Sunday):**
+1. Promo doc SHIPPED (binary).
+2. Deal evals logged ≥3 (`journals/acquisition-log.md`).
+3. Dan sit-down held Fri + 24h follow-up email sent (binary).
+
+**Screen time (Will posts the same iOS "Last Week" view; baseline → target):**
+| Metric | W29 | W30 target |
+|---|---|---|
+| Instagram | 5h27m/wk | ~0 (≤10 min browser incidental) |
+| YouTube total | 11h9m/wk | ≤6h/wk |
+| YouTube first-opens | 85×/wk | ≤35×/wk ← truest reflex-break metric |
+| Total screen time | 7h26m/day | ≤6h/day |
+| Pickups | 81/day | ≤65/day |
+
+**Habit floors:** Z2 = 3 reps (Sun keystone + Tue/Thu) · dance ≥5/7 · solo-space ≥5/7 · weigh-ins 7/7 · training ≥3 (running 6).
+
+**Scale pre-commitment (at 2,300–2,400 cal):** 7-day avg anywhere in **179.5–181.5 = pass**; up to ~+1 lb this week is EXPECTED glycogen/food-volume, not fat, not failure. The only failure mode is refusing the calorie add because the scale ticked up.
