@@ -66,6 +66,7 @@ Read current Main Quests from `state.md` first. Then ask each question against e
 1. **On-track check:** "Are you on track for the win condition? If the quest's 90-day deadline is X, what's the projected completion at current pace?"
 2. **Single most important thing this week:** "What's the ONE thing this week that, if done, moves this quest the furthest?"
 3. **Removal:** "What got in the way last week, and how do you remove it this week?"
+4. **Constraint check (Hormozi, added 2026-07-19):** "What's the BINDING CONSTRAINT on this quest right now — and did this week's effort actually point at it, or at something easier/more automatable? Anything on the plate that should be killed rather than done?" (Leverage audit: deciding something is not a priority beats automating it. If effort went to non-constraints, name the redirect for next week.)
 
 Format the synthesis as:
 
