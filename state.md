@@ -1,84 +1,81 @@
-# State — Last updated July 12, 2026 (late night — annual review bootstrap)
+# State — Last updated July 19, 2026 (W29 Sunday reflection)
 
 ## Yearly Themes (set 7/12 annual bootstrap, `archives/2026-annual-review.md`; refresh Jan 3, 2027)
 1. **Externalize every trigger** — no weekly behavior survives on willpower (targets the four wheel-4s: Mission, Growth, Mind, Family)
 2. **Proof over consumption** — reps and paper: 12+ evals, one sub-$300k LOI in real diligence by Jan 2027, promo shipped (close happens in 2027 — corrected from "closed by Jan")
-3. **Let it land** — therapist intake this month; wins registered before "next" eats them
+3. **Let it land** — wins registered before "next" eats them. **Progress claimed 7/19 (Will, unprompted): "doing better with letting wins land."** Therapist intake DEPRIORITIZED WITH INTENTION 7/19 (was Jul 31 deadline) — explicit revisit at the Aug 24 quarterly against a full quarter of evidence.
 
-**Buffer routing rule:** monthly surplus → therapist → deal-flow costs → sweep to acquisition fund.
+**Buffer routing rule:** monthly surplus → deal-flow costs → sweep to acquisition fund (therapist leg released 7/19; reinstate if the quarterly revisit reverses).
 **Wheel 7/12 (first rubric-rated, new baseline):** Money 8 · Body 7 · Friends 7 · Romantic 7 · Heart 5 · Joy 5 · Mission 4 · Growth 4 · Mind 4 · Family 4 — avg 5.5. Rubric: `references/wheel-of-life-rubric.md`.
 
 ## Quests (Q2 — set in the May 25 quarterly review; full doc `archives/2026-Q2-quarterly-review.md`)
-- **Work main:** Exit Codie's 3-mo acquisition Learn phase deal-ready by Aug 31 (12+ framework reps, 2+ broker contacts, LOI template). `goals/acquisition.md`. **MOVING AGAIN** — Will made verbal contact with Dan (~Banff week) about continuing the conversation soon. Next action: **lock day/time this week.** Promo doc no longer gates Dan — both run in parallel now. **AMENDED 7/12 (annual review): deal box for deal #1 shrinks to $150–300k, debt-light** — the Learn-phase win conditions (reps/contacts/LOI) stand unchanged; full quest re-scope at the Aug 24 quarterly.
-- **Life main:** Become my own point of origin — self-validation, worth from inside not the scoreboard. Keystone: **Sunday Zone 2 — stationary bike + phone, building to 60–90 min.** **IMPROVING — first keystone rep fired Jul 12 (35 min)** after 4 weeks at zero. **Deferral window ended: solo-space rotation ACTIVATES this week** (silent walk / violin / meditation / style moves — `goals/desire-polarity.md`). **Win-condition #1 AMENDED 7/12** — the original "Friday BJJ 8+ of 13 weeks" became formally impossible when the keystone was replaced mid-quarter (0 through wk 7); amended to match the real design: **solo-space rep ≥5 days/wk + Sunday Z2, for the remaining ~7 weeks to Aug 31.** Win-condition #2 (differentiation self-check in ≥10 reflections) on pace (~7 of 10). Therapist intake (Jul 31 deadline) strengthens the quest. Strongest external signal to date: Elena said she's **fallen for Will more** and is enjoying their sex life (Jul 12) — desire-fuel language, unprompted. Observed, not scored.
-- **Side:** ship promo doc (**THIRD SLIP — new hard line Fri Jul 17**) · reverse diet Jul 12–29 (cut closed at ~177.9 Wk7 avg) · friend touchpoint every 2 wks (reset by Banff — next due ~Jul 26).
-- **Wheel low axis (the focus):** Joy 4, Heart 5 — winning on paper, not feeling it. Rotation going live is the first direct work on the root.
+- **Work main:** Exit Codie's 3-mo acquisition Learn phase deal-ready by Aug 31 (12+ framework reps, 2+ broker contacts, LOI template). `goals/acquisition.md`. **AT RISK — eval counter is 0 of 12+ with ~6 weeks left.** Packet prep is deep (7/16 session: structure-first sizing, 50/50 ask priced, P&C books lead, thesis-constrained sub-segment filter, cash-in split ~$50k seller + ~$25k working capital) — but the win condition counts reps, not prep. **Plan: Dan text Wed 7/22 → sit-down Fri 7/24 early evening; 3–4 evals logged before the meeting.** Deal #1 box: $150–300k, debt-light (7/12 amendment); full re-scope at the Aug 24 quarterly.
+- **Life main:** Become my own point of origin — self-validation, worth from inside not the scoreboard. **MIXED, trending real:** solo-space rotation LIVE and fired in week 1 ✓; differentiation self-check ~8 of 10 reflections ✓; **Z2 keystone broke at streak 1** (0 reps W29; time) ✗; **dance under-repped** (Will's own read) ✗. Fix is anchor design, not willpower: Z2 = Sunday post-reflection + Tue/Thu 20-min fixed slots; dance micro-rep rides post-lift or dinner-cook anchor. Win-condition #1 (amended 7/12): solo-space rep ≥5 days/wk + Sunday Z2 through Aug 31. Win-condition #2 (self-check ≥10 reflections) on pace.
+- **Side:** ship promo doc (**FOURTH SLIP — ships TODAY Sun 7/19 before anything else opens**) · reverse diet Jul 12–29 (on track, dynamic steering) · friend touchpoint due ~Jul 26 (NYC trip + Michael covers the following week).
+- **Wheel low axis (the focus):** Joy 4→improving by Will's own report, Heart 5. Rotation live is the first direct work on the root; "wins landing better" is the first inside-signal.
 
-Phase: **Reverse diet Jul 12–29** → NYC loose maintenance Jul 30–Aug 5. New Ravage block Wk2 underway (started Wk1 in Banff).
+Phase: **Reverse diet Jul 12–29** → NYC loose maintenance Jul 30–Aug 5. Ravage new block Wk3 underway.
 
 ## Daily Loop
-- **Todoist daily brief live.** GitHub Actions runs the morning brief at 7am AZ (14:00 UTC) → 3–5 tasks to Todoist "AIOS Daily"; evening archive at 9pm AZ (04:00 UTC) writes completions to `journals/daily-log.md`.
-- **Daily Consistent descriptions propagate to Todoist** (brief-description-fix shipped 6/15).
-- **Fitness logging pipeline (#16):** CSV-direct-upload flow PROVEN 7/12 (first reflection consumed a Liftosaur export end-to-end). Drift-detector half live (`fitness_drift.py`). Auto-pull half now in-window (post-cut) — scope decision pending.
+- **Todoist daily brief live** — GitHub Actions 7am AZ; evening archive 9pm AZ → `journals/daily-log.md`.
+- **⚠️ W29 instrumentation failures (all silent, all surfaced 7/19):** (1) `get_completed_today` returned 0 all week — completions for 7/12–7/18 LOST from daily-log; bug fixed 7/19 + read-only backfill report tool added (`.github/workflows/todoist-backfill.yml`). (2) 7/17 brief crashed (`import re` NameError) — fixed same day. (3) **Weekly synthesis missing since W24** (~5 weeks, work-laptop Friday auto-fire not landing in `archives/synthesis/`) — undiagnosed, flagged. Design gap named in 7/19 reflection: "zero completions two days running = alarm, not data."
+- **Carried-task flag SHIPPED 7/16** (`brief_generator.py`) — tasks surviving 7+ briefs get flagged as mis-designed.
+- **Fitness logging pipeline:** CSV-direct flow standing (Liftosaur export per reflection, proven twice). **Auto-pull REOPENED 7/19 (Will): retry Liftosaur API/MCP** — CSV stays the fallback.
+- **Screen time:** Will reports his phone logs full screen-time data to md/log files — **but no such files exist anywhere in this repo (all branches checked 7/19).** Action: locate where the phone writes → land it in this repo on master → weekly review in reflection. Replaces the old Tier 3 one-shot check.
 
 ## Career
-- Amazon SCM I (L4). **Talent Review .docx submitted 5/19** — Q3–Q4 promo window needs L5-grade evidence.
-- **Promo doc — THIRD SLIP.** Missed Jun 26, missed pre-Banff Jul 1, still unshipped Jul 12. Will: "still in focus this week." **Hard line: Friday Jul 17.** Nothing sequences behind it anymore (Dan moving independently) — the doc gates only itself.
-- DOE Redirect Automation — **Will handling directly at work; off AIOS focus.** (Work-laptop Claude owns tactical detail.)
-- Manager-gap W25 passed without fires. AZNG reconciliation status still unsurfaced — carry-forward unresolved.
-- Jeff rIXD-secondary-owner ramp: plan accepted, kickoff post-Banff — now due.
-- **SCM II behavior-logging retired** — measure promotion by deliverables. `goals/scm-ii-promotion.md` parked.
+- Amazon SCM I (L4). Talent Review .docx submitted 5/19 — Q3–Q4 promo window needs L5-grade evidence.
+- **Promo doc — FOURTH SLIP** (missed Jun 26, Jul 1, Jul 17). **Will's call 7/19: ships TODAY, top priority, before all other work.** Deadline-scheduling is retired — the doc now gates the week instead of competing with it. If unshipped at the Aug 24 quarterly, it's agenda item #1.
+- DOE Redirect Automation — Will handling directly at work; off AIOS focus. Jeff ramp + AZNG reconciliation: no update this week (nothing else career-wise by Will's instruction).
+- SCM II behavior-logging retired — measure promotion by deliverables.
 
 ## Fitness
-- **NYC CUT CLOSED (May 17 – Jul 11). Result: 185.6 → 177.9 (Wk7 avg, 6/28 week) = −7.7 lb in 7 wks (~1.1 lb/wk), low 177.4 (6/19) — re-baselined 177 target effectively hit.** Then Banff rebound: Wk8 avg 180.5, Jul 12 reading 180.4 (+2.5 vs. low). Reads as water/glycogen (too fast/large for fat) but unconfirmed — **verdict comes from this week's weigh-ins; judge Friday Jul 17, not before.** Full trajectory: `journals/health-log.md` (7/12 backfill).
-- **Reverse diet Jul 12–29 LIVE:** +150–200 cal/wk by feel. **Tracking deliberately dropped after cut Wk1 (Will's call, confirmed 7/12)** — scale is the only instrument: **daily weigh-ins non-negotiable**, 7-day avg holds ≤ ~180–181 or pause the add. NYC maintenance Jul 30–Aug 5. Hard floor 168 lb unchanged (Oct 2027 wedding line).
-- **Training adherence (Jun 30–Jul 12): 9 sessions in 13 days incl. 3 in Banff** — deload completed morning of Jul 2 flight; new block Wk1 started on the road (Jul 3, 4, 6); Jul 9, 10, 11 straight since return. Strongest stretch of the year.
-- **Lifting canary (Jul 11 Torso A, first post-Banff check):** Larsen 145×6 @9 top / 4,4 back-offs (e1RM ~−9% vs 6/19's 155×7 — inside Schofield's 5–10% cut slide + 6 days off the lift + loaded above the new block's 120–130 prescription). **Pulls strong = lean mass intact:** Narrow Pulldown 105×15 @9 / 112.5×13 @9.5 / 112.5×12 @10. **Pull-up → machine pulldown swap LIVE both Torso days ✓.** Not an abort signal — cut's over, reverse diet is the fix in motion. **Recalibrate canary thresholds to new block after 2–3 reverse-diet weeks; expect Larsen back toward 155+.**
-- **Z2 keystone: FIRST REP FIRED Jul 12 (35 min bike + phone).** Build toward 60–90; cadence = Sunday keystone + 1 weekday 20-min.
-- Step target 12,500/day. Sources still unaudited.
-- BF ~20–21% est pre-rebound; lean mass ~147 lb (pulls confirm retention).
-- Program: GVS Ravage new block (Wk2). Macros: Cronometer OPTIONAL (deliberate-drop stands; scale steers).
-- Meal cycle: Banff-split cycle complete (Elena solo week ran on frozen spaghetti batch). **New cycle needed this week** — first post-cut cycle at reverse-diet calories.
+- **CUT VERDICT FINAL (7/17): the −7.7 lb is banked; Banff bounce was water.** Week of 7/12 avg **179.8** (down from 180.5) with Fri 7/17 at 178.4 — ~1 lb above the 177.4 low, *while calories increased*. Falling weight on a reverse diet = glycogen/water rebound confirmed. Full trajectory: `journals/health-log.md` + Will's weight sheet.
+- **Reverse diet Jul 12–29 LIVE and ahead of paper schedule (fine):** >2,000 avg last week → **2,150–2,200 by feel as of 7/17.** Untracked (deliberate, standing). **Steering rule now DYNAMIC (Will's call 7/19, Helms/McDonald school): trend-based, not fixed-ceiling** — flat-to-+0.5 lb/wk on the 7-day avg acceptable; pause adds only if trend exceeds that two weeks running (soft two-week check ~181). Daily weigh-in remains the only instrument — 5/7 adherence W29 (missed Wed/Sat). NYC maintenance Jul 30–Aug 5. Hard floor 168 lb unchanged (wedding line).
+- **Training W29: 6 sessions in 7 days, ZERO misses** — incl. same-day double 7/14 (Legs B AM + Torso B late night). Strongest week yet, run on broken instruments.
+- **Canary RECOVERED (Jul 19 Torso A):** Larsen **145×8,7,6 @9–9.5** vs. 7/11's 145×6,4,4 — back-offs nearly doubled at identical load after 8 days of calories. Narrow Pulldown 112.5×15 @9. Post-Banff dip confirmed as fatigue, not lost capacity. **Next Torso A: test 155, re-anchor canary threshold to the new block.**
+- **Z2 keystone: streak broke at 1** — 0 reps W29 (7/19 Sunday rep pending at reflection close). Redesign: fixed slots (Sun post-reflection, Tue/Thu 20-min off-leg days), not found time.
+- **Sleep scores: killed deliberately 7/19** ("my sleep is fine") — gummy stack (`journals/health-log.md` 7/13) runs without an outcome measure by choice. Sleep stays untracked.
+- Step target 12,500/day (sources still unaudited). BF ~20% est; lean mass ~147 lb (pulls confirm retention). Program: GVS Ravage Wk3.
+- **Meal cycle at reverse-diet calories SHIPPED 7/18** (cycle 2026-07-18: recipes #40 egg-roll ramen + #41 fried rice vetted in; 4 Sat / 3 Sun cooks; inventory trued).
 
 ## Relationships
-- **Style Avatar LOCKED 2026-06-17:** *"I am the guy who moves with intention and carries gravity quietly."* Latin Gentleman with Athletic Gravity. `context/about-me.md` + `references/wan.md`.
-- **STRONGEST DESIRE SIGNAL TO DATE (Jul 12):** desire "picking up well" — Elena said she's **fallen for Will more** and is enjoying their sex life. Unprompted, desire-fuel language, arrived after 6 days of Banff distance + cut + avatar + no-scoreboard discipline. The mechanism is working. **Do not start watching for it.**
-- **Desk argument (Jul 12) + repair:** Elena asked about a second desk for herself; Will audited it ("unnecessary — share mine"); she heard her want graded and flagged his tone. Framework read (full version in `archives/2026-07-12-reflection.md`): her own desk = *her* differentiation move, and Frame B (her working the acquired business from home) makes it infrastructure, not indulgence. Repair: own the miss once, reverse decisively, she picks, Will builds, no further commentary. **Pattern note: when Elena floats a want in her own domain, the question is "are you with me," not "is this efficient."**
-- **Elena Frame B sign-off (6/18)** — $50K equity + full-time-early-then-taper. Elena exits engineering mid-2027.
-- Friend cadence: **RESET by Banff** (6 days with Justin/Jeff/James/Dhanush/Daniel). Next touchpoint due ~Jul 26.
-- Solo-space rotation (silent treadmill / violin / meditation / style moves): **ACTIVE as of this week.** Unannounced, timing varied. Z2 bike+phone is explicitly NOT the solo-space rep.
-- **Zero night talks about intimacy — hard rule** (preserved). Pregnancy thread CLOSED 6/14.
+- **Style Avatar LOCKED 6/17:** *"I am the guy who moves with intention and carries gravity quietly."* `context/about-me.md` + `references/wan.md`. **Style sprint RE-SCOPED 7/19:** Aer pack / aviators / tailor buys KILLED (Will: no need). New direction: **bachata sensual festival wardrobe** — first deploy target ESM festival during NYC (Jul 30–Aug 5), so buy pre-flight or shop in NYC. NYC haircut stays ($80+, photograph for Phoenix barber).
+- **Desire trend: strongest signal to date (7/12) stands — do not start watching for it.** No night intimacy talk (hard rule).
+- **Desk RESOLVED, best case (7/19):** Elena deprioritized it herself — "idea for a future home." The 7/12 repair (reverse on merits, she picks, zero commentary) was the point; no purchase needed. Row parked.
+- **Solo-space rotation: LIVE, week 1 decent.** Dance private homework (body-rolls + transitions) logged 7/16 as a rotation overlay. **Dance under-repped — carries into W30 with more weight:** daily micro-rep on an anchor (post-lift / dinner-cook), 1–2 songs, binary check, never graded.
+- **Flowers: order this week for ~week of Jul 28 delivery** (Will's timing call, 7/12). Ordinary-day, no occasion, no commentary.
+- Friend cadence: reset by Banff; next touchpoint due ~Jul 26. NYC (Michael + festival) covers the week after.
+- Elena Frame B sign-off (6/18) stands — $50K equity + full-time-early-then-taper; exits engineering mid-2027.
 
 ## Wedding
-- **Contract signed.** Clayton House Elite, Oct 22, 2027, Scottsdale.
-- **St. Andrew LOCKED. Pre-Cana intake DONE.** Next session date TBD (Elena lead, carry-forward — now 3 reflections running).
-- **Virehouse BOOKED** (deposit 5/18). **Photographer BOOKED** ($3,160 est, groom pays). **Hotel block: 19 rooms × 3 nights locked.**
-- **Critical-path watch:** Elena-dependent chain (website → save-the-date) ~4–6 weeks from ramp. One more quiet week fine; two isn't.
-- Full detail: `context/wedding.md`. Late-night bite: Chick-fil-A minis ~$300 approved.
+- **Contract signed.** Clayton House Elite, Oct 22, 2027, Scottsdale. Full detail: `context/wedding.md` (**major update 7/18 — Elena's ~35-commit planning session, merged to master 7/19**).
+- **Pre-Cana session date LOCKED (Elena, 7/18)** — 4-reflection carry-forward resolved. Full St. Andrew map now in wedding.md: Marriage Prep Inventory (Deacon Ramsey, by Aug 2026) → Class #1 Life Skills (**starts Sep 11, 2026**, 4 Thursdays + 1 Saturday, $140) → Class #2 → Class #3 NFP → affidavits → baptismal cert (Feb 2027).
+- **⚠️ CONFLICT CHECK OPEN: Class #1 start (Sep 11) = Sedona departure (Sep 11–14).** Confirm session dates vs. the trip BEFORE registering.
+- **Will's lane: Affidavit of Free Status — ask Michael IN PERSON during NYC** (lands exactly on the first-week-of-Aug target). Pre-trip: get form requirements from St. Andrew + heads-up text to Michael. On `context/nyc-2026-trip.md` packing list. (Will's mother's affidavit: Thanksgiving visit, Nov 2026.)
+- **Corrections from Elena's pass:** **Virehouse = the photographer ($3,160 est, groom pays), NOT a rehearsal venue** — rehearsal dinner venue now an open item (Elena's parents paying, decide Spring 2027). **Premium hotel chase DROPPED** (Villa Solara covers overflow). Brat Haüs back to "deciding," not booked. Hotel block: 19 rooms × 3 nights stands.
+- Fall 2026 gates (all in backlog with dates): Villa Solara beds confirm (Aug) · Mystic Lites contact (Sep) · website + registry (Oct, Elena) · save-the-dates (Nov) · St. Andrew $400 balance (Nov 12) · food-tasting invite watch (follow up if nothing by Nov 30).
 
 ## Travel
-- **Banff EXECUTED Jul 2–8** (P1: Canmore base, Calgary, Minnewanka/Gondola, Johnston Canyon/hot springs, Fairview/Yoho/Bow float, all-nighter Moraine sunrise Jul 7→8). Trained 3× on the trip. Highlights → `/mid-week-capture` if any surface.
-- **Sedona (Elena bday) Sep 11–14 — BOOKING DEADLINE JUL 20 (8 days).** Cabin (West Sedona/Page Springs, private hot tub, $150–180/night) + Cucina Rustica Sat 7:30pm + Stargazing tour Sun 7pm + Black Cow brunch + dog sitter. ~$1,280 all-in.
-- **NYC Jul 30 – Aug 5** — Paramount Hotel 4 nights + Hell's Kitchen + ESM dance festival. Reverse diet lands at loose maintenance on schedule.
+- **NYC Jul 30 – Aug 5** — Paramount Hotel 4 nights + Hell's Kitchen + **ESM dance festival**. Reverse diet lands at loose maintenance on schedule. **Pre-trip lane by Jul 29:** `context/nyc-2026-trip.md` — affidavit prep (form + Michael heads-up), festival wardrobe, haircut plan, dual-purpose scouting (NYC is a location-shortlist alt).
+- **Sedona (Elena bday) Sep 11–14 — BOOKED ✓.** Open: Class #1 conflict check (above).
+- Banff executed Jul 2–8 (archived).
 
 ## Money / Acquisition
-- **PATH REVISED 7/12 (annual review):** first deal SMALL — $150–300k, mostly cash + seller note, minimal SBA — closed while both W-2s exist, Elena operating (her exit = out of her current civil-eng role type, not out of income). $500k–$1M box becomes deal #2 (2028+, on deal #1's track record). Will steps fully into a business only when cash flow is provably there — **W-2 exit gated on CF, never the calendar.** Debt aversion honored by design (Apr 2025 cold-feet moment treated as data). `goals/acquisition.md` re-scope owed at the Aug quarterly.
-- **Promo = exit asset:** no Amazon presence in candidate cities for Will's function → no transfer; the L5 title's value is the non-Amazon senior-ops market post-move. Promo by end of 2026, set.
-- **Location criteria (7/12, final set):** sunny + moderate (no AZ extremes/dryness, not gray-rainy) · **strong bachata sensual scene** (quest-infrastructure — dance is a standing desire-polarity move) · **closer to Northwest Arkansas where possible**. NWA test = **direct flights viable, not just drive distance** (refined 7/12). ELIMINATED same night: KC (bachata too weak), Atlanta + Houston (too hot-humid). **Shortlist of 3:** **Dallas = frontrunner, the plan's city** (all four criteria, 0% tax, 1h DFW→XNA); **SoCal (LA/Long Beach–OC) = the life's city** (best climate + world-class bachata + Reggie ties; ~9.3% tax + 2–3× housing delays the CF-gated exit by years; thin XNA access); **NYC = scene-maximalist alt.** Scouting: NYC = the booked Jul 30–Aug 5 trip; Dallas SUMMER confirm 2027; SoCal rides a Reggie trip. **Year-by-year ladder now in `archives/2026-annual-review.md`.**
-- $70k earmarked, not deployed. $2k/mo recurring allocations.
-- **Dan track PRIMARY — MOVING AGAIN.** Verbal contact made (~Banff week): continue conversation soon. **Next action: lock day/time this week.** Frame B numbers LOCKED 6/18. Prep for the sit-down = 5-point verbal spine (honest reset / what changed / Dan's role / what's locked / 4-part ask). Within 24h after: follow-up email with `context/dan-pipeline-brief.md` + `sourcing/leads-dan-shortlist.md`.
-- **Track 2 (Solo):** 620 ranked leads, correctly paused. Sector-pick demoted.
-- **Scenario B deal box active:** $500k–$700k clean / $1.0M hard ceiling. $286k–$367k SDE floor. $55k operator salary baked in. Goal: truly absentee by Year 2.
-- **Main Street Accelerator in progress** (Will + Elena). Search window opens ~August 2026.
-- Frameworks: `references/sanchez.md`, `references/warren.md`, `references/frazier.md`, `context/dan-thesis.md`.
+- **PATH (7/12 annual review) stands:** deal #1 small ($150–300k, mostly cash + seller note, minimal SBA), Elena operating; deal #2 (2028+) = the $500k–$1M Scenario B box; W-2 exit gated on cash flow, never the calendar.
+- **Dan track PRIMARY.** Verbal contact made (~Banff week); **conversion plan set 7/19: text Wed 7/22 → sit-down Fri 7/24 early evening.** Packet at its best after the 7/16 session: structure-first size adjudication · Dan not lendable → cash-in by arithmetic ($75k → ~$50k seller + ~$25k WC) · 50/50 ask priced · CPA line contingent, profits-interest 50/50 likely landing · finance sectors + AI-positioning rule, P&C books lead · thesis-constrained sub-segment filter. 5-point verbal spine + 24h follow-up email flow unchanged. **Packet is DONE — stop touching it; the constraint is reps.**
+- **Eval reps: 0 of 12+ logged.** 3–4 before Friday's meeting is the week's work-main move (Saturday keystone + weekday slots). Process: saved search in the deal-#1 box → three-question test → `/deal-eval` → `journals/acquisition-log.md`.
+- **Location shortlist (7/14, stands):** Dallas frontrunner · SoCal the life's-city alt · NYC scene-maximalist alt (scouted on the Jul 30 trip). Ladder in `archives/2026-annual-review.md`.
+- $70k earmarked ($75k with July contribution), not deployed. $2k/mo recurring. Track 2 (Solo) correctly paused. Main Street Accelerator in progress (Will + Elena).
+- **Webnovel venture idea (captured 7/13): PARKED by verdict** — original-work-only, poor economics, exact known failure mode (long-horizon self-triggered consistency). Ranks at the Aug 24 quarterly as a potential post-promo creative side quest, not before.
 
 ## Life / Digital Minimalism
-- **Tier 1 launched (wk of 6/1):** X/TikTok/Reddit deleted, IG blocker, alarm clock, phone-off-nightstand. Shorts feed structurally killed. `references/newport.md`.
-- **Tier 3 review NOW IN-WINDOW (post-cut):** check screen-time — if YouTube shifted to long-form binge, escalate.
+- Tier 1 stands (X/TikTok/Reddit deleted, IG blocker, Shorts dead). Phone charged outside bedroom: morning retrospective check-off live.
+- **Tier 3 one-shot review RETIRED 7/19 → replaced by weekly screen-time review** once the phone's log pipeline lands in this repo (see Daily Loop — files not found yet).
 
 ## AIOS / Meta
-- **Planning cadence stack ratified 7/12** (`decisions/2026-07-12-planning-cadence.md`): Abdaal LifeOS — 3-yr sketch / yearly themes / quarterly quests / weekly / daily. **NEW `/annual-review` skill, anchored first Sunday of January (first: Jan 3, 2027 — Abdaal's annual-planning window).** Monthly layer explicitly rejected. **Pipe bug fixed:** reflections must merge to `master` same-session or the 7am Todoist brief never sees them (reader defaults to `master`).
-- **First CSV-direct reflection cycle completed 7/12** — Liftosaur export ingested, canary read produced, weight sheet backfilled. Pipeline pattern proven.
-- Meal-planning: Banff-split cycle complete; new reverse-diet cycle needed this week.
-- Style sprint: Jul 5 add-on buys (Aer Travel Pack 3, Ray-Ban aviators, tailor drop-off) NOT confirmed — reschedule this week or fold into NYC.
-- **Liftosaur MCP abandoned** — CSV upload each reflection is the standing flow.
+- Planning cadence stack ratified 7/12 (`decisions/2026-07-12-planning-cadence.md`); Hormozi constraint-check question added to the weekly quest review by Will 7/19 (first use: this reflection).
+- **W29 = the instrument-failure week** (completion sync, brief crash, synthesis gap — see Daily Loop). Human behaviors survived without the triggers (6/6 training); instruments need their own health alarm.
+- Second CSV-direct reflection cycle completed 7/19 (Liftosaur export → canary read). Liftosaur API/MCP auto-pull reopened as a build task.
+- Meal-planning: reverse-diet cycle 2026-07-18 live; workflow refinement pass captured same day.
+- **Reflection pipe rule honored: this reflection merged to master same-session** (incl. Elena's wedding branch — work stranded on side branches never reaches the 7am brief).
