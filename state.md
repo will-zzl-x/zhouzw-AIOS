@@ -74,7 +74,7 @@ Phase: **Reverse diet Jul 12–29** → NYC loose maintenance Jul 30–Aug 5. Ne
 
 ## Life / Digital Minimalism
 - **Tier 1 launched (wk of 6/1):** X/TikTok/Reddit deleted, IG blocker, alarm clock, phone-off-nightstand. Shorts feed structurally killed. `references/newport.md`.
-- **Tier 3 review NOW IN-WINDOW (post-cut):** check screen-time — if YouTube shifted to long-form binge, escalate.
+- **CHECK RUN 7/19 — 6/1 escalation criterion MET.** iOS Screen Time (full data `journals/health-log.md` 7/19 entry): YouTube 11h9m/wk, all long-form (Shorts killed), #1 app by 2×, #1 reflexive pickup-open (85×/wk) — exactly "YouTube shifted to long-form binge." **Tier 3 (full 30-day declutter) trigger is live — Will's call on timing** given promo-doc/Dan-meeting load. Context: total screen time ↓24% w/w, pickups ↓19% w/w — genuinely improving despite the YouTube signal. **Separate finding: Instagram's 15-min limit isn't holding — actual usage ~3× the limit (5h27m/wk).** Same relapse the 7/12 Wheel named on the Mind axis (scored 4), now quantified.
 
 ## AIOS / Meta
 - **Planning cadence stack ratified 7/12** (`decisions/2026-07-12-planning-cadence.md`): Abdaal LifeOS — 3-yr sketch / yearly themes / quarterly quests / weekly / daily. **NEW `/annual-review` skill, anchored first Sunday of January (first: Jan 3, 2027 — Abdaal's annual-planning window).** Monthly layer explicitly rejected. **Pipe bug fixed:** reflections must merge to `master` same-session or the 7am Todoist brief never sees them (reader defaults to `master`).
