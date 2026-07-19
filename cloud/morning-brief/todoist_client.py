@@ -44,7 +44,21 @@ def _request(method: str, url: str, **kwargs) -> requests.Response:
 
 
 def _get_paginated(path: str, params: dict | None = None) -> list:
-    """GET a paginated list endpoint, walking next_cursor until exhausted."""
+    """GET a paginated list endpoint, walking next_cursor until exhausted.
+
+    Diagnostic (2026-07-19): get_completed_today() returned 0 tasks on every
+    run for a week despite Will actively checking tasks off — but /tasks and
+    /projects (also routed through this function) work correctly every day.
+    Two live differences on the completed-items endpoint that /tasks and
+    /projects don't have: (1) it may use a different response envelope key
+    ('items' vs 'results') since it's the unified-API successor to the old
+    Sync API's completed-items lookup, and (2) it's the only call that takes
+    since/until params, so a silent format/interpretation mismatch there
+    would also zero out results without erroring (which matches: every run
+    shows conclusion:success, no exception, just an empty list). This logs
+    the raw envelope + falls back to 'items' so a future occurrence of either
+    is diagnosable from the Action log instead of requiring live API access,
+    and self-heals if the envelope-key guess is right."""
     out: list = []
     cursor: str | None = None
     while True:
@@ -53,7 +67,12 @@ def _get_paginated(path: str, params: dict | None = None) -> list:
             p["cursor"] = cursor
         r = _request("GET", f"{API_BASE}{path}", params=p)
         data = r.json()
-        out.extend(data.get("results", []))
+        items = data.get("results")
+        if items is None:
+            items = data.get("items", [])
+        print(f"DEBUG _get_paginated {path}: keys={list(data.keys())} "
+              f"params={p} returned={len(items)}")
+        out.extend(items)
         cursor = data.get("next_cursor")
         if not cursor:
             break
@@ -93,8 +112,13 @@ def get_completed_today(project_id: str) -> list[dict]:
     until = end_local.astimezone(timezone.utc)
     params = {
         "project_id": project_id,
-        "since": since.strftime("%Y-%m-%dT%H:%M:%S"),
-        "until": until.strftime("%Y-%m-%dT%H:%M:%S"),
+        # Explicit 'Z' suffix (2026-07-19 fix): bare timestamps aren't valid
+        # RFC3339 and some APIs interpret a missing offset as local-server
+        # time rather than UTC, silently shifting the window instead of
+        # erroring — which would explain a clean 200 + empty results every
+        # single day with no exception in the logs.
+        "since": since.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "until": until.strftime("%Y-%m-%dT%H:%M:%SZ"),
     }
     return _get_paginated("/tasks/completed/by_completion_date", params)
 
