@@ -56,3 +56,30 @@ Sleep and diet tracking. Exercise lives in workout-log.md.
 **Restock guidance:** aSquared is the only real apigenin gummy on the market (2026 survey — all other brands at dose are capsules). Magnesium leg: glycinate/threonate combo gummy at ~200mg elemental (half the labeled serving). Optional theanine top-up (MaryRuth's sugar-free, melatonin-free) only if wind-down feels insufficient — do NOT add apigenin past 25mg.
 
 **Open:** sleep still untracked (Mind axis 4) — the stack is an intervention with no outcome measure. Cheapest fix: morning 1–5 subjective sleep-quality score alongside the daily weigh-in, or Apple Watch sleep data if worn overnight.
+
+## 2026-07-19 — iOS Screen Time, last full week (Tier 3 digital-minimalism check)
+
+**Source:** iOS Screen Time app, "Last Week" view (WZ iPhone). This is the check `tier3-screen-time-review` backlog row + `state.md`'s Digital Minimalism section have been waiting on since the 6/1 Tier 1 launch.
+
+**Trend (genuinely improving):** total screen time avg **7h 26m/day** (52h 4m/week), **↓24% vs. prior week.** Pickups avg **81/day** (567/week), **↓19% vs. prior week.**
+
+**Category split (weekly):** Productivity & Finance 14h 6m (leads) · Entertainment 11h 32m · Social 8h 5m · ~18h unlabeled/other. Daily bar chart shows Sun and Sat as the two heaviest days by a clear margin — weekend is the leak, not weekdays.
+
+**Most used apps (week):**
+| App | Time | Read |
+|---|---|---|
+| YouTube | **11h 9m** | Leads by 2× over #2. Since Shorts is structurally killed (0 min), this is **entirely long-form** — the exact 6/1 escalation criterion. |
+| Instagram | 5h 27m | **Limit set to 15 min/day (105 min/wk) — actual usage is ~3× the limit.** The blocker is being routinely overridden, not holding. |
+| Zoom | 5h 0m | Work-instrumental |
+| Claude | 4h 27m | AIOS work (this session + others) — instrumental |
+| Google Maps | 3h 44m | Utility |
+| Cronometer | 2h 28m | Instrumental (note: nutrition tracking was deliberately dropped mid-cut per 7/12 — this is likely legacy/habit use or logged before the drop) |
+| Liftosaur | 2h 25m | Instrumental |
+
+**Pickups — first app opened:** YouTube 85×/week, Messages 62×/week, Cronometer 46×/week, Slack 45×/week. **YouTube is the #1 reflexive-open app** — the strongest single signal of habitual (not deliberate) use.
+
+**Notifications:** avg 170/day. Slack 569/wk (the volume driver), Messages 212/wk, Gmail 70/wk, Messenger 46/wk.
+
+**Verdict against the 6/1 pre-committed rule:** *"if YouTube shifted to long-form binge, escalate to Tier 3"* (`references/newport.md`) — **criterion met, unambiguously.** 11h9m/week of pure long-form YouTube, #1 app by 2× margin, #1 reflexive pickup-open. Tier 3 = Newport's full 30-day digital declutter (all optional tech off 30 days, one-shot reset) — Will's call whether to trigger it now given promo-doc/Dan-meeting load, or name a quieter window.
+
+**Separate, cheaper, arguably higher-priority fix:** the Instagram 15-min limit is not functioning as a hard stop — 3× overage means it's being dismissed routinely, not occasionally. This is the same "IG blockers periodically off" relapse named in tonight's Wheel (Mind axis, scored 4) — now quantified. Fixable without a 30-day commitment: delete the app (Tier 1's own original prescription) or move the Screen Time passcode to someone else's control.

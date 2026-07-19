@@ -21,7 +21,7 @@ Phase: **Reverse diet Jul 12–29** → NYC loose maintenance Jul 30–Aug 5. Ra
 - **⚠️ W29 instrumentation failures (all silent, all surfaced 7/19):** (1) `get_completed_today` returned 0 all week — completions for 7/12–7/18 LOST from daily-log; bug fixed 7/19 + read-only backfill report tool added (`.github/workflows/todoist-backfill.yml`). (2) 7/17 brief crashed (`import re` NameError) — fixed same day. (3) **Weekly synthesis missing since W24** (~5 weeks, work-laptop Friday auto-fire not landing in `archives/synthesis/`) — undiagnosed, flagged. Design gap named in 7/19 reflection: "zero completions two days running = alarm, not data."
 - **Carried-task flag SHIPPED 7/16** (`brief_generator.py`) — tasks surviving 7+ briefs get flagged as mis-designed.
 - **Fitness logging pipeline:** CSV-direct flow standing (Liftosaur export per reflection, proven twice). **Auto-pull REOPENED 7/19 (Will): retry Liftosaur API/MCP** — CSV stays the fallback.
-- **Screen time:** Will reports his phone logs full screen-time data to md/log files — **but no such files exist anywhere in this repo (all branches checked 7/19).** Action: locate where the phone writes → land it in this repo on master → weekly review in reflection. Replaces the old Tier 3 one-shot check.
+- **Screen time:** the 7/19 check landed in `journals/health-log.md` (Tier 3 criterion MET — see Digital Minimalism). Source reads as an iOS Screen Time "Last Week" screenshot read, not yet a confirmed automated phone-written log. Action: confirm the going-forward mechanism (phone-auto vs. Sunday screenshot) and make it a standing weekly reflection input.
 
 ## Career
 - Amazon SCM I (L4). Talent Review .docx submitted 5/19 — Q3–Q4 promo window needs L5-grade evidence.
@@ -70,12 +70,13 @@ Phase: **Reverse diet Jul 12–29** → NYC loose maintenance Jul 30–Aug 5. Ra
 - **Webnovel venture idea (captured 7/13): PARKED by verdict** — original-work-only, poor economics, exact known failure mode (long-horizon self-triggered consistency). Ranks at the Aug 24 quarterly as a potential post-promo creative side quest, not before.
 
 ## Life / Digital Minimalism
-- Tier 1 stands (X/TikTok/Reddit deleted, IG blocker, Shorts dead). Phone charged outside bedroom: morning retrospective check-off live.
-- **Tier 3 one-shot review RETIRED 7/19 → replaced by weekly screen-time review** once the phone's log pipeline lands in this repo (see Daily Loop — files not found yet).
+- **Tier 1 launched (wk of 6/1):** X/TikTok/Reddit deleted, IG blocker, alarm clock, phone-off-nightstand. Shorts feed structurally killed. `references/newport.md`.
+- **CHECK RUN 7/19 — 6/1 escalation criterion MET.** iOS Screen Time (full data `journals/health-log.md` 7/19 entry): YouTube 11h9m/wk, all long-form (Shorts killed), #1 app by 2×, #1 reflexive pickup-open (85×/wk) — exactly "YouTube shifted to long-form binge." **Tier 3 (full 30-day declutter) trigger is live — Will's call on timing** given promo-doc/Dan-meeting load. Context: total screen time ↓24% w/w, pickups ↓19% w/w — genuinely improving despite the YouTube signal. **Separate finding: Instagram's 15-min limit isn't holding — actual usage ~3× the limit (5h27m/wk).** Same relapse the 7/12 Wheel named on the Mind axis (scored 4), now quantified.
+- **Screen-time review is now a standing weekly input** (backlog `screen-time-review-weekly`): the 7/19 check landed a manual/assisted read in `health-log.md`; confirm whether it's phone-automated or a Sunday-screenshot read going forward, then trend it each reflection.
 
 ## AIOS / Meta
 - Planning cadence stack ratified 7/12 (`decisions/2026-07-12-planning-cadence.md`); Hormozi constraint-check question added to the weekly quest review by Will 7/19 (first use: this reflection).
-- **W29 = the instrument-failure week** (completion sync, brief crash, synthesis gap — see Daily Loop). Human behaviors survived without the triggers (6/6 training); instruments need their own health alarm.
+- **W29 = the instrument-failure week, then recovery** (completion sync, brief crash, synthesis gap — see Daily Loop). The completion-sync bug's lost data was **backfilled 7/19 (PR #36, 36 real completions)** — the week is recovered, not lost. Human behaviors held without the triggers (6 training sessions, solo-space 6/7, protein 6/7); instruments still need their own health alarm (weekly synthesis gap remains open).
 - Second CSV-direct reflection cycle completed 7/19 (Liftosaur export → canary read). Liftosaur API/MCP auto-pull reopened as a build task.
 - Meal-planning: reverse-diet cycle 2026-07-18 live; workflow refinement pass captured same day.
 - **Reflection pipe rule honored: this reflection merged to master same-session** (incl. Elena's wedding branch — work stranded on side branches never reaches the 7am brief).

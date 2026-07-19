@@ -12,7 +12,17 @@ Three AIOS failures ran concurrently this week, all silent:
 2. **The 7/17 morning brief crashed** (`NameError: import re` in brief_generator) — fixed same day.
 3. **Weekly synthesis hasn't produced a file since W24** (~5 weeks) — the Friday auto-fire on the work laptop isn't landing in `archives/synthesis/`. Flagged, not yet diagnosed.
 
-**Consequence: per-area completion rates from daily-log are NOT computable this week** — the data is lost, not absent. Primary sources substitute where they exist: training 6/6 via Liftosaur CSV, weigh-ins 5/7 via the weight sheet, deal evals 0 via acquisition-log, Z2 0 via Will's report. The notable human fact: with every external trigger broken around him, Will still trained 6 of 7 days. The habits are becoming self-sustaining; the instruments still need to work.
+**Then the week got recovered.** During this reflection, **PR #36 backfilled 36 real Todoist completions** into `journals/daily-log.md` for 7/12–7/18 — the data was recoverable, not lost. Real per-area completion rates (7/13–7/18, with primary sources overriding check-offs where they undercount):
+
+- **Solo-space rep: 6/7 days ✓** — the rotation's first live week held (matches Will's "happening decently").
+- **Nutrition / protein-first: 6/7 ✓.**
+- **Phone off nightstand: 5/7.** Morning weigh-in: ~5/7 (weight sheet is the authority — 5 readings).
+- **Training: 6 sessions in 7 days** per Liftosaur (the daily-log check-offs undercount — Will did sessions he didn't tick, e.g. Sat 7/18 Legs A logged in Liftosaur but all-□ in Todoist).
+- **Dance micro-rep: 1 rep** (7/17 only) — surfaced as a task just once all week; the flagged gap, confirmed.
+- **Z2 keystone: 0 keystone reps.** One incidental weekday 20-min walk/incline was ticked Mon 7/13, but the Sunday bike keystone — the actual quest keystone — did not fire. Will's "Z2 did not happen" refers to the keystone; represented precisely rather than as a flat 0.
+- **Deal evals: 0.** Promo doc shipped: 0.
+
+No area fell below 50% except the three gaps Will and I had already named (dance, Z2 keystone, deal evals). The notable human fact stands: with every external trigger broken around him, Will trained 6 of 7 days and hit solo-space + protein 6 of 7. The habits are becoming self-sustaining; the instruments still need to work.
 
 ---
 
@@ -78,7 +88,9 @@ Website pushed to Oct 2026, registry Oct 2026, save-the-dates early Nov 2026 (El
 
 On that basis Will **deprioritized the therapist intake with intention** — not drift; a decision, made eyes-open, with the Jul 31 deadline released and an explicit revisit at the Aug 24 quarterly. The coach position stays on the record: "don't feel like I need it" during an up-swing is the exact pattern the annual review flagged, and the quarterly revisit is where it gets tested against a full quarter of evidence.
 
-The losses: Z2 broke at 1, dance under-repped. Both trace to time, both get anchor redesigns this week rather than bigger willpower asks.
+The losses: Z2 keystone at 0, dance under-repped. Both trace to time, both get anchor redesigns this week rather than bigger willpower asks.
+
+**Digital minimalism — the Tier 3 check ran (PR #37) and the trigger is MET.** The screen-time read Will referenced landed in `health-log.md` 7/19: total screen time is *down* 24% week-over-week and pickups down 19% (genuinely improving), but **YouTube is 11h9m/week of pure long-form** (Shorts stayed structurally dead), the #1 app by 2× and the #1 reflexive pickup-open at 85×/week. That is the exact 6/1 pre-committed escalation criterion — "YouTube shifted to long-form binge" — met unambiguously. Tier 3 is Newport's full 30-day declutter; whether to run it now against the promo/Dan crunch is Will's timing call, not an automatic trigger. The cheaper, arguably higher-priority finding sits underneath it: **Instagram's 15-minute limit is being overridden ~3× (5h27m/week)** — the same "blockers periodically off" relapse the 7/12 Wheel scored a 4 on the Mind axis, now quantified. That one is fixable without a 30-day commitment (delete the app, or hand the Screen Time passcode to someone else).
 
 ---
 
@@ -121,4 +133,4 @@ Supporting moves:
 4. **Sedona × Pre-Cana Class #1 conflict check** with Elena before registering.
 5. **Flowers ordered for week of Jul 28 delivery.**
 6. **Z2 + dance run on anchors, not found time** — Sunday + Tue/Thu slots; post-lift/dinner-cook micro-rep.
-7. **Screen-time pipeline:** locate where the phone actually writes, land it in this repo on master, then it becomes a weekly review input.
+7. **Digital minimalism — two decisions:** (a) Tier 3 30-day declutter — run now or explicitly defer past the crunch; (b) the IG 15-min override — delete the app or move the passcode, this week, regardless of the Tier 3 call. Then confirm the screen-time review mechanism (auto vs. Sunday screenshot) so it's a standing weekly input.

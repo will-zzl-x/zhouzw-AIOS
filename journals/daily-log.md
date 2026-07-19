@@ -358,6 +358,7 @@ Format: ✓ = done, □ = planned/pending
 □ Book Sedona cabin, restaurants, dog sitter
 
 **2026-07-12 (Sun)** — Reverse diet Jul 12–29
+✓ Hit 150g protein, ~1,820 kcal
 □ Walk 12,500 steps today
 □ Zone 2 cardio: 60–90 min stationary bike
 □ Run 1–2 listings through deal-eval framework
@@ -365,16 +366,37 @@ Format: ✓ = done, □ = planned/pending
 □ Book Sedona cabin, restaurants, dog sitter
 
 **2026-07-13 (Mon)** — Reverse diet Jul 12–29
+✓ Walk 12,500 steps
+✓ Solo-space rep: one move today
+✓ Zone 2: 20-min weekday walk or incline
+✓ Phone off nightstand, charge in kitchen
+✓ Phone off nightstand, charge in kitchen
+✓ Hit 150g protein, ~1,820 kcal
+✓ Sunday paste: log weight + sessions + steps
+✓ Complete Ravage training session today
 □ Ship promo doc — final review complete
 □ Lock day/time with Dan this week
 
 **2026-07-14 (Tue)** — Reverse diet Jul 12–29
+✓ Train Session: Ravage Block Wk2
+✓ Book Sedona cabin, restaurants, dog sitter
+✓ Phone off nightstand at bedtime
+✓ Solo-space rep: one unannounced 15–30 min block
+✓ Morning weigh-in, log 7-day rolling average
+✓ Hit 150g protein, eat more than last week
+✓ Complete Ravage training session today
 □ Walk 12,500 steps today
 □ Zone 2: one weekday 20-min (Tue or Thu)
 □ Ship promo doc — hard line Friday Jul 17
 □ Dan: lock in-person day/time this week
 
 **2026-07-15 (Wed)** — Reverse diet Jul 12–29
+✓ Phone off the nightstand at bedtime
+✓ Solo-space rep: unannounced 15–30 min block
+✓ Plan new meal cycle at reverse-diet calories
+✓ Morning weigh-in
+✓ Book Sedona cabin, restaurants, dog sitter
+✓ Hit 150g protein, eat more than yesterday
 □ Ship promo doc — final review complete
 □ Lock day/time with Dan this week
 □ Ravage training session (Leg day)
@@ -382,12 +404,22 @@ Format: ✓ = done, □ = planned/pending
 □ Zone 2: one weekday 20-min session
 
 **2026-07-16 (Thu)** — Reverse diet Jul 12–29
+✓ Solo-space rep: unannounced 15–30 min
+✓ Phone charged outside bedroom last night?
+✓ Morning weigh-in, note 7-day avg
+✓ Hit 150g protein, step up calories
 □ Train Session 5: legs — new block
 □ Walk 12,500 steps
 □ Dan sit-down: lock Fri Jul 24 date
 □ Ship promo doc — hard line Friday
 
 **2026-07-17 (Fri)** — Reverse diet Jul 12–29
+✓ Train Session 6: torso — new block
+✓ Dance micro-rep: 1–2 songs today
+✓ Solo-space rep: 15–30 min unannounced
+✓ Phone charged outside bedroom last night?
+✓ Morning weigh-in, rate sleep 1–5
+✓ Hit 150g protein, reverse-diet calories
 □ Walk 12,500 steps today
 □ Zone 2: 20 min weekday walk or incline
 □ Ship promo doc — hard line Friday
@@ -403,6 +435,10 @@ Format: ✓ = done, □ = planned/pending
 □ Elena's desk — she picks, order, Will assembles
 
 **2026-07-19 (Sun)** — Reverse diet Jul 12–29
+✓ Hit 150g protein, reverse-diet calories
+✓ Train Session 6: torso — new block week 2
+✓ Solo-space rep: unannounced 15–30 min move
+✓ Morning weigh-in, log 1–5 sleep score
 ✓ Hit 150g protein, reverse-diet calories
 □ Train Session: torso pull work
 □ Walk 12,500 steps today

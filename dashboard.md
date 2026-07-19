@@ -18,7 +18,7 @@ These fire daily until status changes. Brief always emits these alongside the da
 - **Canary (Jul 19 read): RECOVERED 🟢** — Larsen 145×8,7,6 vs 145×6,4,4 on 7/11; pulls strong. **Next Torso A: test 155, re-anchor threshold to the new block.**
 - **Reverse diet parameters:** ~2,150–2,200/day by feel as of 7/17, stepping +150–200/wk; dynamic trend rule above. Hard floor 168 irrelevant this phase. NYC = loose maintenance Jul 30.
 - **No intimacy talk at night** (hard rule). **Desire trend: strongest signal to date (7/12) — do not start watching for it.**
-- **Instrumentation watch:** completion-sync bug fixed 7/19 (7/12–7/18 data lost; backfill report tool live). Weekly synthesis missing since W24 — diagnosis is an AIOS-infra backlog row, not a daily task.
+- **Instrumentation watch:** completion-sync bug fixed 7/19 and **the lost 7/12–7/18 data backfilled (36 completions, PR #36)** — week recovered. Weekly synthesis still missing since W24 — diagnosis is an AIOS-infra backlog row (`synthesis-gap-diagnosis`), not a daily task.
 
 ## Major Moves This Week
 
@@ -31,5 +31,5 @@ Top of `backlog.md`. Brief picks 1-2 strategic per day from this rotation pool.
 5. **Sedona × Pre-Cana Class #1 conflict check (with Elena, before registering):** Class #1 starts Sep 11 — same day Sedona starts (Sep 11–14). Confirm actual session dates against the trip.
 6. **Flowers: order this week for ~week of Jul 28 delivery** — ordinary-day, no occasion, no commentary.
 7. **Marriage Prep Inventory — Deacon Ramsey contact** (couple task, Elena likely coordinates; complete by Aug).
-8. **Screen-time pipeline:** find where the phone actually writes its logs (nothing has landed in this repo on any branch) → point it here → push to master. Unlocks the weekly review Will asked for.
+8. **Digital minimalism (screen-time check ran 7/19, Tier 3 trigger MET):** (a) decide the 30-day declutter — run now or defer past the crunch; (b) **fix the IG 15-min override this week regardless** (delete app or move the passcode — ~3× overage); (c) confirm the going-forward screen-time review mechanism.
 9. **Z2 restart:** Sunday rep today post-reflection; Tue + Thu 20-min slots on the calendar.
