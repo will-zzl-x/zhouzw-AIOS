@@ -1,37 +1,35 @@
-# Dashboard — Week of July 12, 2026
-Q2 quests · Work main: deal-ready by Aug 31 (MOVING — Dan verbal made, lock day/time this week) · Life main: point of origin (IMPROVING — Z2 first rep fired, rotation activates) · **Reverse diet Jul 12–29** · Promo doc hard line Fri Jul 17 · Sedona deadline Jul 20 · **Yearly themes live (annual bootstrap 7/12): externalize triggers · proof over consumption · let it land**
+# Dashboard — Week of July 19, 2026
+Q2 quests · Work main: deal-ready by Aug 31 (**AT RISK — 0/12 evals; Dan text Wed → sit-down Fri 7/24**) · Life main: point of origin (MIXED — rotation live, Z2/dance need anchors) · **Reverse diet Jul 12–29 (dynamic trend steering)** · **Promo doc ships Sun 7/19 — gates everything else** · NYC Jul 30 (pre-trip lane by 7/29) · Themes: externalize triggers · proof over consumption · let it land (**therapist deprioritized with intention 7/19 → Aug 24 quarterly revisit**)
 
 ## Daily Consistents (every day, do not rotate)
 
 These fire daily until status changes. Brief always emits these alongside the daily-standard.md gates — never rotated by anti-repeat. Gate-clear = surfaces.
 
-- **Phone check-off (MORNING, retrospective — reworded 7/12 per Will):** the Todoist task fires each morning as *"Did the phone charge outside the bedroom last night?"* — check it off if yes, leave it if no. The behavior happens at bedtime; the verification happens the next morning. Relapse was live as of 7/12 (phone back next to bed) — streak restarts tonight. (`references/newport.md`)
+- **Phone check-off (MORNING, retrospective):** *"Did the phone charge outside the bedroom last night?"* — check if yes, leave if no. The behavior happens at bedtime; verification the next morning. (`references/newport.md`)
 - **Step target 12,500/day, no exceptions** — sources still unaudited; treat as live gate.
-- **Morning weigh-in, every day — plus a 1–5 sleep score in the same breath** — reverse diet runs tracking-free (deliberate), so the scale is the only instrument; 7-day avg steers, judge the Banff bounce Friday Jul 17, not before. The sleep score (first instinct, one number, no app) is the outcome measure for the new gummy stack (`journals/health-log.md` 7/13 entry) and the year's first sleep data.
-- **Zone 2: Sunday keystone (bike + phone, build 35 → 60–90 min) + 1 weekday 20-min** (Tue or Thu, off-leg days). **First rep fired Sun 7/12 (35 min)** — streak is alive at 1; protect it.
-- **Solo-space rep: ACTIVE (deferral ended 7/12)** — one 15–30 min unannounced block daily from the rotation: silent treadmill walk / violin / meditation / style-sprint move / **freestyle bachata**. Vary activity AND timing. Anti-goals hold: no dread, no scoring, no reaction-watching, no dynamic-talk with Elena. (`goals/desire-polarity.md`)
-- **Dance micro-rep, daily (1–2 songs):** private-lesson homework first, then the day's rotating pillar — FUNDAMENTALS (isolations/hips/weight transfer) · FOOTWORK (lead STYLING footwork — one four-count styling pattern, both sides, all week, then social-deploy; distinct from partner-technique footwork) · MUSIC (counts/breaks/instrument-spotting, rides on car/chores/lifting audio) · FREEDOM TO PLAY (a song or two of freestyle, un-graded). Binary check only — did the rep happen, never grade the dancing. Freestyle bachata doubles as a solo-space rep. (`references/dance-practice.md`)
-- **Sunday paste habit** (Sundays only) — 5-min weight + sessions + steps. (Fired 7/12 ✓ — the weight-sheet paste ran this reflection.)
-- **Friend cadence: reset by Banff** — next real touchpoint due ~Jul 26. Not urgent this week.
+- **Morning weigh-in, every day** — reverse diet runs tracking-free; the scale is the only instrument. **Steering is now trend-based (7/19):** flat-to-+0.5 lb/wk on the 7-day avg is fine; two weeks above that pauses the calorie add. W29 avg: 179.8. *(Sleep score dropped 7/19 — deliberate.)*
+- **Zone 2 — FIXED SLOTS, not found time (redesigned 7/19 after 0-rep week):** Sunday keystone (bike + phone, build 35 → 60–90 min, anchor: right after the weekly reflection/paste) + **Tue AND Thu 20-min** (off-leg days). Streak restarts today — protect the restart, not the number.
+- **Dance micro-rep, daily — THE life-main move of the week (Will 7/19: under-repped, carries with more weight):** anchored, not scheduled — **post-lift (music already on) or while dinner cooks.** 1–2 songs: private-lesson homework (body-rolls + transitions) first, then the day's pillar (FUNDAMENTALS · FOOTWORK-styling · MUSIC · FREEDOM TO PLAY). Binary check — did the rep happen, never grade the dancing. Freestyle doubles as a solo-space rep. (`references/dance-practice.md`)
+- **Solo-space rep: LIVE (week 2)** — one 15–30 min unannounced block daily from the rotation: silent treadmill walk / violin / meditation / freestyle bachata. Vary activity AND timing. Anti-goals hold: no dread, no scoring, no reaction-watching, no dynamic-talk with Elena. (`goals/desire-polarity.md`)
+- **Sunday paste habit** (Sundays only) — 5-min weight + sessions + steps. (Fired 7/19 ✓ — weight sheet + Liftosaur CSV both ran this reflection.)
+- **Friend cadence:** next touchpoint due ~Jul 26 — one reach-out this week; NYC (Michael + festival) covers the week after.
 
 ### Reference-only (structurally handled — do NOT surface as Todoist tasks)
-- **Lifting canary (Jul 11 read):** Larsen 145×6 @9 / back-offs 4,4 — ⚠️ inside the expected post-cut+travel envelope; pulls strong (Narrow Pulldown 112.5×13 @9.5) = lean mass intact. Pull-up → machine pulldown swap LIVE ✓. **Recalibrate thresholds to the new block after 2–3 reverse-diet weeks.** No abort logic active — the cut is over.
-- **Reverse diet parameters:** +150–200 cal/wk by feel; pause the add if 7-day avg exceeds ~181 two weeks running. Hard floor 168 irrelevant this phase.
+- **Canary (Jul 19 read): RECOVERED 🟢** — Larsen 145×8,7,6 vs 145×6,4,4 on 7/11; pulls strong. **Next Torso A: test 155, re-anchor threshold to the new block.**
+- **Reverse diet parameters:** ~2,150–2,200/day by feel as of 7/17, stepping +150–200/wk; dynamic trend rule above. Hard floor 168 irrelevant this phase. NYC = loose maintenance Jul 30.
 - **No intimacy talk at night** (hard rule). **Desire trend: strongest signal to date (7/12) — do not start watching for it.**
-- **YouTube Shorts:** structurally killed. Tier 3 screen-time review is a this-week check, below.
+- **Instrumentation watch:** completion-sync bug fixed 7/19 (7/12–7/18 data lost; backfill report tool live). Weekly synthesis missing since W24 — diagnosis is an AIOS-infra backlog row, not a daily task.
 
 ## Major Moves This Week
 
 Top of `backlog.md`. Brief picks 1-2 strategic per day from this rotation pool.
 
-1. **SHIP PROMO DOC — Friday Jul 17** (Will committed 7/12: done by end of week).
-2. **Dan sit-down ~Fri Jul 24 (confirm date):** rewrite spine point 4 around the risk-sized deal-#1 box (`context/acquisition.md` "Deal #1 Risk-Sizing") before the meeting.
-3. **Deal evals: 2 this Saturday Jul 18, +1–2 weekday** — walk into the Dan meeting with 3–4 reps on paper. Process: BizBuySell/Acquire.com saved search in the deal-#1 box ($150–300k, bookkeeping/prof-services or ZoG sectors, recurring ≥70%) → three-question test → `/deal-eval` → log to `journals/acquisition-log.md`. First reps ever — small is fine, done is the point.
-4. **Elena — flowers RETIMED to ~week of Jul 28 (closer to ovulation, Will's timing call).** Not this week. Ordinary-day delivery, no occasion, no commentary — unengineered is the point.
-5. **Book therapist intake by Jul 31** — theme 3, buffer-funded. ACT / differentiation-oriented; the script is in the backlog row.
-5. **New meal cycle (first at reverse-diet calories)** — Banff-split cycle is done; plan + cook this week.
-6. **Solo-space rotation first rep** — violin or silent walk, unannounced. The Life-main move of the week.
-7. **Style sprint carried buys** (Aer Travel Pack 3, aviators, tailor drop-off) — execute or explicitly fold into NYC.
-8. **Pre-Cana — confirm session date** with St. Andrew (Elena lead; 3rd reflection carrying it).
-9. **Tier 3 digital-minimalism check (post-cut window open):** pull screen-time; escalate if YouTube went long-form binge.
-10. **Fitness pipeline scope call (post-cut window open):** decide auto-pull half (Apple Health / weight sheet) or park explicitly.
+1. **SHIP PROMO DOC — TODAY, Sunday Jul 19.** Fourth slip ended the deadline approach: the doc ships before any other move on this list opens. (Will's own call, 7/19 morning.)
+2. **Deal-eval reps: 3–4 logged before Friday** — the work-main counter reads 0/12+. Saturday keystone + weekday slots; saved search in the deal-#1 box → three-question test → `/deal-eval` → log. Walk into the Dan meeting with reps on paper. **#2 priority after the doc (Will).**
+3. **Dan: text Wednesday Jul 22 → sit-down Friday Jul 24 early evening.** Packet is done — stop refining it. The meeting is the deliverable.
+4. **NYC pre-trip lane (by Jul 29, list: `context/nyc-2026-trip.md`):** (a) get Affidavit of Free Status form/requirements from St. Andrew so the Michael ask is executable; (b) heads-up text to Michael; (c) **festival wardrobe call — ESM is during the trip:** buy pre-flight or plan the NYC shopping stop; (d) haircut plan (photograph for Phoenix barber).
+5. **Sedona × Pre-Cana Class #1 conflict check (with Elena, before registering):** Class #1 starts Sep 11 — same day Sedona starts (Sep 11–14). Confirm actual session dates against the trip.
+6. **Flowers: order this week for ~week of Jul 28 delivery** — ordinary-day, no occasion, no commentary.
+7. **Marriage Prep Inventory — Deacon Ramsey contact** (couple task, Elena likely coordinates; complete by Aug).
+8. **Screen-time pipeline:** find where the phone actually writes its logs (nothing has landed in this repo on any branch) → point it here → push to master. Unlocks the weekly review Will asked for.
+9. **Z2 restart:** Sunday rep today post-reflection; Tue + Thu 20-min slots on the calendar.

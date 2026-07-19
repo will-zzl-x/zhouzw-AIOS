@@ -2,6 +2,15 @@
 
 Rows moved here from `backlog.md` at Sunday reflections. Newest batch on top.
 
+## Archived 2026-07-19
+
+| id | Title | Area | Quest | Notes | Completed |
+|---|---|---|---|---|---|
+| sedona-trip-book | Elena birthday Sedona trip — book cabin + restaurants + dog sitter | Relationships | side | DONE — booked (Will 7/12). Sep 11–14. NOTE: Pre-Cana Class #1 starts Sep 11 — live conflict-check row (`sedona-class1-conflict`) carries forward. | 2026-07-12 |
+| pre-cana-confirm-schedule | Pre-Cana — confirm next session date with St. Andrew | Wedding | side | DONE 2026-07-18 (Elena). Session date locked; full St. Andrew requirement map now in `context/wedding.md`. Carried 4 reflections. | 2026-07-18 |
+| hotel-block-premium | Wedding hotel block — premium tier chase (The Remi / Valley Ho) | Wedding | side | DROPPED 2026-07-18 (Elena). Villa Solara Airbnb covers overflow — no premium tier needed. | 2026-07-18 |
+| carried-task-flag | Morning brief: flag any task carried >7 days as a redesign trigger | AIOS-Infra | not-quest | DONE 2026-07-16 (shipped in brief_generator.py). Theme 1 — externalize every trigger. | 2026-07-16 |
+
 ## Archived 2026-07-12
 
 | id | Title | Area | Quest | Notes | Completed |

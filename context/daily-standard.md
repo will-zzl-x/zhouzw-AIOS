@@ -51,17 +51,17 @@ Done when:
 Done when:
 1. **Career** — Advance/ship the promo doc (hard line Fri Jul 17), or maintain Amazon. Acquisition reps optional on weekdays.
 2. **Training** — Ravage session (if training day) — minimum 3x/week. New block underway (Wk2).
-3. **Nutrition** — Protein-first, ~150g (retention floor). Calories stepping up +150–200/wk **by feel — do NOT log Cronometer** (tracking deliberately dropped). No calorie task in the brief; the nutrition gate is "protein-first, eat a bit more than last week."
+3. **Nutrition** — Protein-first, ~150g (retention floor). Calories stepping up +150–200/wk **by feel — do NOT log Cronometer** (tracking deliberately dropped). ~2,150–2,200/day as of 7/17. No calorie task in the brief; the nutrition gate is "protein-first, eat a bit more than last week."
 4. **Steps** — ≥ 12,500
 
-Scale rule (reverse): the daily morning weigh-in is the instrument (surfaced as a Daily Consistent, not duplicated here). Hold the 7-day avg ≤ ~180–181; if it climbs 2 weeks running, pause the calorie add. Hard floor 168 lb irrelevant this phase.
+Scale rule (reverse) — **DYNAMIC, trend-based (updated 7/19 per Will, Helms/McDonald school):** the daily morning weigh-in is the only instrument (surfaced as a Daily Consistent, not duplicated here). **Flat-to-+0.5 lb/wk on the 7-day avg is the acceptable reverse-diet trajectory** — that's the target, not a ceiling to hold under. Pause the calorie add only if the trend runs *above* +0.5 lb/wk two weeks running (soft check ~181). This replaces the old fixed ≤180–181 ceiling. Hard floor 168 lb irrelevant this phase. **No morning sleep score — dropped 7/19 (deliberate).**
 
 ### Reverse Diet — Weekends (Jul 12 – Jul 29) — CURRENT
 Done when:
 1. **Training** — Ravage session OR active recovery (long walk ≥ 12.5k steps)
 2. **Nutrition** — Protein-first ~150g; calories by feel, no logging
 3. **Steps** — ≥ 12,500
-4. **Acquisition (Saturday keystone)** — the deliberate deal-eval rep (1–2 listings through the framework)
+4. **Acquisition (Saturday keystone)** — the deliberate deal-eval rep (1–2 listings through the framework). **W29+ escalation: the eval counter is 0 of 12+ with the Aug 31 deadline ~6 weeks out — this keystone is now the binding constraint on the work-main quest, not optional.**
 
 ---
 
