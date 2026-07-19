@@ -123,6 +123,22 @@ def get_completed_today(project_id: str) -> list[dict]:
     return _get_paginated("/tasks/completed/by_completion_date", params)
 
 
+def get_completed_range(project_id: str, since_dt, until_dt) -> list[dict]:
+    """Tasks completed within an explicit [since_dt, until_dt) window (both
+    tz-aware datetimes, any zone — converted to UTC for the API call).
+    Read-only backfill/report tool — get_completed_today() covers the normal
+    nightly path; this exists to recover historical completion data (e.g.
+    the 7/12-7/18 window lost to the 'items' vs 'results' envelope bug)."""
+    since_utc = since_dt.astimezone(timezone.utc)
+    until_utc = until_dt.astimezone(timezone.utc)
+    params = {
+        "project_id": project_id,
+        "since": since_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "until": until_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
+    }
+    return _get_paginated("/tasks/completed/by_completion_date", params)
+
+
 def clear_active_tasks(project_id: str) -> int:
     """DELETE all currently-active tasks. Best-effort — partial failures
     don't abort the brief. Returns count successfully deleted.
