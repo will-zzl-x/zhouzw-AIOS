@@ -133,3 +133,30 @@ Running training log. All sessions logged here — GVS Ravage, bodyweight, and o
 | Pull-up → **machine pulldown swap LIVE** | not below 3,3,1 | swap executed both Torso days ✓ | retired — replace metric |
 
 **Read:** −9% Larsen e1RM is inside Schofield's expected 5–10% push-lift slide on a cut, measured 3 days after a 6-day trip with an all-nighter and 6 days off the lift, on a new block where prescribed load was 120–130 (Will loaded 145). Not an abort signal — the cut is over and the reverse diet is the fix already in motion. **Pulls are the tell and pulls are strong** (Narrow Pulldown 112.5×13 @9.5 — pulls should hold on a cut if muscle is retained, and they did). Isolations fine. **Action: recalibrate canary thresholds to the new block after 2–3 reverse-diet weeks; expect Larsen to recover toward 155+ as calories come up.**
+
+---
+
+## Reverse diet block — Wk2 D3 through Wk3 D2 (Jul 13–19) — logged via Liftosaur CSV 7/19
+
+**Sessions (6 in 7 days, zero misses — clean adherence into the reverse diet):**
+- Jul 13 — Wk2 D3 Bro A (Hammer Curl 25×15,11 @9.5,10; Triceps Pushdown 62.5×9,11 @10; Lateral Raise 15×15,10 @10)
+- Jul 14 (early AM) — Wk2 D4 Legs B (Smith Squat working @9; RDL 65×12,9 @8.5,9.5; Leg Curl/Ext 90×8,7 / 9,9 @10)
+- Jul 14 (late night) — Wk2 D5 Torso B (DB Bench @9; Machine Pulldown 120×12,11 @10; Shoulder Press 40×8,11 @10,10; Seated Row 80×18,18 @10)
+- Jul 17 — Wk2 D6 Bro B (Hammer Curl 25×10,11 @10; Bicep Curl 25×11,8 @10; Triceps Pushdown 62.5×9,7 @10)
+- Jul 18 — Wk3 D1 Legs A (Hack Squat working sets @8; SLDL @9; Walking Lunge 20×10,6 @10)
+- Jul 19 — **Wk3 D2 Torso A — second post-Banff canary check (reverse diet Wk2):**
+  - Smith CG Larsen Press **145 — 8, 7, 6 @ RPE 9, 9.5, 9**
+  - Narrow Pulldown 112.5×15, 15, 10 @9, 9.5, 10
+  - Smith Reverse-Grip Bench 105 — 11, 10 @9
+  - Machine Pulldown 120 — 10, 12 @9, 10
+  - Cable Crossover 20 — 10, 7 @10
+  - Bent Over One-Arm Row 45 — 15, 11 @10
+
+**Canary read — Jul 19 vs. Jul 11 (same weight, same lift, 8 days of reverse diet apart):**
+| Lift | Jul 11 (Wk2 D2) | Jul 19 (Wk3 D2) | Status |
+|------|-----------------|------------------|--------|
+| Larsen top set | 145×6 @9 | **145×8 @9** | 🟢 +2 reps at same load |
+| Larsen back-offs | 4, 4 @9 | **7, 6 @9.5, 9** | 🟢 nearly doubled — nowhere near an abort signal |
+| Narrow Pulldown | 112.5×13 @9.5 | 112.5×15 @9 | 🟢 holding/improving |
+
+**Read:** exactly the recovery Schofield's framework predicted 8 days ago ("expect Larsen to recover toward 155+ as calories come up") — reps jumped sharply at the identical 145 load as the reverse diet's added calories came online, with zero missed sessions across the block (6/6, including a same-day double on 7/14). This is the strongest single data point yet that the post-cut/post-Banff dip was fatigue, not lost capacity. **Action: with reps this far above threshold at 145, the next Torso A session is the natural point to test 155+ again and re-anchor the canary's top-set number.**
