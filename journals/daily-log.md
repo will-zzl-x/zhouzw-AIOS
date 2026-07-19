@@ -392,3 +392,12 @@ Format: ✓ = done, □ = planned/pending
 □ Zone 2: 20 min weekday walk or incline
 □ Ship promo doc — hard line Friday
 □ Text Dan: lock Fri Jul 24 sit-down
+
+**2026-07-18 (Sat)** — Reverse diet Jul 12–29
+□ Walk 12,500 steps today
+□ Zone 2: Sunday keystone bike session
+□ Phone charged outside bedroom last night?
+□ Dance micro-rep: 1–2 songs, one pillar
+□ Deal-eval reps: 2 listings through framework
+□ Rewrite spine point 4 around deal-#1 box
+□ Elena's desk — she picks, order, Will assembles
