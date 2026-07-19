@@ -1,0 +1,40 @@
+name: Todoist Backfill Report
+
+# Manual, read-only diagnostic: prints Todoist completions for an explicit
+# date range without writing anything. Recovery tool for the 7/12-7/18
+# window lost to the completed-items 'items' vs 'results' envelope bug
+# (fixed 7/19, see cloud/morning-brief/todoist_client.py).
+
+on:
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "Start date, YYYY-MM-DD (Phoenix-local, inclusive)"
+        required: true
+      until:
+        description: "End date, YYYY-MM-DD (Phoenix-local, exclusive)"
+        required: true
+
+jobs:
+  backfill-report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r cloud/morning-brief/requirements.txt
+
+      - name: Run backfill report
+        working-directory: cloud/morning-brief
+        env:
+          TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          AIOS_BRANCH: master
+          AIOS_LOCAL_PATH: ${{ github.workspace }}
+        run: python main.py backfill "${{ inputs.since }}" "${{ inputs.until }}"
