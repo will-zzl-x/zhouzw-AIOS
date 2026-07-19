@@ -401,3 +401,17 @@ Format: ✓ = done, □ = planned/pending
 □ Deal-eval reps: 2 listings through framework
 □ Rewrite spine point 4 around deal-#1 box
 □ Elena's desk — she picks, order, Will assembles
+
+**2026-07-19 (Sun)** — Reverse diet Jul 12–29
+✓ Hit 150g protein, reverse-diet calories
+□ Train Session: torso pull work
+□ Walk 12,500 steps today
+□ Phone charged outside bedroom last night?
+□ Morning weigh-in + 1–5 sleep score
+□ Sunday Zone 2: bike 60–90 min + phone
+□ Solo-space rep: 15–30 min unannounced
+□ Sunday paste: weight + sessions + steps
+□ Dance micro-rep: 1–2 songs, one pillar
+□ Run 2 deal evals, log gaps to acquisition-log
+□ Elena's desk — she picks, order, Will assembles
+□ Mindset — Don't grade or score — out loud or in your head. When you catch yourself rating an interaction with Elena today (good/bad/regressing/improving), cut the thought mid-sentence and redirect to the next concrete thing in front of you.
