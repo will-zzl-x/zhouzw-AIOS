@@ -451,3 +451,16 @@ Format: ✓ = done, □ = planned/pending
 □ Run 2 deal evals, log gaps to acquisition-log
 □ Elena's desk — she picks, order, Will assembles
 □ Mindset — Don't grade or score — out loud or in your head. When you catch yourself rating an interaction with Elena today (good/bad/regressing/improving), cut the thought mid-sentence and redirect to the next concrete thing in front of you.
+
+**2026-07-19 (Sun)** — Reverse diet Jul 12–29
+✓ Sunday paste: weight + sessions + steps
+✓ Solo-space rep: 15–30 min unannounced
+✓ Morning weigh-in + 1–5 sleep score
+✓ Phone charged outside bedroom last night?
+✓ Train Session: torso pull work
+✓ Hit 150g protein, reverse-diet calories
+□ Walk 12,500 steps today
+□ Sunday Zone 2: bike 60–90 min + phone
+□ Dance micro-rep: 1–2 songs, one pillar
+□ Run 2 deal evals, log gaps to acquisition-log
+□ Mindset — Don't grade or score — out loud or in your head. When you catch yourself rating an interaction with Elena today (good/bad/regressing/improving), cut the thought mid-sentence and redirect to the next concrete thing in front of you.
