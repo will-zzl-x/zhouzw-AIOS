@@ -464,3 +464,16 @@ Format: ✓ = done, □ = planned/pending
 □ Dance micro-rep: 1–2 songs, one pillar
 □ Run 2 deal evals, log gaps to acquisition-log
 □ Mindset — Don't grade or score — out loud or in your head. When you catch yourself rating an interaction with Elena today (good/bad/regressing/improving), cut the thought mid-sentence and redirect to the next concrete thing in front of you.
+
+**2026-07-20 (Mon)** — Reverse diet Jul 12–29
+✓ Mindset — Don't grade or score — out loud or in your head. When you catch yourself rating an interaction with Elena today (good/bad/regressing/improving), cut the thought mid-sentence and redirect to the next concrete thing in front of you.
+✓ Solo-space rep: 15–30 min unannounced block
+✓ Sunday paste: weight + sessions + steps
+✓ Phone charged outside bedroom last night?
+✓ Hit 150g protein, reverse-diet calories
+□ Ship promo doc — final review complete
+□ Walk 12,500 steps today
+□ Zone 2 keystone: bike 60–90 min post-reflection
+□ Dance micro-rep: 1–2 songs, one pillar today
+□ Run 2 deal evals, log gaps to acquisition-log
+□ Morning weigh-in, log 7-day rolling average
