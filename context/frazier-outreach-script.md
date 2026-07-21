@@ -4,6 +4,8 @@ Reach-out methodology for cold-contact acquisition outreach to seller-operators.
 
 Use this for **independent deal pipeline** outreach (`solo-deal-pipeline` backlog item) and any direct-to-seller contact post-Apify scrape. Different audience than the Frame B message to Dan — this is for sellers you've never met; that one is for reactivating an existing partner.
 
+**Revenue band corrected 7/19** to match deal #1's re-scoped risk-sized box ($150–300k price, SDE ≥$60k — `context/acquisition.md` "Deal #1 Risk-Sizing Principles"), replacing the stale $500k–$1M language. The 505-lead list in `sourcing/leads-ranked-dan.md` is still fully usable as-is — its score is a Maps-only fit heuristic with no revenue data pre-contact; the old label just described original search intent, not a filter.
+
 ---
 
 ## Core Frazier principles
@@ -28,7 +30,7 @@ Use for direct seller outreach via cold email, LinkedIn, or letter:
 
 > Hi [Name],
 >
-> I'm an investor looking for a bookkeeping / accounting firm in the Phoenix metro area doing between $500K and $1M in annual revenue. [Your firm] came up in my research and I wanted to reach out to see if you might be open to a conversation about a potential fit — either for an investment or some opportunity to work together.
+> I'm an investor looking for a bookkeeping / accounting firm in the Phoenix metro area doing between $200K and $500K in annual revenue. [Your firm] came up in my research and I wanted to reach out to see if you might be open to a conversation about a potential fit — either for an investment or some opportunity to work together.
 >
 > No specific agenda for the first conversation — just exploring whether there's mutual interest. Happy to do a 15-minute call when convenient.
 >
