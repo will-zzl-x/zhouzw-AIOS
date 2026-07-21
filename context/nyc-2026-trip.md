@@ -18,6 +18,33 @@ Paramount Hotel, 4 nights (per state.md). Hell's Kitchen + **ESM bachata sensual
 - **Reverse diet → loose maintenance** — the diet is scheduled to land at loose maintenance exactly for this trip (Jul 30 = end of the +cal ramp). Eat well, weigh when convenient, don't track.
 - **Location scouting** — NYC is on the exit-city shortlist (scene-maximalist alt behind Dallas/SoCal). Notice climate, bachata scene depth, cost reality. Fold observations into `/mid-week-capture`.
 
+## Itinerary — working draft (Thu Jul 30 → Wed Aug 5)
+
+**Fixed anchors (known):**
+- **ESM dance festival** — days/venue/pass TBC (typically Fri–Sun: day workshops + night socials). Festival days = light daytime schedule, late nights.
+- **Michael** — affidavit ask (form in hand) + real hangout. Day TBC.
+- **Haircut** — one weekday slot, photograph result.
+- **Festival wardrobe shopping** — if not bought pre-flight, early in trip (before festival starts).
+- **Location scouting lens** — runs passively all week (climate, bachata scene depth, cost reality → `/mid-week-capture`).
+
+**Day grid (to fill once flights + festival schedule confirmed):**
+
+| Day | Daytime | Evening |
+|---|---|---|
+| Thu 7/30 | arrive (time TBC) | — |
+| Fri 7/31 | — | festival? |
+| Sat 8/1 | festival? | festival social? |
+| Sun 8/2 | festival? | festival social? |
+| Mon 8/3 | — | — |
+| Tue 8/4 | — | — |
+| Wed 8/5 | depart (time TBC) | — |
+
+## Food list (add as they come up; cluster by neighborhood on the day grid)
+
+- [ ] **Eileen's Special Cheesecake** — 17 Cleveland Pl, Nolita (Spring St 6-train stop). Individual-size cheesecakes, the anti-Junior's move. Pairs naturally with a SoHo/Nolita/Little Italy walking day — also the same downtown zone as good vintage/menswear shopping if the festival-wardrobe hunt happens in NYC. *(Verify hours closer to date.)*
+- [ ] Hell's Kitchen dinner row (9th Ave) — near the hotel, keep 1–2 nights unplanned for it
+- [ ] (add more)
+
 ## Packing checklist (build out closer to the date)
 
 - [ ] Affidavit of Free Status form (printed, for Michael)
