@@ -22,13 +22,17 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 - **Social end-times (planning assumption from last year): Fri ~4am, Sat ~5am, Sun by feel.** Mornings after are scheduled empty; first anchor never before ~11:45am on festival days.
 - **9/11: free only** — reflecting pools + Oculus walkthrough, no museum.
 - **No haircut on the trip** (Phoenix beforehand if wanted).
+- **Sahil (separate NYC friend) — two pending inserts, gated on his availability (Will to text him):** (a) **casual gym session** at Sahil's gym as a guest — default slot **Fri ~12:30–3pm** (legs freshest, keeps Sun as recovery); (b) **double date** (Sahil + partner, Will + Elena) — casual, NOT black tie, NOT folded in with Michael — default slot **Sun ~6:30pm early dinner** (pre-social, Hell's Kitchen). Both TBD until Sahil confirms; if he's only free one day, the gym takes priority over the double date.
+- **Social-day dinners run EARLY** to protect a real pre-social nap (sleep recovery is the constraint on back-to-back late nights): dinner done by ~8pm, horizontal nap ~2h before the 11:30pm social.
 
 ## Day-by-day (hour-blocked — mirrors `nyc-2026-trip.ics`)
 
-### Thu 7/30 — arrival (no social)
-- **1:15pm (PHX) / 4:15pm ET** — DL796 departs PHX. *(calendar shows ET.)*
+### Thu 7/30 — arrival (no social) ✅ LOCKED
+- **Morning (PHX, MST)** — Ravage lift before departure (the Banff pattern: train the morning of the flight). Pack protein snacks/bars — homemade or bars.
+- **~10:45am MST** — leave for PHX Sky Harbor. **Eat a real meal at PHX before boarding** — the ATL layover is only 46 min, grab-and-walk, no sit-down.
+- **1:15pm MST / 4:15pm ET** — DL796 departs PHX. *(calendar shows ET.)*
 - **11:24pm** — land LGA.
-- **11:30pm–12:15am** — cab/Uber to 416 W 49th #3D. *(Confirm the late-night entry/keys plan with the friend beforehand.)*
+- **11:30pm–12:15am** — **cab/Uber to 416 W 49th #3D (~$45 w/ tolls).** Transit is possible (free Q70 "LaGuardia Link" bus → E train to 50th St) but ~75–90 min with bags at midnight — not worth it tonight; save transit for daytime trips. *Confirm the late-night entry/keys plan with the friend beforehand.*
 - **12:15am** — crash. Nothing else.
 
 ### Fri 7/31 — festival day 1 · Black & Gold (last year: ~4am)
