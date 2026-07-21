@@ -52,13 +52,17 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 - **10:15–11:00pm** — dress Black & Gold.
 - **~12:00am–~4am** — Black & Gold social @ Marquis (doors 11:30 — walk in ~midnight at peak). Walk 12 min back, electrolytes, crash.
 
-### Sat 8/1 — festival day 2 · Black-Tie Mafia Royale, the marquee night (last year: ~5am)
-- **11:45am–12:45pm** — wake, late brunch near hotel.
+### Sat 8/1 — festival day 2 · Mafia Royale social + vigil Mass ✅ LOCKED
+- **11:45am** — wake (after the ~4am Friday night).
+- **12:15–1:00pm** — **Lunch: Xi'an Famous Foods** (24 W 45th) — cumin-lamb hand-ripped noodles, ~$12, the NYC noodle institution; near the Marquis.
 - **2:00–2:50pm** — ESM Class @ Marquis.
-- **3:00–5:00pm** — back to hotel, steam the suit, rest. (Feet-light afternoon — no Central Park today.)
-- **7:00–8:30pm** — nicer dinner, already dressed (this is the black-tie night; dinner is part of it). K-town or a Midtown spot.
-- **8:45–10:45pm** — rest.
-- **11:30pm–~5am** — Mafia Royale social @ Marquis. The night to stay late.
+- **3:00–4:30pm** — back, rest, get ready (no suit this trip — dressing cool for a hot social).
+- **5:00–6:00pm** — **Vigil Mass — St. Malachy's, The Actors' Chapel** (239 W 49th). Fulfills the weekend obligation; Sunday morning is unworkable post-social.
+- **6:30–8:00pm** — **Dinner: Becco** (355 W 46th, Restaurant Row) — Lidia Bastianich's theater-district pasta room; the **Sinfonia di Paste** unlimited three-pasta table-side service, $36.95 (well under $100pp with an app/wine). Dress-up-able, non-touristy, 3-min walk from the Mass. Time to digest before the nap + social.
+- **8:15–10:30pm** — nap (~2h+).
+- **~12:00–3:30am** — Mafia Royale social @ Marquis. **Exit ~3:30am** to keep Sunday's 1pm class survivable.
+
+*(St. Patrick's Cathedral, 5th & 50th — a free walk-through another day for the grandeur; the obligation is covered Saturday at St. Malachy's.)*
 
 ### Sun 8/2 — festival day 3 · NYC Urban Street Style (by feel)
 - **11:45am–12:45pm** — wake, quick food/coffee (tight turnaround off the 5am night).
