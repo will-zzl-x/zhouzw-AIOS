@@ -25,13 +25,14 @@ Will + Elena. **Lodging:** Paramount Hotel (235 W 46th St, Times Square) 4 night
 
 **Sun 8/2 — festival day 3.** Sleep to ~11 (you'll need it). Wake + eat, class at 1–1:50. Afternoon deliberately EMPTY — nap, pool, wander a block for coffee. Hell's Kitchen dinner. Street-style social 11:30 — sneakers = the easiest night on your feet; close out the festival as long as it's good.
 
-**Mon 8/3 — recovery + Central Park + Michael.** Sleep long (third 3–4am night). If the Paramount block is Thu→Mon: checkout, drop bags at the friend's place. Afternoon: **Central Park proper** — relaxed 2–3h (Bethesda Terrace, the Mall, Bow Bridge; rowboats if the mood strikes). **Dinner with Michael — affidavit ask, form in hand** (confirm the day with him in advance; Monday dinner suits a working schedule, and there's no social after — a real hangout). No Broadway tonight — many shows are dark Mondays.
+**Mon 8/3 — recovery + bagels + Central Park + Michael.** Sleep long (third 3–4am night). If the Paramount block is Thu→Mon: checkout, drop bags at the friend's place. Late-morning: **bagels + lox at Absolute Bagels** (2788 Broadway, Upper West Side — legendary, cheap, cash-only, zero tourist-trap markup) → walk straight into **Central Park** from the NW corner. Relaxed 2–3h (Bethesda Terrace, the Mall, Bow Bridge; rowboats if the mood strikes). **Dinner with Michael — affidavit ask, form in hand** (confirm the day with him in advance; Monday dinner suits a working schedule, and there's no social after — a real hangout). No Broadway tonight — many shows are dark Mondays.
 
 **Tue 8/4 — the big day (fully rested, feet recovered).** This is the one heavy-walking day, by design:
 - ~9:30am: **9/11 Memorial** (Museum if you want it — ~2h; reflecting pools alone ~45 min).
 - Walk 15 min to City Hall → **Brooklyn Bridge**: full cross to DUMBO (~60 min with photo stops), pebble-beach skyline shot, then subway back into Manhattan (York St F → East Broadway, or A/C from High St).
-- ~1:30pm **Chinatown food crawl:** **Mei Lai Wah** (64 Bayard St) — pineapple bun with roast pork · **Spongie's Cafe** — the sponge cake (Chinatown — *verify exact address/hours before the day*).
-- Walk ~10 min north into Nolita: **Eileen's Special Cheesecake** (17 Cleveland Pl) — the dessert closer.
+- **~12:30pm dim sum lunch in Chinatown — the sit-down anchor of the day.** Value/local picks: **Golden Unicorn** (18 East Broadway) or **Dim Sum Go Go** (5 East Broadway) — cart-style/à la carte, cheap, mostly locals. *Nom Wah Tea Parlor (13 Doyers St) is the famous one — better food-tourism, but lines and pricier; skip it if avoiding touristy.* Dim sum runs out by mid-afternoon, so this is why it's the lunch anchor, not a later stop.
+- Then **graze north toward Nolita** (all walking-dessert stops, not full meals): **Mei Lai Wah** (64 Bayard St) pineapple bun w/ roast pork · **Spongie's Cafe** sponge cake (*verify address/hours*) · **Eileen's Special Cheesecake** (17 Cleveland Pl) — the closer.
+- *Craving noodles over dim sum instead? Swap the lunch anchor for **Tasty Hand-Pulled Noodles** (1 Doyers St) — hand-pulled, ~$8–10 a bowl, no-frills. Can't do both in one day without overloading; pick dim sum OR noodles here.*
 - Subway back ~3:30pm. Rest 4–6pm. **Broadway show, evening (~7/8pm curtain) — BOOK THIS WEEK** (theater district = walk from lodging; TKTS same-day is the fallback, but book the show you actually want now).
 - Pack tonight — 7:45am departure tomorrow.
 
@@ -48,10 +49,18 @@ Will + Elena. **Lodging:** Paramount Hotel (235 W 46th St, Times Square) 4 night
 
 ## Food list
 
-- [ ] **Eileen's Special Cheesecake** — 17 Cleveland Pl, Nolita → Tuesday crawl closer
-- [ ] **Mei Lai Wah** — 64 Bayard St, Chinatown — pineapple bun w/ roast pork → Tuesday crawl
-- [ ] **Spongie's Cafe** — sponge cake → Tuesday crawl (*verify address/hours*)
-- [ ] Hell's Kitchen 9th Ave dinner row — Fri + Sun nights, keep unplanned and pick by mood
+*Standing rule: good value, not touristy — for everything. Verify hours/addresses the week of.*
+
+**Placed:**
+- [ ] **Bagels + lox → Absolute Bagels**, 2788 Broadway (UWS) — Mon breakfast before Central Park. Cash only, cheap, no markup. *(HK-adjacent fallback if skipping the UWS trek: Best Bagel & Coffee, W 35th.)*
+- [ ] **Dim sum → Golden Unicorn** (18 East Broadway) or **Dim Sum Go Go** (5 East Broadway) — Tue ~12:30 lunch anchor, Chinatown. Local/value; Nom Wah is the touristy alt.
+- [ ] **Chinese noodles → Xi'an Famous Foods** (nearest Midtown location) as a fast festival-day lunch — biang-biang / cumin-lamb, cheap, quick. *OR* **Tasty Hand-Pulled Noodles** (1 Doyers St) as the Tuesday Chinatown swap-in for dim sum (pick one, not both, that day).
+- [ ] **Mei Lai Wah** (64 Bayard St) — pineapple bun w/ roast pork → Tue graze
+- [ ] **Spongie's Cafe** — sponge cake → Tue graze (*verify address/hours*)
+- [ ] **Eileen's Special Cheesecake** (17 Cleveland Pl, Nolita) → Tue closer
+
+**Open / by mood:**
+- [ ] Hell's Kitchen 9th Ave dinner row — Fri + Sun nights, keep unplanned, pick by mood
 - [ ] Saturday pre-social dinner — one nicer spot, dressed up anyway (pick ahead, ~7pm)
 - [ ] (random ideas keep landing here — anything Will floats gets added and clustered to a day)
 
