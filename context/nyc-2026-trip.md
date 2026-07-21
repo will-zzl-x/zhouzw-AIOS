@@ -22,10 +22,15 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 - **Social end-times (planning assumption from last year): Fri ~4am, Sat ~5am, Sun by feel.** Mornings after are scheduled empty; first anchor never before ~11:45am on festival days.
 - **9/11: free only** — reflecting pools + Oculus walkthrough, no museum.
 - **No haircut on the trip** (Phoenix beforehand if wanted).
-- **Sahil (separate NYC friend) — two pending inserts, gated on his availability (Will to text him):** (a) **casual gym session** at Sahil's gym as a guest — default slot **Fri ~12:30–3pm** (legs freshest, keeps Sun as recovery); (b) **double date** (Sahil + partner, Will + Elena) — casual, NOT black tie, NOT folded in with Michael — default slot **Sun ~6:30pm early dinner** (pre-social, Hell's Kitchen). Both TBD until Sahil confirms; if he's only free one day, the gym takes priority over the double date.
-- **Social-day dinners run EARLY** to protect a real pre-social nap (sleep recovery is the constraint on back-to-back late nights): dinner done by ~8pm, horizontal nap ~2h before the 11:30pm social.
+- **Sahil & Emily (NYC friends): DOUBLE DATE, no gym** (gym idea dropped 7/19). Casual, not black tie, separate from Michael. **Default slot: Sunday ~5:45pm early dinner** (pre-social; early per the nap rule). Will texts Sahil to confirm availability.
+- **Michael gets Cho Dan Gol with just him** (no Sahil/Emily folding-in). Affidavit anchor dinner Monday stands unless consolidated — see open question.
+- **Catholic Mass required this weekend: Saturday vigil preferred** (Sunday morning is unworkable post-5am-social). Plan: **St. Patrick's Cathedral Sat vigil ~5:30pm** (5th & 50th, 15-min walk, iconic — verify time week-of) · alt: **St. Malachy's "The Actors' Chapel" Sat ~5pm** (239 W 49th — literally the friend's block; the Broadway-district parish, fitting for this trip).
+- **Social-day dinners run EARLY** to protect a real pre-social nap: dinner done by ~8:30pm, ~2h horizontal before the social. **Arrive socials ~midnight** (doors 11:30 — skip the dead first half-hour, catch peak).
+- **MEAL DOCTRINE: zero throwaway meals.** Every slot is a named place that's NYC-unique or NYC-at-a-level Phoenix can't match, at fair value. Bagels ONCE (Fri, Best Bagel) unless nothing better competes for a slot.
 
-## Day-by-day (hour-blocked — mirrors `nyc-2026-trip.ics`)
+## Day-by-day (hour-blocked)
+
+*Live source during review. The `.ics` is regenerated once ALL days are locked — until then it reflects the initial draft. Locked days marked ✅.*
 
 ### Thu 7/30 — arrival (no social) ✅ LOCKED
 - **Morning (PHX, MST)** — Ravage lift before departure (the Banff pattern: train the morning of the flight). Pack protein snacks/bars — homemade or bars.
@@ -35,14 +40,17 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 - **11:30pm–12:15am** — **cab/Uber to 416 W 49th #3D (~$45 w/ tolls).** Transit is possible (free Q70 "LaGuardia Link" bus → E train to 50th St) but ~75–90 min with bags at midnight — not worth it tonight; save transit for daytime trips. *Confirm the late-night entry/keys plan with the friend beforehand.*
 - **12:15am** — crash. Nothing else.
 
-### Fri 7/31 — festival day 1 · Black & Gold (last year: ~4am)
-- **10:00–11:00am** — wake, brunch (9th Ave HK or K-town).
-- **11:30am–12:15pm** — walk bags over to Hilton Garden Inn (W 35th), drop with bell desk (check-in is ~3–4pm; bags drop earlier).
-- **12:15–3:30pm** — free / rest / easy wander. Keep the feet light.
-- **4:00–4:50pm** — ESM Masterclass @ Marriott Marquis (46th).
-- **6:30–8:00pm** — dinner @ **Cho Dan Gol** (55 W 35th, ½ block from hotel) — invite Michael.
-- **8:30–10:30pm** — **horizontal rest** (non-negotiable pre-social). Dress Black & Gold.
-- **11:30pm–~4am** — Black & Gold social @ Marquis. Cab back to hotel after.
+### Fri 7/31 — festival day 1 · Black & Gold (~4am) ✅ LOCKED
+- **10:00–10:45am** — wake, pack up at the friend's place.
+- **11:00–11:30am** — bags → Hilton W 35th (25-min walk, or $12 cab with bags). Drop with bell desk; check-in ~3pm.
+- **11:30am–12:15pm** — **Brunch: Best Bagel & Coffee** (225 W 35th) — top-tier NYC bagel + lox at deli prices, around the corner. The trip's one bagel outing.
+- **12:30–2:30pm** — feet-light K-town wander + **Grace Street** (17 W 32nd) hojicha-latte / bingsu / dessert-coffee. The planned way to fill the pre-check-in gap.
+- **3:00pm** — hotel check-in, change, rest.
+- **4:00–4:50pm** — ESM Masterclass @ Marquis.
+- **5:30–7:00pm** — **Dinner: Cho Dan Gol** (55 W 35th) with **Michael** (½ block from hotel).
+- **7:30–10:00pm** — nap (~2.5h banked).
+- **10:15–11:00pm** — dress Black & Gold.
+- **~12:00am–~4am** — Black & Gold social @ Marquis (doors 11:30 — walk in ~midnight at peak). Walk 12 min back, electrolytes, crash.
 
 ### Sat 8/1 — festival day 2 · Black-Tie Mafia Royale, the marquee night (last year: ~5am)
 - **11:45am–12:45pm** — wake, late brunch near hotel.
