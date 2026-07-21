@@ -1,6 +1,6 @@
 # NYC Trip — July 30 – August 5, 2026
 
-Will + Elena. **Lodging:** Paramount Hotel (235 W 46th St, Times Square) 4 nights + friend's place in Hell's Kitchen for the remainder — **confirm which nights are which** (recommend Paramount = Thu→Mon covering all three festival nights; conf G7LGXE). **Anchor: ESM NYC dance festival at the Marriott Marquis (1535 Broadway) — a 3-minute walk from the Paramount.** Michael (best man) lives in NYC. Location-scouting lens runs passively all week (NYC = scene-maximalist alt on the exit-city shortlist → observations to `/mid-week-capture`).
+Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 10001** (Herald Square / edge of Koreatown). **Check-in Fri 7/31, checkout Mon 8/3 — covers Fri/Sat/Sun nights only (all three festival socials ✓).** ⚠️ **Thu 7/30, Mon 8/3, and Tue 8/4 nights are NOT covered by the hotel — lodging TBD (friend's place in Hell's Kitchen? — CONFIRM).** **Anchor: ESM NYC dance festival at the Marriott Marquis (1535 Broadway @ W 46th)** — ~11 blocks / 12–15 min walk north of the hotel, or one stop from Herald Sq (34th St, a major hub: B/D/F/M/N/Q/R/W). Michael (best man) lives in NYC. Location-scouting lens runs passively all week (NYC = scene-maximalist alt on the exit-city shortlist → `/mid-week-capture`).
 
 ## Flights
 
@@ -17,15 +17,15 @@ Will + Elena. **Lodging:** Paramount Hotel (235 W 46th St, Times Square) 4 night
 
 ## Day-by-day (paced)
 
-**Thu 7/30 — travel day.** Land 11:24pm, cab/Uber to Midtown (~30–40 min), sleep. Nothing else.
+**Thu 7/30 — travel day.** Land LGA 11:24pm, cab/Uber (~30–40 min) to **Thursday-night lodging (TBD — hotel doesn't open until Fri; friend's place?).** Sleep. Nothing else.
 
-**Fri 7/31 — festival day 1.** Sleep in (~10). Brunch Hell's Kitchen 9th Ave. **Haircut early afternoon (~12:30–2)** — books a barber near the hotel *before the trip*; fresh cut ahead of all three themed nights and the photos. Rest → masterclass 4–4:50. Easy 9th Ave dinner ~6:30. **Horizontal rest 8:30–10:30 (non-negotiable before every social).** Black & Gold social 11:30. *Night-1 discipline: exit ~3am — it's a three-night marathon, not a sprint.*
+**Fri 7/31 — festival day 1.** Hotel check-in is today (standard ~3–4pm; bags can be dropped earlier). Sleep in. Brunch Hell's Kitchen 9th Ave or Koreatown (hotel is on K-town's edge). Easy morning — no haircut (dropped). Masterclass 4–4:50 at the Marquis. Easy dinner ~6:30. **Horizontal rest 8:30–10:30 (non-negotiable before every social).** Black & Gold social 11:30. *Night-1 discipline: exit ~3am — it's a three-night marathon, not a sprint.*
 
 **Sat 8/1 — festival day 2, the marquee night.** Sleep to ~10:30. Late brunch. *Optional if legs feel free:* Central Park lower-loop stroll, 45–60 min gentle (park is a 15-min walk up from the hotel) — skip without guilt. Class 2–2:50. Steam the suit, rest. Earlyish nicer dinner ~7 (you're dressing up anyway — make dinner part of the night). Rest 9–10:45. Mafia Royale 11:30 — this is the night to stay late.
 
 **Sun 8/2 — festival day 3.** Sleep to ~11 (you'll need it). Wake + eat, class at 1–1:50. Afternoon deliberately EMPTY — nap, pool, wander a block for coffee. Hell's Kitchen dinner. Street-style social 11:30 — sneakers = the easiest night on your feet; close out the festival as long as it's good.
 
-**Mon 8/3 — recovery + bagels + Central Park + Michael.** Sleep long (third 3–4am night). If the Paramount block is Thu→Mon: checkout, drop bags at the friend's place. Late-morning: **bagels + lox at Absolute Bagels** (2788 Broadway, Upper West Side — legendary, cheap, cash-only, zero tourist-trap markup) → walk straight into **Central Park** from the NW corner. Relaxed 2–3h (Bethesda Terrace, the Mall, Bow Bridge; rowboats if the mood strikes). **Dinner with Michael — affidavit ask, form in hand** (confirm the day with him in advance; Monday dinner suits a working schedule, and there's no social after — a real hangout). No Broadway tonight — many shows are dark Mondays.
+**Mon 8/3 — checkout + recovery + bagels + Central Park + Michael.** Sleep long (third 3–4am night). **Hotel checkout this morning — move bags to Mon/Tue lodging (TBD).** Late-morning: **bagels + lox at Absolute Bagels** (2788 Broadway, Upper West Side — legendary, cheap, cash-only, zero tourist-trap markup) → walk straight into **Central Park** from the NW corner. Relaxed 2–3h (Bethesda Terrace, the Mall, Bow Bridge; rowboats if the mood strikes). **Dinner with Michael — affidavit ask, form in hand** (confirm his day in advance; Monday suits a working schedule and there's no social after — a real hangout). No Broadway tonight — many shows are dark Mondays.
 
 **Tue 8/4 — the big day (fully rested, feet recovered).** This is the one heavy-walking day, by design:
 - ~9:30am: **9/11 Memorial** (Museum if you want it — ~2h; reflecting pools alone ~45 min).
@@ -33,8 +33,15 @@ Will + Elena. **Lodging:** Paramount Hotel (235 W 46th St, Times Square) 4 night
 - **~12:30pm dim sum lunch in Chinatown — the sit-down anchor of the day.** Value/local picks: **Golden Unicorn** (18 East Broadway) or **Dim Sum Go Go** (5 East Broadway) — cart-style/à la carte, cheap, mostly locals. *Nom Wah Tea Parlor (13 Doyers St) is the famous one — better food-tourism, but lines and pricier; skip it if avoiding touristy.* Dim sum runs out by mid-afternoon, so this is why it's the lunch anchor, not a later stop.
 - Then **graze north toward Nolita** (all walking-dessert stops, not full meals): **Mei Lai Wah** (64 Bayard St) pineapple bun w/ roast pork · **Spongie's Cafe** sponge cake (*verify address/hours*) · **Eileen's Special Cheesecake** (17 Cleveland Pl) — the closer.
 - *Craving noodles over dim sum instead? Swap the lunch anchor for **Tasty Hand-Pulled Noodles** (1 Doyers St) — hand-pulled, ~$8–10 a bowl, no-frills. Can't do both in one day without overloading; pick dim sum OR noodles here.*
-- Subway back ~3:30pm. Rest 4–6pm. **Broadway show, evening (~7/8pm curtain) — BOOK THIS WEEK** (theater district = walk from lodging; TKTS same-day is the fallback, but book the show you actually want now).
+- Subway back ~3:30pm. Rest 4–6pm. **Broadway show, evening (~7/8pm curtain) — CHEAP-TICKET PLAYBOOK below.** Theater district is walkable from Midtown.
 - Pack tonight — 7:45am departure tomorrow.
+
+**Broadway on the cheap (pick one, cheapest → priciest):**
+- **Digital lotteries** (Broadway Direct / show apps / TodayTix): $10–49 seats, enter the morning-of or 1–2 days ahead, win = same night. Best value by far; the catch is it's a gamble. Enter *several* shows' lotteries at once to raise your odds — decide the night based on what you win.
+- **Rush tickets:** in-person at the box office when it opens (~10am) or same-day via TodayTix Rush in-app — $30–50, first-come. Reliable if you go early.
+- **Standing room only (SRO):** $30ish, only sold when a show is sold out — for a hot title.
+- **TKTS booth** (Times Square, or the shorter-line South Street Seaport / Lincoln Center booths): 20–50% off same-day, guaranteed a seat once you're in line — the "we just want to see *something* good tonight" option.
+- **Full-price advance** only if there's a specific must-see you won't risk missing. For that case, book this week; otherwise keep it flexible and cheap. *Tell me the show or the genre and I'll name which strategy fits it.*
 
 **Wed 8/5 — depart.** Out by 7:45am, LGA 10:00am, PHX 2:50pm.
 
@@ -60,8 +67,9 @@ Will + Elena. **Lodging:** Paramount Hotel (235 W 46th St, Times Square) 4 night
 - [ ] **Eileen's Special Cheesecake** (17 Cleveland Pl, Nolita) → Tue closer
 
 **Open / by mood:**
+- [ ] **Koreatown BBQ / Korean** — 32nd St is one block from the hotel. Good value, local, and *right there* for a festival-day dinner. Strong candidate for the Sat pre-social dinner or a quick Fri bite.
 - [ ] Hell's Kitchen 9th Ave dinner row — Fri + Sun nights, keep unplanned, pick by mood
-- [ ] Saturday pre-social dinner — one nicer spot, dressed up anyway (pick ahead, ~7pm)
+- [ ] Saturday pre-social dinner — one nicer spot, dressed up anyway (pick ahead, ~7pm) — K-town is the easy walkable option
 - [ ] (random ideas keep landing here — anything Will floats gets added and clustered to a day)
 
 ## Pre-trip lane — DO BEFORE JUL 30 (backlog: `nyc-trip-prep`)
@@ -69,10 +77,10 @@ Will + Elena. **Lodging:** Paramount Hotel (235 W 46th St, Times Square) 4 night
 1. **Affidavit of Free Status — form + requirements from St. Andrew** (via Elena's Pre-Cana thread). Michael likely swears it at his NY parish — Will hands him the exact form or the ask lands empty.
 2. **Heads-up text to Michael** + propose the Monday-dinner slot.
 3. **THREE themed outfits locked by ~Jul 27** (shipping buffer) — this is the re-scoped festival-wardrobe task and it now has hard requirements: (a) black + gold accents Fri; (b) **sharp suit Sat** (pack in garment fold/bag — Main Basic includes carry-on); (c) streetwear + sneakers Sun. NYC shopping can only *augment* Sunday's fit — Fri/Sat must fly from Phoenix. **Elena needs the themes too: gown Saturday** — share the table above.
-4. **Book the Broadway show for Tuesday Aug 4 evening** (open to-do since May).
-5. **Book the Friday-afternoon barber** near the Paramount.
-6. Confirm which 4 nights are Paramount vs. friend's place.
-7. Confirm ESM passes cover the three classes + three socials listed.
+4. **Broadway Tue 8/4:** decide lottery/rush (cheapest, flexible) vs. advance (locked) — see the playbook. Enter digital lotteries the morning of / day before if going that route.
+5. **Confirm Thu 7/30, Mon 8/3, Tue 8/4 lodging** (hotel is Fri–Sun only) — friend's place in Hell's Kitchen? Get the address; it drives bag logistics.
+6. Confirm ESM passes cover the three classes + three socials listed.
+7. Haircut: get it in Phoenix before the trip if wanted (dropped from the NYC schedule per Will).
 
 ## Packing checklist
 
