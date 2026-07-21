@@ -15,39 +15,74 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 | Sat 8/1 | Class 2:00–2:50pm | **Black Tie Mafia Royale** | sharp suit (Elena: gown) |
 | Sun 8/2 | Class 1:00–1:50pm | NYC Urban Street Style | streetwear + fresh sneakers |
 
-## Day-by-day (paced)
+## Locked decisions (7/19)
 
-**Thu 7/30 — travel day.** Land LGA 11:24pm, cab/Uber (~30–40 min) to **the friend's place, 416 W 49th St #3D** (hotel doesn't open until Fri). Sleep. Nothing else.
+- **Broadway (Tue 8/4): layered cheap-ticket play with a guaranteed floor.** Not particular on show — lean spectacle/classic musical, skip crude-comedy (no Book of Mormon). Sequence: (1) Mon ~5pm + Tue morning, enter EVERY live digital lottery (Broadway Direct + TodayTix) for Tuesday-night shows; (2) no win by 10am Tue → TodayTix Rush in-app ($30–50, unlocks ~10am); (3) still nothing by 3pm → **TKTS Times Square booth** — 20–50% off, guaranteed *something* good for that night. Odds of walking away with a ticket across all three layers: effectively certain; only full-price-advance is off the table.
+- **Michael:** very available, wants to hang often. Anchor = **Monday dinner (affidavit handoff)**. Standing invites: Fri Cho Dan Gol dinner, Sat dinner, Tue downtown crawl — whichever he joins, joins; Monday is the required one. **Cho Dan Gol (55 W 35th — Korean homestyle, half a block from the hotel) = Friday pre-social dinner.**
+- **Social end-times (planning assumption from last year): Fri ~4am, Sat ~5am, Sun by feel.** Mornings after are scheduled empty; first anchor never before ~11:45am on festival days.
+- **9/11: free only** — reflecting pools + Oculus walkthrough, no museum.
+- **No haircut on the trip** (Phoenix beforehand if wanted).
 
-**Fri 7/31 — festival day 1.** Hotel check-in is today (standard ~3–4pm; bags can be dropped earlier). Sleep in. Brunch Hell's Kitchen 9th Ave or Koreatown (hotel is on K-town's edge). Easy morning — no haircut (dropped). Masterclass 4–4:50 at the Marquis. Easy dinner ~6:30. **Horizontal rest 8:30–10:30 (non-negotiable before every social).** Black & Gold social 11:30. *Night-1 discipline: exit ~3am — it's a three-night marathon, not a sprint.*
+## Day-by-day (hour-blocked — mirrors `nyc-2026-trip.ics`)
 
-**Sat 8/1 — festival day 2, the marquee night.** Sleep to ~10:30. Late brunch. *Optional if legs feel free:* Central Park lower-loop stroll, 45–60 min gentle (park is a 15-min walk up from the hotel) — skip without guilt. Class 2–2:50. Steam the suit, rest. Earlyish nicer dinner ~7 (you're dressing up anyway — make dinner part of the night). Rest 9–10:45. Mafia Royale 11:30 — this is the night to stay late.
+### Thu 7/30 — arrival (no social)
+- **1:15pm (PHX) / 4:15pm ET** — DL796 departs PHX. *(calendar shows ET.)*
+- **11:24pm** — land LGA.
+- **11:30pm–12:15am** — cab/Uber to 416 W 49th #3D. *(Confirm the late-night entry/keys plan with the friend beforehand.)*
+- **12:15am** — crash. Nothing else.
 
-**Sun 8/2 — festival day 3.** Sleep to ~11 (you'll need it). Wake + eat, class at 1–1:50. Afternoon deliberately EMPTY — nap, pool, wander a block for coffee. Hell's Kitchen dinner. Street-style social 11:30 — sneakers = the easiest night on your feet; close out the festival as long as it's good.
+### Fri 7/31 — festival day 1 · Black & Gold (last year: ~4am)
+- **10:00–11:00am** — wake, brunch (9th Ave HK or K-town).
+- **11:30am–12:15pm** — walk bags over to Hilton Garden Inn (W 35th), drop with bell desk (check-in is ~3–4pm; bags drop earlier).
+- **12:15–3:30pm** — free / rest / easy wander. Keep the feet light.
+- **4:00–4:50pm** — ESM Masterclass @ Marriott Marquis (46th).
+- **6:30–8:00pm** — dinner @ **Cho Dan Gol** (55 W 35th, ½ block from hotel) — invite Michael.
+- **8:30–10:30pm** — **horizontal rest** (non-negotiable pre-social). Dress Black & Gold.
+- **11:30pm–~4am** — Black & Gold social @ Marquis. Cab back to hotel after.
 
-**Mon 8/3 — checkout + recovery + bagels + Central Park + Michael.** Sleep long (third 3–4am night). **Hotel checkout this morning — move bags to the friend's place (416 W 49th).** Two ways to do the park, pick by how the legs feel:
-- *Fuller version:* subway up (1 train, 50th → 110th) to **Absolute Bagels** (2788 Broadway, UWS — legendary, cheap, cash-only) → enter the park at the NW corner and stroll **north-to-south** through the Ramble/Bethesda, exit at Columbus Circle (~2–3 mi, gentle, the best of the park).
-- *Recovery-lighter version:* grab a Hell's Kitchen bagel, enter at **Columbus Circle** (12 min from the friend's place), do the lower-park loop in-and-out.
+### Sat 8/1 — festival day 2 · Black-Tie Mafia Royale, the marquee night (last year: ~5am)
+- **11:45am–12:45pm** — wake, late brunch near hotel.
+- **2:00–2:50pm** — ESM Class @ Marquis.
+- **3:00–5:00pm** — back to hotel, steam the suit, rest. (Feet-light afternoon — no Central Park today.)
+- **7:00–8:30pm** — nicer dinner, already dressed (this is the black-tie night; dinner is part of it). K-town or a Midtown spot.
+- **8:45–10:45pm** — rest.
+- **11:30pm–~5am** — Mafia Royale social @ Marquis. The night to stay late.
 
-Relaxed either way (Bethesda Terrace, the Mall, Bow Bridge; rowboats if the mood strikes). **Dinner with Michael — affidavit ask, form in hand** (confirm his day in advance; Monday suits a working schedule and there's no social after — a real hangout). No Broadway tonight — many shows are dark Mondays.
+### Sun 8/2 — festival day 3 · NYC Urban Street Style (by feel)
+- **11:45am–12:45pm** — wake, quick food/coffee (tight turnaround off the 5am night).
+- **1:00–1:50pm** — ESM Class @ Marquis.
+- **2:00–6:00pm** — **deliberately empty**: nap, hotel pool, coffee. Recovery for one more late night.
+- **6:30–7:45pm** — Hell's Kitchen 9th Ave dinner.
+- **8:30–10:45pm** — rest. Dress street-style + fresh sneakers.
+- **11:30pm–open** — Street Style social @ Marquis. Sneakers = easiest night on the feet; ride it as long as it's good.
 
-**Tue 8/4 — the big day (fully rested, feet recovered).** This is the one heavy-walking day, by design:
-- ~9:30am: **9/11 Memorial** (Museum if you want it — ~2h; reflecting pools alone ~45 min).
-- Walk 15 min to City Hall → **Brooklyn Bridge**: full cross to DUMBO (~60 min with photo stops), pebble-beach skyline shot, then subway back into Manhattan (York St F → East Broadway, or A/C from High St).
-- **~12:30pm dim sum lunch in Chinatown — the sit-down anchor of the day.** Value/local picks: **Golden Unicorn** (18 East Broadway) or **Dim Sum Go Go** (5 East Broadway) — cart-style/à la carte, cheap, mostly locals. *Nom Wah Tea Parlor (13 Doyers St) is the famous one — better food-tourism, but lines and pricier; skip it if avoiding touristy.* Dim sum runs out by mid-afternoon, so this is why it's the lunch anchor, not a later stop.
-- Then **graze north toward Nolita** (all walking-dessert stops, not full meals): **Mei Lai Wah** (64 Bayard St) pineapple bun w/ roast pork · **Spongie's Cafe** sponge cake (*verify address/hours*) · **Eileen's Special Cheesecake** (17 Cleveland Pl) — the closer.
-- *Craving noodles over dim sum instead? Swap the lunch anchor for **Tasty Hand-Pulled Noodles** (1 Doyers St) — hand-pulled, ~$8–10 a bowl, no-frills. Can't do both in one day without overloading; pick dim sum OR noodles here.*
-- Subway back ~3:30pm. Rest 4–6pm. **Broadway show, evening (~7/8pm curtain) — CHEAP-TICKET PLAYBOOK below.** Theater district is walkable from Midtown.
-- Pack tonight — 7:45am departure tomorrow.
+### Mon 8/3 — checkout · bagels · Central Park · Michael (recovery-moderate)
+- **11:00am–12:00pm** — wake, **checkout Hilton, bags → 416 W 49th**.
+- **12:30–3:30pm** — **bagels + Central Park.** Fuller: 1-train up to **Absolute Bagels** (2788 Bway, UWS) → walk the park north-to-south, exit Columbus Circle. Lighter: HK bagel → Columbus Circle in/out. (Pick by legs.)
+- **4:00–6:00pm** — rest at the friend's place.
+- **7:00–9:00pm** — **dinner with Michael — affidavit handoff, form in hand.** No social after; real hangout. (No Broadway — dark Mondays.)
 
-**Broadway on the cheap (pick one, cheapest → priciest):**
-- **Digital lotteries** (Broadway Direct / show apps / TodayTix): $10–49 seats, enter the morning-of or 1–2 days ahead, win = same night. Best value by far; the catch is it's a gamble. Enter *several* shows' lotteries at once to raise your odds — decide the night based on what you win.
-- **Rush tickets:** in-person at the box office when it opens (~10am) or same-day via TodayTix Rush in-app — $30–50, first-come. Reliable if you go early.
-- **Standing room only (SRO):** $30ish, only sold when a show is sold out — for a hot title.
-- **TKTS booth** (Times Square, or the shorter-line South Street Seaport / Lincoln Center booths): 20–50% off same-day, guaranteed a seat once you're in line — the "we just want to see *something* good tonight" option.
-- **Full-price advance** only if there's a specific must-see you won't risk missing. For that case, book this week; otherwise keep it flexible and cheap. *Tell me the show or the genre and I'll name which strategy fits it.*
+### Tue 8/4 — the big day: downtown + Broadway (heavy-walk, feet recovered)
+- **8:30–9:00am** — breakfast.
+- **9:15–9:45am** — subway to WTC.
+- **9:45–10:45am** — **9/11 reflecting pools + Oculus** (free, no museum).
+- **11:00am–12:15pm** — **Brooklyn Bridge** walk to DUMBO + skyline photos.
+- **12:15–12:45pm** — subway back to Chinatown.
+- **12:45–1:45pm** — **dim sum lunch** (Golden Unicorn / Dim Sum Go Go). *Swap for Tasty Hand-Pulled Noodles if craving noodles — pick one.*
+- **2:00–3:00pm** — graze north: **Mei Lai Wah** pork bun → **Spongie's** sponge cake → **Eileen's** cheesecake (Nolita).
+- **3:00–3:30pm** — subway back to Midtown.
+- **4:30–5:00pm** — **TKTS Times Square** *only if no lottery/rush win by mid-afternoon* (see Broadway below) — guaranteed seat for tonight.
+- **5:00–6:00pm** — rest at friend's place.
+- **6:15–7:00pm** — quick pre-show dinner near the theater.
+- **7:30–10:00pm** — **Broadway show.**
+- **10:30pm** — back, pack. 7:45am departure tomorrow.
 
-**Wed 8/5 — depart.** Out by 7:45am, LGA 10:00am, PHX 2:50pm.
+**Broadway execution (guaranteed-something plan):** Mon ~5pm + Tue ~9am, enter every live **digital lottery** (Broadway Direct + TodayTix) for Tue-night shows, skipping crude-comedy titles. No win by 10am → **TodayTix Rush** in-app. Still nothing by 3pm → **TKTS booth** (4:30 slot above) locks a discounted seat. Across all three you're effectively guaranteed a ticket.
+
+### Wed 8/5 — depart
+- **6:45am** — wake.
+- **7:45am** — leave 416 W 49th → LGA.
+- **10:00am** — DL989 departs LGA. **2:50pm (PHX)** — land. *(calendar block shows ET end 5:50pm.)*
 
 ## Pacing rules (the steps/stamina plan)
 
