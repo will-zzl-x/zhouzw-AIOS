@@ -64,13 +64,14 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 
 *(St. Patrick's Cathedral, 5th & 50th — a free walk-through another day for the grandeur; the obligation is covered Saturday at St. Malachy's.)*
 
-### Sun 8/2 — festival day 3 · NYC Urban Street Style (by feel)
-- **11:45am–12:45pm** — wake, quick food/coffee (tight turnaround off the 5am night).
+### Sun 8/2 — festival day 3 · NYC Street Style social + double date ✅ LOCKED
+- **~10:30am** — wake (~7h off the 3:30am Saturday exit).
+- **11:15am–12:00pm** — **Light breakfast: Breads Bakery** (Bryant Park area / off 6th Ave) — chocolate babka + tea/juice, a NYC-signature bake, non-coffee-centric, light before class. *(Savory-light swap available if preferred.)*
 - **1:00–1:50pm** — ESM Class @ Marquis.
-- **2:00–6:00pm** — **deliberately empty**: nap, hotel pool, coffee. Recovery for one more late night.
-- **6:30–7:45pm** — Hell's Kitchen 9th Ave dinner.
-- **8:30–10:45pm** — rest. Dress street-style + fresh sneakers.
-- **11:30pm–open** — Street Style social @ Marquis. Sneakers = easiest night on the feet; ride it as long as it's good.
+- **2:30–4:30pm** — **Gentle 5th Ave loop (we don't chill at the hotel on festival days):** Bryant Park → **NYPL Rose Main Reading Room** (free, stunning, seated) → 5th Ave → **St. Patrick's Cathedral walk-through** (the grandeur, free) → Rockefeller Center → back. ~2 easy miles with AC + sit-down stretches; iconic without spending the feet.
+- **5:45–7:30pm** — **Double date w/ Sahil & Emily: Pure Thai Cookhouse** (766 9th Ave @ 51st) — HK's best-known Thai, handmade egg noodles, ~$25–35pp, fun/loud, non-touristy, 2-min walk from the friend's place. *(Sahil to confirm closer to trip; if not free Sun, this becomes the couple's dinner and the double date hunts a Mon/Tue slot.)*
+- **8:00–10:45pm** — nap (the one horizontal block that stays — it's what makes the last social good).
+- **~12:00am–by feel** — NYC Street Style social @ Marquis. Fresh sneakers = easiest night on the feet; ride it as long as it's good.
 
 ### Mon 8/3 — checkout · bagels · Central Park · Michael (recovery-moderate)
 - **11:00am–12:00pm** — wake, **checkout Hilton, bags → 416 W 49th**.
