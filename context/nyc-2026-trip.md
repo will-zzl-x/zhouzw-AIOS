@@ -73,7 +73,8 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 - **~12:00am–by feel** — NYC Street Style social @ Marquis. Fresh sneakers = easiest night on the feet; ride it as long as it's good.
 
 ### Mon 8/3 — checkout · bagels · Central Park (recovery-moderate)
-- **11:00am–12:00pm** — wake, **checkout Hilton, bags → 416 W 49th**.
+- **11:00–11:15am** — wake, **checkout Hilton, bags → 416 W 49th**.
+- **11:30am–12:15pm** — **The Vessel, Hudson Yards** (34th & 11th — close to the Hilton, reopened March 2026, $10, timed entry, 11am–7pm). Elena's pick. Stair-climb honeycomb structure, stay as long as you want once in.
 - **12:30–3:30pm** — **bagels + Central Park.** Fuller: 1-train up to **Absolute Bagels** (2788 Bway, UWS) → walk the park north-to-south, exit Columbus Circle. Lighter: HK bagel → Columbus Circle in/out. (Pick by legs.)
 - **4:00–6:00pm** — rest at the friend's place.
 - **7:00–9:00pm** — **Dinner (options, pick day-of):** **K-town BBQ** (grilled meats + banchan, protein-forward) · **Empanada Mama** (Latin, closest to the apartment, cheap) · **El Centro** (Mexican, casual, good value) · **Marseille** (French-Mediterranean, nicer). No social after — open for Michael or just the two of you. (No Broadway — dark Mondays.)
