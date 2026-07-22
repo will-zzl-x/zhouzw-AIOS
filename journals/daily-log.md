@@ -477,3 +477,15 @@ Format: ✓ = done, □ = planned/pending
 □ Dance micro-rep: 1–2 songs, one pillar today
 □ Run 2 deal evals, log gaps to acquisition-log
 □ Morning weigh-in, log 7-day rolling average
+
+**2026-07-21 (Tue)** — Reverse diet Jul 12–29
+✓ Train Session: Ravage Block Wk3
+✓ Morning weigh-in, log 7-day rolling average
+✓ Hit 150g protein, reverse-diet calories
+□ Walk 12,500 steps today
+□ Phone charged outside bedroom last night?
+□ Zone 2 keystone: bike 60–90 min post-reflection
+□ Dance micro-rep: 1–2 songs, one pillar today
+□ Solo-space rep: 15–30 min unannounced block
+□ Run 2 deal evals, log gaps to acquisition-log
+□ Text Dan Wed 7/22, confirm Fri 7/24 sit-down
