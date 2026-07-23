@@ -108,3 +108,32 @@ SDE: unknown — est. $96k–132k at 40–55% margin (UNVERIFIED, ask seller) | 
 Verdict: CONDITIONAL GO — Mesa is Phoenix metro (East Valley) ✓. Price near the top of the box, revenue clears the floor cleanly, multiple is reasonable. "Tax Practice" naming raises the seasonal-tax-prep flag from the Dan thesis (down-weighted vs. recurring bookkeeping) — confirm how much of the $240k is ongoing/monthly work vs. Jan–Apr filing-season spike before pursuing further.
 Ask seller/broker: trailing-12-month SDE, and the recurring-vs-seasonal revenue split.
 Action taken: evaluated only
+
+---
+
+## Open diligence gaps — the 3 live Phoenix-metro CONDITIONAL leads (2026-07-23)
+
+**Cross-cutting: none of the 9 reps this round have been contacted yet.** Every number below price/revenue is a broker's stated figure or my estimate, not verified against a return or P&L. First real diligence starts at first contact.
+
+**East Valley EA practice (BW2396896) — strongest fundamentals, most gaps:**
+- Asking price — not disclosed at all, the #1 blocker
+- $206k SDE is broker-stated, unverified
+- Staff — zero confirmed; solo-operator risk unresolved
+- Owner's reason for selling / timeline
+- Restaurant-client niche — durability risk or just their specialty?
+- Single-client concentration (>25%)?
+- Seller-financing appetite
+
+**Gilbert practice, $160k / $267k revenue:**
+- No SDE disclosed at all — revenue and price only
+- Why the multiple is only 0.6x revenue — motivated seller, or something wrong (declining, messy books, key-man)?
+- Staff / sole-operator status
+- Whether it's genuinely non-CPA-owned or just non-CPA-*named*
+- Revenue trend (growing/flat/declining) — unknown
+
+**Mesa practice, $277k / $240k revenue:**
+- No SDE disclosed
+- Recurring-vs-seasonal split — the load-bearing number; "Tax Practice" naming could mean this is mostly a Jan–Apr spike, which would sink the ≥70% recurring requirement
+- Staff, client concentration, reason for sale — all unknown
+
+**Next step on all three:** first contact (Frazier walls-down script), not more search. Numbers above only resolve on the phone.
