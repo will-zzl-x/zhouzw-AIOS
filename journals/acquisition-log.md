@@ -78,9 +78,8 @@ Action taken: evaluated only
 
 **2026-07-23** | Berkshire BSA | Tucson CPA firm, 100% virtual (home-based since 1995) | $255,000
 URL: berkshirebsa.com/tucson-arizona-cpa-firm-for-sale-virtual-operations
-SDE: "over $200,000/yr reoccurring cash flow" per listing (UNVERIFIED — get documentation) | Multiple: ~1.2–1.3x claimed SDE — remarkably cheap, itself a flag worth pressure-testing | Revenue: $255,000 (2025), slow steady growth
-Verdict: CONDITIONAL — best raw economics of any lead found IF the cash-flow figure holds up (revenue clears the $200k floor easily, price sits mid-box, seller will carry up to 20%, and fully virtual trivially satisfies anywhere-operable-by-2027). Two real blockers before pursuing: (1) it's CPA-branded — triggers the AZ 51% rule regardless of audit status, conflicts with the non-CPA-firm path locked for the 7/24 Dan meeting; (2) run solo from the principal's home since 1995 — likely fails hard filter #2 (sole operator, no staff) pending confirmation.
-Ask seller: confirm trailing-12-month SDE with documentation, and whether any staff/systems would transfer post-close.
+SDE: "over $200,000/yr reoccurring cash flow" per listing (UNVERIFIED) | Revenue: $255,000 (2025)
+Verdict: NO (revised 7/23 — Will confirmed Phoenix metro is a hard requirement, not a discussion point). Numbers were the best of the batch, but geo disqualifies regardless of the virtual-operations argument. Not pursuing.
 Action taken: evaluated only
 
 **2026-07-23** | BizQuest (listing BW2396896) | East Valley Phoenix EA (Enrolled Agent) practice, restaurant-client niche | Asking price NOT DISCLOSED in listing summary — call required
@@ -90,9 +89,22 @@ Verdict: CONDITIONAL GO — the strongest fundamentals of anything found this ro
 Ask seller/broker: the asking price and whether seller financing is on the table — that single number resolves this evaluation.
 Action taken: evaluated only
 
-**2026-07-23** | BizQuest (listing referenced via search, ID unconfirmed) | Tucson EA practice, established 1992 | Asking price NOT DISCLOSED — call required
-URL: bizquest.com — "Tucson, AZ EA Practice for Sale" (exact listing URL not resolved via search; re-find via BizQuest AZ bookkeeping search)
-SDE: not disclosed | Revenue: $142,500 disclosed (bookkeeping $83k/31 clients + payroll $55k/19 clients + consulting $4.5k), **plus an unquantified "substantial tax practice serving hundreds of individual and business clients"** — true total likely clears $200k once tax revenue is counted, unconfirmed
-Verdict: CONDITIONAL — non-CPA (EA, clean on the 51% rule), 34-year track record is a real signal on client-relationship durability, but the math is incomplete without the tax-practice revenue and asking price. Also Tucson, not Phoenix metro — breaks the one-city sourcing discipline (not a hard filter, but a discussion point) unless the practice is remote-deliverable.
-Ask seller/broker: total revenue including the tax practice, and the asking price.
+**2026-07-23** | BizQuest (listing referenced via search, ID unconfirmed) | Tucson EA practice, established 1992 | Asking price NOT DISCLOSED
+URL: bizquest.com — "Tucson, AZ EA Practice for Sale"
+SDE: not disclosed | Revenue: $142,500 disclosed (bookkeeping + payroll + consulting), plus an unquantified tax practice
+Verdict: NO (revised 7/23 — Will confirmed Phoenix metro is a hard requirement). Strong track record (34 years) but geo disqualifies. Not pursuing.
+Action taken: evaluated only
+
+**2026-07-23** | Berkshire BSA (AZ listings hub) | Arizona Tax & Accounting Practice, Gilbert | $160,000
+URL: berkshirebsa.com/sell-a-cpa-or-accounting-practice-in-arizona (listing not individually linked in search index)
+SDE: unknown — est. $64k–107k at 40–55% margin (UNVERIFIED, ask seller) | Multiple: 0.6x revenue — very cheap, ask why | Revenue: $267,000
+Verdict: CONDITIONAL GO — Gilbert is Phoenix metro (East Valley) ✓. Price sits at the low end of the box, revenue clears the $200k floor with real room to spare, and a 0.6x revenue multiple is unusually cheap for the sector — either a highly motivated seller or something's off with the numbers, worth finding out which. Name isn't CPA-branded (clean on the AZ 51% question) but confirm — "Arizona Tax & Accounting Practice" doesn't guarantee no EA/CPA mix.
+Ask seller/broker: trailing-12-month SDE, staff count, and why the multiple is so far under market.
+Action taken: evaluated only
+
+**2026-07-23** | Berkshire BSA (AZ listings hub) | Arizona Tax Practice for Sale, Mesa | $277,000
+URL: berkshirebsa.com/sell-a-cpa-or-accounting-practice-in-arizona (listing not individually linked in search index)
+SDE: unknown — est. $96k–132k at 40–55% margin (UNVERIFIED, ask seller) | Multiple: ~1.15x revenue | Revenue: $240,000
+Verdict: CONDITIONAL GO — Mesa is Phoenix metro (East Valley) ✓. Price near the top of the box, revenue clears the floor cleanly, multiple is reasonable. "Tax Practice" naming raises the seasonal-tax-prep flag from the Dan thesis (down-weighted vs. recurring bookkeeping) — confirm how much of the $240k is ongoing/monthly work vs. Jan–Apr filing-season spike before pursuing further.
+Ask seller/broker: trailing-12-month SDE, and the recurring-vs-seasonal revenue split.
 Action taken: evaluated only
