@@ -489,3 +489,15 @@ Format: ✓ = done, □ = planned/pending
 □ Solo-space rep: 15–30 min unannounced block
 □ Run 2 deal evals, log gaps to acquisition-log
 □ Text Dan Wed 7/22, confirm Fri 7/24 sit-down
+
+**2026-07-22 (Wed)** — Reverse diet Jul 12–29
+✓ Solo-space rep: 15–30 min unannounced block
+✓ Dance micro-rep: 1–2 songs, one pillar
+✓ Morning weigh-in, log 7-day rolling average
+✓ Hit 150g protein, reverse-diet calories
+✓ Train Session: Ravage Block Wk3
+✓ Text Dan Wed 7/22, confirm Fri 7/24 sit-down
+□ Walk 12,500 steps today
+□ Phone charged outside bedroom last night?
+□ Zone 2: Tuesday 20-min walk or incline
+□ Run 2 deal evals, log gaps in acquisition-log
