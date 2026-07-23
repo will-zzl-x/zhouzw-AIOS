@@ -75,3 +75,24 @@ URL: accountingpracticeexchange.com/Sales/ARIZONA/772
 SDE: not disclosed | Revenue: not disclosed | Revenue trend: unknown, but owner + spouse retiring/relocating out of state (classic motivated-seller signal, one of the 7 Ds)
 Verdict: CONDITIONAL — most qualitatively promising of the four (long-established, 50% recurring bookkeeping mix, genuine retirement motivation) but can't run the price/SDE math at all — price bundles real estate with the practice, no revenue or SDE given. Ask seller: "What's the practice-only price excluding the building, and what's trailing-12-month revenue and SDE for the practice alone?"
 Action taken: evaluated only
+
+**2026-07-23** | Berkshire BSA | Tucson CPA firm, 100% virtual (home-based since 1995) | $255,000
+URL: berkshirebsa.com/tucson-arizona-cpa-firm-for-sale-virtual-operations
+SDE: "over $200,000/yr reoccurring cash flow" per listing (UNVERIFIED — get documentation) | Multiple: ~1.2–1.3x claimed SDE — remarkably cheap, itself a flag worth pressure-testing | Revenue: $255,000 (2025), slow steady growth
+Verdict: CONDITIONAL — best raw economics of any lead found IF the cash-flow figure holds up (revenue clears the $200k floor easily, price sits mid-box, seller will carry up to 20%, and fully virtual trivially satisfies anywhere-operable-by-2027). Two real blockers before pursuing: (1) it's CPA-branded — triggers the AZ 51% rule regardless of audit status, conflicts with the non-CPA-firm path locked for the 7/24 Dan meeting; (2) run solo from the principal's home since 1995 — likely fails hard filter #2 (sole operator, no staff) pending confirmation.
+Ask seller: confirm trailing-12-month SDE with documentation, and whether any staff/systems would transfer post-close.
+Action taken: evaluated only
+
+**2026-07-23** | BizQuest (listing BW2396896) | East Valley Phoenix EA (Enrolled Agent) practice, restaurant-client niche | Asking price NOT DISCLOSED in listing summary — call required
+URL: bizquest.com/business-for-sale/phoenix-area-east-valley-ea-practice-for-sale/BW2396896
+SDE: **$206,000/yr projected 2025** (fully loaded — owner comp, benefits, vehicle, non-operational addbacks) | Revenue: ~$324k (bookkeeping $99k/57 clients + payroll $137k/53 clients + other $43k + ~120 tax returns ~$45k) | Recurring: bookkeeping+payroll = ~73% of revenue, clears the ≥70% bar
+Verdict: CONDITIONAL GO — the strongest fundamentals of anything found this round: non-CPA (EA, no 51% issue), 230+ diversified client relationships, ~64% margin, two genuinely recurring/contractual revenue lines. The entire evaluation hinges on one missing number — SDE this strong could price anywhere from deal-#1 territory (if seller's under-asking or highly motivated) up to a deal-#2 conversation (~$400–600k at a market multiple, which would blow the $300k box). Restaurant-client concentration is a sector-risk flag worth a question, not a disqualifier (client count is well diversified).
+Ask seller/broker: the asking price and whether seller financing is on the table — that single number resolves this evaluation.
+Action taken: evaluated only
+
+**2026-07-23** | BizQuest (listing referenced via search, ID unconfirmed) | Tucson EA practice, established 1992 | Asking price NOT DISCLOSED — call required
+URL: bizquest.com — "Tucson, AZ EA Practice for Sale" (exact listing URL not resolved via search; re-find via BizQuest AZ bookkeeping search)
+SDE: not disclosed | Revenue: $142,500 disclosed (bookkeeping $83k/31 clients + payroll $55k/19 clients + consulting $4.5k), **plus an unquantified "substantial tax practice serving hundreds of individual and business clients"** — true total likely clears $200k once tax revenue is counted, unconfirmed
+Verdict: CONDITIONAL — non-CPA (EA, clean on the 51% rule), 34-year track record is a real signal on client-relationship durability, but the math is incomplete without the tax-practice revenue and asking price. Also Tucson, not Phoenix metro — breaks the one-city sourcing discipline (not a hard filter, but a discussion point) unless the practice is remote-deliverable.
+Ask seller/broker: total revenue including the tax practice, and the asking price.
+Action taken: evaluated only
