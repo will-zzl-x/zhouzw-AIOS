@@ -51,3 +51,27 @@ Action taken: [evaluated only / contacted broker / requested IM / submitted LOI]
 ## Deal Log
 
 *(Log individual deals below as evaluated)*
+
+**2026-07-23** | Berkshire BSA (AZ listings hub) | Scottsdale EA tax/bookkeeping firm | $161,000
+URL: berkshirebsa.com/sell-a-cpa-or-accounting-practice-in-arizona (listing not individually linked in search index)
+SDE: unknown — est. $64k–89k at typical 40–55% solo-practice margin (UNVERIFIED, ask seller) | Multiple: ~1.0x revenue, ~1.8–2.5x est. SDE | Revenue trend: unknown
+Verdict: NO — revenue ($161k) undershoots deal-#1's $200k floor, and "EA Firm" naming strongly implies single-practitioner (hard filter #2: sole operator, no staff). Three-question test fails at Q2 (who's still there if owner leaves) before financials even matter.
+Action taken: evaluated only
+
+**2026-07-23** | Berkshire BSA (AZ listings hub) | Small CPA firm, Phoenix | $174,090
+URL: berkshirebsa.com/sell-a-cpa-or-accounting-practice-in-arizona (listing not individually linked in search index)
+SDE: unknown — est. $63k–87k at 40–55% margin (UNVERIFIED) | Multiple: ~1.1x revenue | Revenue trend: unknown
+Verdict: NO — revenue ($158,264) undershoots the $200k floor same as above. "Small CPA Firm" framing plus no staff count disclosed = same sole-operator risk until proven otherwise.
+Action taken: evaluated only
+
+**2026-07-23** | Berkshire BSA (AZ listings hub) | CPA Audit and Tax Firm, Glendale | $218,000
+URL: berkshirebsa.com/sell-a-cpa-or-accounting-practice-in-arizona (listing not individually linked in search index)
+SDE: unknown — est. $95k–130k at 40–55% margin (UNVERIFIED) | Multiple: 0.92x revenue (cheap — ask why), ~1.7–2.3x est. SDE | Revenue trend: unknown
+Verdict: CONDITIONAL — numerically the strongest of the four (revenue $236,935 clears the $200k floor, price fits the box, cheap multiple worth investigating), BUT it does **audit work**, which triggers the AZ 51%-CPA-ownership rule regardless of firm name — directly conflicts with the non-CPA-firm path locked in for the 7/24 Dan meeting. Treat as a policy NO unless the audit line can be divested/referred out.
+Action taken: evaluated only
+
+**2026-07-23** | Accounting Practice Exchange (listing #772) | Phoenix CPA/bookkeeping practice, ~50/50 tax-bookkeeping mix, est. pre-1990s | $265,709 (bundled w/ free-standing office building, for sale or lease)
+URL: accountingpracticeexchange.com/Sales/ARIZONA/772
+SDE: not disclosed | Revenue: not disclosed | Revenue trend: unknown, but owner + spouse retiring/relocating out of state (classic motivated-seller signal, one of the 7 Ds)
+Verdict: CONDITIONAL — most qualitatively promising of the four (long-established, 50% recurring bookkeeping mix, genuine retirement motivation) but can't run the price/SDE math at all — price bundles real estate with the practice, no revenue or SDE given. Ask seller: "What's the practice-only price excluding the building, and what's trailing-12-month revenue and SDE for the practice alone?"
+Action taken: evaluated only
