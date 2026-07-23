@@ -24,6 +24,17 @@ Cite or align with this framework. Flag any contradiction found in new material.
 
 **Recomping:** 90–95% of non-advanced lifters can gain muscle and lose fat simultaneously. Lifting diverts energy toward MPS and away from fat storage — this is why cardio-only approaches (Biggest Loser style) move the scale but wreck body composition.
 
+**Assessment hierarchy — why "if you can't see your abs, you're fat" is false:** Precision increases down this list; don't substitute a lower rung for a higher one.
+1. **BMI** (screening only, height/weight nothing else): per Barbell Medicine, ~50% sensitive / ~97% specific — catches only half the people it should flag as too heavy, but rarely false-flags someone healthy. First-pass only.
+2. **Waist measurement** (second-line): 30 BMI + 32" waist = fine, the extra weight is muscle. High waist is the real visceral-fat signal (fat packed around organs — the metabolically dangerous kind). Still has genuine genetic/structural variance — some sub-10%-BF competitors carry 34–36" waists (rib flare, hip structure), others sit at 27–28" at the same leanness.
+3. **Actual body fat %** (DEXA, calipers, etc.) — the objective number to base bulk/cut/maintain decisions on.
+4. **"Can I see my abs"** — not on this list. Subjective (no agreed threshold: "etched" vs. "faint outline" vs. "any glimmer" all get called abs by different people) and confounded by factors independent of fat level:
+   - **Ab muscle development.** Enhanced bodybuilders show abs at higher BF% purely from more ab muscle mass under the fat. Someone who's never trained abs may show nothing there at a normal BF% — that's an undertrained muscle (see abs in the commonly-undertrained list above), not "fat."
+   - **Bloating/water retention**, often concentrated in the abdomen (food intolerance — dairy, oats, etc.). Fix the trigger food; don't treat it as a fat-loss signal or adjust calories over it.
+   - **Visceral vs. subcutaneous fat are different things.** Visceral (around organs) is the dangerous kind. Subcutaneous belly fat just sits over the abs, hiding them cosmetically — not the same health risk. Some guys carry a visible belly with fine visceral markers.
+   - **Individual fat-storage pattern** varies by sex, race, stress, activity — and even varies bulk-to-bulk/cut-to-cut for the same person.
+   Doing crunches to "reveal" abs doesn't change body composition and isn't a valid signal to bulk or cut. Go by actual BF% or the feel-based ikigai markers above, not a mirror-check vanity metric.
+
 ---
 
 ## Cutting
