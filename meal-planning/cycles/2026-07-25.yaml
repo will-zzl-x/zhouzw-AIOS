@@ -96,13 +96,14 @@ selections:
 #   Nuggets + ramen = on hand.
 # Eggs: bake ~8-9 + ramen ~2-4 = ~11-13 of 15 — slight overage OK. Ramen blocks confirmed on hand.
 
-# ── WEEKEND COOK PLAN ──
-#   SAT (grocery Fri night 7/24): steak & salad (dinner, FRESH) · crispy chicken sandwiches
-#     (pack #1) · hot dog M2 (no-cook). DEFROST: nothing — steaks + both breast packs already
-#     fridge/on-hand; 1.25lb beef already thawed in fridge.
-#   SUN: chicken parm (pack #2, batch breading w/ Sat sandwiches if splitting) · spaghetti squash
-#     + beef bolognese · egg bake (Will M2/M3) · cucumber kimchi + sauteed kale + zucchini sides.
-#   Week eats leftovers/reheats Mon-Wed; Thu 7/30 = eat-down + fly to NYC.
+# ── WEEKEND COOK PLAN (rebalanced 7/24 — heavy SAT, light SUN; breaded chicken batched Sat) ──
+#   SAT (heavy): crispy sandwiches (pack #1, Sat DINNER) + chicken parm (pack #2) — BREAD BOTH
+#     PACKS IN ONE STATION · egg bake (Will M3 Mon-Wed) · rotisserie breakdown + rice + veg
+#     (Will-only, 5 meals). Hot dog M2 = DONE (Will ate it). DEFROST: 1st chicken pack + beef +
+#     steaks already out; PULL THE 2ND CHICKEN PACK for the parm.
+#   SUN (light): steak & salad (dinner, FRESH — moved from Sat) · spaghetti squash + beef bolognese
+#     · sides (cucumber kimchi / sauteed kale / zucchini). Egg ramen = BACKUP only (ramen on hand).
+#   Week eats leftovers/reheats Mon-Wed; Thu 7/30 = rotisserie pre-flight + fly to NYC 1:15pm.
 
 inventory_snapshot: []
 # Planned additively off the 7/24 photo audit (see ON-HAND AUDIT); inventory.json is stale
