@@ -29,7 +29,7 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 
 ## Day-by-day (hour-blocked)
 
-*Live source during review. The `.ics` is regenerated once ALL days are locked — until then it reflects the initial draft. Locked days marked ✅.*
+*All 6 days LOCKED ✅ (7/24). `nyc-2026-trip.ics` (45 events, ET) mirrors this — import it into Google Calendar. If any block changes, edit here + regenerate the `.ics`.*
 
 ### Thu 7/30 — arrival (no social) ✅ LOCKED
 - **Morning (PHX, MST)** — Lift before departure. Pack protein snacks/bars — homemade or bars.
@@ -81,22 +81,36 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 - **3:30–5:30pm** — back to the friend's place, rest/shower.
 - **6:30–8:30pm** — **Dinner with Michael — AFFIDAVIT HANDOFF (bring the printed form).** Michael picks; seed options: **K-town BBQ** (protein-forward, grilled meats + banchan) · **Empanada Mama** (Latin, closest to the apartment, cheap/casual) · **Marseille** (French-Med, a nicer sit-down for a real catch-up) · **Totto Ramen** (iconic HK ramen). No social after — real hangout. (No Broadway — dark Mondays.)
 
-### Tue 8/4 — the big day: downtown + Broadway (heavy-walk, feet recovered)
-- **8:30–9:00am** — breakfast.
+### Tue 8/4 — the big day: downtown + Broadway (heavy-walk, feet recovered) ✅ LOCKED
+- **8:30–9:00am** — **light breakfast** (protein-forward, small — see intake plan; big graze is coming at 2pm).
 - **9:15–9:45am** — subway to WTC.
 - **9:45–10:45am** — **9/11 reflecting pools + Oculus** (free, no museum).
 - **11:00am–12:15pm** — **Brooklyn Bridge** walk to DUMBO + skyline photos.
 - **12:15–12:45pm** — subway back to Chinatown.
-- **12:45–1:45pm** — **dim sum lunch** (Golden Unicorn / Dim Sum Go Go). *Swap for Tasty Hand-Pulled Noodles if craving noodles — pick one.*
-- **2:00–3:00pm** — graze north: **Mei Lai Wah** pork bun → **Spongie's** sponge cake → **Eileen's** cheesecake (Nolita).
+- **12:45–1:45pm** — **DIM SUM lunch** (Golden Unicorn / Dim Sum Go Go) — the trip's dim-sum box (noodles = Sat's Xi'an). *Order lean-ish: steamed dumplings / shrimp / greens over the fried stuff — you've got the graze next.*
+- **2:00–3:00pm** — **graze north (all 3, split with Elena):** **Mei Lai Wah** pork bun → **Spongie's** sponge cake → **Eileen's** cheesecake (Nolita).
 - **3:00–3:30pm** — subway back to Midtown.
-- **4:30–5:00pm** — **TKTS Times Square** *only if no lottery/rush win by mid-afternoon* (see Broadway below) — guaranteed seat for tonight.
-- **5:00–6:45pm** — **Dinner (options, near the theater, no rush):** **Joe Allen** (Restaurant Row institution, built for pre-theater timing) · **Westville** (fast-casual, build-your-own protein+veg, most fitness-aligned) · **5 Napkin Burger** (quick, close to the friend's place) · **Totto Ramen** (iconic — more carb-heavy than the others).
+- **4:30–5:00pm** — **TKTS Times Square** *only if no lottery/rush win by then* (see Broadway below).
+- **5:00–6:45pm** — **light pre-theater dinner:** **Westville** (build-your-own protein + veg — the intake-friendly pick after a carby day) · or Joe Allen / 5 Napkin / Totto if you'd rather. Keep it protein + veg, skip a second starch.
 - **7:00–7:30pm** — walk to the theater.
 - **7:30–10:00pm** — **Broadway show.**
-- **10:30pm** — back, pack. 7:45am departure tomorrow.
+- **10:30pm** — back, pack. Early departure tomorrow (leave ~7:45am).
 
-**Broadway execution (guaranteed-something plan):** Mon ~5pm + Tue ~9am, enter every live **digital lottery** (Broadway Direct + TodayTix) for Tue-night shows, skipping crude-comedy titles. No win by 10am → **TodayTix Rush** in-app. Still nothing by 3pm → **TKTS booth** (4:30 slot above) locks a discounted seat. Across all three you're effectively guaranteed a ticket.
+**Broadway execution (refreshed 7/24, current April-2026 methods):**
+- **Lotteries open 2–3 days out** → **enter Sat 8/1 + Sun 8/2 + Mon 8/3 + Tue 8/4** for Tue-night shows, via **TodayTix app AND each show's official site** (Broadway Direct powers many). Enter every eligible show, skip crude-comedy titles. Free to enter, ~$40–50 if you win.
+- **HipTix — Will is 25, qualifies** (Roundabout Theatre's under-35 program, ~$25 seats). Check if a Roundabout show is running and grab these directly.
+- **No win by ~9am Tue → TodayTix Rush:** same-day drops ~9am, first-come, ~$45–49, ~60-min purchase window (some Telecharge shows up to 5h). Need the TodayTix app + card + photo ID ready.
+- **Still nothing by ~3pm → TKTS booth** (Times Square, or the shorter-line Lincoln Center / Seaport booths): same-day 20–50% off, guaranteed a seat once in line, some under $50.
+- Across lottery + HipTix + rush + TKTS you're effectively guaranteed a ticket; only full-price advance is off the table (unless a specific must-see appears — then just book it).
+
+**Tue intake plan (accounting for the 2pm sweets graze — pork bun + sponge cake + cheesecake):**
+The graze is ~600–800 cal of mostly refined carbs/sugar in one sitting. You're on loose maintenance (NYC) with no tracking, so this isn't calorie-counting — it's *shape the day around it* so the graze is the treat, not an add-on to an already-heavy day:
+- **Breakfast: small + protein-forward** (eggs / Greek yogurt / a couple bites), NOT a big carby bagel-and-hash spread. Bank the appetite.
+- **Dim sum (12:45): eat lean** — steamed dumplings, shrimp, a green vegetable; go easy on fried rice / fried taro / sticky-rice-in-lotus. Protein + veg, not a carb pile, since the sweets follow in an hour.
+- **The graze (2pm): fully enjoy it, split each item with Elena** — half a pork bun, a few bites of sponge cake, split the cheesecake. Sharing = you taste all three without three full portions. This is the day's indulgence, eaten on purpose.
+- **Afternoon: water + a walk** (you're doing it anyway — Brooklyn Bridge + Chinatown steps burn through it).
+- **Dinner (5pm): protein + veg, one starch max** — Westville's build-your-own is ideal; skip bread/fries. Light dinner balances the sugary afternoon and you won't be heavy sitting through the show.
+- **Net:** one carb-heavy window (2pm), bookended by protein-forward, veg-forward, lower-starch meals + a lot of walking. Enjoy the graze without the day becoming a blowout.
 
 ### Wed 8/5 — depart
 - **6:45am** — wake.
