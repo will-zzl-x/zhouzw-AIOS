@@ -1,0 +1,105 @@
+# Cycle Sat 2026-07-25 -> Wed 2026-07-29 (SHORT pre-NYC fridge-clear cycle)
+# Will + Elena fly to NYC Thu 7/30 (eat all meals there Thu 7/30 - Wed 8/5), so this
+# cycle is a TRUNCATED 5-day run (Sat 7/25 -> Wed 7/29 dinner). Thu 7/30 = eat-down /
+# no cook. GOAL: exhaust on-hand perishables + freezer proteins so nothing rots during
+# the trip. Built from fridge/pantry/freezer photos (Will, 7/24), NOT the standard rotation.
+#
+# DEPLETE NOTE: the 7/18 cycle was NOT `deplete --apply`'d (still being eaten Wed-Fri 7/24);
+# near-zero carryover expected by Sat. This cycle is planned ADDITIVELY off the 7/24 photo
+# audit rather than off inventory.json (which is stale from the 7/17 true-up). Do a fresh
+# inventory true-up AFTER NYC, not now.
+date: "2026-07-25"
+grocery_day: "2026-07-24"   # Walmart order FRIDAY 7/24 night (a day early per Will); no Costco run — both breast packs already on hand
+
+# ON-HAND AUDIT (from 7/24 photos) — the clear-list this cycle burns down:
+#   Proteins: 2 steaks (fridge), 2 Costco breast packs ~22oz each (~4 srv each, on hand),
+#     ~1.25 lb ground beef (fridge container), 15 eggs (exp Aug 3), breaded chunks
+#     (OUT after Will cooks them 7/24 tonight — do NOT plan on them).
+#   Produce to clear: English cucumber (ASAP), microgreens (container), arugula, kale,
+#     zucchini, 5oz shredded carrots, 3 avocados, 2 yellow onions, spaghetti squash (counter).
+#   Dairy to clear: 0% milk (exp Aug 4), ricotta, Greek yogurt tub, shredded mozzarella,
+#     Parmigiano Reggiano 4oz.
+#   Pantry: low-cal bread (plenty), tortillas (4-6, pantry back), ziti/pasta, panko/flour,
+#     rice (short-grain only — NOT used this cycle), sauces incl. sriracha/fish/soy/salsa,
+#     tomato paste + frozen red-sauce container.
+#   TOSS: buns (stale — rebuying), freezer watermelon (compost, ignore).
+
+exceptions:
+  - { date: "2026-07-25", member: Will,  slot: M2, reason: "Saturday Costco hot dog — no-cook standing exception" }
+  - { date: "2026-07-25", member: Will,  slot: M3, reason: "Saturday — no work meal" }
+  - { date: "2026-07-26", member: Will,  slot: M2, reason: "Sunday — no work lunch" }
+  - { date: "2026-07-26", member: Will,  slot: M3, reason: "Sunday — no work meal" }
+  - { date: "2026-07-25", member: Elena, slot: M2, reason: "Saturday — no work lunch" }
+  - { date: "2026-07-26", member: Elena, slot: M2, reason: "Sunday — no work lunch" }
+  # Thu 7/30 = travel/eat-down, outside the Sat->Wed window; not slot-counted.
+
+carryover: []
+# Near-zero: 7/18 leftovers (chipotle/rotisserie/chunk/taco/chinese-chicken/fried-rice) eaten Wed-Fri 7/24.
+# Any survivor to Sat gets eaten as a bonus, not planned.
+
+# ── NOTE-ONLY COOKS (clear-out one-offs; NOT vetted into recipes.json — coverage.py
+#    won't count these, so the coverage report will UNDER-report; real coverage is tallied
+#    in the COVERAGE SUMMARY below, same pattern as 7/18's egg-roll ramen pre-vet.) ──
+# A. STEAK & BIG SALAD (Sat dinner, shared, eat FRESH — steak doesn't reheat):
+#    2 steaks seared; salad = microgreens + arugula + 1 avocado + shredded carrots.
+#    Clears: 2 steaks, microgreens, arugula, 1 avocado, carrots. 2 srv (Will+Elena Sat M4).
+# B. CHICKEN PARM (marinara-baked) — breast pack #2, the "different from the crispy sandwich"
+#    shared dinner + lunch (Will 7/24 pick). Breaded/baked breast (panko/flour/egg — SAME
+#    breading station as #5, batch it), marinara + mozzarella + Parmigiano, over ziti/pasta
+#    (pantry). Clears: breast pack #2, mozzarella, parm, pasta, marinara. ~4-5 srv:
+#    shared Mon/Tue dinner + Elena Wed lunch + Will flex lunch.
+#    ⚠ TOMATO CONTENTION: chicken parm + bolognese (cook C) both want tomato sauce; tomato
+#    paste + 1 frozen red-sauce container may not stretch to both -> a jar of marinara is on
+#    the buy list to de-risk both.
+# C. SPAGHETTI SQUASH + BEEF BOLOGNESE (Sun cook, shared reheat):
+#    Roast spaghetti squash; 1.25 lb ground beef + 1 onion + tomato paste/frozen red sauce
+#    (+ marinara if short) + a little ricotta -> bolognese over squash strands. Clears: squash,
+#    ALL beef, ricotta, 1 onion. ~4-5 srv: shared Sun/Tue/Wed dinners + 1 Elena lunch.
+# D. EGG BAKE / CRUSTLESS FRITTATA (Sun prep, Will M2/M3 microwave meals):
+#    ~8-9 eggs (of 15) + 1/2 onion + cheese (mozzarella scrap) + a little diced tomato.
+#    NO kale / NO zucchini (those are Will's standalone sides now). ~4-5 srv: Will M2/M3 Mon-Wed.
+#    (M2/M3 microwave-reheatable — frittata qualifies.)
+# SIDES (add-as-needed; clear the rest — Will eats these himself):
+#   - Cucumber kimchi (English cucumber + gochugaru/fish sauce/garlic) — veggie for the
+#     sandwiches + chicken parm.
+#   - Garlicky sauteed KALE (soy/vinegar/sesame) — Will's side, clears the kale.
+#   - Sauteed/roasted ZUCCHINI — Will's side, clears the zucchini.
+#   - Avocado toast (2 remaining avocados, low-cal bread) — filler.
+#   - Shakes (milk + frozen bananas + flax/chia) = Will M1 daily; clears the milk.
+
+selections:
+  # #5 Crispy Chicken Sandwiches — SHARED (Will's stealth-health recipe; breast pack #1)
+  - recipe_id: "5"
+    planned_servings: 4
+    notes: |
+      Breast pack #1 (~22oz -> ~4 pieces). Will's crispy stealth-health build: flour / egg-white+
+      hot sauce / PANKO (recipe lists corn flakes — sub panko, on hand), oil-spray bake, Greek-yogurt+
+      sriracha+pickle-juice sauce, on BUNS (buy — old ones tossed), sliced tomato (buy), pickles (on hand).
+      Scaled to 4 srv (recipe base 8). SKIP the fries side (cut). Batch the breading station with the
+      chicken-parm cook (same flour/egg/crumb dredge). SHARED: Sat/Sun dinners + weekday lunches.
+    slot_assignments:
+      - { member: Both,  slot: M4, servings: 2 }   # shared dinner (Sat or Sun)
+      - { member: Will,  slot: M2, servings: 1 }   # weekday lunch
+      - { member: Elena, slot: M2, servings: 1 }   # weekday lunch
+
+# ── COVERAGE SUMMARY (Sat 7/25 -> Wed 7/29) — hand-tallied incl. note-only cooks A-D ──
+# Produced ~18-20 srv: steak salad 2 + crispy sandwich 4 + chicken parm ~4-5 +
+#   spaghetti-squash bolognese ~4-5 + egg bake ~4-5. Plus non-cook: Will M1 shakes x5 daily,
+#   Sat M2 hot dog, avocado toast filler.
+# Needed ~19 srv: Will 11 (M2/M3/M4 Mon-Wed + Sat/Sun dinners), Elena 8 (shared M4 + M2 lunches).
+# ELENA CHECK: dinners covered by all 4 shared cooks (steak/sandwich/parm/bolognese);
+#   M2 lunches Mon-Wed covered by crispy sandwich x1 + chicken parm x1 + bolognese x1. COVERED.
+# WILL: M4 nightly from shared cooks; M2/M3 Mon-Wed from egg bake + sandwich/parm/bolognese
+#   leftovers + hot dog Sat. COVERED with small buffer. Deliberately lean into Thu eat-down.
+
+# ── WEEKEND COOK PLAN ──
+#   SAT (grocery Fri night 7/24): steak & salad (dinner, FRESH) · crispy chicken sandwiches
+#     (pack #1) · hot dog M2 (no-cook). DEFROST: nothing — steaks + both breast packs already
+#     fridge/on-hand; 1.25lb beef already thawed in fridge.
+#   SUN: chicken parm (pack #2, batch breading w/ Sat sandwiches if splitting) · spaghetti squash
+#     + beef bolognese · egg bake (Will M2/M3) · cucumber kimchi + sauteed kale + zucchini sides.
+#   Week eats leftovers/reheats Mon-Wed; Thu 7/30 = eat-down + fly to NYC.
+
+inventory_snapshot: []
+# Planned additively off the 7/24 photo audit (see ON-HAND AUDIT); inventory.json is stale
+# from the 7/17 true-up. Fresh true-up AFTER NYC, not before this cycle.
