@@ -99,12 +99,12 @@ selections:
 # ── WEEKEND COOK PLAN (rebalanced 7/24 — heavy SAT, light SUN; breaded chicken batched Sat) ──
 #   SAT (heavy) — cook order (Will 7/24): 1) egg bake (hands-off) 2) crispy sandwiches (pack #1,
 #     Sat DINNER; leave breading station out) 3) finish rotisserie rice+veg (breakdown done) 4)
-#     chicken parm (pack #2, reuse the station). Hot dog M2 = DONE. DEFROST: 1st pack + beef +
-#     steaks already out; PULL THE 2ND CHICKEN PACK for the parm.
+#     chicken parm (pack #2, reuse the station) 5) THREE SIDE PREPS (moved to Sat w/ the meals they
+#     pair): cucumber kimchi (w/ sandwiches) · roasted zucchini (w/ rotisserie) · Tuscan garlic-parm
+#     kale (lemon + Parmigiano). Hot dog M2 = DONE. DEFROST: 1st pack + beef + steaks already out;
+#     PULL THE 2ND CHICKEN PACK for the parm.
 #   SUN — cook order: 1) spaghetti squash + beef bolognese (squash roasts hands-off) 2) steak &
-#     salad (dinner, FRESH). Then 3 SIDE PREPS: cucumber kimchi (pairs w/ sandwiches) · roasted
-#     zucchini (pairs w/ rotisserie) · Tuscan garlic-parm kale (lemon + Parmigiano — the tasty
-#     version). Egg ramen = BACKUP only.
+#     salad (dinner, FRESH). Egg ramen = BACKUP only.
 #   Week eats leftovers/reheats Mon-Wed; Thu 7/30 = rotisserie pre-flight + fly to NYC 1:15pm.
 
 inventory_snapshot: []
