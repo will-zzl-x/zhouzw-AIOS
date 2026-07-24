@@ -72,12 +72,14 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 - **8:00–10:45pm** — nap (the one horizontal block that stays — it's what makes the last social good).
 - **~12:00am–by feel** — NYC Street Style social @ Marquis. Fresh sneakers = easiest night on the feet; ride it as long as it's good.
 
-### Mon 8/3 — checkout · bagels · Central Park (recovery-moderate)
-- **11:00–11:15am** — wake, **checkout Hilton, bags → 416 W 49th**.
+### Mon 8/3 — checkout · Vessel · bagels · Central Park · Michael dinner (recovery day) ✅ LOCKED
+- **~10:00–11:00am** — sleep in (3rd late night), wake at the Hilton.
+- **11:00–11:15am** — **checkout Hilton, bags → 416 W 49th**.
 - **11:30am–12:15pm** — **The Vessel, Hudson Yards** — Elena's pick, close to the hotel. Go take a look.
-- **12:30–3:30pm** — **bagels + Central Park.** Fuller: 1-train up to **Absolute Bagels** (2788 Bway, UWS) → walk the park north-to-south, exit Columbus Circle. Lighter: HK bagel → Columbus Circle in/out. (Pick by legs.)
-- **4:00–6:00pm** — rest at the friend's place.
-- **7:00–9:00pm** — **Dinner (options, pick day-of):** **K-town BBQ** (grilled meats + banchan, protein-forward) · **Empanada Mama** (Latin, closest to the apartment, cheap) · **El Centro** (Mexican, casual, good value) · **Marseille** (French-Mediterranean, nicer). No social after — open for Michael or just the two of you. (No Broadway — dark Mondays.)
+- **12:15–1:00pm** — **bagel + lox in Hell's Kitchen** (recovery-light route — grab local, no UWS schlep). *(Best Bagel & Coffee, W 35th, if not already hit Friday — or any solid HK spot.)*
+- **1:00–3:00pm** — **Central Park**, enter at **Columbus Circle** (12 min from the friend's place). Gentle loop — Sheep Meadow / The Mall–Literary Walk / the Pond. **Skip Bethesda Terrace (did it last trip); no rowboat.** ~easy, shade + benches.
+- **3:30–5:30pm** — back to the friend's place, rest/shower.
+- **6:30–8:30pm** — **Dinner with Michael — AFFIDAVIT HANDOFF (bring the printed form).** Michael picks; seed options: **K-town BBQ** (protein-forward, grilled meats + banchan) · **Empanada Mama** (Latin, closest to the apartment, cheap/casual) · **Marseille** (French-Med, a nicer sit-down for a real catch-up) · **Totto Ramen** (iconic HK ramen). No social after — real hangout. (No Broadway — dark Mondays.)
 
 ### Tue 8/4 — the big day: downtown + Broadway (heavy-walk, feet recovered)
 - **8:30–9:00am** — breakfast.
