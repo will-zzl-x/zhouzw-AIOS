@@ -82,15 +82,18 @@ selections:
       - { member: Will,  slot: M2, servings: 1 }   # weekday lunch
       - { member: Elena, slot: M2, servings: 1 }   # weekday lunch
 
-# ── COVERAGE SUMMARY (Sat 7/25 -> Wed 7/29) — hand-tallied incl. note-only cooks A-D ──
-# Produced ~18-20 srv: steak salad 2 + crispy sandwich 4 + chicken parm ~4-5 +
-#   spaghetti-squash bolognese ~4-5 + egg bake ~4-5. Plus non-cook: Will M1 shakes x5 daily,
-#   Sat M2 hot dog, avocado toast filler.
-# Needed ~19 srv: Will 11 (M2/M3/M4 Mon-Wed + Sat/Sun dinners), Elena 8 (shared M4 + M2 lunches).
-# ELENA CHECK: dinners covered by all 4 shared cooks (steak/sandwich/parm/bolognese);
-#   M2 lunches Mon-Wed covered by crispy sandwich x1 + chicken parm x1 + bolognese x1. COVERED.
-# WILL: M4 nightly from shared cooks; M2/M3 Mon-Wed from egg bake + sandwich/parm/bolognese
-#   leftovers + hot dog Sat. COVERED with small buffer. Deliberately lean into Thu eat-down.
+# ── COVERAGE SUMMARY (Sat 7/25 -> THU 7/30 pre-flight) — hand-tallied, FINAL 7/24 ──
+# Every slot has a named source (Will corrected: no "graze" assumption; Thu needs a meal too, flight 1:15pm):
+#   Steak salad 2 (Sat M4 x2) · crispy sandwich 4 (Sun M4 x2, Mon Will+Elena M2) ·
+#   chicken parm 4 (Mon M4 x2, Elena Mon+Tue M2) · bolognese squash 4 (Tue M4 x2, Wed M4 x2) ·
+#   ROTISSERIE 5 (Will Sun M3, Tue/Wed/Thu M2, +buffer — covers the Wed gap AND Thu pre-flight) ·
+#   egg bake 3 (Will M3 Mon-Wed) · egg ramen 2 (Will Sat M3, Sun M2) · hot dog 1 (Will Sat M2) ·
+#   chicken NUGGETS 1 (Elena Wed M2).
+# Will M1 = shake daily; Elena M1 = her own bars/pancakes. Elena Sat/Sun M2 = home leftovers.
+# NEW BUYS vs earlier draft (Will 7/24): corn flakes (real crumb, not panko), mozz, parm,
+#   rotisserie, chicken nuggets, crushed tomatoes (NO frozen red sauce exists), arugula, roma tomatoes.
+# Eggs: bake ~8-9 + ramen ~2-4 = ~11-13 of 15 — slight overage OK.
+# CONFIRM: ramen blocks on hand (7/18 3-pack leftover?) — egg-ramen weekend meals depend on them.
 
 # ── WEEKEND COOK PLAN ──
 #   SAT (grocery Fri night 7/24): steak & salad (dinner, FRESH) · crispy chicken sandwiches
