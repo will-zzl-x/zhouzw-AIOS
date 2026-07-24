@@ -501,3 +501,16 @@ Format: ✓ = done, □ = planned/pending
 □ Phone charged outside bedroom last night?
 □ Zone 2: Tuesday 20-min walk or incline
 □ Run 2 deal evals, log gaps in acquisition-log
+
+**2026-07-23 (Thu)** — Reverse diet Jul 12–29
+✓ Train Session: Ravage Block Wk3
+✓ Dance micro-rep: 1–2 songs, one pillar
+✓ Phone charged outside bedroom last night?
+✓ Morning weigh-in, log 7-day rolling average
+✓ Text Dan confirm Fri 7/24 sit-down time
+✓ Hit 150g protein, reverse-diet calories
+□ Walk 12,500 steps
+□ Zone 2: Thursday 20-min walk or incline
+□ Solo-space rep: 15–30 min unannounced block
+□ Run 2 deal evals, log gaps in acquisition-log
+□ Mindset — The lever is you, not her — build yourself, let desire follow. Pick one self-investment move today (training, acquisition work, friend reach-out) and execute it without telling Elena about it.
