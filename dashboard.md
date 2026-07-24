@@ -1,5 +1,20 @@
 # Dashboard — Week of July 19, 2026
-Q2 quests · Work main: deal-ready by Aug 31 (**AT RISK — 0/12 evals; Dan text Wed → sit-down Fri 7/24**) · Life main: point of origin (MIXED — rotation live, Z2/dance need anchors) · **Reverse diet Jul 12–29 (dynamic trend steering)** · **Promo doc ships Sun 7/19 — gates everything else** · NYC Jul 30 (pre-trip lane by 7/29) · Themes: externalize triggers · proof over consumption · let it land (**therapist deprioritized with intention 7/19 → Aug 24 quarterly revisit**)
+
+## 📱 MID-WEEK SNAPSHOT — updated Fri 7/24 (phone action list; supersedes the 7/19 "Major Moves" below where they conflict)
+
+**Live actions, most time-sensitive first:**
+1. **TONIGHT (Fri) — Walmart grocery run** for the pre-NYC meal cycle. List on phone: `meal-planning/cycles/2026-07-25-cook-plan.md`. Buy: buns · slicing tomato · roma ×2–3 · arugula · marinara · crushed tomatoes · corn flakes · mozzarella · Parmigiano. (Costco: rotisserie.) **Pull the 2nd chicken pack + dry-brine the steaks tonight.**
+2. **Promo doc — IN PROGRESS (Will actively working it).** Still the standing top work priority; ship it.
+3. **Sat/Sun — cook the cycle** per the cook-plan (Sat order: egg bake → sandwiches → rotisserie rice/veg → parm + 3 sides; Sun: squash bolognese → steak).
+4. **Enter Broadway lotteries STARTING SAT 8/1** (open 2–3 days out) — TodayTix + show sites; check HipTix (you qualify, under-35). Details: `context/nyc-2026-trip.md`.
+5. **NYC pre-trip by Tue 7/29:** affidavit form from St. Andrew (via Elena) → text Michael + Sahil → lock 3 festival outfits + Elena's Sat dress (~Jul 27 ship cutoff) → order Elena's flowers (~Jul 27 delivery).
+6. **Digital declutter — start once promo doc ships:** delete IG 30 days, Elena holds Screen Time passcode, YouTube off home screen.
+
+**Status since 7/19:** Dan meeting was Fri 7/24 (confirm follow-up email sent). Deal evals at 9/12 ✓ (exceeded). NYC itinerary fully locked — `.ics` ready to import (`context/nyc-2026-trip.ics`, 45 events). Meal cycle locked.
+
+---
+
+Q2 quests · Work main: deal-ready by Aug 31 (**9/12 evals ✓ — ahead; keep the last 3 + LOI template**) · Life main: point of origin (MIXED — rotation live, Z2/dance need anchors) · **Reverse diet Jul 12–29 (dynamic trend steering)** · **Promo doc — in progress, top priority** · NYC Jul 30 (pre-trip lane by 7/29) · Themes: externalize triggers · proof over consumption · let it land (**therapist deprioritized with intention 7/19 → Aug 24 quarterly revisit**)
 
 ## Daily Consistents (every day, do not rotate)
 
