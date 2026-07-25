@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//zhouzw-AIOS//NYC Trip 2026//EN
+PRODID:-//zhouzw-AIOS//NYC Trip 2026 v2//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:NYC Trip (Jul 30 - Aug 5 2026)
@@ -23,12 +23,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:nyc2026-01@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-01@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260730T161500
 DTEND;TZID=America/New_York:20260730T232400
 SUMMARY:✈ Fly to NYC — DL796/DL520 (land LGA 11:24p)
-DESCRIPTION:PHX 1:15p (local) → ATL 8:14p · 46m layover · ATL 9:00p → LGA 11:24p. Delta Main Basic. Times on this calendar are ET.
+DESCRIPTION:PHX 1:15p local → ATL 8:14p · 46m layover · ATL 9:00p → LGA 11:24p. Delta Main Basic. Times ET. Lift before departure; eat a real meal at PHX (tight ATL layover). Check in for the return at T-24h.
 LOCATION:PHX → LGA
 BEGIN:VALARM
 TRIGGER:-PT3H
@@ -37,34 +37,57 @@ DESCRIPTION:Head to PHX
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-02@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-02@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260730T233000
-DTEND;TZID=America/New_York:20260731T001500
-SUMMARY:🚕 LGA → friend's place (416 W 49th #3D)
-DESCRIPTION:Hell's Kitchen. Confirm late-night entry/keys with the friend beforehand.
+DTEND;TZID=America/New_York:20260731T010000
+SUMMARY:🚇 LGA → 416 W 49th #3D (Q70 bus + E train)
+DESCRIPTION:Free Q70 LaGuardia Link → E train to 50th St, ~75-90 min with bags. Confirm late-night entry/keys with the friend beforehand.
 LOCATION:416 W 49th St Apt 3D
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-03@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-03@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260731T100000
-DTEND;TZID=America/New_York:20260731T110000
-SUMMARY:☕ Wake + brunch (Fri)
-DESCRIPTION:9th Ave Hell's Kitchen or Koreatown. Keep feet light — festival day.
+DTEND;TZID=America/New_York:20260731T104500
+SUMMARY:☕ Wake + pack up (Fri)
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-04@zhouzw-aios
-DTSTAMP:20260719T120000Z
-DTSTART;TZID=America/New_York:20260731T113000
-DTEND;TZID=America/New_York:20260731T121500
-SUMMARY:🧳 Move bags → Hilton Garden Inn W 35th (drop)
-DESCRIPTION:63 W 35th St. Check-in ~3-4pm; drop bags with bell desk earlier.
+UID:nyc2026v2-04@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260731T110000
+DTEND;TZID=America/New_York:20260731T113000
+SUMMARY:🧳 Bags → Hilton Garden Inn W 35th (drop, check-in ~3pm)
 LOCATION:Hilton Garden Inn, 63 W 35th St
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-05@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-05@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260731T113000
+DTEND;TZID=America/New_York:20260731T121500
+SUMMARY:🥯 Brunch — Best Bagel & Coffee
+DESCRIPTION:225 W 35th, around the corner from the hotel. The trip's one bagel outing.
+LOCATION:Best Bagel & Coffee, 225 W 35th St
+END:VEVENT
+BEGIN:VEVENT
+UID:nyc2026v2-06@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260731T123000
+DTEND;TZID=America/New_York:20260731T143000
+SUMMARY:🍵 K-town wander + Grace Street
+DESCRIPTION:Feet-light. Grace Street (17 W 32nd) — hojicha latte / bingsu. Fill the pre-check-in gap.
+END:VEVENT
+BEGIN:VEVENT
+UID:nyc2026v2-07@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260731T150000
+DTEND;TZID=America/New_York:20260731T154500
+SUMMARY:🏨 Hotel check-in, change, rest
+LOCATION:Hilton Garden Inn, 63 W 35th St
+END:VEVENT
+BEGIN:VEVENT
+UID:nyc2026v2-08@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260731T160000
 DTEND;TZID=America/New_York:20260731T165000
 SUMMARY:💃 ESM Masterclass
@@ -76,40 +99,48 @@ DESCRIPTION:Masterclass
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-06@zhouzw-aios
-DTSTAMP:20260719T120000Z
-DTSTART;TZID=America/New_York:20260731T183000
-DTEND;TZID=America/New_York:20260731T200000
-SUMMARY:🍲 Dinner — Cho Dan Gol (invite Michael)
-DESCRIPTION:Korean homestyle, 55 W 35th — half a block from the hotel.
-LOCATION:Cho Dan Gol, 55 W 35th St
+UID:nyc2026v2-09@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260731T173000
+DTEND;TZID=America/New_York:20260731T190000
+SUMMARY:🍲 Dinner (Korean — pick day-of; invite Michael)
+DESCRIPTION:Cho Dan Gol (55 W 35th, ½ block) · Kunjip (32nd, 24hr) · BCD Tofu House (protein-forward).
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-07@zhouzw-aios
-DTSTAMP:20260719T120000Z
-DTSTART;TZID=America/New_York:20260731T203000
-DTEND;TZID=America/New_York:20260731T223000
-SUMMARY:😴 Pre-social horizontal rest (non-negotiable) + dress Black & Gold
+UID:nyc2026v2-10@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260731T193000
+DTEND;TZID=America/New_York:20260731T220000
+SUMMARY:😴 Pre-social nap + dress Black & Gold
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-08@zhouzw-aios
-DTSTAMP:20260719T120000Z
-DTSTART;TZID=America/New_York:20260731T233000
+UID:nyc2026v2-11@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260801T000000
 DTEND;TZID=America/New_York:20260801T040000
 SUMMARY:🕺 Social — Black & Gold
-DESCRIPTION:Theme: black fit + gold accents. Cab back to hotel after (~4am last year).
+DESCRIPTION:Theme: black fit + gold accents. Doors 11:30p; walk in ~midnight at peak. Out ~4am, walk back.
 LOCATION:Marriott Marquis, 1535 Broadway
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-09@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-12@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260801T114500
-DTEND;TZID=America/New_York:20260801T124500
-SUMMARY:☕ Wake + late brunch (Sat)
+DTEND;TZID=America/New_York:20260801T121500
+SUMMARY:☕ Wake (Sat)
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-10@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-13@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260801T121500
+DTEND;TZID=America/New_York:20260801T130000
+SUMMARY:🍜 Lunch — Xi'an Famous Foods (the trip's noodles)
+DESCRIPTION:24 W 45th. Cumin-lamb hand-ripped noodles, ~$12. NYC noodle institution.
+LOCATION:Xi'an Famous Foods, 24 W 45th St
+END:VEVENT
+BEGIN:VEVENT
+UID:nyc2026v2-14@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260801T140000
 DTEND;TZID=America/New_York:20260801T145000
 SUMMARY:💃 ESM Class
@@ -121,47 +152,60 @@ DESCRIPTION:Class
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-11@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-15@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260801T150000
-DTEND;TZID=America/New_York:20260801T170000
-SUMMARY:🤵 Rest + steam the suit
-DESCRIPTION:Feet-light afternoon — no Central Park today.
+DTEND;TZID=America/New_York:20260801T163000
+SUMMARY:🛌 Rest + get ready (no suit — dress cool)
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-12@zhouzw-aios
-DTSTAMP:20260719T120000Z
-DTSTART;TZID=America/New_York:20260801T190000
-DTEND;TZID=America/New_York:20260801T203000
-SUMMARY:🍽 Dinner (dressed) — Mafia Royale night
-DESCRIPTION:Black-tie night; dinner is part of it. K-town or a Midtown spot.
+UID:nyc2026v2-16@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260801T170000
+DTEND;TZID=America/New_York:20260801T180000
+SUMMARY:⛪ Vigil Mass — St. Malachy's (Actors' Chapel)
+DESCRIPTION:239 W 49th, 5pm vigil. Fulfills the weekend obligation (Sun morning unworkable post-social). Verify time week-of.
+LOCATION:St. Malachy's, 239 W 49th St
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Vigil Mass
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-13@zhouzw-aios
-DTSTAMP:20260719T120000Z
-DTSTART;TZID=America/New_York:20260801T204500
-DTEND;TZID=America/New_York:20260801T224500
-SUMMARY:😴 Pre-social rest
+UID:nyc2026v2-17@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260801T183000
+DTEND;TZID=America/New_York:20260801T200000
+SUMMARY:🍽 Dinner (dress-up, pick day-of — near Restaurant Row)
+DESCRIPTION:Yakitori Totto (skewers) · Toloache (Mexican) · Kashkaval Garden (Med meze) · Nizza (French-Med). Digestible before the nap + social.
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-14@zhouzw-aios
-DTSTAMP:20260719T120000Z
-DTSTART;TZID=America/New_York:20260801T233000
-DTEND;TZID=America/New_York:20260802T050000
+UID:nyc2026v2-18@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260801T201500
+DTEND;TZID=America/New_York:20260801T223000
+SUMMARY:😴 Pre-social nap
+END:VEVENT
+BEGIN:VEVENT
+UID:nyc2026v2-19@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260802T000000
+DTEND;TZID=America/New_York:20260802T033000
 SUMMARY:🕴 Social — Black-Tie Mafia Royale (marquee night)
-DESCRIPTION:Sharp suit / gown. The night to stay late (~5am last year).
+DESCRIPTION:Exit ~3:30am to keep Sunday's 1pm class survivable.
 LOCATION:Marriott Marquis, 1535 Broadway
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-15@zhouzw-aios
-DTSTAMP:20260719T120000Z
-DTSTART;TZID=America/New_York:20260802T114500
-DTEND;TZID=America/New_York:20260802T124500
-SUMMARY:☕ Wake + quick food (Sun — tight turnaround)
+UID:nyc2026v2-20@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260802T103000
+DTEND;TZID=America/New_York:20260802T120000
+SUMMARY:☕ Wake + light breakfast near the Marquis (Sun)
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-16@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-21@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260802T130000
 DTEND;TZID=America/New_York:20260802T135000
 SUMMARY:💃 ESM Class
@@ -173,42 +217,44 @@ DESCRIPTION:Class
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-17@zhouzw-aios
-DTSTAMP:20260719T120000Z
-DTSTART;TZID=America/New_York:20260802T140000
-DTEND;TZID=America/New_York:20260802T180000
-SUMMARY:🛌 Recovery block (deliberately empty)
-DESCRIPTION:Nap / hotel pool / coffee. Bank energy for the last late night.
+UID:nyc2026v2-22@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260802T143000
+DTEND;TZID=America/New_York:20260802T163000
+SUMMARY:🌳 Central Park (Columbus Circle in)
+DESCRIPTION:Gentle walk — Sheep Meadow / The Mall–Literary Walk. SKIP Bethesda (did it last trip); no rowboat. ~2 easy miles.
+LOCATION:Central Park (Columbus Circle)
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-18@zhouzw-aios
-DTSTAMP:20260719T120000Z
-DTSTART;TZID=America/New_York:20260802T183000
-DTEND;TZID=America/New_York:20260802T194500
-SUMMARY:🍜 Hell's Kitchen dinner (9th Ave)
+UID:nyc2026v2-23@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260802T174500
+DTEND;TZID=America/New_York:20260802T193000
+SUMMARY:🍜 Dinner (Thai — pick day-of)
+DESCRIPTION:Pure Thai Cookhouse (766 9th Ave, handmade egg noodles) · Larb Ubol (spicier/authentic) · Wondee Siam (value).
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-19@zhouzw-aios
-DTSTAMP:20260719T120000Z
-DTSTART;TZID=America/New_York:20260802T203000
+UID:nyc2026v2-24@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260802T200000
 DTEND;TZID=America/New_York:20260802T224500
-SUMMARY:😴 Pre-social rest + dress street-style (fresh sneakers)
+SUMMARY:😴 Pre-social nap + dress street-style (fresh sneakers)
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-20@zhouzw-aios
-DTSTAMP:20260719T120000Z
-DTSTART;TZID=America/New_York:20260802T233000
-DTEND;TZID=America/New_York:20260803T030000
-SUMMARY:👟 Social — NYC Urban Street Style (by feel)
-DESCRIPTION:End time open — sneakers = easiest night on the feet. Ride it as long as it's good.
+UID:nyc2026v2-25@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260803T000000
+DTEND;TZID=America/New_York:20260803T033000
+SUMMARY:👟 Social — NYC Street Style (by feel)
+DESCRIPTION:Fresh sneakers = easiest night on the feet. Ride it as long as it's good.
 LOCATION:Marriott Marquis, 1535 Broadway
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-21@zhouzw-aios
-DTSTAMP:20260719T120000Z
-DTSTART;TZID=America/New_York:20260803T110000
-DTEND;TZID=America/New_York:20260803T120000
-SUMMARY:🧳 Checkout Hilton → bags to 416 W 49th
+UID:nyc2026v2-26@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260803T100000
+DTEND;TZID=America/New_York:20260803T111500
+SUMMARY:🧳 Wake + checkout Hilton → bags to 416 W 49th
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -216,27 +262,44 @@ DESCRIPTION:Hotel checkout
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-22@zhouzw-aios
-DTSTAMP:20260719T120000Z
-DTSTART;TZID=America/New_York:20260803T123000
-DTEND;TZID=America/New_York:20260803T153000
-SUMMARY:🥯 Bagels + Central Park
-DESCRIPTION:Fuller: 1-train to Absolute Bagels (2788 Bway UWS) → walk park north-to-south to Columbus Circle. Lighter: HK bagel → Columbus Circle in/out. Pick by legs.
+UID:nyc2026v2-27@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260803T113000
+DTEND;TZID=America/New_York:20260803T121500
+SUMMARY:🌀 The Vessel, Hudson Yards (Elena's pick)
+DESCRIPTION:Close to the hotel — go take a look.
+LOCATION:The Vessel, Hudson Yards
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-23@zhouzw-aios
-DTSTAMP:20260719T120000Z
-DTSTART;TZID=America/New_York:20260803T160000
-DTEND;TZID=America/New_York:20260803T180000
-SUMMARY:🛌 Rest at friend's place
+UID:nyc2026v2-28@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260803T121500
+DTEND;TZID=America/New_York:20260803T130000
+SUMMARY:🥯 Bagel + lox in Hell's Kitchen (recovery-light)
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-24@zhouzw-aios
-DTSTAMP:20260719T120000Z
-DTSTART;TZID=America/New_York:20260803T190000
-DTEND;TZID=America/New_York:20260803T210000
-SUMMARY:🤝 Dinner with Michael — AFFIDAVIT HANDOFF (form in hand)
-DESCRIPTION:Best-man affidavit of free status — bring the printed St. Andrew form. No social after; real hangout.
+UID:nyc2026v2-29@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260803T130000
+DTEND;TZID=America/New_York:20260803T150000
+SUMMARY:🌳 Central Park (Columbus Circle in)
+DESCRIPTION:Gentle loop — Sheep Meadow / The Mall / the Pond. Skip Bethesda; no rowboat.
+LOCATION:Central Park (Columbus Circle)
+END:VEVENT
+BEGIN:VEVENT
+UID:nyc2026v2-30@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260803T153000
+DTEND;TZID=America/New_York:20260803T173000
+SUMMARY:🛌 Rest / shower at the friend's place
+END:VEVENT
+BEGIN:VEVENT
+UID:nyc2026v2-31@zhouzw-aios
+DTSTAMP:20260724T120000Z
+DTSTART;TZID=America/New_York:20260803T183000
+DTEND;TZID=America/New_York:20260803T203000
+SUMMARY:🤝 Dinner with Michael — AFFIDAVIT HANDOFF (bring printed form)
+DESCRIPTION:Michael picks; seed: K-town BBQ · Empanada Mama · Marseille · Totto Ramen. Real hangout, no social after. BRING THE PRINTED AFFIDAVIT FORM.
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
@@ -244,96 +307,89 @@ DESCRIPTION:Bring the affidavit form for Michael
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-25@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-32@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260804T083000
 DTEND;TZID=America/New_York:20260804T090000
-SUMMARY:☕ Breakfast (Tue — big walking day)
+SUMMARY:🍳 Light breakfast (protein-forward, small — graze at 2pm)
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-26@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-33@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260804T091500
 DTEND;TZID=America/New_York:20260804T094500
 SUMMARY:🚇 Subway to WTC
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-27@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-34@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260804T094500
 DTEND;TZID=America/New_York:20260804T104500
 SUMMARY:🕊 9/11 reflecting pools + Oculus (free)
 LOCATION:180 Greenwich St
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-28@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-35@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260804T110000
 DTEND;TZID=America/New_York:20260804T121500
-SUMMARY:🌉 Brooklyn Bridge walk to DUMBO
-DESCRIPTION:Cross to DUMBO, skyline photos, subway back to Chinatown.
+SUMMARY:🌉 Brooklyn Bridge walk to DUMBO + skyline photos
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-29@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-36@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260804T121500
 DTEND;TZID=America/New_York:20260804T124500
-SUMMARY:🚇 Subway to Chinatown
+SUMMARY:🚇 Subway back to Chinatown
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-30@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-37@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260804T124500
 DTEND;TZID=America/New_York:20260804T134500
-SUMMARY:🥟 Dim sum lunch — Golden Unicorn / Dim Sum Go Go
-DESCRIPTION:Value/local. Swap for Tasty Hand-Pulled Noodles (1 Doyers) if craving noodles — pick one.
+SUMMARY:🥟 Dim sum lunch — the trip's dim-sum box
+DESCRIPTION:Golden Unicorn / Dim Sum Go Go. Order lean-ish (steamed dumplings/shrimp/greens) — graze follows in an hour.
 LOCATION:Chinatown
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-31@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-38@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260804T140000
 DTEND;TZID=America/New_York:20260804T150000
-SUMMARY:🍥 Graze north: Mei Lai Wah → Spongie's → Eileen's
-DESCRIPTION:Pineapple bun w/ roast pork (64 Bayard) → sponge cake → Eileen's cheesecake (17 Cleveland Pl, Nolita).
+SUMMARY:🍥 Graze north (split w/ Elena): Mei Lai Wah → Spongie's → Eileen's
+DESCRIPTION:Pork bun (64 Bayard) → sponge cake → Eileen's cheesecake (17 Cleveland Pl, Nolita). Split each — the day's indulgence.
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-32@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-39@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260804T150000
 DTEND;TZID=America/New_York:20260804T153000
 SUMMARY:🚇 Subway back to Midtown
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-33@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-40@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260804T163000
 DTEND;TZID=America/New_York:20260804T170000
 SUMMARY:🎟 TKTS Times Square (ONLY if no lottery/rush win)
-DESCRIPTION:Fallback to guarantee a seat for tonight. Skip if you already won a lottery/rush.
+DESCRIPTION:Fallback to guarantee a seat. Skip if you already won a lottery / got rush / HipTix.
 LOCATION:TKTS, Broadway & 47th
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-34@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-41@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260804T170000
-DTEND;TZID=America/New_York:20260804T180000
-SUMMARY:🛌 Rest at friend's place
+DTEND;TZID=America/New_York:20260804T184500
+SUMMARY:🥗 Light pre-theater dinner — Westville (protein+veg)
+DESCRIPTION:Build-your-own protein + veg, skip a second starch (carby day). Or Joe Allen / 5 Napkin / Totto.
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-35@zhouzw-aios
-DTSTAMP:20260719T120000Z
-DTSTART;TZID=America/New_York:20260804T181500
-DTEND;TZID=America/New_York:20260804T190000
-SUMMARY:🍽 Quick pre-show dinner near the theater
-END:VEVENT
-BEGIN:VEVENT
-UID:nyc2026-36@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-42@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260804T193000
 DTEND;TZID=America/New_York:20260804T220000
 SUMMARY:🎭 Broadway show
-DESCRIPTION:Confirm actual curtain time when the ticket lands (lottery/rush/TKTS). Adjust this block to match.
+DESCRIPTION:Confirm actual curtain when the ticket lands (lottery/HipTix/rush/TKTS) and adjust this block. Theater District, walkable.
 LOCATION:Theater District
 BEGIN:VALARM
 TRIGGER:-PT45M
@@ -342,15 +398,15 @@ DESCRIPTION:Head to the theater
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-37@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-43@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260804T223000
 DTEND;TZID=America/New_York:20260804T230000
-SUMMARY:🧳 Pack (7:45am departure tomorrow)
+SUMMARY:🧳 Pack (early departure tomorrow)
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-38@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-44@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260805T074500
 DTEND;TZID=America/New_York:20260805T083000
 SUMMARY:🚕 Depart 416 W 49th → LGA
@@ -361,12 +417,12 @@ DESCRIPTION:Leave for LGA
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nyc2026-39@zhouzw-aios
-DTSTAMP:20260719T120000Z
+UID:nyc2026v2-45@zhouzw-aios
+DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260805T100000
 DTEND;TZID=America/New_York:20260805T175000
 SUMMARY:✈ Fly home — DL989/DL366 (land PHX 2:50p local)
-DESCRIPTION:LGA 10:00a → ATL 12:28p · 1h33m · ATL 2:01p → PHX 2:50p (local). Check in Tue 10:00a (T-24h) — Main Basic assigns seats late. Calendar end shown in ET.
+DESCRIPTION:LGA 10:00a → ATL 12:28p · 1h33m · ATL 2:01p → PHX 2:50p local. Check in Tue 10a (T-24h). Calendar end shown ET.
 LOCATION:LGA → PHX
 END:VEVENT
 END:VCALENDAR

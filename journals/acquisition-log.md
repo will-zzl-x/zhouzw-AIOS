@@ -46,6 +46,18 @@ Action taken: [evaluated only / contacted broker / requested IM / submitted LOI]
 - SBA approval pending
 - **Stall point:** Loan size for $500k–$1M acquisition came into focus — Will got cold feet on the debt load. Active outreach stopped. Dan partnership still intact but not moving forward until Will is comfortable with the financing.
 
+**Jul 24, 2026** — Dan sit-down (25 min, reactivation after 14-month dormancy)
+- General where-we're-at alignment. **Dan still in on a finance-sector acquisition.**
+- **Dan's new idea: buy a "retired" social media account in the financial space** (e.g. tax strategy for the wealthy). Theory: accept follower bleed, keep a base, get more views than starting from scratch; monetize via an irresistible offer with confident lead handling; Will and/or Elena deliver the service.
+- **Assessment (7/24, logged same day) — NO as a standalone; kernel kept, re-sequenced:**
+  - **It's a startup with a purchased marketing asset, not an acquisition.** Zero SDE, zero recurring revenue, zero clients — fails the deal box on every line (no DSCR because there's no debt-servicing cash flow at all). Revenue depends entirely on converting cold followers to a new offer from new people — exactly the leap-of-faith shape deal #1 was sized to avoid.
+  - **Delivery is disqualifying as stated.** "Tax strategy for the wealthy" is credentialed work (CPA/EA/tax attorney). Will = supply chain, Elena = water resources engineering — neither can legally/credibly deliver it, and doing so for compensation is liability. Dan himself flagged the licensure requirement in the Apr 2025 meeting; his CPA line remains contingent, not in hand.
+  - **Audience math is worse than "bleed some followers."** Modern feeds are interest-graph, not follower-graph — follower counts buy little distribution now. Finance audiences follow a specific person's credibility; the person was the asset and doesn't transfer. Account sales also violate most platforms' ToS — the asset can be confiscated.
+  - **Pattern note:** this is the "media buying / lead gen" idea considered and deprioritized in the Apr 7, 2025 meeting, returning in new packaging — with the same contribution asymmetry as the 50/50 ask (Dan supplies the idea; Will/Elena supply capital, delivery labor, and risk).
+  - **The kernel kept:** distribution IS valuable (straight Hormozi) — but media is a multiplier on an existing service business, and multiplying zero is zero. **Re-sequenced: buy the boring firm first (deal #1), then content/lead-gen becomes the growth channel on top — and that lane is the natural home for Dan's earned-equity vesting** (no-capital, no-PG strategy/hustle work that vests against clients actually produced).
+  - **Frame given to Dan (or for the follow-up email): "right weapon, wrong order — that's the growth engine for the thing we buy, not a substitute for buying it."**
+- Open action: 24h follow-up email (`context/dan-pipeline-brief.md` + shortlist), carrying whatever the 25 minutes didn't cover.
+
 ---
 
 ## Deal Log
