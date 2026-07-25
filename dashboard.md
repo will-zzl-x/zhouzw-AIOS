@@ -7,7 +7,7 @@
 2. **Promo doc — IN PROGRESS (Will actively working it).** Still the standing top work priority; ship it.
 3. **Sat/Sun — cook the cycle** per the cook-plan (Sat order: egg bake → sandwiches → rotisserie rice/veg → parm + 3 sides; Sun: squash bolognese → steak).
 4. **Enter Broadway lotteries STARTING SAT 8/1** (open 2–3 days out) — TodayTix + show sites; check HipTix (you qualify, under-35). Details: `context/nyc-2026-trip.md`.
-5. **NYC pre-trip by Tue 7/29:** affidavit form from St. Andrew (via Elena) → text Michael + Sahil → lock 3 festival outfits + Elena's Sat dress (~Jul 27 ship cutoff) → order Elena's flowers (~Jul 27 delivery).
+5. **NYC pre-trip by Tue 7/29:** affidavit form from St. Andrew (via Elena) → text Michael → lock 3 festival outfits + Elena's Sat dress (~Jul 27 ship cutoff) → order Elena's flowers (~Jul 27 delivery). *(Sahil dropped 7/24 — not in NYC during the trip.)*
 6. **Digital declutter — start once promo doc ships:** delete IG 30 days, Elena holds Screen Time passcode, YouTube off home screen.
 
 **Status since 7/19:** Dan meeting was Fri 7/24 (confirm follow-up email sent). Deal evals at 9/12 ✓ (exceeded). NYC itinerary fully locked — `.ics` ready to import (`context/nyc-2026-trip.ics`, 45 events). Meal cycle locked.
