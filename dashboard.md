@@ -12,6 +12,13 @@
 5. **NYC pre-trip by Tue 7/29:** affidavit form from St. Andrew (via Elena) → text Michael → lock 3 festival outfits + Elena's Sat dress (~Jul 27 ship cutoff) → order Elena's flowers (~Jul 27 delivery). *(Sahil dropped 7/24 — not in NYC during the trip.)*
 6. **Digital declutter — start once promo doc ships:** delete IG 30 days, Elena holds Screen Time passcode, YouTube off home screen.
 
+**Excess-capacity queue (this week, in order — pull from the top when a window opens):**
+- **LOI template draft** — the LAST Learn-phase win-condition box (evals 9/12 ✓, broker convos = Monday's calls). Draft against the deal box: $150–300k · seller note ≥50% · DSCR ≥2.0× · **limited/no personal guarantee** · revenue-retention forgiveness/offset clause · 90-day transition. Having it ready means if East Valley comes back right, you respond in days, not weeks — and the Aug 31 quest closes a month early.
+- **Dance reps, daily + slightly longer** — ESM festival in 6 days; under-repped by your own read; W30 floor ≥5/7. The highest-ROI use of literal spare minutes this week.
+- **Deal-flow infra (30–60 min once):** set persistent saved searches/alerts (BizBuySell/BizQuest/APE — Phoenix metro + deal box baked into the query) + re-read the Frazier walls-down script before Monday's calls.
+- **Main Street Accelerator module w/ Elena** — one evening session, shared-time slot.
+- **NOT this week:** Liftosaur API retry, auto-archive bug, synthesis diagnosis — infra parks until post-NYC. And don't fill every evening: the trip is a 3-night sleep deficit by design; bank sleep Mon–Wed.
+
 **Status since 7/19:** Dan meeting was Fri 7/24 (confirm follow-up email sent). Deal evals at 9/12 ✓ (exceeded). NYC itinerary fully locked — `.ics` ready to import (`context/nyc-2026-trip.ics`, 45 events). Meal cycle locked.
 
 ---
