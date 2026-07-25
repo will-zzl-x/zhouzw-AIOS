@@ -514,3 +514,15 @@ Format: ✓ = done, □ = planned/pending
 □ Solo-space rep: 15–30 min unannounced block
 □ Run 2 deal evals, log gaps in acquisition-log
 □ Mindset — The lever is you, not her — build yourself, let desire follow. Pick one self-investment move today (training, acquisition work, friend reach-out) and execute it without telling Elena about it.
+
+**2026-07-24 (Fri)** — Reverse diet Jul 12–29
+✓ Solo-space rep: 15–30 min unannounced block
+✓ Zone 2: Thursday 20-min walk or incline
+✓ Walk 12,500 steps today
+✓ Train Session 7: torso — Ravage Block Wk3
+✓ Run 2 deal evals, log gaps in acquisition-log
+✓ Morning weigh-in, log 7-day rolling average
+✓ Phone charged outside bedroom last night?
+✓ Dance micro-rep: 1–2 songs, one pillar today
+✓ Hit 150g protein, reverse-diet calories
+✓ Confirm Dan sit-down Fri 7/24 early evening locked
