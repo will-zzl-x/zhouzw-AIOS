@@ -5,10 +5,19 @@
 **Live actions, most time-sensitive first:**
 1. **TONIGHT (Fri) — Walmart grocery run** for the pre-NYC meal cycle. List on phone: `meal-planning/cycles/2026-07-25-cook-plan.md`. Buy: buns · slicing tomato · roma ×2–3 · arugula · marinara · crushed tomatoes · corn flakes · mozzarella · Parmigiano. (Costco: rotisserie.) **Pull the 2nd chicken pack + dry-brine the steaks tonight.**
 2. **Promo doc — IN PROGRESS (Will actively working it).** Still the standing top work priority; ship it.
+2a. **THIS WEEKEND — Dan 24h follow-up email:** re-anchor, not recap. (a) "Right weapon, wrong order" frame on the retired-account idea; (b) his media instinct = the earned-equity lane AFTER deal #1; (c) attach the 3 live Phoenix-metro conditionals as proof the pipeline's live. (`context/dan-pipeline-brief.md` + shortlist.)
+2b. **MONDAY AM — first contact on the 3 conditionals (before NYC or it's a 10-day cold gap):** East Valley EA BW2396896 → asking price + seller-note appetite (one number resolves the strongest lead) · Gilbert → SDE + why 0.6x · Mesa → SDE + recurring-vs-seasonal split. **Double-counts as the broker-conversation win condition (need 2+, have 0).** No more search reps until these calls happen — the constraint moved from finding to contacting.
 3. **Sat/Sun — cook the cycle** per the cook-plan (Sat order: egg bake → sandwiches → rotisserie rice/veg → parm + 3 sides; Sun: squash bolognese → steak).
 4. **Enter Broadway lotteries STARTING SAT 8/1** (open 2–3 days out) — TodayTix + show sites; check HipTix (you qualify, under-35). Details: `context/nyc-2026-trip.md`.
-5. **NYC pre-trip by Tue 7/29:** affidavit form from St. Andrew (via Elena) → text Michael + Sahil → lock 3 festival outfits + Elena's Sat dress (~Jul 27 ship cutoff) → order Elena's flowers (~Jul 27 delivery).
+5. **NYC pre-trip by Tue 7/29:** affidavit form from St. Andrew (via Elena) → text Michael → lock 3 festival outfits + Elena's Sat dress (~Jul 27 ship cutoff) → order Elena's flowers (~Jul 27 delivery). *(Sahil dropped 7/24 — not in NYC during the trip.)*
 6. **Digital declutter — start once promo doc ships:** delete IG 30 days, Elena holds Screen Time passcode, YouTube off home screen.
+
+**Excess-capacity queue (this week, in order — pull from the top when a window opens):**
+- **LOI template draft** — the LAST Learn-phase win-condition box (evals 9/12 ✓, broker convos = Monday's calls). Draft against the deal box: $150–300k · seller note ≥50% · DSCR ≥2.0× · **limited/no personal guarantee** · revenue-retention forgiveness/offset clause · 90-day transition. Having it ready means if East Valley comes back right, you respond in days, not weeks — and the Aug 31 quest closes a month early.
+- **Dance reps, daily + slightly longer** — ESM festival in 6 days; under-repped by your own read; W30 floor ≥5/7. The highest-ROI use of literal spare minutes this week.
+- **Deal-flow infra (30–60 min once):** set persistent saved searches/alerts (BizBuySell/BizQuest/APE — Phoenix metro + deal box baked into the query) + re-read the Frazier walls-down script before Monday's calls.
+- **Main Street Accelerator module w/ Elena** — one evening session, shared-time slot.
+- **NOT this week:** Liftosaur API retry, auto-archive bug, synthesis diagnosis — infra parks until post-NYC. And don't fill every evening: the trip is a 3-night sleep deficit by design; bank sleep Mon–Wed.
 
 **Status since 7/19:** Dan meeting was Fri 7/24 (confirm follow-up email sent). Deal evals at 9/12 ✓ (exceeded). NYC itinerary fully locked — `.ics` ready to import (`context/nyc-2026-trip.ics`, 45 events). Meal cycle locked.
 

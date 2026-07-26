@@ -22,7 +22,7 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 - **Social end-times (planning assumption from last year): Fri ~4am, Sat ~5am, Sun by feel.** Mornings after are scheduled empty; first anchor never before ~11:45am on festival days.
 - **9/11: free only** — reflecting pools + Oculus walkthrough, no museum.
 - **No haircut on the trip** (Phoenix beforehand if wanted).
-- **Sahil & Emily (NYC friends):** double date, casual, not black tie. Not pinned to a specific night — whichever of Fri/Sat/Sun/Mon works for their schedule. Will texts Sahil to find what lines up.
+- **Sahil & Emily: OUT (7/24 — Sahil won't be in NYC during the trip).** Double date dropped; no schedule impact (it was never pinned to a slot). Dinner options all stand as couple/Michael meals.
 - **Catholic Mass required this weekend: Saturday vigil preferred** (Sunday morning is unworkable post-5am-social). Plan: **St. Patrick's Cathedral Sat vigil ~5:30pm** (5th & 50th, 15-min walk, iconic — verify time week-of) · alt: **St. Malachy's "The Actors' Chapel" Sat ~5pm** (239 W 49th — literally the friend's block; the Broadway-district parish, fitting for this trip).
 - **Social-day dinners run EARLY** to protect a real pre-social nap: dinner done by ~8:30pm, ~2h horizontal before the social. **Arrive socials ~midnight** (doors 11:30 — skip the dead first half-hour, catch peak).
 - **MEAL DOCTRINE: zero throwaway meals.** Every slot is a named place that's NYC-unique or NYC-at-a-level Phoenix can't match, at fair value.
