@@ -526,3 +526,16 @@ Format: ✓ = done, □ = planned/pending
 ✓ Dance micro-rep: 1–2 songs, one pillar today
 ✓ Hit 150g protein, reverse-diet calories
 ✓ Confirm Dan sit-down Fri 7/24 early evening locked
+
+**2026-07-25 (Sat)** — Reverse diet Jul 12–29
+✓ Train Session 7: torso work
+✓ Mindset — The lever is you, not her — build yourself, let desire follow. Pick one self-investment move today (training, acquisition work, friend reach-out) and execute it without telling Elena about it.
+✓ Solo-space rep: 15–30 min unannounced
+✓ Hit 150g protein, reverse-diet calories
+✓ Phone charged outside bedroom last night?
+✓ Morning weigh-in, log 7-day rolling average
+✓ Walmart run: meal-cycle groceries + brine steaks
+□ Walk 12,500 steps today
+□ Zone 2: 20-min incline
+□ Dance micro-rep: 1–2 songs, one pillar
+□ Contact 3 live conditionals — seller calls
