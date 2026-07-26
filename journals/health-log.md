@@ -83,3 +83,24 @@ Sleep and diet tracking. Exercise lives in workout-log.md.
 **Verdict against the 6/1 pre-committed rule:** *"if YouTube shifted to long-form binge, escalate to Tier 3"* (`references/newport.md`) — **criterion met, unambiguously.** 11h9m/week of pure long-form YouTube, #1 app by 2× margin, #1 reflexive pickup-open. Tier 3 = Newport's full 30-day digital declutter (all optional tech off 30 days, one-shot reset) — Will's call whether to trigger it now given promo-doc/Dan-meeting load, or name a quieter window.
 
 **Separate, cheaper, arguably higher-priority fix:** the Instagram 15-min limit is not functioning as a hard stop — 3× overage means it's being dismissed routinely, not occasionally. This is the same "IG blockers periodically off" relapse named in tonight's Wheel (Mind axis, scored 4) — now quantified. Fixable without a 30-day commitment: delete the app (Tier 1's own original prescription) or move the Screen Time passcode to someone else's control.
+
+## 2026-07-26 — iOS Screen Time, W30 (Jul 19–26) — second weekly read, scored against the pre-registered W30 targets
+
+**Source:** iOS Screen Time "Last Week" view (WZ iPhone), captured Sun 7/26 3:24pm. Second data point in the standing weekly review (`screen-time-review-weekly`). Screenshots also included the Jul 12–19 week (7h26m avg, 52h4m total) — matches the 7/19 entry, confirming week-over-week continuity.
+
+**Headline:** total avg **6h 44m/day** (47h 10m/week), **↓9% vs. W29's 7h26m.** Two consecutive down weeks (↓24% → ↓9%).
+
+**Scored vs. the W30 scorecard (dashboard, pre-registered 7/19):**
+| Metric | W29 | W30 target | W30 actual | Verdict |
+|---|---|---|---|---|
+| Total screen time | 7h26m/day | ≤6h/day | **6h44m/day** | MISS, but trending right (↓42m) |
+| YouTube | 11h9m/wk | ≤6h/wk | **16h43m/wk** | **BIG MISS — up 50%, wrong direction** |
+| Instagram | 5h27m/wk | ~0 | Not in top-3 (below Zoom's 5h42m) | Likely improved — exact number not captured |
+| YouTube first-opens | 85×/wk | ≤35×/wk | not in these screenshots | no data |
+| Pickups | 81/day | ≤65/day | not in these screenshots | no data |
+
+**Category split (weekly):** Entertainment **17h 3m — now the #1 category** (was #2 at 11h32m) · Productivity & Finance 12h 20m (was #1) · Travel 7h 59m (new to top-3; Google Maps 6h57m — navigation-heavy week). Saturday is the clear heaviest day on the chart.
+
+**Most used:** YouTube 16h43m · Google Maps 6h57m · Zoom 5h42m. Instagram out of the top 3 — the first read where it hasn't been #2.
+
+**Honest read for the reflection:** the total is falling but the *composition got worse* — YouTube absorbed the Instagram reduction and then some (+5h34m while IG fell out of the top 3). This is the exact substitution risk the 7/19 declutter design flagged ("nonfiction learning is the classic binge rationalization"). The YouTube discipline mechanism (off home screen, no feed, intentional-access-only) either isn't deployed yet — it was gated on the promo doc shipping — or isn't holding. Also missing for a full score: pickups, first-opens, and the exact IG number (need the scroll-down screens if wanted next week).
