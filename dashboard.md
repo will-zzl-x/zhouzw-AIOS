@@ -4,7 +4,7 @@ Q2 quests · Work main: **re-scoped — edge-hunt decided at the Aug 24 quarterl
 
 ## 📱 PRE-TRIP ACTION LIST (Mon 7/27 – Wed 7/29)
 
-1. **MONDAY: promo doc final 20%.** Scope = the 20%, not a rewrite. This is the week's one work deliverable.
+1. **MONDAY: promo doc final 20%.** Scope = the 20%, not a rewrite. **The W30 synthesis found the content: graft the 7/23 ops artifacts (AZIM classifier backtest · redirectable-finder spec · taker_restrictions.py gate) into Section 2 as L5 scope evidence** — this week's builds ARE the missing evidence (`archives/synthesis/2026-W30.md`, Cross-Domain Bridges).
 2. **Affidavit form from St. Andrew — MUST be in hand before Thursday** (via Elena's Pre-Cana thread). Print it. Michael handoff = Mon 8/3 dinner.
 3. **Festival wardrobe check: 3 themed outfits packed** — black+gold (Fri) · sharp/cool fit for Mafia Royale (Sat — no suit) · streetwear + fresh sneakers (Sun) — **+ Elena's Sat dress. Ship-cutoff has passed; what's not here by Wed gets bought in NYC.**
 4. **Villa Solara asks go out** (split with Elena per Sunday chat; reply-by ~end of Aug).

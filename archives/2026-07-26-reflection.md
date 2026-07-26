@@ -90,7 +90,7 @@ The most consequential and most turbulent area. In sequence:
 **The one thing: the edge question gets answered once, on Aug 24, with evidence.** Until then: no new vertical decisions, no podcast-triggered reopenings. The prep is one artifact — an honest edge inventory built from `context/work-experience.md`.
 
 Supporting moves (pre-trip, Mon–Wed):
-1. **Promo doc final 20% — Monday, defined narrowly.**
+1. **Promo doc final 20% — Monday, defined narrowly.** Content lead from the W30 synthesis: graft the 7/23 ops artifacts (AZIM backtest, finder spec, taker-restrictions gate) into Section 2 as L5 scope evidence.
 2. **Affidavit form from St. Andrew before Thursday** (the Michael handoff depends on it).
 3. **Festival wardrobe: three themed outfits confirmed packed** (+ Elena's dress).
 4. **Passcode handoff to Elena** (completes the declutter mechanism).
