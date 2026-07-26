@@ -2,6 +2,13 @@
 
 Rows moved here from `backlog.md` at Sunday reflections. Newest batch on top.
 
+## Archived 2026-07-26
+
+| id | Title | Area | Quest | Notes | Completed |
+|---|---|---|---|---|---|
+| dan-reachout | Dan sit-down + 24h follow-up | Money | work-main | Meeting held Fri 7/24 (general alignment; account idea assessed → NO standalone, kernel = post-deal growth channel / earned-equity lane). Follow-up sent 7/25. Structure talk deferred to a post-NYC 30-min sit-down. Successor context lives on `edge-inventory-quarterly-prep`. | 2026-07-25 |
+| sedona-class1-conflict | Sedona × Pre-Cana Class #1 conflict check | Wedding | side | RESOLVED 7/19 (Will): no conflict — Class #1 registered, starts September. | 2026-07-19 |
+
 ## Archived 2026-07-19
 
 | id | Title | Area | Quest | Notes | Completed |
