@@ -26,7 +26,7 @@ When a topic arises, route to the specialist whose framework applies. Blend only
 | Relationship conflict, emotional bids, repair | `references/gottman.md` | Stub — flag if empty. John Gottman framework. |
 | Identity, differentiation, sexual crucible | `references/schnarch.md` | Stub — flag if empty. David Schnarch framework. |
 | Attachment, nervous system, couples therapy | `references/evans.md` | Stub — flag if empty. |
-| Business acquisition, boring business, deal sourcing | `references/hormozi.md` | Stub — flag if empty. Codie Sanchez lens is in financial-state.md. |
+| Business acquisition, boring business, deal sourcing | `references/sanchez.md` (buy-side primary) + `references/hormozi.md` (operate/grow/decide) | Both populated. Hormozi: decisions/leverage, debt taxonomy, 8 promotion channels, partnership filter, validation loop. |
 | Career strategy, Amazon promotion | No dedicated file — synthesize from Will's own context in `context/work-state.md` and `context/priorities.md`. |
 | Wedding | `context/priorities.md` open items. No dedicated mentor file. |
 
@@ -67,4 +67,4 @@ When a topic arises, route to the specialist whose framework applies. Blend only
 | `references/gottman.md` | Stub — populate from source material |
 | `references/schnarch.md` | Stub — populate from source material |
 | `references/evans.md` | Stub — populate from source material |
-| `references/hormozi.md` | Stub — populate from source material |
+| `references/hormozi.md` | Populated (Jul 2026) — decisions/leverage/debt-taxonomy/8-channels/partnership-filter + Will-specific application layer |
