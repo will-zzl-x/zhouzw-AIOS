@@ -277,7 +277,10 @@ def mark_done(text: str, sm_id: str, completion_date: str) -> str:
             out_lines.append(line)
             continue
         if cells[0] == sm_id:
-            current_status = cells[4].strip().lower()
+            # Status is cell index 5 (Quest is 4) — matches the column that
+            # _replace_status_in_row() writes. Was reading 4 (Quest), which
+            # never equals "done", so the idempotent branch was dead code.
+            current_status = cells[5].strip().lower()
             if current_status == "done":
                 out_lines.append(line)  # idempotent no-op
             else:
@@ -288,6 +291,79 @@ def mark_done(text: str, sm_id: str, completion_date: str) -> str:
         out_lines.append(line)
 
     # Preserve trailing newline if present.
+    result = "\n".join(out_lines)
+    if text.endswith("\n") and not result.endswith("\n"):
+        result += "\n"
+    return result
+
+
+_WORKED_FLAG_RE = re.compile(
+    r"\s*⚑ worked \d{4}-\d{2}-\d{2} — confirm status at reflection"
+)
+
+
+def _replace_notes_in_row(row: str, new_notes: str) -> str:
+    """Replace the Notes column (cell index 8) of a single table row,
+    preserving the original cell padding."""
+    m = _ROW_RE.match(row)
+    if not m:
+        return row
+    leading, body, trailing = m.group(1), m.group(2), m.group(3)
+    parts = body.split("|")
+    if len(parts) != 9:
+        return row
+    original = parts[8]
+    lead_ws = re.match(r"^\s*", original).group(0)
+    trail_ws = re.search(r"\s*$", original).group(0)
+    parts[8] = f"{lead_ws}{new_notes}{trail_ws}"
+    return f"{leading}{'|'.join(parts)}{trailing}"
+
+
+def flag_worked(text: str, sm_id: str, worked_date: str) -> str:
+    """Stamp a dated "worked" flag into the row's Notes. Does NOT touch Status.
+
+    Why this exists instead of auto-flipping status (2026-07-27): the morning
+    brief surfaces ONE DAY'S SLICE of a strategic move as a Todoist task. A
+    completed task therefore means "today's slice got done", never "the
+    multi-week move is finished" — the evening archiver has no way to tell the
+    difference. Auto-flipping Status silently closed two active rows
+    (dan-reachout 7/22, a day before the meeting; main-street-accelerator 7/24,
+    an ongoing course), each only caught later via a merge conflict.
+
+    Per this repo's doctrine the Sunday reflection owns backlog regeneration
+    (archiving done rows, re-ranking), so status is a reflection-time judgment.
+    This leaves the signal for that review and changes nothing else.
+
+    Idempotent: re-running replaces any existing flag rather than stacking.
+    """
+    flag = f"⚑ worked {worked_date} — confirm status at reflection"
+    out_lines: list[str] = []
+    in_inbox = False
+    changed = False
+    for line in text.splitlines():
+        stripped = line.strip()
+        if stripped.startswith("## Inbox"):
+            in_inbox = True
+        elif stripped.startswith("## "):
+            in_inbox = False
+
+        if changed or in_inbox:
+            out_lines.append(line)
+            continue
+
+        cells = _split_row(line)
+        if cells is None:
+            out_lines.append(line)
+            continue
+        if cells[0] == sm_id:
+            notes = _WORKED_FLAG_RE.sub("", cells[8]).rstrip()
+            new_notes = f"{notes} {flag}".strip() if notes else flag
+            out_lines.append(_replace_notes_in_row(line, new_notes))
+            changed = True
+            continue
+
+        out_lines.append(line)
+
     result = "\n".join(out_lines)
     if text.endswith("\n") and not result.endswith("\n"):
         result += "\n"
@@ -309,6 +385,7 @@ def mark_surfaced(text: str, sm_ids: list[str], today_date: str) -> str:
 __all__ = [
     "parse_backlog",
     "filter_eligible",
+    "flag_worked",
     "mark_done",
     "mark_surfaced",
 ]
