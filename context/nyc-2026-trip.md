@@ -34,7 +34,7 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 ### Thu 7/30 — arrival (no social) ✅ LOCKED
 - **Morning (PHX, MST)** — Lift before departure. Pack protein snacks/bars — homemade or bars.
 - **~10:45am MST** — leave for PHX Sky Harbor. **Eat a real meal at PHX before boarding** — the ATL layover is only 46 min, grab-and-walk, no sit-down.
-- **ATL layover (land A32, depart B01, 46 min):** no lounge — deplaning + the A→B walk already consumes most of the window. If a later bite is needed for the LGA leg, **cooler-case grab only** (yogurt/fruit cup/pre-packed sandwich), not a made-to-order line — Freshens (A26) is directly on the walk out of A; grab-and-go kiosks are scattered right at the B-concourse gates, so a case near B01 needs zero detour. Skip it entirely if the walk runs long.
+- **ATL layover (land A32, depart B01, 46 min):** no lounge — deplaning + the A→B walk already consumes most of the window. If a later bite is needed for the LGA leg, **cooler-case grab only, once actually at Concourse B** (yogurt/fruit cup/pre-packed sandwich) — not a made-to-order line, and not a stop at Freshens (A26) mid-walk through A. Waiting for B keeps it zero-detour: grab-and-go kiosks are scattered right at the B-concourse gates, so a case near B01 costs no extra time at all. Skip it entirely if the walk runs long.
 - **1:15pm MST / 4:15pm ET** — DL796 departs PHX. *(calendar shows ET.)*
 - **11:24pm** — land LGA.
 - **11:30pm–~1:00am** — **Public transit to 416 W 49th #3D**: free Q70 "LaGuardia Link" bus → E train to 50th St (~75–90 min with bags). *Confirm the late-night entry/keys plan with the friend beforehand.*
