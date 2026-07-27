@@ -102,9 +102,22 @@ flat ×52 superseded by the seasonal capture method.
 2. AZIM share-out to Parth/Skip Rice (draft ready:
    `drafts/2026-07-24_azim_cost_avoidance_review.md` — needs $150K/$930K/$1.3M refresh)
 3. Feedback providers: Mario Gonzalez locked; Skip Rice (L7, Intermodal, non-IPEX) target;
-   4 more needed — L5+, non-IPEX, works-with-enough
+   4 more needed — L5+, non-IPEX, works-with-enough. **Send the asks BEFORE the Thu 7/30
+   flight, in parallel with the 20% refinement** — circulation is why the manager cleared it,
+   and provider asks have people-lead-time NYC week would otherwise eat.
 4. 47%-vs-27% Q1-PDF typo heads-up to Matt (Will sends personally)
 5. Team-functions 2-pager for Matt (drafted: `team_functions_2pager_will_section.md`)
+
+## Length / compression rule (Will's call, 7/27)
+
+**5 examples stands, on one condition: per-example density stays Shelby-grade** — i.e., a
+4-example version of this doc would land near Shelby's ~1,953 words. The extra ~550 words
+must be *the fifth example's cost*, not bloat spread across all five. Two consequences:
+- **During the 20% refinement:** tighten within examples toward Shelby-density; do NOT add
+  length anywhere. If any single example runs long, it thins first.
+- **If length is ever challenged** (Matt, feedback provider, bar raiser): the pre-decided
+  answer is *cut one whole example to land at ~Shelby count* — never thin all five into
+  mush. Which example gets cut is decided then, based on whose feedback flagged it.
 
 ## Key precedent facts (from Shelby's approved doc)
 
