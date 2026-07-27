@@ -60,7 +60,7 @@ Done when:
 Done when:
 1. **Career** — Advance/ship the promo doc (hard line Fri Jul 17), or maintain Amazon. Acquisition reps optional on weekdays.
 2. **Training** — Ravage session (if training day) — minimum 3x/week. New block underway (Wk2).
-3. **Nutrition** — Protein-first, ~150g (retention floor). Calories stepping up +150–200/wk **by feel — do NOT log Cronometer** (tracking deliberately dropped). ~2,150–2,200/day as of 7/17. No calorie task in the brief; the nutrition gate is "protein-first, eat a bit more than last week."
+3. **Nutrition** — Protein-first, ~150g (retention floor). Calories stepping up +150–200/wk **by feel — do NOT log Cronometer** (tracking deliberately dropped). **~2,300–2,400+/day as of the 7/26 reflection (W30) — still climbing per the ratified verdict: "runway to add, maintenance not found yet" even at that level.** No calorie task in the brief; the nutrition gate is "protein-first, eat a bit more than last week."
 4. **Steps** — ≥ 12,500
 
 Scale rule (reverse) — **DYNAMIC, trend-based (updated 7/19 per Will, Helms/McDonald school):** the daily morning weigh-in is the only instrument (surfaced as a Daily Consistent, not duplicated here). **Flat-to-+0.5 lb/wk on the 7-day avg is the acceptable reverse-diet trajectory** — that's the target, not a ceiling to hold under. Pause the calorie add only if the trend runs *above* +0.5 lb/wk two weeks running (soft check ~181). This replaces the old fixed ≤180–181 ceiling. Hard floor 168 lb irrelevant this phase. **No morning sleep score — dropped 7/19 (deliberate).**
