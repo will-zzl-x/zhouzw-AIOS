@@ -139,6 +139,10 @@ The graze is ~600–800 cal of mostly refined carbs/sugar in one sitting. You're
 - [ ] **Spongie's Cafe** — sponge cake → Tue graze (*verify address/hours*)
 - [ ] **Eileen's Special Cheesecake** (17 Cleveland Pl, Nolita) → Tue closer
 
+**Grocery stop (protein gaps the itinerary doesn't cover — Thu travel day, Sat/Sun pre-lunch, Wed departure):**
+- [ ] **Target, Manhattan Herald Square** (112 W 34th St, ~2 min from the hotel) — one-stop for both RTD protein shakes (Premier Protein/Fairlife) and Greek yogurt (Good & Gather brand runs cheaper than drugstore singles), plus bananas. Cheapest realistic option without a special trip — regular grocery pricing, not Duane Reade/CVS markup. Fold into Friday's free wander (12:30–2:30pm) or the 11am walk over from the friend's place.
+- [ ] Hard-boiled eggs/string cheese — same Target run if the fridge situation allows (Hilton has an in-room mini-fridge Fri–Sun; friend's place has a full kitchen Thu/Mon/Tue).
+
 **Open / by mood:**
 - [ ] Koreatown BBQ now lives as a named option on the **Monday** dinner list (see Day-by-day) — moved there 7/19 once Fri/Sat dinner slots filled with other options.
 - [ ] (random ideas keep landing here — anything Will floats gets added and clustered to a day)
@@ -161,5 +165,6 @@ The graze is ~600–800 cal of mostly refined carbs/sugar in one sitting. You're
 - [ ] Streetwear fit + sneakers (Sun)
 - [ ] Dance shoes
 - [ ] Cushioned daytime sneakers (broken in)
-- [ ] Foot care: blister plasters/moleskin, electrolyte packets
+- [ ] Foot care: blister plasters/moleskin
+- [ ] Electrolyte packets (Liquid IV/LMNT or similar) — enough for 3 nights (Fri/Sat/Sun socials), per the recovery-basics pacing rule
 - [ ] (standard travel — fill in ~Jul 28)
