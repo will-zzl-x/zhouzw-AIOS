@@ -110,10 +110,18 @@ systematize demand that already exists, it is playing his strongest.*
 - **Stacking / 3–5 year seasons.** The next thing should build on the last or the domain-knowledge
   clock restarts. Supply-chain ops + AI-enabled mechanism-building is the stack already in
   progress; the promo doc is its receipt.
-- **Network as an asset (already held):** Dan (multi-business owner, connector), Richard Lobo
-  (trucking), Jake Dillard (payroll), Jin (real estate portfolio), Mikey Shudoma (bank ops / SBA).
-  **Every one of those is a small-business owner or operator with ops problems** — i.e. the warm
-  channel is not hypothetical, it's five named doors.
+- **Network as an asset — CORRECTED 7/27 (was overstated):** the earlier draft claimed "five
+  named small-business-owner doors." Real picture is thinner and skews one domain:
+  - **Dan** — multi-business owner + connector. Real, but his vertical (finance) was just dropped,
+    and the whole point is Will's *own* pursuit. Still the best single connector door.
+  - **Richard Lobo** — **real estate primarily** (not the ops-service owner the draft implied).
+  - **Jin** — real estate portfolio.
+  - **Jake Dillard** — **NOT a business owner** (payroll-adjacent employee). Not a warm-channel door.
+  - **Mikey Shudoma** — bank ops / SBA: a *financing* contact, not an ops-problem customer.
+  - **Net: the warm channel is ~1 connector (Dan) + two real-estate people, NOT five service-biz
+    owners.** This materially weakens candidate #1's "demand via warm channel" premise — flag for
+    Aug 24. It also surfaces **real estate** as the one domain where Will has *two* warm doors
+    (see candidate #5 below).
 - **Elena.** CFO/COO profile (modeling, technical reporting, program management, process docs, QC).
   Complements the supply-side edge; does not fill the demand-side gap.
 
@@ -146,6 +154,17 @@ productized. Fastest validation, most capped, least stacking value.
 *Honest risk:* trades time for money — structurally opposed to the truly-absentee end state in
 `context/acquisition.md`.
 
+**5. Real-estate-adjacent ops service (property mgmt / HOA mgmt), warm-introduced.**
+*Edge fit: medium-high; added 7/27 after the network correction.* Real estate itself is a poor
+fit (capital-heavy, and it's Jin/Richard's edge not Will's) — BUT property management and HOA
+management are **ops-heavy service businesses** (dispatching, vendor coordination, quote-to-invoice
+— the exact bottlenecks `work-experience.md` names), and **HOA management is already in the 620
+leads at 114.** This is the one shape that marries the supply-side edge to Will's *only* real warm
+channel (the two real-estate doors), for either a buy (#2 flavor) or a systematize-their-ops
+service (#1 flavor that finally has a warm intro).
+*Honest risk:* still their domain not his; needs a real conversation with Jin/Richard to know if
+there's a there there; could just be proximity, not opportunity.
+
 **4. Anything demand-gen-first** (content, audience, e-commerce, media).
 *Edge fit: lowest — fails the master filter by construction.* Recorded here so it doesn't get
 re-proposed as novel. Dan's media instinct belongs downstream of an operating business, as the
@@ -167,6 +186,22 @@ growth channel (Hormozi #2 layered on #5/#8), not as the venture itself.
 4. **Time-budget honesty.** `work-experience.md` says 10–15 hr/wk post-close and flags Q3–Q4 2026
    as the promo window where acquisition activity must not compromise day-job behavior. Whatever
    Aug 24 picks has to fit *that* constraint, not an idealized one.
+
+## Addendum — pain-point interview (7/27, live session)
+
+The 7/27 edge session ran Hormozi's *"what problems have you personally suffered?"* question. Surfaced:
+
+- **Fat loss** — deeply lived AND solved-with-data (NYC cut −7.7 lb textbook pace, reverse diet, years of weigh-in history, canary e1RM tracking, Schofield internalized). Real domain knowledge.
+- **Meal prep / planning** — built TWO systems: the AIOS deterministic cycle scripts + **EveryBite** (the app).
+- **Acquisition deal-flow tooling** — suffered *this month* (no persistent saved search, manual re-querying — the 7/23 process gap).
+
+**EveryBite, assessed honestly.** Repo `github.com/will-zzl-x/meal-planner` (Streamlit/SQLite; the app the meal-planning README already flags "deprioritized"). **Traction: zero — no one else has used or paid for it. Original scope: B2C.** Will's own verdict: *"not good enough vs. my existing workflows — and the workflows aren't good enough either."* He is the most motivated, most expert possible user, built two versions, and prefers neither to alternatives — failing Hormozi's LOWEST validation rung ("the builder prefers it") before "a stranger pays." Meal-planning is also a known startup graveyard (savage churn). **Three strikes on EveryBite-as-B2C-app: consumer/demand-side (the cold zone), graveyard economics, not-good-enough-for-the-builder.**
+
+**Why this reinforces the master filter instead of adding a new option:** a consumer fat-loss/meal app is **demand-side by construction** — its whole problem is manufacturing demand from strangers (marketing 2/10) around an offer built from scratch (4/10). It fails the same filter, for the same reason, as the social-account idea. That's now *three* independent instruments landing on the same verdict (deal box, capability file, master filter).
+
+**The crux this names — passion vs. edge.** Will's *generative ideas* skew passion/consumer/creative (webnovel → parked; EveryBite; fat loss). His *demonstrated edge* is B2B/ops/systems (the 8–9/10s). These are different businesses, and Hormozi's "use what you got" is about **competence, not passion.** Finite-tries rule: on the first real go, bet the edge (highest probability); earn the passion play later, once you don't need it to hit. **This is the single decision Aug 24 must make consciously**, not the vertical mechanics.
+
+**What survives for the fat-loss domain (so the interest isn't just killed):** if fat-loss/meal stays in play at all, the edge-compatible shape is **candidate #3 re-pointed B2B** — sell the planning *system/engine* to coaches/gyms/dietitians as a tool (fewer customers, higher price, routes through the 9/10 negotiation + trust-building edge and the warm channel) rather than to consumers via app-store marketing. That rescues the domain Will actually cares about by swapping the demand-side go-to-market for a supply-side one. Still lower edge-fit than candidates #1/#2; logged, not elevated. **Open for the quarterly:** would Will rather (a) bet the pure edge play and keep fitness as an untainted personal keystone, or (b) consciously pursue the passion play knowing it fights his weakest lines + risks entangling training-as-mental-health with income pressure?
 
 ## Anti-oscillation clause
 
