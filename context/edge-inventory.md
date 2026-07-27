@@ -168,6 +168,22 @@ growth channel (Hormozi #2 layered on #5/#8), not as the venture itself.
    as the promo window where acquisition activity must not compromise day-job behavior. Whatever
    Aug 24 picks has to fit *that* constraint, not an idealized one.
 
+## Addendum — pain-point interview (7/27, live session)
+
+The 7/27 edge session ran Hormozi's *"what problems have you personally suffered?"* question. Surfaced:
+
+- **Fat loss** — deeply lived AND solved-with-data (NYC cut −7.7 lb textbook pace, reverse diet, years of weigh-in history, canary e1RM tracking, Schofield internalized). Real domain knowledge.
+- **Meal prep / planning** — built TWO systems: the AIOS deterministic cycle scripts + **EveryBite** (the app).
+- **Acquisition deal-flow tooling** — suffered *this month* (no persistent saved search, manual re-querying — the 7/23 process gap).
+
+**EveryBite, assessed honestly.** Repo `github.com/will-zzl-x/meal-planner` (Streamlit/SQLite; the app the meal-planning README already flags "deprioritized"). **Traction: zero — no one else has used or paid for it. Original scope: B2C.** Will's own verdict: *"not good enough vs. my existing workflows — and the workflows aren't good enough either."* He is the most motivated, most expert possible user, built two versions, and prefers neither to alternatives — failing Hormozi's LOWEST validation rung ("the builder prefers it") before "a stranger pays." Meal-planning is also a known startup graveyard (savage churn). **Three strikes on EveryBite-as-B2C-app: consumer/demand-side (the cold zone), graveyard economics, not-good-enough-for-the-builder.**
+
+**Why this reinforces the master filter instead of adding a new option:** a consumer fat-loss/meal app is **demand-side by construction** — its whole problem is manufacturing demand from strangers (marketing 2/10) around an offer built from scratch (4/10). It fails the same filter, for the same reason, as the social-account idea. That's now *three* independent instruments landing on the same verdict (deal box, capability file, master filter).
+
+**The crux this names — passion vs. edge.** Will's *generative ideas* skew passion/consumer/creative (webnovel → parked; EveryBite; fat loss). His *demonstrated edge* is B2B/ops/systems (the 8–9/10s). These are different businesses, and Hormozi's "use what you got" is about **competence, not passion.** Finite-tries rule: on the first real go, bet the edge (highest probability); earn the passion play later, once you don't need it to hit. **This is the single decision Aug 24 must make consciously**, not the vertical mechanics.
+
+**What survives for the fat-loss domain (so the interest isn't just killed):** if fat-loss/meal stays in play at all, the edge-compatible shape is **candidate #3 re-pointed B2B** — sell the planning *system/engine* to coaches/gyms/dietitians as a tool (fewer customers, higher price, routes through the 9/10 negotiation + trust-building edge and the warm channel) rather than to consumers via app-store marketing. That rescues the domain Will actually cares about by swapping the demand-side go-to-market for a supply-side one. Still lower edge-fit than candidates #1/#2; logged, not elevated. **Open for the quarterly:** would Will rather (a) bet the pure edge play and keep fitness as an untainted personal keystone, or (b) consciously pursue the passion play knowing it fights his weakest lines + risks entangling training-as-mental-health with income pressure?
+
 ## Anti-oscillation clause
 
 This file is the input to one decision on one date. Until Aug 24: no vertical decisions, no
