@@ -20,6 +20,42 @@ from backlog import filter_eligible, parse_backlog
 MODEL = "claude-haiku-4-5-20251001"
 TZ = ZoneInfo("America/Phoenix")
 
+# Trip-mode windows: (start, end inclusive, label). During a window the brief
+# suspends normal gates/moves per the dashboard's trip-mode section — the
+# window is checked deterministically here (zero tokens) and an override
+# instruction block is injected into the prompt. Remove entries after the trip.
+TRIP_WINDOWS = [
+    (date(2026, 7, 30), date(2026, 8, 5), "NYC trip (ESM festival)"),
+]
+
+
+def build_trip_mode_section(today: date) -> str:
+    """Return a trip-mode override block if today falls in a trip window, else ''."""
+    for start, end, label in TRIP_WINDOWS:
+        if start <= today <= end:
+            return (
+                f"# TRIP MODE — {label} ({start.strftime('%b %d')}–{end.strftime('%b %d')}) — "
+                "OVERRIDES Rules 1–3\n\n"
+                "Today is a trip day. The dashboard's 'Daily Consistents — TRIP-MODE "
+                "OVERRIDES' section GOVERNS today's brief:\n"
+                "- Rule 1 (daily-standard gates): SUSPENDED. Do NOT emit step-target, "
+                "Z2, calorie/protein-tracking, or mandatory-weigh-in tasks. Training "
+                "is opportunistic, not a gate.\n"
+                "- Rule 2 (Daily Consistents): emit ONLY the items listed under "
+                "'Still on, trip-flavored' in the dashboard's trip-mode section "
+                "(phone outside bedroom · solo-space rep · protein-first eating), "
+                "plus anything the dashboard marks as a specific to-do for today's "
+                "date (e.g. Broadway lottery entries, affidavit handoff).\n"
+                "- Rule 3 (Major Moves): SUSPENDED — emit ZERO strategic moves; the "
+                "dashboard's post-trip queue explicitly says do not surface during "
+                "the trip. Ignore the strategic_moves list entirely today.\n"
+                "- Rule 11 (carried tasks): suspended — carried flags don't apply "
+                "to trip days.\n"
+                "Result: a short brief, typically 3–5 tasks, drawn from the trip-mode "
+                "section and the day's itinerary anchors in state.md/dashboard.md.\n"
+            )
+    return ""
+
 SYSTEM_PROMPT = """You are Will's AIOS daily brief generator.
 
 Your job: produce today's daily moves as concrete Todoist task names — typically 5–8.
@@ -32,7 +68,7 @@ Rules:
    ALWAYS emit EVERY required target from daily-standard.md's current-phase "Done when" gates as its own task. On a cut workday this is the training session, protein target, calorie target, and the 10k step target — each as a distinct task. Lifting/training and steps are ALWAYS separate tasks; never merge them (no "Train + 10k steps").
 
 2. DAILY CONSISTENTS (mandatory if still open, always emit, never rotate, sm_id: null) —
-   ALWAYS emit EVERY item from dashboard.md's "## Daily Consistents (every day, do not rotate)" section that is still open. These are cross-area daily gates: BJJ booking until done, Sunday paste habit on Sundays only, Elena presence beats, friend cadence when due, Zone 2 cardio, etc. Apply day-of-week constraints when the consistent specifies one (e.g. a "Sunday paste" item only fires on Sundays). If the consistent is already marked complete in dashboard.md or shows up as done in today's daily-log.md, omit it.
+   ALWAYS emit EVERY item from dashboard.md's "## Daily Consistents" section (the header may carry a suffix, e.g. "(every day, do not rotate)" or "— TRIP-MODE OVERRIDES"; match on the "Daily Consistents" heading, and honor any suspended/still-on sub-structure the section declares) that is still open. These are cross-area daily gates: BJJ booking until done, Sunday paste habit on Sundays only, Elena presence beats, friend cadence when due, Zone 2 cardio, etc. Apply day-of-week constraints when the consistent specifies one (e.g. a "Sunday paste" item only fires on Sundays). If the consistent is already marked complete in dashboard.md or shows up as done in today's daily-log.md, omit it.
 
 3. MAJOR MOVES (1–2 items, sm_id REQUIRED, anti-repeat applies) —
    THEN add 1–2 Major Moves drawn ONLY from the strategic_moves list provided in the user message. That list is already pre-filtered for eligibility (status open/in-progress, gate satisfied, all blockers done) — do not invent moves and do not pull from elsewhere. Pick by, in order:
@@ -181,12 +217,15 @@ def generate_brief(aios_context: dict[str, str]) -> list[dict]:
     client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     today = datetime.now(TZ)
 
+    trip_mode_section = build_trip_mode_section(today.date())
     strategic_moves_section = build_strategic_moves_section(
         aios_context.get("backlog", ""), today.date()
     )
     carried_section = build_carried_tasks_section(aios_context.get("daily_log", ""))
 
     user_msg = f"""Today: {today.strftime("%A, %B %d, %Y")}
+
+{trip_mode_section}
 
 {strategic_moves_section}
 
