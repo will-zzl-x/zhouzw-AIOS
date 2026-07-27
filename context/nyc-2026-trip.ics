@@ -274,8 +274,10 @@ BEGIN:VEVENT
 UID:nyc2026v2-28@zhouzw-aios
 DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260803T121500
-DTEND;TZID=America/New_York:20260803T130000
-SUMMARY:🥯 Bagel + lox in Hell's Kitchen (recovery-light)
+DTEND;TZID=America/New_York:20260803T131500
+SUMMARY:🍔 Burger Joint (behind the curtain, Thompson Central Park)
+DESCRIPTION:119 W 56th — unmarked counter inside the hotel lobby, look for the small neon burger sign. ~$12-15, cash-friendly. Sits between the Vessel and Columbus Circle: 8-min walk to the park entrance, no backtrack. Line moves fast.
+LOCATION:Burger Joint, 119 W 56th St
 END:VEVENT
 BEGIN:VEVENT
 UID:nyc2026v2-29@zhouzw-aios

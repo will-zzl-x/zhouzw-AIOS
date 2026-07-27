@@ -72,11 +72,11 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 - **8:00–10:45pm** — nap (the one horizontal block that stays — it's what makes the last social good).
 - **~12:00am–by feel** — NYC Street Style social @ Marquis. Fresh sneakers = easiest night on the feet; ride it as long as it's good.
 
-### Mon 8/3 — checkout · Vessel · bagels · Central Park · Michael dinner (recovery day) ✅ LOCKED
+### Mon 8/3 — checkout · Vessel · burger · Central Park · Michael dinner (recovery day) ✅ LOCKED
 - **~10:00–11:00am** — sleep in (3rd late night), wake at the Hilton.
 - **11:00–11:15am** — **checkout Hilton, bags → 416 W 49th**.
 - **11:30am–12:15pm** — **The Vessel, Hudson Yards** — Elena's pick, close to the hotel. Go take a look.
-- **12:15–1:00pm** — **bagel + lox in Hell's Kitchen** (recovery-light route — grab local, no UWS schlep). *(Best Bagel & Coffee, W 35th, if not already hit Friday — or any solid HK spot.)*
+- **12:15–1:15pm** — **Burger: Burger Joint** (119 W 56th, inside the Thompson Central Park lobby — *literally behind a curtain*, unmarked but for a small neon burger sign). ~$12–15, cash-friendly, no-frills counter in a luxury hotel — NYC-unique in a way Phoenix can't copy. **Geography is why it lands here:** Vessel (34th/11th) → 56th St → **8-min walk to Columbus Circle** → into the park. Clean south-to-north line, no backtrack. *Swapped in 7/27 — this slot was a second bagel, repeating Friday's Best Bagel; the burger removes the trip's only duplicated meal and a real burger is the right call on the post-3rd-social recovery day.* **Honest note: it's famous** (tourist lists know it) — but it's cheap, genuinely good, and locals eat there; that's a different animal from a Times Square trap. Peak line moves fast. *Fallback if the line is absurd or you want lower-profile: ask Michael for a Hell's Kitchen rec at dinner — he's the local.*
 - **1:00–3:00pm** — **Central Park**, enter at **Columbus Circle** (12 min from the friend's place). Gentle loop — Sheep Meadow / The Mall–Literary Walk / the Pond. **Skip Bethesda Terrace (did it last trip); no rowboat.** ~easy, shade + benches.
 - **3:30–5:30pm** — back to the friend's place, rest/shower.
 - **6:30–8:30pm** — **Dinner with Michael — AFFIDAVIT HANDOFF (bring the printed form).** Michael picks; seed options: **K-town BBQ** (protein-forward, grilled meats + banchan) · **Empanada Mama** (Latin, closest to the apartment, cheap/casual) · **Marseille** (French-Med, a nicer sit-down for a real catch-up) · **Totto Ramen** (iconic HK ramen). No social after — real hangout. (No Broadway — dark Mondays.)
@@ -131,7 +131,8 @@ The graze is ~600–800 cal of mostly refined carbs/sugar in one sitting. You're
 *Standing rule: good value, not touristy — for everything. Verify hours/addresses the week of.*
 
 **Placed:**
-- [ ] **Bagels + lox → Absolute Bagels**, 2788 Broadway (UWS) — Mon breakfast before Central Park. Cash only, cheap, no markup. *(HK-adjacent fallback if skipping the UWS trek: Best Bagel & Coffee, W 35th.)*
+- [ ] **Burger → Burger Joint**, 119 W 56th (inside the Thompson Central Park lobby, behind the curtain) — **Mon 12:15, between the Vessel and Central Park.** ~$12–15, cash-friendly, counter-service. The trip's burger slot. *(Replaced a second bagel here 7/27 — Friday's Best Bagel covers bagels; Absolute Bagels/UWS was already dropped as too far a schlep.)*
+- [ ] ~~Bagels + lox → Absolute Bagels (UWS)~~ — **dropped**; bagels are covered Friday at Best Bagel & Coffee, W 35th.
 - [ ] **Dim sum → Golden Unicorn** (18 East Broadway) or **Dim Sum Go Go** (5 East Broadway) — Tue ~12:30 lunch anchor, Chinatown. Local/value; Nom Wah is the touristy alt.
 - [ ] **Chinese noodles → Xi'an Famous Foods** (nearest Midtown location) as a fast festival-day lunch — biang-biang / cumin-lamb, cheap, quick. *OR* **Tasty Hand-Pulled Noodles** (1 Doyers St) as the Tuesday Chinatown swap-in for dim sum (pick one, not both, that day).
 - [ ] **Mei Lai Wah** (64 Bayard St) — pineapple bun w/ roast pork → Tue graze
