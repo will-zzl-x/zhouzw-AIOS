@@ -1,79 +1,47 @@
-# Dashboard — Week of July 19, 2026
+# Dashboard — Week of July 26, 2026 (NYC TRIP WEEK: fly Thu 7/30, return Wed 8/5)
 
-## 📱 MID-WEEK SNAPSHOT — updated Fri 7/24 (phone action list; supersedes the 7/19 "Major Moves" below where they conflict)
+Q2 quests · Work main: **re-scoped — edge-hunt decided at the Aug 24 quarterly; no vertical decisions before it** · Life main: point of origin — **the festival IS the quest this week** · Phase: reverse diet ends Wed 7/29 → **NYC loose maintenance** · Promo doc: manager-cleared, **final 20% = Monday's top priority** · Themes: externalize triggers · proof over consumption (stress-tested this week — held) · let it land
 
-**Live actions, most time-sensitive first:**
-1. **TONIGHT (Fri) — Walmart grocery run** for the pre-NYC meal cycle. List on phone: `meal-planning/cycles/2026-07-25-cook-plan.md`. Buy: buns · slicing tomato · roma ×2–3 · arugula · marinara · crushed tomatoes · corn flakes · mozzarella · Parmigiano. (Costco: rotisserie.) **Pull the 2nd chicken pack + dry-brine the steaks tonight.**
-2. **Promo doc — IN PROGRESS (Will actively working it).** Still the standing top work priority; ship it.
-2a. **THIS WEEKEND — Dan 24h follow-up email:** re-anchor, not recap. (a) "Right weapon, wrong order" frame on the retired-account idea; (b) his media instinct = the earned-equity lane AFTER deal #1; (c) attach the 3 live Phoenix-metro conditionals as proof the pipeline's live. (`context/dan-pipeline-brief.md` + shortlist.)
-2b. **MONDAY AM — first contact on the 3 conditionals (before NYC or it's a 10-day cold gap):** East Valley EA BW2396896 → asking price + seller-note appetite (one number resolves the strongest lead) · Gilbert → SDE + why 0.6x · Mesa → SDE + recurring-vs-seasonal split. **Double-counts as the broker-conversation win condition (need 2+, have 0).** No more search reps until these calls happen — the constraint moved from finding to contacting.
-3. **Sat/Sun — cook the cycle** per the cook-plan (Sat order: egg bake → sandwiches → rotisserie rice/veg → parm + 3 sides; Sun: squash bolognese → steak).
-4. **Enter Broadway lotteries STARTING SAT 8/1** (open 2–3 days out) — TodayTix + show sites; check HipTix (you qualify, under-35). Details: `context/nyc-2026-trip.md`.
-5. **NYC pre-trip by Tue 7/29:** affidavit form from St. Andrew (via Elena) → text Michael → lock 3 festival outfits + Elena's Sat dress (~Jul 27 ship cutoff) → order Elena's flowers (~Jul 27 delivery). *(Sahil dropped 7/24 — not in NYC during the trip.)*
-6. **Digital declutter — start once promo doc ships:** delete IG 30 days, Elena holds Screen Time passcode, YouTube off home screen.
+## 📱 PRE-TRIP ACTION LIST (Mon 7/27 – Wed 7/29)
 
-**Excess-capacity queue (this week, in order — pull from the top when a window opens):**
-- **LOI template draft** — the LAST Learn-phase win-condition box (evals 9/12 ✓, broker convos = Monday's calls). Draft against the deal box: $150–300k · seller note ≥50% · DSCR ≥2.0× · **limited/no personal guarantee** · revenue-retention forgiveness/offset clause · 90-day transition. Having it ready means if East Valley comes back right, you respond in days, not weeks — and the Aug 31 quest closes a month early.
-- **Dance reps, daily + slightly longer** — ESM festival in 6 days; under-repped by your own read; W30 floor ≥5/7. The highest-ROI use of literal spare minutes this week.
-- **Deal-flow infra (30–60 min once):** set persistent saved searches/alerts (BizBuySell/BizQuest/APE — Phoenix metro + deal box baked into the query) + re-read the Frazier walls-down script before Monday's calls.
-- **Main Street Accelerator module w/ Elena** — one evening session, shared-time slot.
-- **NOT this week:** Liftosaur API retry, auto-archive bug, synthesis diagnosis — infra parks until post-NYC. And don't fill every evening: the trip is a 3-night sleep deficit by design; bank sleep Mon–Wed.
+1. **MONDAY: promo doc final 20%.** Scope = the 20%, not a rewrite. **The W30 synthesis found the content: graft the 7/23 ops artifacts (AZIM classifier backtest · redirectable-finder spec · taker_restrictions.py gate) into Section 2 as L5 scope evidence** — this week's builds ARE the missing evidence (`archives/synthesis/2026-W30.md`, Cross-Domain Bridges).
+2. **Affidavit form from St. Andrew — MUST be in hand before Thursday** (via Elena's Pre-Cana thread). Print it. Michael handoff = Mon 8/3 dinner.
+3. **Festival wardrobe check: 3 themed outfits packed** — black+gold (Fri) · sharp/cool fit for Mafia Royale (Sat — no suit) · streetwear + fresh sneakers (Sun) — **+ Elena's Sat dress. Ship-cutoff has passed; what's not here by Wed gets bought in NYC.**
+4. **Villa Solara asks go out** (split with Elena per Sunday chat; reply-by ~end of Aug).
+5. **Passcode → Elena** (if not done at the Sunday chat) — completes the declutter mechanism.
+6. **Wed night: pack** (affidavit form printed · dance shoes · cushioned daytime sneakers · foot care/electrolytes · protein snacks for the flight). **Thu: lift AM → eat at PHX → DL796 1:15pm.**
+7. **Broadway lotteries: start entering SAT 7/31** (TodayTix + show sites, for Tue-night shows; HipTix if a Roundabout show is running — Will qualifies at 25).
 
-**Status since 7/19:** Dan meeting was Fri 7/24 (confirm follow-up email sent). Deal evals at 9/12 ✓ (exceeded). NYC itinerary fully locked — `.ics` ready to import (`context/nyc-2026-trip.ics`, 45 events). Meal cycle locked.
+## Daily Consistents — TRIP-MODE OVERRIDES (Jul 30–Aug 5)
 
----
+**Suspended for the trip:** step gate (socials = the cardio) · Z2 (suspended + due redesign post-NYC) · morning weigh-in becomes OPTIONAL (weigh if convenient; judge nothing until ~Aug 6) · Sunday paste (skip 8/2; resume 8/9).
+**Still on, trip-flavored:**
+- **Phone outside bedroom** — works in hotels too; keep the streak.
+- **Dance micro-rep → the festival itself** (3 classes + 3 socials = the biggest dance week of the year; nothing extra needed).
+- **Solo-space rep** — one 15–30 min block daily still applies on a couples trip (a solo coffee walk, a museum wander apart, packing-free morning block). Unannounced, as always.
+- **Protein-first eating, untracked** — loose maintenance; enjoy the food list, anchor each day with protein.
+- **No intimacy talk at night** (hard rule) · no scoreboard-watching — the festival is live-fire for the quest; do it, don't grade it.
 
-Q2 quests · Work main: deal-ready by Aug 31 (**9/12 evals ✓ — ahead; keep the last 3 + LOI template**) · Life main: point of origin (MIXED — rotation live, Z2/dance need anchors) · **Reverse diet Jul 12–29 (dynamic trend steering)** · **Promo doc — in progress, top priority** · NYC Jul 30 (pre-trip lane by 7/29) · Themes: externalize triggers · proof over consumption · let it land (**therapist deprioritized with intention 7/19 → Aug 24 quarterly revisit**)
+### Reference-only
+- **Canary re-anchored at 155** (Larsen 155×5,6,4 @9 on 7/25). Next test: first Torso A home (~Aug 7+).
+- **Scale steering (ratified 7/26):** fixed calorie target, judge only the 7-day trend — off-plan noise is constant and self-corrects. Post-trip: expect a water/glycogen bounce like Banff; judge ~Aug 14, not Aug 6.
+- **Declutter live:** IG deleted · YouTube off home screen · W31 screen-time read = the substitution test (YouTube was 16h43m ↑50% pre-countermeasures).
+- **Acquisition: NO decisions until Aug 24.** The 3 conditional leads are logged, not dead — contactable if Dan re-engages. Edge-inventory prep is the only sanctioned acquisition work.
 
-## Daily Consistents (every day, do not rotate)
+## W31 Scorecard — TRIP METRICS (grade at the ~Aug 9 reflection; no reflection Sun 8/2)
 
-These fire daily until status changes. Brief always emits these alongside the daily-standard.md gates — never rotated by anti-repeat. Gate-clear = surfaces.
+1. **Promo doc final 20% shipped before the flight** (binary — the week's one deliverable).
+2. **Affidavit handed to Michael** (binary — the trip's one errand).
+3. **Festival: danced all 3 socials, all 3 classes attended** (the life-main live-fire).
+4. **Solo-space ≥4 of 7 trip days** (the quest floor travels).
+5. **Phone-outside-bedroom streak holds all week.**
+6. **Broadway seen Tuesday** (any ticket path counts).
+7. **No acquisition decisions made on the trip** (inverse metric — podcasts on the flight don't reopen the vertical).
+8. *Not scored:* weight, steps, Z2, dance-micro-reps, screen-time targets (trip mode). W32 re-registers home metrics.
 
-- **Phone check-off (MORNING, retrospective):** *"Did the phone charge outside the bedroom last night?"* — check if yes, leave if no. The behavior happens at bedtime; verification the next morning. (`references/newport.md`)
-- **Step target 12,500/day, no exceptions** — sources still unaudited; treat as live gate.
-- **Morning weigh-in, every day** — reverse diet runs tracking-free; the scale is the only instrument. **Steering is now trend-based (7/19):** flat-to-+0.5 lb/wk on the 7-day avg is fine; two weeks above that pauses the calorie add. W29 avg: 179.8. *(Sleep score dropped 7/19 — deliberate.)*
-- **Zone 2 — FIXED SLOTS, not found time (redesigned 7/19 after 0-rep week):** Sunday keystone (bike + phone, build 35 → 60–90 min, anchor: right after the weekly reflection/paste) + **Tue AND Thu 20-min** (off-leg days). Streak restarts today — protect the restart, not the number.
-- **Dance micro-rep, daily — THE life-main move of the week (Will 7/19: under-repped, carries with more weight):** anchored, not scheduled — **post-lift (music already on) or while dinner cooks.** 1–2 songs: private-lesson homework (body-rolls + transitions) first, then the day's pillar (FUNDAMENTALS · FOOTWORK-styling · MUSIC · FREEDOM TO PLAY). Binary check — did the rep happen, never grade the dancing. Freestyle doubles as a solo-space rep. (`references/dance-practice.md`)
-- **Solo-space rep: LIVE (week 2)** — one 15–30 min unannounced block daily from the rotation: silent treadmill walk / violin / meditation / freestyle bachata. Vary activity AND timing. Anti-goals hold: no dread, no scoring, no reaction-watching, no dynamic-talk with Elena. (`goals/desire-polarity.md`)
-- **Sunday paste habit** (Sundays only) — 5-min weight + sessions + steps. (Fired 7/19 ✓ — weight sheet + Liftosaur CSV both ran this reflection.)
-- **Friend cadence:** next touchpoint due ~Jul 26 — one reach-out this week; NYC (Michael + festival) covers the week after.
+## Major Moves (post-trip queue — do not surface during the trip)
 
-### Reference-only (structurally handled — do NOT surface as Todoist tasks)
-- **Canary (Jul 19 read): RECOVERED 🟢** — Larsen 145×8,7,6 vs 145×6,4,4 on 7/11; pulls strong. **Next Torso A: test 155, re-anchor threshold to the new block.**
-- **Reverse diet parameters:** ~2,150–2,200/day by feel as of 7/17, stepping +150–200/wk; dynamic trend rule above. Hard floor 168 irrelevant this phase. NYC = loose maintenance Jul 30.
-- **No intimacy talk at night** (hard rule). **Desire trend: strongest signal to date (7/12) — do not start watching for it.**
-- **Instrumentation watch:** completion-sync bug fixed 7/19 and **the lost 7/12–7/18 data backfilled (36 completions, PR #36)** — week recovered. Weekly synthesis still missing since W24 — diagnosis is an AIOS-infra backlog row (`synthesis-gap-diagnosis`), not a daily task.
-
-## Major Moves This Week
-
-Top of `backlog.md`. Brief picks 1-2 strategic per day from this rotation pool.
-
-1. **SHIP PROMO DOC — TODAY, Sunday Jul 19.** Fourth slip ended the deadline approach: the doc ships before any other move on this list opens. (Will's own call, 7/19 morning.)
-2. **Deal-eval reps: 3–4 logged before Friday** — the work-main counter reads 0/12+. Saturday keystone + weekday slots; saved search in the deal-#1 box → three-question test → `/deal-eval` → log. Walk into the Dan meeting with reps on paper. **#2 priority after the doc (Will).**
-3. **Dan: text Wednesday Jul 22 → sit-down Friday Jul 24 early evening.** Packet is done — stop refining it. The meeting is the deliverable.
-4. **NYC pre-trip lane (by Jul 29, list: `context/nyc-2026-trip.md`):** (a) get Affidavit of Free Status form/requirements from St. Andrew so the Michael ask is executable; (b) heads-up text to Michael; (c) **festival wardrobe call — ESM is during the trip:** buy pre-flight or plan the NYC shopping stop; (d) haircut plan (photograph for Phoenix barber).
-5. **Sedona × Pre-Cana Class #1 conflict check (with Elena, before registering):** Class #1 starts Sep 11 — same day Sedona starts (Sep 11–14). Confirm actual session dates against the trip.
-6. **Flowers: order this week for ~week of Jul 28 delivery** — ordinary-day, no occasion, no commentary.
-7. **Marriage Prep Inventory — Deacon Ramsey contact** (couple task, Elena likely coordinates; complete by Aug).
-8. **Digital minimalism (screen-time check ran 7/19, Tier 3 trigger MET):** (a) decide the 30-day declutter — run now or defer past the crunch; (b) **fix the IG 15-min override this week regardless** (delete app or move the passcode — ~3× overage); (c) confirm the going-forward screen-time review mechanism.
-9. **Z2 restart:** Sunday rep today post-reflection; Tue + Thu 20-min slots on the calendar.
-
-## W30 Scorecard — pre-registered 7/19, grade at the Jul 26 reflection
-
-**Headline three (all green = week succeeded; any red = first topic next Sunday):**
-1. Promo doc SHIPPED (binary).
-2. Deal evals logged ≥3 (`journals/acquisition-log.md`).
-3. Dan sit-down held Fri + 24h follow-up email sent (binary).
-
-**Screen time (Will posts the same iOS "Last Week" view; baseline → target):**
-| Metric | W29 | W30 target |
-|---|---|---|
-| Instagram | 5h27m/wk | ~0 (≤10 min browser incidental) |
-| YouTube total | 11h9m/wk | ≤6h/wk |
-| YouTube first-opens | 85×/wk | ≤35×/wk ← truest reflex-break metric |
-| Total screen time | 7h26m/day | ≤6h/day |
-| Pickups | 81/day | ≤65/day |
-
-**Habit floors:** Z2 = 3 reps (Sun keystone + Tue/Thu) · dance ≥5/7 · solo-space ≥5/7 · weigh-ins 7/7 · training ≥3 (running 6).
-
-**Scale pre-commitment (at 2,300–2,400 cal):** 7-day avg anywhere in **179.5–181.5 = pass**; up to ~+1 lb this week is EXPECTED glycogen/food-volume, not fat, not failure. The only failure mode is refusing the calorie add because the scale ticked up.
+1. **Aug 24 quarterly prep: the edge inventory** — `context/work-experience.md` + Hormozi edge-test → "where does Will have edge?" The quarter's biggest decision, made once.
+2. **Z2 redesign** (two failed slot-designs; needs a different anchor entirely) — at the 8/9 reflection.
+3. **Post-NYC resets:** meal-cycle deplete + fresh inventory true-up · flowers timing revisit · Roth one-time cleanup at Merrill (settlement cash, DRIP, consolidate) · weekly-synthesis gap diagnosis (work laptop).
+4. **W31 screen-time read** — the substitution test.

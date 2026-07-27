@@ -19,7 +19,16 @@ Updated each time a phase changes or a quarterly review runs.
 
 ## Phase Definitions
 
-**CURRENT PHASE: Reverse Diet (Jul 12 – Jul 29)** — use the "Reverse Diet — Work Days / Weekends" gates below. The Vacation, Maintenance, and NYC Cut blocks are past; kept only as templates for future phases.
+**CURRENT PHASE: Reverse Diet FINAL DAYS (through Wed Jul 29) → NYC TRIP MODE (Thu Jul 30 – Wed Aug 5).** Mon–Wed use the "Reverse Diet — Work Days" gates below; **Thu 7/30 onward use the NYC Trip Mode block.** Resume standard gates Aug 6 (post-trip phase set at the ~Aug 9 reflection). The Vacation, Maintenance, and NYC Cut blocks are past templates.
+
+### NYC Trip Mode (Jul 30 – Aug 5) — CURRENT from Thursday
+Amazon work: off. Done when:
+1. **Dance/festival** — on festival days (Fri/Sat/Sun): attend the class + dance the social. That IS the day's activity + quest work.
+2. **Protein-first eating, untracked** — loose maintenance; anchor each day with protein, enjoy the food list, no logging.
+3. **Solo-space rep** — one 15–30 min unannounced block daily (solo coffee walk, museum wander apart). The quest floor travels.
+4. **Phone outside bedroom** — works in hotels; keep the streak.
+
+SUSPENDED on trip: step gate (socials = cardio) · Z2 (redesign post-NYC) · weigh-in (optional only) · Sunday paste (skip 8/2). Scale verdict waits ~Aug 14 (expect a Banff-style water bounce; judge nothing at landing).
 
 ### Vacation / Travel (e.g., Destin May 7–11)
 Amazon work: off-limits.
