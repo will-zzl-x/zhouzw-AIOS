@@ -110,10 +110,18 @@ systematize demand that already exists, it is playing his strongest.*
 - **Stacking / 3–5 year seasons.** The next thing should build on the last or the domain-knowledge
   clock restarts. Supply-chain ops + AI-enabled mechanism-building is the stack already in
   progress; the promo doc is its receipt.
-- **Network as an asset (already held):** Dan (multi-business owner, connector), Richard Lobo
-  (trucking), Jake Dillard (payroll), Jin (real estate portfolio), Mikey Shudoma (bank ops / SBA).
-  **Every one of those is a small-business owner or operator with ops problems** — i.e. the warm
-  channel is not hypothetical, it's five named doors.
+- **Network as an asset — CORRECTED 7/27 (was overstated):** the earlier draft claimed "five
+  named small-business-owner doors." Real picture is thinner and skews one domain:
+  - **Dan** — multi-business owner + connector. Real, but his vertical (finance) was just dropped,
+    and the whole point is Will's *own* pursuit. Still the best single connector door.
+  - **Richard Lobo** — **real estate primarily** (not the ops-service owner the draft implied).
+  - **Jin** — real estate portfolio.
+  - **Jake Dillard** — **NOT a business owner** (payroll-adjacent employee). Not a warm-channel door.
+  - **Mikey Shudoma** — bank ops / SBA: a *financing* contact, not an ops-problem customer.
+  - **Net: the warm channel is ~1 connector (Dan) + two real-estate people, NOT five service-biz
+    owners.** This materially weakens candidate #1's "demand via warm channel" premise — flag for
+    Aug 24. It also surfaces **real estate** as the one domain where Will has *two* warm doors
+    (see candidate #5 below).
 - **Elena.** CFO/COO profile (modeling, technical reporting, program management, process docs, QC).
   Complements the supply-side edge; does not fill the demand-side gap.
 
@@ -145,6 +153,17 @@ constrains structure hard.
 productized. Fastest validation, most capped, least stacking value.
 *Honest risk:* trades time for money — structurally opposed to the truly-absentee end state in
 `context/acquisition.md`.
+
+**5. Real-estate-adjacent ops service (property mgmt / HOA mgmt), warm-introduced.**
+*Edge fit: medium-high; added 7/27 after the network correction.* Real estate itself is a poor
+fit (capital-heavy, and it's Jin/Richard's edge not Will's) — BUT property management and HOA
+management are **ops-heavy service businesses** (dispatching, vendor coordination, quote-to-invoice
+— the exact bottlenecks `work-experience.md` names), and **HOA management is already in the 620
+leads at 114.** This is the one shape that marries the supply-side edge to Will's *only* real warm
+channel (the two real-estate doors), for either a buy (#2 flavor) or a systematize-their-ops
+service (#1 flavor that finally has a warm intro).
+*Honest risk:* still their domain not his; needs a real conversation with Jin/Richard to know if
+there's a there there; could just be proximity, not opportunity.
 
 **4. Anything demand-gen-first** (content, audience, e-commerce, media).
 *Edge fit: lowest — fails the master filter by construction.* Recorded here so it doesn't get
