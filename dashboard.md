@@ -10,6 +10,7 @@ Q2 quests · Work main: **re-scoped — edge-hunt decided at the Aug 24 quarterl
 4. **Villa Solara asks go out** (split with Elena per Sunday chat; reply-by ~end of Aug).
 5. **Passcode → Elena** (if not done at the Sunday chat) — completes the declutter mechanism.
 6. **Wed night: pack** (affidavit form printed · dance shoes · cushioned daytime sneakers · foot care/electrolytes · protein snacks for the flight). **Thu: lift AM → eat at PHX → DL796 1:15pm.**
+6a. **Call Mom before the flight** — first rep of the new family cadence (see Daily Consistents). A week in NYC is real content; don't manufacture a reason. On a walk, hands-free.
 7. **Broadway lotteries: start entering SAT 7/31** (TodayTix + show sites, for Tue-night shows; HipTix if a Roundabout show is running — Will qualifies at 25).
 
 ## Daily Consistents — TRIP-MODE OVERRIDES (Jul 30–Aug 5)
@@ -21,6 +22,9 @@ Q2 quests · Work main: **re-scoped — edge-hunt decided at the Aug 24 quarterl
 - **Solo-space rep** — one 15–30 min block daily still applies on a couples trip (a solo coffee walk, a museum wander apart, packing-free morning block). Unannounced, as always.
 - **Protein-first eating, untracked** — loose maintenance; enjoy the food list, anchor each day with protein.
 - **No intimacy talk at night** (hard rule) · no scoreboard-watching — the festival is live-fire for the quest; do it, don't grade it.
+
+**NEW — Family cadence (added 7/27; activates Aug 6, seed rep before the Thursday flight):**
+- **Family contact — surfaces when >2 weeks since the last logged call.** Target ≥2 meaningful contacts/month with Mom or brother; **calls count, texts don't** (`references/wheel-of-life-rubric.md`). **Anchored, not scheduled: call on a walk** — the step target already puts Will on his feet daily, hands-free, no new time carved out. This is the Z2 lesson applied (fixed slots failed twice; anchored reps hold). Binary check — it happened or it didn't, never graded. Log via `/relationship-os` → `journals/relationship-log.md`. **Why it exists: Family is a 4/10, tied lowest, and was the only low axis with no mechanism at all** — theme 1 named it, nothing was ever built. Full design + anti-goals: `context/relationships.md` → Family.
 
 ### Reference-only
 - **Canary re-anchored at 155** (Larsen 155×5,6,4 @9 on 7/25). Next test: first Torso A home (~Aug 7+).

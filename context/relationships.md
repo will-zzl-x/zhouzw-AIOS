@@ -69,7 +69,40 @@ The original observed problem: Elena's initiations sometimes read as "wanting to
 
 ## Family
 
-Mom and brother — no active context relevant to life decisions or movers at this time.
+**Wheel axis: 4/10 — tied for the lowest score, and the only low axis with no mechanism.**
+Updated 2026-07-27 (Will: "I do need to call my mom more"). The prior line here read *"Mom and
+brother — no active context relevant to life decisions or movers at this time"* — which is why
+this axis scored a 4: the system had written it out of scope. Friends scores 7 and has a working
+cadence trigger; Family scored 4 with nothing. Yearly theme 1 ("externalize every trigger")
+explicitly names Family as a target, so the gap was between a stated theme and a shipped mechanism.
+
+**People:** Mom, brother.
+
+**Target (from `references/wheel-of-life-rubric.md`, already specified):** **≥2 meaningful
+contacts/month — calls count, texts don't.** Current band 3–4 reads *"month-plus gaps; contact
+only when prompted."* The 7–8 band adds *"at least some initiated by Will"* — initiation is the
+real variable, not volume.
+
+**Design: anchored, not scheduled.** This is the load-bearing lesson from the fitness lane — Z2
+failed twice on fixed calendar slots, while the dance micro-rep succeeded by riding an anchor that
+already existed ("post-lift, music already on"). So: **call on a walk.** Will already has a daily
+step target, walks are hands-free, and it carves out no new time. No calendar slot, no reminder
+guilt — the walk is the trigger.
+
+**Anti-goals (this axis fails by feeling like homework):**
+- No scripted check-ins, no agenda, no "I owe a call" framing. A call placed to clear a task is
+  the thing that made this a 4.
+- Don't grade the call afterward. Binary: it happened or it didn't — same rule as the dance rep.
+- Don't batch it with a wedding errand. The November affidavit visit is a *task*; it doesn't count
+  as a contact. (Worth noting: the affidavit is currently the only place Will's mother appears
+  anywhere in the AIOS.)
+
+**Logging:** existing infrastructure — `/relationship-os` touch-point capture →
+`journals/relationship-log.md`. No new file needed.
+
+**First rep:** before the Thursday 7/30 flight. Real content, not a manufactured call — a week in
+NYC is something she'd want to hear about, which is exactly the kind of unengineered reason that
+works.
 
 ## Friendships
 
