@@ -108,6 +108,60 @@ flat ×52 superseded by the seasonal capture method.
 4. 47%-vs-27% Q1-PDF typo heads-up to Matt (Will sends personally)
 5. Team-functions 2-pager for Matt (drafted: `team_functions_2pager_will_section.md`)
 
+## Pre-routing review (2026-07-27) — findings against the case as constructed
+
+Reviewed from this context file, not the v11 prose — structure, argument, and number integrity
+only. Ordered by what a skip-level or bar raiser hits first.
+
+**1. Double-counting exposure between Ex1 and Ex3 — the sharpest question in the doc.**
+Ex1 (3P IM rate restructure) is priced on **redirects**: 47% per-move cut across ~359 redirects.
+Ex3's AZIM lever is *also* redirects: ~316 midstream-rerouted loads. A reviewer will ask whether
+the same physical loads are credited twice under two examples. The defense is real — Ex1 is a
+**rate** change (price per move) and AZIM is a **routing** change (old dray − new dray + avoided
+rail + avoided OTR), so they're different dollars even on an overlapping load — but that sentence
+needs to exist somewhere or be ready verbally. **Own it before it's asked; do not let a reviewer
+discover it.**
+
+**2. Split realized from projected in the $ roll-up.** Current roll-up blends tiers: $229K
+(annualized projection) + ~$150K AZIM (realized) + ~$336K TOFC (realized) + ~500 mgr-hrs/yr.
+Mixed tiers invite a mental discount on the whole figure. **Realized alone is ~$571K** (~$85K
+3PIM YTD re-verified + $150K + $336K) — a genuinely strong L4 number that carries the case without
+leaning on projections. Lead realized, then show ~$930K EOY / ~$1.3M run-rate as the forward
+tier. Same numbers, stronger read, and it matches the Shelby precedent note (realized > identified).
+
+**3. Surface one line of the corrections history in the doc itself.** It currently lives only in
+the evidence files. The CLT2→MCI4 removal — **Will voluntarily cutting $7.4K off his own number**
+after finding the lane was never manifest-executed — is the single most trust-building fact
+available, and it preempts the entire "are these padded?" line of attack. One sentence, in Ex3 or
+the readiness section. Voluntarily shrinking your own number is what makes the other numbers
+credible.
+
+**4. Re-org timing is an open question that isn't on the open-items list.** CIRS re-org announced
+7/23, still pending; the Scope-of-Role section carries a "subject to change" caveat. If the re-org
+lands mid-review, the scope foundation of the L5 case shifts under it. **Ask Matt directly: route
+now, or wait for CIRS to settle?** That's his call to make, but it should be made deliberately
+rather than by default.
+
+**5. Have Backbone / Disagree and Commit is not among the 10 LP slots.** Coverage is Earn Trust +
+Deliver Results, Learn & Be Curious + Invent & Simplify, Frugality + Are Right A Lot, Ownership +
+Dive Deep, Bias for Action + Insist on Highest Standards. Backbone — the *documented* Q1 growth
+area (`context/work-experience.md`, moment-of-acceptance pattern) — appears only as a woven line
+in Readiness, untagged. A reviewer scanning LP coverage won't see it credited. Consider tagging
+the AZNG-decline moment explicitly as the backbone instance, with date + outcome; "held that
+position with data" is assertion, "declined X on date Y, escalated, outcome Z" is evidence.
+
+**6. TOFC "parked" must read as judgment, not abandonment.** $336K realized, then deliberately
+stopped for the linehaul-reduction posture. Framed well, stopping a working lever because it
+conflicts with a higher-order org objective *is* L5 behavior. Framed loosely, it reads as a thing
+that fizzled. One clause of rationale.
+
+**7. Density check — PASSES Will's own rule.** ~2,500 words / 5 examples ≈ 500 per example; a
+4-example version lands ~2,000 vs Shelby's approved 1,953 (within ~2.5%). The fifth example is
+carrying its own weight, not padding. No compression needed unless someone challenges length.
+
+**Bottleneck reminder:** open item #3 (4 more feedback providers, L5+/non-IPEX) is people-lead-time
+and remains the actual critical path — not the prose.
+
 ## Length / compression rule (Will's call, 7/27)
 
 **5 examples stands, on one condition: per-example density stays Shelby-grade** — i.e., a
