@@ -539,3 +539,9 @@ Format: ✓ = done, □ = planned/pending
 □ Zone 2: 20-min incline
 □ Dance micro-rep: 1–2 songs, one pillar
 □ Contact 3 live conditionals — seller calls
+
+**2026-07-27 (Mon)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+□ Walk 12,500 steps today
+□ Zone 2 cardio — Sunday keystone, 60–90 min
+□ Dance micro-rep: 1–2 songs, one pillar
+□ Contact 3 live conditionals — seller calls
