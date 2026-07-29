@@ -545,3 +545,15 @@ Format: ✓ = done, □ = planned/pending
 □ Zone 2 cardio — Sunday keystone, 60–90 min
 □ Dance micro-rep: 1–2 songs, one pillar
 □ Contact 3 live conditionals — seller calls
+
+**2026-07-27 (Mon)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Solo-space rep: 15–30 min unannounced block
+✓ Train Session: Ravage Block Wk4
+✓ Phone charged outside bedroom last night?
+✓ Morning weigh-in, log 7-day rolling average
+✓ Affidavit form from St. Andrew — print & pack
+✓ Hit 150g protein, reverse-diet calories
+□ Walk 12,500 steps today
+□ Dance micro-rep: 1–2 songs, one pillar today
+□ Promo doc final 20% — ship by Wed 7/29
+□ Run 2 deal evals, log gaps to acquisition-log

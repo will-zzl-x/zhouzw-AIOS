@@ -1,7 +1,42 @@
 # Promo Doc — Full Context (L4 → L5 SCM II)
 
-_Last updated: 2026-07-26 (synced from ict_automation/promo_doc by Claude). Phone-readable
+_Last updated: 2026-07-28 (synced from ict_automation/promo_doc by Claude). Phone-readable
 reference — the working files live on the work laptop at `ict_automation/promo_doc/`._
+
+## v12 DELTA (2026-07-28) — read this first; sections below not yet rewritten for v12
+
+- **Live draft is now v12** (`drafts/promo_doc_v12_candidate.md`), rendered to
+  `zhouzw_promo_doc_v12_2026-07-28.docx` AND pushed onto the SharePoint file. ~2,430 words.
+- **TOFC re-audited: 146/$336K → 189 trailers / ~$685K estimated** (ground-truth VRID tracker;
+  measured all-in $3,946/trailer × live OTR market comps; Will's ruling: OTR is the
+  counterfactual). Evidence: `evidence/tofc_methodology_audit_2026-07-27.md`.
+- **OB NTI gets its first $ claim: 675 loads / 10.5M units, ~$570K estimated** (basis C —
+  "OTR was the alternative", Will 7/28) on the 425 fully-priced loads. Evidence:
+  `evidence/ob_nti_entitlement_2026-07-27.md` + `ob_nti_counterfactual_sensitivity_2026-07-27.md`
+  (per-lane rows patched 7/28 after adversarial verify; aggregates were always right).
+- **Readiness roll-up now ~$1.6M+ across four levers** ($229K + $150K/$930K/$1.3M AZIM +
+  ~$570K OB NTI + ~$685K TOFC + 500 hrs). Defense line for "why did TOFC grow": trailer count
+  was wrong in old source (189 vs 146), cost side now measured settlement, credit now live
+  market rates.
+- **Will's 7/27-28 edits folded in:** re-org hedging cut (Matt explains verbally if raised);
+  Ex5 bug-catch + goal-ID#164/Green-every-month CUT (Will: "I don't want green every month");
+  DOE cut from dir-4 (ask handed to Terell); Ex1 trims; TOFC "multiple escalations in 2026."
+- **Ex5 LPs now: Bias for Action, Earn Trust** (deliberate repeat with Ex1 — same external
+  partner trusted across two problem types; Insist-on-Highest-Standards dropped with the
+  bug-catch, Think Big rejected as inviting incomplete-pilot scrutiny).
+- **All 5 role-guideline lines are verbatim-checkable** against the SCM IC guideline
+  (swapped 7/27: Ex1 collaborate-stakeholders; Ex2 tech-leverage L5 what-you-do; Ex3
+  trade-offs/optimize-network; Ex4 measurement-systems; Ex5 liaise-escalation-point).
+- **Ex2 has plain-words regression-testing line** ("automated tests that catch breakage
+  before it ships") — strike if Will still objects.
+- **In flight:** WAPE deep-dive workflow (cost-estimator diagnosis → prototype → roadmap;
+  metric stack ruled by Will 7/28: near-gate decision regret primary, calibrated P10–P90
+  band secondary, wMAPE demoted to drift alarm; P80 gates decisions, judged on replayed
+  missed-vs-false-escalation $, never on WAPE). Industry research done:
+  `_notes/spot_rate_model_industry_research_2026-07-28.md` (credible target 20-23% overall,
+  <20% only on well-comped mid-haul; scenario matrix ready).
+- **AZIM share-out docx** gained a portfolio section (TOFC $685K + corridor-has-no-OTR
+  finding) — ready for Will to send to Parth.
 
 ---
 
