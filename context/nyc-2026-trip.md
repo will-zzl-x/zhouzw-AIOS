@@ -157,10 +157,10 @@ The graze is ~600–800 cal of mostly refined carbs/sugar in one sitting. You're
 ## Packing checklist
 
 - [ ] Affidavit form (printed) for Michael
-- [ ] Nice shirt (Sat) · dress shoes
+- [ ] Nice shirt (Sat) — ~~dress shoes~~ dance sneakers double as the shoes, one less pair to pack
 - [ ] Black + gold pieces (Fri)
 - [ ] Streetwear fit + sneakers (Sun)
-- [ ] Dance shoes
+- [ ] Dance shoes (also covers Saturday's look — down to 2 shoe pairs total)
 - [ ] Cushioned daytime sneakers (broken in)
 - [ ] Foot care: blister plasters/moleskin, electrolyte packets
 - [ ] (standard travel — fill in ~Jul 28)
@@ -169,4 +169,4 @@ The graze is ~600–800 cal of mostly refined carbs/sugar in one sitting. You're
 - ~~Shampoo / conditioner / body wash / hair dryer~~ — **Michael has all of it, skip.**
 - ~~Blankets~~ — **Michael's buying more before you arrive** ("imma need to pick up another blanket fs") — light-check closer to Thu that it happened, don't bring one.
 - Pillows — 1 extra pillow + couch cushions on hand. Workable for two, not plush — no action needed.
-- ~~Towels~~ — **DECIDED 7/28: not packing them, text Michael to buy extras.** Carry-on + backpack is already carrying 3 shoe pairs (dance/daytime sneakers/Sat dress shoes) across 3 themed outfits — real volume constraint. Non-consecutive stay (Thu, then Hilton Fri–Sun, then back Mon–Tue) also means a packed towel rides damp through 3 hotel nights before its second use. He already offered ("if u dont have space I can buy some more") — take it.
+- ~~Towels~~ — **DECIDED 7/28, reconfirmed: not packing them, text Michael to buy extras.** Wouldn't get used at the Hilton anyway (hotel provides its own) — a packed travel towel would just ride damp/unused in the bag through the Fri–Sun hotel stretch before its second use back at Michael's Monday. He already offered ("if u dont have space I can buy some more") — take it.
