@@ -164,3 +164,9 @@ The graze is ~600–800 cal of mostly refined carbs/sugar in one sitting. You're
 - [ ] Cushioned daytime sneakers (broken in)
 - [ ] Foot care: blister plasters/moleskin, electrolyte packets
 - [ ] (standard travel — fill in ~Jul 28)
+
+**Michael's place — confirmed via text 7/28, don't over-pack:**
+- ~~Shampoo / conditioner / body wash / hair dryer~~ — **Michael has all of it, skip.**
+- ~~Blankets~~ — **Michael's buying more before you arrive** ("imma need to pick up another blanket fs") — light-check closer to Thu that it happened, don't bring one.
+- Pillows — 1 extra pillow + couch cushions on hand. Workable for two, not plush — no action needed.
+- [ ] **Towels — UNRESOLVED, close this explicitly.** Neither of you actually committed (Will: "can probs figure it out" / Michael: "if u dont have space I can buy some more" — two people deferring, not a plan). Either pack 1-2 compact travel towels, or tell him outright to just grab extras. Don't let "gotcha" stand in for a decision.
