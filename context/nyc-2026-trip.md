@@ -154,7 +154,30 @@ The graze is ~600–800 cal of mostly refined carbs/sugar in one sitting. You're
 6. Confirm ESM passes cover the three classes + three socials listed.
 7. Haircut: get it in Phoenix before the trip if wanted (dropped from the NYC schedule per Will).
 
-## Forecast (pulled 7/29 eve — re-check Wed night / each morning)
+## Forecast — REFRESHED 7/30 (NWS OKX point forecast for Manhattan, issued 9:30pm EDT 7/29)
+
+**This supersedes the 7/29 table below. Source: forecast.weather.gov (official NWS, not an aggregator) — the Mon/Tue numbers that were flagged "soft" have now firmed up and they MOVED.**
+
+| Day | High / Low | Conditions (NWS verbatim-ish) | Rain |
+|---|---|---|---|
+| **Thu 7/30** | 78 / 66 | chance of showers, t-storms possible after 11am; mostly cloudy | **30%** *(was 80% — much better for the flight)* |
+| **Fri 7/31** | 83 / 69 | mostly sunny | none listed |
+| **Sat 8/1** | 84 / 71 | partly sunny | none listed |
+| **Sun 8/2** | 81 / 70 | mostly cloudy; **showers 50% overnight** | **daytime dry — 50% at NIGHT** |
+| **Mon 8/3** | 82 / 70 | partly sunny, **t-storms possible after 2pm** | **40% (day), 30% night** |
+| **Tue 8/4** | 85 / 70 | **sunny** | none listed |
+| **Wed 8/5** | 86 | sunny | none listed |
+
+**THE BIG CHANGE — the rain risk swapped days: Sunday's daytime is now dry; MONDAY afternoon is the wet one (40%, t-storms after 2pm).**
+
+1. **Sunday's Central Park block (3:15–5:15pm) is now the GOOD weather window** — mostly cloudy, 81°F, dry. The 50% shower chance is overnight, i.e. during/after the Sunday social — a wet ~3am walk home from the Marquis, which changes nothing you can pack for (a layer still can't come to a social; you're 12 min from a shower). **Go to the park Sunday as scheduled.**
+2. **Monday's Central Park (1–3pm) is now the exposed one** — 40% + t-storms after 2pm, landing right on the back half of the block. **The Sunday/Monday hedge inverts:** do the park properly Sunday, and treat Monday's as the droppable repeat. Monday fallback if it's storming: **St. Patrick's** (indoor, free, 6 blocks) or pull the Michael dinner earlier. Bags also move Michael's ← Hilton on Monday morning — do that transfer BEFORE 2pm.
+3. **Tuesday is the best weather day of the trip (sunny, 85°F)** and it's the heavy-walk day — ideal, but 85°F + 16–18k steps means **water bottle + electrolytes matter more than the rain shell.** Wednesday's departure is sunny/86 — no travel-weather risk.
+4. **Thursday's flight risk dropped a lot** — 30% not 80%. The transit-vs-cab conditional still stands on *actual* arrival time, but the odds of a weather delay are much lower now.
+5. **Rain gear verdict: still bring the packable shell/compact umbrella, but the target is MONDAY (and Sunday night), not Sunday afternoon.** It stays a one-item, near-zero-weight insurance policy.
+6. **Warmer than the 7/29 read** (83–86 highs vs 75–84, lows ~70) — still not a humidity slog, but the "mild" framing is gone. Favor the lightest tops; the Tuesday water bottle is now non-optional.
+
+## Forecast (pulled 7/29 eve — SUPERSEDED by the 7/30 refresh above; kept for the reasoning trail)
 
 **Source caveat:** true hourly data was unavailable (weather APIs + hourly sites blocked by this
 session's egress policy). Thu–Sun below is NWS forecast text surfaced via search — solid. **Mon/Tue
@@ -220,11 +243,11 @@ late-night entry plan worth actually confirming rather than assuming.
 - [ ] **Thin/smooth dance socks** ×3 — distinct from athletic socks, matters inside dance shoes
 - [ ] Deodorant + gum/mints for the socials · optional small sweat rag (not a bath towel — different item, packs to nothing)
 
-*Daytime, 6 days — mild not muggy (75–84°F, low humidity Fri–Sat; see Forecast above):*
+*Daytime, 6 days — warm and mostly dry (**revised 7/30: highs 78–86°F, lows ~66–71**; hottest days are Tue/Wed. Favor the lightest tops):*
 - [ ] 3-4 light tops (re-wear freely) · 2 shorts / light pants · 1 travel outfit for Thu
 - [ ] Underwear + athletic socks ×7
 - [ ] Sleepwear (lightweight — Michael's AC situation unconfirmed, though 67–72°F lows make it moot)
-- [ ] **Packable rain shell or compact umbrella** — **priority is SUNDAY** (40% showers after 2pm, directly over the 2:30–4:30 Central Park block), not Tuesday, which now looks dry
+- [ ] **Packable rain shell or compact umbrella** — **REVISED 7/30: the target is MONDAY afternoon** (40% + t-storms after 2pm, right on Monday's 1–3pm Central Park block + the morning bag transfer) **and Sunday NIGHT** (50% overnight showers = the ~3am walk home from the social). **Sunday daytime is now dry** — the park goes as scheduled Sunday.
 - [ ] **Light layer — OPTIONAL, and NOT for the socials** (revised 7/29, Will: can't take a layer to the dance events — you'd carry it all night or gamble on 4am coat check). **The 4am walks need no mitigation:** 12 min at ~70°F, walking, straight to a shower — mildly cool, not a problem. Bring a layer only if you want it for **over-air-conditioned indoor spots** — Broadway Tuesday (theaters run cold for 2.5 seated hours while it's 84°F outside) and aggressive-AC restaurants. Skip it entirely if the bag is tight.
 
 *Footwear — 2 pairs total, deliberately:*
