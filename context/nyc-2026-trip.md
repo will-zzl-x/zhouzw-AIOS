@@ -178,9 +178,10 @@ walking weather.
 1. **Sunday's Central Park block (2:30–4:30pm) sits squarely in the 40%-after-2pm window** — the
    one itinerary block the forecast actually threatens. 40% is a carry-the-shell number, not a
    cancel. Class ends 1:50, so shifting to ~2:00–4:00 buys a little margin if radar looks bad.
-2. **Lows of 67–72 make the ~4am walks home from the Marquis genuinely cool in a sweat-soaked
-   shirt** → pack a light layer (see checklist). This is new; the original list assumed you'd be
-   overheating, not cooling.
+2. **The ~4am walks home are a non-issue — no action.** Lows of 67–72°F sounded worth solving for
+   (12 min from the Marquis in a soaked shirt, three nights), but a layer can't come to a social
+   anyway — you'd carry it all night or gamble on 4am coat check. And ~70°F while walking, headed
+   straight to a shower, is mildly cool, not a problem. *Corrected 7/29 — this was over-engineered.*
 3. **Tuesday (84°F, dry) is the heavy-walk day and the weather cooperates** — no rain adjustment
    needed, but 84°F + 16–18k steps means the water bottle and electrolytes matter more that day
    than the rain shell does.
@@ -220,7 +221,7 @@ late-night entry plan worth actually confirming rather than assuming.
 - [ ] Underwear + athletic socks ×7
 - [ ] Sleepwear (lightweight — Michael's AC situation unconfirmed, though 67–72°F lows make it moot)
 - [ ] **Packable rain shell or compact umbrella** — **priority is SUNDAY** (40% showers after 2pm, directly over the 2:30–4:30 Central Park block), not Tuesday, which now looks dry
-- [ ] **Light layer / overshirt for the 4am walks home** — added 7/29 after the forecast came in cooler than assumed: 67–72°F lows and a 12-min walk back from the Marquis in a sweat-soaked shirt three nights running
+- [ ] **Light layer — OPTIONAL, and NOT for the socials** (revised 7/29, Will: can't take a layer to the dance events — you'd carry it all night or gamble on 4am coat check). **The 4am walks need no mitigation:** 12 min at ~70°F, walking, straight to a shower — mildly cool, not a problem. Bring a layer only if you want it for **over-air-conditioned indoor spots** — Broadway Tuesday (theaters run cold for 2.5 seated hours while it's 84°F outside) and aggressive-AC restaurants. Skip it entirely if the bag is tight.
 
 *Footwear — 2 pairs total, deliberately:*
 - [ ] Dance shoes (also Saturday's look) · cushioned daytime sneakers, broken in
