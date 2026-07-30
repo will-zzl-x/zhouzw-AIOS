@@ -154,6 +154,42 @@ The graze is ~600–800 cal of mostly refined carbs/sugar in one sitting. You're
 6. Confirm ESM passes cover the three classes + three socials listed.
 7. Haircut: get it in Phoenix before the trip if wanted (dropped from the NYC schedule per Will).
 
+## Forecast (pulled 7/29 eve — re-check Wed night / each morning)
+
+**Source caveat:** true hourly data was unavailable (weather APIs + hourly sites blocked by this
+session's egress policy). Thu–Sun below is NWS forecast text surfaced via search — solid. **Mon/Tue
+are aggregator numbers at 5–6 days out — soft; re-check.** "No rain mentioned" for Mon/Tue is
+absence of evidence, not a stated 0%.
+
+| Day | Temp | Conditions |
+|---|---|---|
+| **Thu 7/30** | ~80°F | **80% showers/T-storms after 2pm**, mostly cloudy — *NYC-side, matters for flight delay not for Will's day* |
+| **Fri 7/31** | ~80–85°F | Mostly sunny, **low humidity** |
+| **Sat 8/1** | ~77°F | Blue skies, **low humidity** |
+| **Sun 8/2** | ~75°F | Mostly sunny, **40% showers after 2pm** |
+| **Mon 8/3** | 77°F / low 72 | *(soft)* no rain flagged |
+| **Tue 8/4** | 84°F / low 70 | *(soft)* no rain flagged — the heavy outdoor day looks like the best weather day |
+
+**The August-climatology assumption was wrong — it's milder and drier than typical.** Not the
+upper-80s humidity slog; highs 75–84, lows 67–72, explicitly low humidity Fri–Sat. Near-ideal
+walking weather.
+
+**Three consequences:**
+1. **Sunday's Central Park block (2:30–4:30pm) sits squarely in the 40%-after-2pm window** — the
+   one itinerary block the forecast actually threatens. 40% is a carry-the-shell number, not a
+   cancel. Class ends 1:50, so shifting to ~2:00–4:00 buys a little margin if radar looks bad.
+2. **Lows of 67–72 make the ~4am walks home from the Marquis genuinely cool in a sweat-soaked
+   shirt** → pack a light layer (see checklist). This is new; the original list assumed you'd be
+   overheating, not cooling.
+3. **Tuesday (84°F, dry) is the heavy-walk day and the weather cooperates** — no rain adjustment
+   needed, but 84°F + 16–18k steps means the water bottle and electrolytes matter more that day
+   than the rain shell does.
+
+**Thursday flight watch:** 80% afternoon/evening T-storms in the NYC area on arrival day, with a
+46-min ATL connection already tight and summer convection common at ATL too. Nothing to pack for —
+just know the LGA 11:24pm arrival is the leg most exposed to weather delay, which makes Michael's
+late-night entry plan worth actually confirming rather than assuming.
+
 ## Packing checklist
 
 - [ ] Affidavit form (printed) for Michael
@@ -179,11 +215,12 @@ The graze is ~600–800 cal of mostly refined carbs/sugar in one sitting. You're
 - [ ] **Thin/smooth dance socks** ×3 — distinct from athletic socks, matters inside dance shoes
 - [ ] Deodorant + gum/mints for the socials · optional small sweat rag (not a bath towel — different item, packs to nothing)
 
-*Daytime, 6 days hot + humid:*
+*Daytime, 6 days — mild not muggy (75–84°F, low humidity Fri–Sat; see Forecast above):*
 - [ ] 3-4 light tops (re-wear freely) · 2 shorts / light pants · 1 travel outfit for Thu
 - [ ] Underwear + athletic socks ×7
-- [ ] Sleepwear (lightweight — Michael's AC situation unconfirmed)
-- [ ] **Packable rain shell or compact umbrella** — Tuesday is entirely outdoors (Brooklyn Bridge, Chinatown), and August afternoon storms are common
+- [ ] Sleepwear (lightweight — Michael's AC situation unconfirmed, though 67–72°F lows make it moot)
+- [ ] **Packable rain shell or compact umbrella** — **priority is SUNDAY** (40% showers after 2pm, directly over the 2:30–4:30 Central Park block), not Tuesday, which now looks dry
+- [ ] **Light layer / overshirt for the 4am walks home** — added 7/29 after the forecast came in cooler than assumed: 67–72°F lows and a 12-min walk back from the Marquis in a sweat-soaked shirt three nights running
 
 *Footwear — 2 pairs total, deliberately:*
 - [ ] Dance shoes (also Saturday's look) · cushioned daytime sneakers, broken in
