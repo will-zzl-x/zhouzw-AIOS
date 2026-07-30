@@ -163,7 +163,44 @@ The graze is ~600–800 cal of mostly refined carbs/sugar in one sitting. You're
 - [ ] Dance shoes (also covers Saturday's look — down to 2 shoe pairs total)
 - [ ] Cushioned daytime sneakers (broken in)
 - [ ] Foot care: blister plasters/moleskin, electrolyte packets
-- [ ] (standard travel — fill in ~Jul 28)
+
+**Full list — completed 7/29. Constraints: carry-on + backpack only (Main Basic includes carry-on), 6 nights, two lodgings with a bag transfer each way, NYC early-Aug hot + humid w/ afternoon thunderstorm risk (check the actual forecast Wed).**
+
+*Don't-forget five — pack these first, everything else is replaceable:*
+- [ ] **Affidavit form, PRINTED** (the trip's one errand — Michael dinner Mon 8/3)
+- [ ] ID / REAL ID · cards · **~$60-80 cash** (Burger Joint is cash-friendly; Chinatown dim sum often cash-preferred)
+- [ ] Meds + the sleep stack (½ apigenin gummy + magnesium; three 4am nights make this earn its space)
+- [ ] Phone charger **+ portable battery** (Tue is 16-18k steps of subway nav, photos, and lottery checks — the phone will not survive on its own)
+- [ ] Dance shoes
+
+*Festival kit (3 themed nights — see the dress table up top):*
+- [ ] Fri: black top + gold accents · Sat: nice shirt (doubles for 5pm Vigil Mass) · Sun: streetwear top
+- [ ] Bottoms to match — black for Fri, nice for Sat (same pair if both black), streetwear for Sun
+- [ ] **Thin/smooth dance socks** ×3 — distinct from athletic socks, matters inside dance shoes
+- [ ] Deodorant + gum/mints for the socials · optional small sweat rag (not a bath towel — different item, packs to nothing)
+
+*Daytime, 6 days hot + humid:*
+- [ ] 3-4 light tops (re-wear freely) · 2 shorts / light pants · 1 travel outfit for Thu
+- [ ] Underwear + athletic socks ×7
+- [ ] Sleepwear (lightweight — Michael's AC situation unconfirmed)
+- [ ] **Packable rain shell or compact umbrella** — Tuesday is entirely outdoors (Brooklyn Bridge, Chinatown), and August afternoon storms are common
+
+*Footwear — 2 pairs total, deliberately:*
+- [ ] Dance shoes (also Saturday's look) · cushioned daytime sneakers, broken in
+- [ ] Sunday's "fresh sneakers" = the streetwear pair, NOT the Tuesday walking pair
+
+*Toiletries — short list, since Michael covers the big ones:*
+- [ ] Toothbrush/paste · deodorant · razor · skincare · nail clippers
+- [ ] *(Skip shampoo/conditioner/body wash — Michael has them, hotel provides them Fri–Sun)*
+
+*The two things this specific trip needs that a normal packing list misses:*
+- [ ] **Dry bag / plastic bag for damp clothes** — three soaked social outfits, and the bag physically moves Michael's → Hilton → Michael's. Without this, wet dance clothes ride in with everything else.
+- [ ] **Reusable water bottle** — hot, 16-18k-step Tuesday, and the electrolyte packets need something to go in.
+
+*Small logistics:*
+- [ ] Headphones · Apple Watch charger if worn
+- [ ] Protein snacks/bars for the flight (ATL layover is 46 min, cooler-case only)
+- [ ] **Charger placement plan for the phone-outside-bedroom streak** — at Michael's you may be on a couch in an open layout, so "outside the bedroom" needs a spot picked (kitchen counter works); a slightly longer cable helps
 
 **Michael's place — confirmed via text 7/28, don't over-pack:**
 - ~~Shampoo / conditioner / body wash / hair dryer~~ — **Michael has all of it, skip.**
