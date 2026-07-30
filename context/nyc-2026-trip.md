@@ -37,7 +37,7 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 - **ATL layover (land A32, depart B01, 46 min):** no lounge — deplaning + the A→B walk already consumes most of the window. If a later bite is needed for the LGA leg, **cooler-case grab only, once actually at Concourse B** (yogurt/fruit cup/pre-packed sandwich) — not a made-to-order line, and not a stop at Freshens (A26) mid-walk through A. Waiting for B keeps it zero-detour: grab-and-go kiosks are scattered right at the B-concourse gates, so a case near B01 costs no extra time at all. Skip it entirely if the walk runs long.
 - **1:15pm MST / 4:15pm ET** — DL796 departs PHX. *(calendar shows ET.)*
 - **11:24pm** — land LGA.
-- **11:30pm–~1:00am** — **Public transit to 416 W 49th #3D**: free Q70 "LaGuardia Link" bus → E train to 50th St (~75–90 min with bags). *Confirm the late-night entry/keys plan with the friend beforehand.*
+- **11:30pm–~1:00am** — **Public transit to 416 W 49th #3D**: free Q70 "LaGuardia Link" bus → E train to 50th St (~75–90 min with bags). *Confirm the late-night entry/keys plan with the friend beforehand.* **☔ CONDITIONAL (7/29): if the flight slips past midnight, take the cab (~$45).** Transit is right for an on-time 11:24pm landing, but 75–90 min of it at 1am puts you in bed ~2:30am heading into a festival weekend — the worst night of the trip to lose sleep on. NYC has 80% storms Thu afternoon/evening, so delay is live.
 - **12:15am** — crash. Nothing else.
 
 ### Fri 7/31 — festival day 1 · Black & Gold (~4am) ✅ LOCKED
@@ -66,7 +66,7 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 ### Sun 8/2 — festival day 3 · NYC Street Style social ✅ LOCKED
 - **12:30–1:00pm** — wake (~9h off the 3:30am Saturday exit). *(Pushed 7/29 — the separate pre-class breakfast block is gone; grab something quick en route or eat after class.)*
 - **1:00–1:50pm** — ESM Class @ Marquis.
-- **3:15–5:15pm** — **Central Park (we don't chill at the hotel on festival days)** — ☔ **sits fully inside Sunday's 40%-showers-after-2pm window; check radar, carry the shell, or slide to ~2:00–4:00 if it looks bad:** enter near Columbus Circle, gentle walk through Sheep Meadow / The Mall–Literary Walk area — **skip Bethesda Terrace** (done last trip). Free, ~2 easy miles, shade + benches for stretches; a different stretch of the park than Monday's route. *(Swapped 7/19 — the old NYPL/Bryant Park loop repeated a 2025 trip.)*
+- **3:15–5:15pm** — **Central Park (we don't chill at the hotel on festival days)** — ☔ **DECIDE AT 1:50pm WHEN CLASS ENDS, check radar. CLEAR → go as scheduled (keep the post-class buffer; you're on ~4h sleep with another all-nighter tonight). RAIN → swap to ST. PATRICK'S CATHEDRAL** (5th & 50th, ~6 blocks from the Marquis, indoor, free — the "another day for the grandeur" item finally has its day). **The swap is cheap because Monday 1–3pm is also Central Park and Monday looks dry — you'd lose a repeat, not the park.** Bonus: St. Pat's is shorter than a 2-hour walk, so the pre-social nap can start before 8:15. Route if you do go: enter near Columbus Circle, gentle walk through Sheep Meadow / The Mall–Literary Walk area — **skip Bethesda Terrace** (done last trip). Free, ~2 easy miles, shade + benches for stretches; a different stretch of the park than Monday's route. *(Swapped 7/19 — the old NYPL/Bryant Park loop repeated a 2025 trip.)*
 - **5:45–7:30pm** — **Dinner (options, pick day-of):** **Pure Thai Cookhouse** (766 9th Ave @ 51st — handmade egg noodles, fun/loud, 2-min walk from the friend's place) · **Larb Ubol** (more authentic/spicier Thai) · **Wondee Siam** (casual, good value, several HK locations).
 - **8:15–11:00pm** — nap (the one horizontal block that stays — it's what makes the last social good).
 - **~12:00–3:00am** — NYC Street Style social @ Marquis. Fresh sneakers = easiest night on the feet; ride it as long as it's good.
@@ -175,9 +175,13 @@ upper-80s humidity slog; highs 75–84, lows 67–72, explicitly low humidity Fr
 walking weather.
 
 **Three consequences:**
-1. **Sunday's Central Park block (2:30–4:30pm) sits squarely in the 40%-after-2pm window** — the
-   one itinerary block the forecast actually threatens. 40% is a carry-the-shell number, not a
-   cancel. Class ends 1:50, so shifting to ~2:00–4:00 buys a little margin if radar looks bad.
+1. **Sunday's Central Park block is the ONLY exposed thing on the itinerary — and it's also the
+   most droppable, which is what makes this easy.** It now sits 3:15–5:15pm, fully inside the
+   40%-after-2pm window. **But Monday 1–3pm is ALSO Central Park, and Monday looks dry** — so a
+   rained-out Sunday costs a repeat, not the park. **Decision at 1:50pm when class ends:** clear →
+   go as scheduled; rain → **St. Patrick's Cathedral** (6 blocks from the Marquis, indoor, free,
+   already parked in this doc as an "another day" item). Shifting the park an hour earlier is NOT
+   the fix — 2:10pm is still after 2pm, and the post-class buffer is worth more on ~4h sleep.
 2. **The ~4am walks home are a non-issue — no action.** Lows of 67–72°F sounded worth solving for
    (12 min from the Marquis in a soaked shirt, three nights), but a layer can't come to a social
    anyway — you'd carry it all night or gamble on 4am coat check. And ~70°F while walking, headed
