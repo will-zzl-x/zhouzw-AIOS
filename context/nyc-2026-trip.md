@@ -215,7 +215,7 @@ late-night entry plan worth actually confirming rather than assuming.
 - [ ] **Thin/smooth dance socks** ×3 — distinct from athletic socks, matters inside dance shoes
 - [ ] Deodorant + gum/mints for the socials · optional small sweat rag (not a bath towel — different item, packs to nothing)
 
-*Daytime, 6 days hot + humid:*
+*Daytime, 6 days — mild not muggy (75–84°F, low humidity Fri–Sat; see Forecast above):*
 - [ ] 3-4 light tops (re-wear freely) · 2 shorts / light pants · 1 travel outfit for Thu
 - [ ] Underwear + athletic socks ×7
 - [ ] Sleepwear (lightweight — Michael's AC situation unconfirmed, though 67–72°F lows make it moot)
