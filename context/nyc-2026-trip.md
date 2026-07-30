@@ -5,7 +5,7 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 ## Flights
 
 - **Out Thu 7/30:** DL796 PHX 1:15pm → ATL 8:14pm · 46m layover · DL520 ATL 9:00pm → **LGA 11:24pm** (Delta Main Basic). At lodging ~12:30–1:00am. Eat a real meal in ATL (~8:15pm) — nothing good happens food-wise after 11pm landing.
-- **Return Wed 8/5:** DL989 LGA 10:00am → ATL 12:28pm · 1h33m · DL366 ATL 2:01pm → PHX 2:50pm. **Leave lodging ~7:45am** (LGA ~30 min from Midtown, Delta = Terminal C, domestic buffer). Check in right at T-24h (Tue 10:00am) — Main Basic assigns seats late.
+- **Return Wed 8/5:** DL989 LGA 10:00am → ATL 12:28pm · 1h33m · DL366 ATL 2:01pm → PHX 2:50pm. **Leave lodging ~8:15am** (LGA ~30 min from Midtown, Delta = Terminal C, domestic buffer). Check in right at T-24h (Tue 10:00am) — Main Basic assigns seats late.
 
 ## Festival schedule (ESM @ Marriott Marquis)
 
@@ -19,7 +19,7 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 
 - **Broadway (Tue 8/4): layered cheap-ticket play with a guaranteed floor.** Not particular on show — lean spectacle/classic musical, skip crude-comedy (no Book of Mormon). Sequence: (1) Mon ~5pm + Tue morning, enter EVERY live digital lottery (Broadway Direct + TodayTix) for Tuesday-night shows; (2) no win by 10am Tue → TodayTix Rush in-app ($30–50, unlocks ~10am); (3) still nothing by 3pm → **TKTS Times Square booth** — 20–50% off, guaranteed *something* good for that night. Odds of walking away with a ticket across all three layers: effectively certain; only full-price-advance is off the table.
 - **Michael:** staying at his place Thu/Mon/Tue nights. Dinner with him is opportunistic — whichever night works. Affidavit handoff whenever's natural while there; just don't forget the printed form.
-- **Social end-times (planning assumption from last year): Fri ~4am, Sat ~5am, Sun by feel.** Mornings after are scheduled empty; first anchor never before ~11:45am on festival days.
+- **Social end-times (calendar as of 7/29): Fri ~4am, Sat exit ~3:30am, Sun ~3am.** Mornings after are scheduled empty; first anchor never before ~11:45am on festival days.
 - **9/11: free only** — reflecting pools + Oculus walkthrough, no museum.
 - **No haircut on the trip** (Phoenix beforehand if wanted).
 - **Sahil & Emily: OUT (7/24 — Sahil won't be in NYC during the trip).** Double date dropped; no schedule impact (it was never pinned to a slot). Dinner options all stand as couple/Michael meals.
@@ -29,7 +29,7 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 
 ## Day-by-day (hour-blocked)
 
-*All 6 days LOCKED ✅ (7/24). `nyc-2026-trip.ics` (45 events, ET) mirrors this — import it into Google Calendar. If any block changes, edit here + regenerate the `.ics`.*
+*All 6 days locked. **Google Calendar is now the operating source of truth** — Will retimed several blocks there 7/28–29 (later wakes, earlier dinners, Sat lunch after class, Sun park to 3:15, Tue pack to 4pm, Wed depart 8:15) and this doc was synced to match on 7/29. The `.ics` is STALE (still the 7/24 45-event build) — don't re-import it; it would overwrite the live edits. Regenerate only if starting a calendar from scratch.*
 
 ### Thu 7/30 — arrival (no social) ✅ LOCKED
 - **Morning (PHX, MST)** — Lift before departure. Pack protein snacks/bars — homemade or bars.
@@ -41,45 +41,44 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 - **12:15am** — crash. Nothing else.
 
 ### Fri 7/31 — festival day 1 · Black & Gold (~4am) ✅ LOCKED
-- **10:00–10:45am** — wake, pack up at the friend's place.
+- **10:30–10:45am** — wake, pack up at the friend's place.
 - **11:00–11:30am** — bags → Hilton W 35th (25-min walk, or $12 cab with bags). Drop with bell desk; check-in ~3pm.
 - **11:30am–12:15pm** — **Brunch: Best Bagel & Coffee** (225 W 35th), around the corner.
 - **12:30–2:30pm** — feet-light K-town wander + **Grace Street** (17 W 32nd) hojicha-latte / bingsu / dessert-coffee. The planned way to fill the pre-check-in gap.
 - **3:00pm** — hotel check-in, change, rest.
 - **4:00–4:50pm** — ESM Masterclass @ Marquis.
-- **5:30–7:00pm** — **Dinner (options, pick day-of):** **Cho Dan Gol** (55 W 35th — Korean homestyle, ½ block from hotel) · **Kunjip** (32nd St, 24hr, wide Korean menu) · **BCD Tofu House** (soft tofu stew, protein-forward). Michael joins if he's free.
-- **7:30–10:00pm** — nap (~2.5h banked).
-- **10:15–11:00pm** — dress Black & Gold.
+- **5:00–6:30pm** — **Dinner (options, pick day-of):** **Cho Dan Gol** (55 W 35th — Korean homestyle, ½ block from hotel) · **Kunjip** (32nd St, 24hr, wide Korean menu) · **BCD Tofu House** (soft tofu stew, protein-forward). Michael joins if he's free.
+- **8:30–11:00pm** — nap + dress Black & Gold (one block; the nap is what makes the social good).
 - **~12:00am–~4am** — Black & Gold social @ Marquis (doors 11:30 — walk in ~midnight at peak). Walk 12 min back, electrolytes, crash.
 
 ### Sat 8/1 — festival day 2 · Mafia Royale social + vigil Mass ✅ LOCKED
-- **11:45am** — wake (after the ~4am Friday night).
-- **12:15–1:00pm** — **Lunch: Xi'an Famous Foods** (24 W 45th) — cumin-lamb hand-ripped noodles, ~$12, the NYC noodle institution; near the Marquis.
+- **1:00–1:30pm** — wake (after the ~4am Friday night).
 - **2:00–2:50pm** — ESM Class @ Marquis.
-- **3:00–4:30pm** — back, rest, get ready (no suit this trip — dressing cool for a hot social).
+- **3:00–3:45pm** — **Lunch: Xi'an Famous Foods** (24 W 45th) — cumin-lamb hand-ripped noodles, ~$12, the NYC noodle institution; near the Marquis. *(Moved after class 7/29 — sleeping in past noon made a pre-class lunch impossible.)*
+- **3:45–5:00pm** — back, rest, get ready (no suit this trip).
 - **5:00–6:00pm** — **Vigil Mass — St. Malachy's, The Actors' Chapel** (239 W 49th). Fulfills the weekend obligation; Sunday morning is unworkable post-social.
-- **6:30–8:00pm** — **Dinner (options, pick day-of, near St. Malachy's/Restaurant Row):** **Yakitori Totto** (Japanese grilled skewers, lean protein, portion-controlled) · **Toloache** (upscale Mexican, protein-forward mains) · **Kashkaval Garden** (Mediterranean meze, grilled meats) · **Nizza** (French-Mediterranean small plates). Dress-up-able, non-touristy, digestible before the nap + social. *(Becco dropped 7/19 — AYCE pasta cuts against the fitness-friendly brief.)*
-- **8:15–10:30pm** — nap (~2h+).
+- **6:00–7:30pm** — **Dinner (options, pick day-of, near St. Malachy's/Restaurant Row):** **Yakitori Totto** (Japanese grilled skewers, lean protein, portion-controlled) · **Toloache** (upscale Mexican, protein-forward mains) · **Kashkaval Garden** (Mediterranean meze, grilled meats) · **Nizza** (French-Mediterranean small plates). Dress-up-able, non-touristy, digestible before the nap + social. *(Becco dropped 7/19 — AYCE pasta cuts against the fitness-friendly brief.)*
+- **8:45–11:00pm** — nap (~2h+).
 - **~12:00–3:30am** — Mafia Royale social @ Marquis. **Exit ~3:30am** to keep Sunday's 1pm class survivable.
 
 *(St. Patrick's Cathedral, 5th & 50th — a free walk-through another day for the grandeur; the obligation is covered Saturday at St. Malachy's.)*
 
 ### Sun 8/2 — festival day 3 · NYC Street Style social ✅ LOCKED
-- **~10:30am** — wake (~7h off the 3:30am Saturday exit).
-- **11:15am–12:00pm** — Light breakfast near the Marquis before class.
+- **12:30–1:00pm** — wake (~9h off the 3:30am Saturday exit). *(Pushed 7/29 — the separate pre-class breakfast block is gone; grab something quick en route or eat after class.)*
 - **1:00–1:50pm** — ESM Class @ Marquis.
-- **2:30–4:30pm** — **Central Park (we don't chill at the hotel on festival days):** enter near Columbus Circle, gentle walk through Sheep Meadow / The Mall–Literary Walk area — **skip Bethesda Terrace** (done last trip). Free, ~2 easy miles, shade + benches for stretches; a different stretch of the park than Monday's route. *(Swapped 7/19 — the old NYPL/Bryant Park loop repeated a 2025 trip.)*
+- **3:15–5:15pm** — **Central Park (we don't chill at the hotel on festival days)** — ☔ **sits fully inside Sunday's 40%-showers-after-2pm window; check radar, carry the shell, or slide to ~2:00–4:00 if it looks bad:** enter near Columbus Circle, gentle walk through Sheep Meadow / The Mall–Literary Walk area — **skip Bethesda Terrace** (done last trip). Free, ~2 easy miles, shade + benches for stretches; a different stretch of the park than Monday's route. *(Swapped 7/19 — the old NYPL/Bryant Park loop repeated a 2025 trip.)*
 - **5:45–7:30pm** — **Dinner (options, pick day-of):** **Pure Thai Cookhouse** (766 9th Ave @ 51st — handmade egg noodles, fun/loud, 2-min walk from the friend's place) · **Larb Ubol** (more authentic/spicier Thai) · **Wondee Siam** (casual, good value, several HK locations).
-- **8:00–10:45pm** — nap (the one horizontal block that stays — it's what makes the last social good).
-- **~12:00am–by feel** — NYC Street Style social @ Marquis. Fresh sneakers = easiest night on the feet; ride it as long as it's good.
+- **8:15–11:00pm** — nap (the one horizontal block that stays — it's what makes the last social good).
+- **~12:00–3:00am** — NYC Street Style social @ Marquis. Fresh sneakers = easiest night on the feet; ride it as long as it's good.
 
 ### Mon 8/3 — checkout · Vessel · burger · Central Park · Michael dinner (recovery day) ✅ LOCKED
 - **~10:00–11:00am** — sleep in (3rd late night), wake at the Hilton.
 - **11:00–11:15am** — **checkout Hilton, bags → 416 W 49th**.
 - **11:30am–12:15pm** — **The Vessel, Hudson Yards** — Elena's pick, close to the hotel. Go take a look.
-- **12:15–1:15pm** — **Burger: Burger Joint** (119 W 56th, inside the Thompson Central Park lobby — *literally behind a curtain*, unmarked but for a small neon burger sign). ~$12–15, cash-friendly, no-frills counter in a luxury hotel — NYC-unique in a way Phoenix can't copy. **Geography is why it lands here:** Vessel (34th/11th) → 56th St → **8-min walk to Columbus Circle** → into the park. Clean south-to-north line, no backtrack. *Swapped in 7/27 — this slot was a second bagel, repeating Friday's Best Bagel; the burger removes the trip's only duplicated meal and a real burger is the right call on the post-3rd-social recovery day.* **Honest note: it's famous** (tourist lists know it) — but it's cheap, genuinely good, and locals eat there; that's a different animal from a Times Square trap. Peak line moves fast. *Fallback if the line is absurd or you want lower-profile: ask Michael for a Hell's Kitchen rec at dinner — he's the local.*
+- **12:15–1:00pm** — **Burger: Burger Joint** (119 W 56th, inside the Thompson Central Park lobby — *literally behind a curtain*, unmarked but for a small neon burger sign). ~$12–15, cash-friendly, no-frills counter in a luxury hotel — NYC-unique in a way Phoenix can't copy. **Geography is why it lands here:** Vessel (34th/11th) → 56th St → **8-min walk to Columbus Circle** → into the park. Clean south-to-north line, no backtrack. *Swapped in 7/27 — this slot was a second bagel, repeating Friday's Best Bagel; the burger removes the trip's only duplicated meal and a real burger is the right call on the post-3rd-social recovery day.* **Honest note: it's famous** (tourist lists know it) — but it's cheap, genuinely good, and locals eat there; that's a different animal from a Times Square trap. Peak line moves fast. *Fallback if the line is absurd or you want lower-profile: ask Michael for a Hell's Kitchen rec at dinner — he's the local.*
 - **1:00–3:00pm** — **Central Park**, enter at **Columbus Circle** (12 min from the friend's place). Gentle loop — Sheep Meadow / The Mall–Literary Walk / the Pond. **Skip Bethesda Terrace (did it last trip); no rowboat.** ~easy, shade + benches.
-- **3:30–5:30pm** — back to the friend's place, rest/shower.
+- **4:15–6:15pm** — back to the friend's place, rest/shower.
+- **5:00pm** — 🎟 **Broadway lottery entries** for Tue shows (inside the rest block — costs nothing; the highest-value pass, since most Tue-evening lotteries close Mon night or Tue ~9am).
 - **6:30–8:30pm** — **Dinner with Michael — AFFIDAVIT HANDOFF (bring the printed form).** Michael picks; seed options: **K-town BBQ** (protein-forward, grilled meats + banchan) · **Empanada Mama** (Latin, closest to the apartment, cheap/casual) · **Marseille** (French-Med, a nicer sit-down for a real catch-up) · **Totto Ramen** (iconic HK ramen). No social after — real hangout. (No Broadway — dark Mondays.)
 
 ### Tue 8/4 — the big day: downtown + Broadway (heavy-walk, feet recovered) ✅ LOCKED
@@ -95,7 +94,8 @@ Will + Elena. **Hotel: Hilton Garden Inn West 35th Street, 63 W 35th St, NY 1000
 - **5:00–6:45pm** — **light pre-theater dinner:** **Westville** (build-your-own protein + veg — the intake-friendly pick after a carby day) · or Joe Allen / 5 Napkin / Totto if you'd rather. Keep it protein + veg, skip a second starch.
 - **7:00–7:30pm** — walk to the theater.
 - **7:30–10:00pm** — **Broadway show.**
-- **10:30pm** — back, pack. Early departure tomorrow (leave ~7:45am).
+- **4:00–4:30pm** — **pack** (moved here 7/29 — done before TKTS/dinner/show, so there's nothing waiting at 10:30pm after a late curtain).
+- **10:30pm** — back, straight to bed. Early departure tomorrow (leave ~8:15am).
 
 **Broadway execution (refreshed 7/24, current April-2026 methods):**
 - **Lotteries open 2–3 days out** → **enter Sat 8/1 + Sun 8/2 + Mon 8/3 + Tue 8/4** for Tue-night shows, via **TodayTix app AND each show's official site** (Broadway Direct powers many). Enter every eligible show, skip crude-comedy titles. Free to enter, ~$40–50 if you win.
@@ -114,8 +114,8 @@ The graze is ~600–800 cal of mostly refined carbs/sugar in one sitting. You're
 - **Net:** one carb-heavy window (2pm), bookended by protein-forward, veg-forward, lower-starch meals + a lot of walking. Enjoy the graze without the day becoming a blowout.
 
 ### Wed 8/5 — depart
-- **6:45am** — wake.
-- **7:45am** — leave 416 W 49th → LGA.
+- **7:15am** — wake.
+- **8:15am** — leave 416 W 49th → LGA. *(Pushed from 7:45 — 30 min buffer trimmed; LGA is ~30 min from Midtown.)*
 - **10:00am** — DL989 departs LGA. **2:50pm (PHX)** — land. *(calendar block shows ET end 5:50pm.)*
 
 ## Pacing rules (the steps/stamina plan)
