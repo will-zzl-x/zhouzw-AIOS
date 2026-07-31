@@ -231,6 +231,47 @@ vehicle where this rigor gets pressure-tested against a real warm-network busine
 gap already named ("no warm-channel test has been run"), now with a second angle: practice ground
 for disciplined-not-vibe AI engineering, not just the offer-construction test.
 
+## Addendum — Will narrows to #1 + #2, read as a sequence (7/31, live)
+
+**Stated preference:** "I like candidates 1 & 2." Logged as input to Aug 24, not as the decision.
+
+**Read: convergent, not oscillation — flagged honestly either way.** Today was a heavy-consumption
+day (three YouTube AI-automation creators evaluated, two Hormozi transcripts). That is precisely
+the pattern the anti-oscillation clause exists to catch. What separates this from the three
+five-day swerves in W30: the landing point is where this file's own analysis already pointed — #1
+rated *edge fit: highest*, #2 *high*, both on the supply side of the master filter. No new vertical
+was introduced, and nothing was reopened. Aug 24 should weigh it as convergence, with the
+consumption context on the record.
+
+**The substantive reframe: #1 and #2 are not alternatives, they are a sequence.** #1 walks Will
+into small B2B service businesses to fix ops with automation; #2 buys a small B2B service business
+whose bottlenecks are dispatching / routing / quote-to-invoice. Same room. So running #1 also:
+- generates the missing data point — a stranger pays for the edge — at near-zero capital;
+- doubles as deal-source reconnaissance: inside real operations, meeting operators, learning which
+  sectors actually carry the bottlenecks, instead of reading listings in the abstract;
+- builds an operator proof point ("I took $X out of this business") that carries weight with a
+  seller and a lender at #2's LOI stage, where this file rates deal-sourcing 3/10.
+
+**The trap to name now: #1 decays into #3 by default.** Candidate #3 is rated *ceiling low…
+structurally opposed to the truly-absentee end state*. The only thing separating #1 from #3 is
+productization — reusable machinery vs. bespoke hourly work. If each engagement is rebuilt from
+scratch, #1 **is** #3: it caps out while eating the time #2 needs. Guardrail for whatever Aug 24
+picks: engagement two must reuse engagement one's machinery.
+
+**Unresolved arithmetic Aug 24 must confront (surfaced 7/31).** The debt doctrine (7/26 — cash +
+non-recourse seller note ONLY, no SBA, no PG) has never been reconciled against the Deal Box (5/25
+— $500k–$700k clean). $75k fund + $2k/mo reaches roughly $95–100k by a mid-2027 close; against a
+$500k purchase that implies a seller note near 80–85% of price, non-recourse — rare enough to treat
+as a binding constraint, not a detail. Three ways out, and the quarterly has to pick one: shrink the
+box (but the $286k SDE floor and $953k revenue floor were derived from it), loosen the doctrine (set
+deliberately, and hard), or extend the timeline to accumulate cash (pushes against the late-2027
+exit). **This is the strongest structural argument for sequencing #1 first** — it produces cash and
+operator credibility while the box/doctrine tension gets resolved, rather than stalling on it.
+
+**Unchanged, still the weakest link:** the warm-channel correction above (~1 connector + two
+real-estate doors, NOT five service-biz owners) sits directly on #1's demand premise. One real
+conversation resolves it, and it remains the highest-information prep available before the quarterly.
+
 ## Anti-oscillation clause
 
 This file is the input to one decision on one date. Until Aug 24: no vertical decisions, no
