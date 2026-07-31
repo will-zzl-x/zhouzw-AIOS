@@ -582,3 +582,11 @@ Format: ✓ = done, □ = planned/pending
 □ Promo doc final 20% — ship by Wed 7/29
 □ Villa Solara guest-commit asks split and sent
 □ Call Mom before Thursday flight
+
+**2026-07-30 (Thu)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Protein-first eating, untracked maintenance
+✓ Solo-space rep: unannounced 15–30 min block
+✓ Start Broadway lottery entries — TodayTix
+✓ Phone outside bedroom overnight
+□ Attend ESM festival class — Friday 4pm
+□ Dance at evening social — midnight–3:30am
