@@ -203,6 +203,34 @@ The 7/27 edge session ran Hormozi's *"what problems have you personally suffered
 
 **What survives for the fat-loss domain (so the interest isn't just killed):** if fat-loss/meal stays in play at all, the edge-compatible shape is **candidate #3 re-pointed B2B** — sell the planning *system/engine* to coaches/gyms/dietitians as a tool (fewer customers, higher price, routes through the 9/10 negotiation + trust-building edge and the warm channel) rather than to consumers via app-store marketing. That rescues the domain Will actually cares about by swapping the demand-side go-to-market for a supply-side one. Still lower edge-fit than candidates #1/#2; logged, not elevated. **Open for the quarterly:** would Will rather (a) bet the pure edge play and keep fitness as an untainted personal keystone, or (b) consciously pursue the passion play knowing it fights his weakest lines + risks entangling training-as-mental-health with income pressure?
 
+## Addendum — vibe-prompting diagnosis + Hormozi AI-adjacent-skills take (7/31, live)
+
+Will's own read on his day-job AI practice: "not really learning AI, I'm brute forcing vibe
+prompting and building and refinements." Distinguish from the 9/10 self-rating above — that rating
+is the *output* (six-workflow production suite, cloned successfully during OOTO), not necessarily
+the *practice* that produced it. Deadline-driven ad hoc prompting can still ship real artifacts
+while staying shallow as a discipline.
+
+Source: Hormozi (NYC talk) on the AI-replaces-jobs question. Core point: adaptability beats any
+specific skill ("most flexible player wins"); AI-adjacent competence is heading toward "assumed"
+the way Word/Excel proficiency did — window to differentiate on it is closing but hasn't closed.
+Contrarian aside worth weighting: he thinks current LLM training shows diminishing returns (GPT3→4
+was a bigger jump than 4→5; his own team deliberately runs older models on some workflows because
+they're faster/less "sloppy"). Reads as a check on urgency-driven skill-panic — same lesson as
+"proof over consumption," applied to *which* AI skill instead of *which* acquisition vertical.
+
+**What this actually names:** not a new skill gap — the capability table already rates AI-tooling
+9/10 — but a **rigor gap**. The senior-level version of the same skill is disciplined
+agentic-engineering practice (plan before build, verification loops, subagent-driven execution,
+git-committed/team-shareable workflows) vs. deadline-driven ad hoc prompting. Free to practice now,
+doesn't require picking a vertical, deepens the existing 9/10 line rather than starting a new one
+from zero.
+
+**Where it connects to the candidates above:** candidate #1 (productized AI-ops service) is the
+vehicle where this rigor gets pressure-tested against a real warm-network business — the same open
+gap already named ("no warm-channel test has been run"), now with a second angle: practice ground
+for disciplined-not-vibe AI engineering, not just the offer-construction test.
+
 ## Anti-oscillation clause
 
 This file is the input to one decision on one date. Until Aug 24: no vertical decisions, no
