@@ -154,6 +154,25 @@ The graze is ~600–800 cal of mostly refined carbs/sugar in one sitting. You're
 6. Confirm ESM passes cover the three classes + three socials listed.
 7. Haircut: get it in Phoenix before the trip if wanted (dropped from the NYC schedule per Will).
 
+## Forecast — REFRESHED 7/31 midday (day-part detail; supersedes the 7/30 table below on timing, not on the base highs/lows)
+
+**Source method changed this pass:** direct fetch to forecast.weather.gov / AccuWeather / weather.com was blocked (session egress policy — same constraint noted in the 7/29 pull below; not something worth routing around). Pulled via web search instead, which is noisier — cross-checked everything below and **caught one bad signal worth flagging: several "severe storms / tornado watch / flash flood Saturday" articles that came back were actually about Saturday July 18** (confirmed via the NYCEM press-release URL date and CNN's dateline) — a storm system from two weeks ago, not this weekend. Discarded. No credible tornado/severe-storm signal for Sat 8/1 as of this pull.
+
+| Day | High/Low (7/30 NWS baseline) | Day-part detail (this pass, confidence noted) |
+|---|---|---|
+| **Fri 7/31 (today)** | 83/69, mostly sunny | AM: sunny, humid, current readings noisy/conflicting between sources (70–78°F, RealFeel 73–79°) — treat as "warm and muggy," not precise. PM: isolated/spotty shower possible (one source: 30% pm), not a washout. **Overnight: drier air moving in** — humidity dropping into tonight, which is good news for the ~4am walk back from Black & Gold (already a non-issue per the packing section; now more comfortable, not less). *Moderate confidence.*
+| **Sat 8/1** | 84/71, partly sunny, none listed | Humidity climbing through the day. **Afternoon/early-evening shower-or-storm chance returning** (one recurring theme across sources, generic seasonal pattern language — NOT the tornado event above). This sits right on top of the walk to Vigil Mass (5pm) and the Restaurant Row dinner (6–7:30pm). *Moderate-low confidence, no severe-weather signal* — worth an actual radar glance around 4pm before heading to St. Malachy's, same as you'd do anyway. Compact umbrella earns its spot on Saturday too, not just Sun-night/Mon.
+| **Sun 8/2** | 81/70, dry day / 50% overnight | No credible update found — search returned only generic climatology (77/72, no timing). **Doc's existing plan stands as-is**: go to the park at 3:15pm as scheduled, decide-at-1:50pm radar check already in the calendar event covers this.
+| **Mon 8/3** | 82/70, storms after 2pm, 40%/30% | Slight favorable shift: newer read says **storms mainly after 5pm, 30% chance** (vs. 2pm/40% in the 7/30 pull) — plausible real tightening now that it's 3 days out instead of 6. If it holds, the 1–3pm Central Park block and the Vessel morning clear more comfortably. Still pack the shell; still worth a look before heading out. *Moderate confidence.*
+| **Tue 8/4** | 85/70, sunny, none listed | Search mostly returned monthly-climatology noise here (78/65 — discard, it's a monthly average, not a dated forecast, and cites no near-term source). **The 7/30 NWS-sourced 85°F/sunny stays the trustworthy number** — it's both more recent and from the primary source. No change.
+| **Wed 8/5** | 86, sunny | Corroborated — multiple sources converge on 84–87°F, sunny, no rain signal. Morning ~75°F at departure. No change to the 8:15am leave time.
+
+**Net for adapting live this weekend:**
+1. **Saturday is the one day that moved from "no rain listed" to "worth watching."** Nothing severe confirmed — just an ordinary afternoon/evening shower-or-storm pattern sitting on the Vigil Mass walk + dinner window. Check radar ~4pm before leaving for St. Malachy's; the umbrella/shell is now a Saturday item too.
+2. **Monday's storm risk may be arriving later and lighter than the 7/30 read** (5pm/30% vs 2pm/40%) — good news for the Central Park repeat block, not yet certain enough to drop the shell.
+3. **Fri/Sun/Tue/Wed are unchanged from the 7/30 NWS baseline** — no new signal strong enough to override it.
+4. Given how noisy aggregated search results are for same-week forecasts (one query surfaced a two-week-old storm event under the right day-of-week), **the highest-value real-time check going forward is glancing at the NWS/radar app directly on your phone right before each outdoor block** (Sat ~4pm, Sun 1:50pm — already planned, Mon before 1pm) rather than asking me to re-pull search-sourced data mid-week.
+
 ## Forecast — REFRESHED 7/30 (NWS OKX point forecast for Manhattan, issued 9:30pm EDT 7/29)
 
 **This supersedes the 7/29 table below. Source: forecast.weather.gov (official NWS, not an aggregator) — the Mon/Tue numbers that were flagged "soft" have now firmed up and they MOVED.**
