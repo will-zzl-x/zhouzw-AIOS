@@ -568,3 +568,17 @@ Format: ✓ = done, □ = planned/pending
 □ Dance micro-rep: 1–2 songs, one pillar today
 □ Promo doc final 20% — ship by Wed 7/29
 □ Run 2 deal evals, log gaps to acquisition-log
+
+**2026-07-29 (Wed)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Festival wardrobe: 3 themed outfits ready to pack
+✓ Affidavit form printed and trip-packed
+✓ Train Session 8: Ravage Block Wk4
+✓ Phone charged outside bedroom last night?
+✓ Dance micro-rep: 1–2 songs, one pillar today
+✓ Solo-space rep: 15–30 min unannounced block
+✓ Morning weigh-in, log 7-day rolling average
+✓ Hit 150g protein, reverse-diet calories
+□ Walk 12,500 steps today
+□ Promo doc final 20% — ship by Wed 7/29
+□ Villa Solara guest-commit asks split and sent
+□ Call Mom before Thursday flight
