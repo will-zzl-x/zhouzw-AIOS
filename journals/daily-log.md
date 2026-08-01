@@ -590,3 +590,11 @@ Format: ✓ = done, □ = planned/pending
 ✓ Phone outside bedroom overnight
 □ Attend ESM festival class — Friday 4pm
 □ Dance at evening social — midnight–3:30am
+
+**2026-07-31 (Fri)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Solo-space rep: unannounced 15–30 min block
+✓ Continue Broadway lottery entries on TodayTix
+✓ Attend ESM festival class — Friday 4pm
+□ Dance at evening social tonight
+□ Phone outside bedroom overnight
+□ Protein-first eating, loose maintenance
