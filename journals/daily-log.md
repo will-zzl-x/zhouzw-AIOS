@@ -598,3 +598,10 @@ Format: ✓ = done, □ = planned/pending
 □ Dance at evening social tonight
 □ Phone outside bedroom overnight
 □ Protein-first eating, loose maintenance
+
+**2026-08-01 (Sat)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Attend ESM festival class — Saturday 2pm
+□ Dance at evening social tonight
+□ Solo-space rep: unannounced 15–30 min block
+□ Protein-first eating, loose maintenance
+□ Phone outside bedroom overnight
