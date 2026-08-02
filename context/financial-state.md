@@ -20,7 +20,7 @@ Last updated: July 26, 2026 (Roth IRA re-plan)
 | Elena's emergency fund | $15k |
 | Elena's earmarked fund (wedding/car/misc, HYSA) | $44k |
 | Will's S&ME / acquisition fund | $70k |
-| Will's wedding savings (auto $305/mo) | ~$1,066 (May 2026) |
+| Will's wedding savings (auto $350/mo) | ~$1,066 (May 2026) |
 
 ## Allocations
 
@@ -28,7 +28,7 @@ Last updated: July 26, 2026 (Roth IRA re-plan)
 - $2k/month → taxable acquisition fund (full $24k/yr)
 - **Roth IRA (re-planned 2026-07-26): 2026 = MAXED ✓** (limit rose to $7,500 — IRS Notice 2025-67; single phase-out $153k–168k, Will ~$101k = fully eligible, direct contributions, no backdoor needed). **Going forward: Q1 front-load, WEIGHTED EARLY (Will 7/26)** — Dec: earmark surplus toward the Jan buy (one-month exception to buffer-routing; more Dec surplus = bigger Jan tranche) · **target shape ~$3,500 Jan 2 / ~$2,500 Feb 1 / ~$1,500 Mar 1** = $7,500 maxed; flex each tranche up if excess allows (best case: all of it Jan 2), Mar is the remainder-catcher. Rule of thumb: whatever surplus exists after the $2k acquisition sweep goes to the IRA first until maxed, then reverts to acquisition-fund routing. Contributions stay withdrawable = liquidity backstop, but plan is to never touch it (fully separate from acquisition capital).
 - **Roth allocation (Merrill Edge — no fractional ETF buys, so low-share-price iShares over Vanguard): 80% ITOT / 20% IXUS** (0.03%/0.07% ER, both commission-free). Each tranche = $2,000 ITOT / $500 IXUS, whole shares, residue rolls to next tranche. 0% bonds/cash (35-yr horizon, tax-free wrapper = growth only; bonds would go in the 401k if ever). DRIP ON both. **Rebalance once/yr in January** via new-contribution steering; sell/buy only if contributions can't close the gap. One-time cleanup: deploy any settlement-fund cash, consolidate legacy positions into the two-fund core (selling inside Roth = tax-free).
-- $305/month auto-transfer to wedding savings
+- $350/month auto-transfer to wedding savings (corrected 2026-08-02 from stale $305 figure, per Will's actual budget app)
 - HSA: **$0 personal, $500/yr Amazon seed only** (set May 28). Seed over-funds <$100/yr medical out-of-pocket ~5x. Ramp to $4,400 max post-acquisition or once medical-receipt tracking starts.
 
 ## Wedding Budget
