@@ -32,7 +32,7 @@
 
 - **The Logai genocide.** Part of Vane's rise to power was an attempt to exterminate the Logai, a race that held total, inherited knowledge of the past. Only Tessa and her twin sister survived; Vane captured the twin and has kept her ever since. Tessa severed whatever let the sisters' knowledge stay shared, so their knowledge has diverged since separation. *(Flagged in conversation as possible Book 4 prequel material.)*
 - **The twin sister built Vane's pure-blood categorization/gift-analysis system** — the same system the prologue shows in action. Laila is the first subject it has ever failed to classify.
-- **James's origin.** His father, a Valsk clan leader, kidnapped a half-breed woman intending to breed a pure-blood weapon. James was born with green eyes and no gold, initially dismissed as "giftless" — a dud. His father experimented on him trying to force a gift out (mechanism/extent not yet detailed), eventually gave up, and moved to kill both James and his mother. At that moment James's Extraction/Beast manifested for the first time, killing much of the camp, including the father. James and his mother (whom he calls "mom") escaped and later joined the Rogue. James is the only pure-blood the Rogue has ever taken in.
+- **James's origin.** His father, a Valsk clan leader, kidnapped a half-breed woman intending to breed a pure-blood weapon. James was born with green eyes and no gold, initially dismissed as "giftless" — a dud. His father experimented on him trying to force a gift out (mechanism/extent not yet detailed), eventually gave up, and moved to kill both James and his mother. At that moment James's Extraction/Beast manifested for the first time, killing much of the camp, including the father. James and his mother (whom he calls "mom") escaped and later joined the Rogue. James is the only pure-blood the Rogue has ever taken in. His mother is alive and now serves as a nanny in the Rogue's nursery, caring for young children the Rogue finds.
 
 ## Rules of daily life
 
@@ -53,6 +53,5 @@
 ## Open questions
 
 - Does James know his half-brother survived the massacre and is continuing their father's experiments on other halfling children?
-- Is James's mother still alive?
 - Do Tessa and her twin retain any residual connection Vane could exploit?
 - Shape of the human incentive system (reward vs. mandate to turn in Ascendants).

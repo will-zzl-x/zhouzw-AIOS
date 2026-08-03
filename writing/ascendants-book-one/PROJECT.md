@@ -37,7 +37,6 @@ A dictator (Aurelius Vane) hunts and collects pure-blood Ascendants to consolida
 - Cost of Eryx's cloning gift when a clone dies unplanned; cap on simultaneous clones.
 - Cost/mechanics of Laila's dormant gift-projection ability, and how it gets hinted at before Book 3.
 - Does James know his half-brother survived the massacre and is continuing their father's experiments?
-- Is James's mother still alive?
 - Do Tessa and her twin retain any residual link Vane could exploit?
 - Does Vane suspect James's existence before the Book 1 climax, and does he want to kill or capture him once he learns?
 - Shape of the human incentive system for turning in pure-bloods (reward vs. mandate).

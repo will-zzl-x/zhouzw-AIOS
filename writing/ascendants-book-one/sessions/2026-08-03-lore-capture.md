@@ -19,7 +19,6 @@
 - Cost of Eryx's cloning gift on an unplanned clone death; any cap on simultaneous clones.
 - Cost/mechanics of Laila's dormant gift-projection ability, and how/when it first gets hinted at before its Book 3 payoff.
 - Does James know his half-brother survived the massacre and is continuing their father's experiments on halfling children?
-- Is James's mother still alive?
 - Do Tessa and her twin retain any residual link Vane could exploit, or is the severance total?
 - Does Vane suspect James's existence before the Book 1 climax? Does he want to kill or capture/control him once he learns?
 - Shape of the human incentive system for turning in pure-bloods (reward vs. mandate).
@@ -30,3 +29,7 @@
 
 - Elena's call: resolve the naming question, decide on `style.md`, and/or keep brainstorming plot mechanics (the clone-of-Laila climax, Vane's reaction to learning about James, the prologue's sorting-system opening).
 - The drafted chapters still live only in Google Docs — worth copying into `manuscript/` when Elena's ready to version them alongside the bible.
+
+## Update (same day)
+
+- Resolved: James's mother is alive. She serves as a nanny in the Rogue's nursery, caring for young children the Rogue finds. `james.md`, `world.md`, and `PROJECT.md` updated to reflect this.

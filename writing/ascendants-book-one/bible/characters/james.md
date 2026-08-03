@@ -42,6 +42,7 @@ Fiercely protective and gentle with the vulnerable (Laila, Ceryne, Katiana's pas
 | Katiana | Bar-owner, information source, needling older-sister figure | James saved her from her abusive uncle years ago; she's one of the only people who sees through his deflections |
 | Pascal & Rosaline | The doctor and his wife who patch him up | Some of the only genuinely good, uninvolved people in his life; he protects their safety by not lingering near their cottage |
 | His father (deceased) | *(N/A — dead before the story starts)* | Attempted to breed him as a weapon, tortured him trying to force a gift out, tried to kill him and his mother — the reason the Beast exists as "the Beast" rather than something he grew up controlling calmly |
+| His mother | *(N/A — not yet on page)* | Alive. Escaped the massacre with James; now serves as a nanny in the Rogue's nursery, caring for young children the Rogue finds/takes in |
 | His half-brother | *(unknown to other characters)* | Possibly still alive and continuing their father's experiments on halfling children — open question below |
 
 ## Arc
@@ -59,5 +60,5 @@ Fiercely protective and gentle with the vulnerable (Laila, Ceryne, Katiana's pas
 
 - Does James believe he killed everyone in the massacre, or does he know a brother survived?
 - Was James himself subjected to his father's formula/experiments as a child, before the Beast first manifested?
-- Is his mother still alive, and does she appear on the page?
+- Does James visit the Rogue nursery / see his mother with the found children? Does that stir anything about his own childhood?
 - What's the lie he believes about himself — confirm rather than assume.
