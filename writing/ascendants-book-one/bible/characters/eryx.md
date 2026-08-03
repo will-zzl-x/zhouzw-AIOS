@@ -17,7 +17,7 @@ A half-breed Rogue infiltrator with a cloning gift, who spent years undercover a
 
 ## Interior
 
-- **What he wants:** the Rogue's cause to win — the "better good" of their world, per his own framing.
+- **What he wants:** the Rogue's cause to win — the "better good" of their world, per his own framing. His specific reason for extracting Laila at all: he genuinely believes the Rogue is the safest place for her outside Vane's own territory — this is presented as sincere motive, not just cover.
 - **What he actually needs:** *(open)*
 - **What he's afraid of:** *(open)*
 - **The lie he believes:** that using people as pawns is justified as long as the end goal is good enough. (He does this to both Laila and James at first.)

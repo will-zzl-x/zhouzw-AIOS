@@ -44,6 +44,9 @@ When a catastrophic threat arose, the Protector's need to shield the world twist
   - **Eryx** — Cloning: each clone is genuinely *him*, piloted directly (not a puppet) — what a clone says or does, he is doing. He can vary surface details (e.g. eye color) between his true self and a clone. Has never cloned anyone but himself before Book 1's climax, when he clones Laila.
   - **Aurelius Vane** — total mental subjugation/control. Does not work on Laila — his single greatest frustration.
   - **Tessa (Logai)** — not a "gift" in the Ascendant sense; total, passive, inherited knowledge of the past.
+  - **The tracker/bounty hunter** — marks a pure-blood with a trackable tattoo (this is what the manuscript calls "the maker's mark," borne only by "Elites") and can track them through it afterward. On Laila, the mark took physically but the tracking function doesn't work — same as Vane's control, no gift functions on her — though the mark is visually indistinguishable from a working one, which is what makes the Rogue's fear of it plausible-looking even though it's actually inert.
+
+- **Rule, confirmed twice on-page:** no Ascendant gift functions on Laila — not just Vane's mental control, but also the tracker's mark/tracking ability. Worth treating as an absolute rather than a partial immunity unless a reason to break it shows up.
 
 ## Cost
 
@@ -73,7 +76,7 @@ When a catastrophic threat arose, the Protector's need to shield the world twist
 | Rule shown | Chapter |
 |---|---|
 | James physically restrains "the Beast" through mental discipline; it reacts far more violently in Laila's presence than ever before | Ch. 1 (alley) |
-| Pure-bloods carry "the maker's mark," a mark at the base of the neck — Laila has it | Ch. 2 |
+| "The maker's mark" (base of the neck) is actually the tracker's marking gift — normally borne only by "Elites." Laila has it, placed on her at some point in Vane's custody, but it doesn't function as a tracker on her since no gift works on her | Ch. 2 (seen); mechanism clarified later in conversation |
 | James's touch triggers a hyper-sensory episode in *him* (heightened perception, not in her) before he snaps back to normal | Ch. 2 |
 | Eryx (as "Eris") can clone himself; a clone appears at James's side ("Both versions said in unison") | Ch. 2 (dock) |
 | Anamae (Ceryne) are shapeshifters — shown shifting between cat, wolf pup, snake, and large wolf forms | Ch. 2–3 |

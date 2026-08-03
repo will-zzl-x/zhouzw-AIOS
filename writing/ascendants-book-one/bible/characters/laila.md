@@ -43,6 +43,7 @@ An isolated pawn who has spent her whole life being protected and contained — 
 | Eryx ("Eris") | Trusted protector/mentor who died trying to save her | Orchestrated her extraction as a pawn "for the greater good"; the "Eris" she knew and grieved was a clone-identity, not his real self or name |
 | James | A stranger, human as far as she can tell, who saved her and is oddly gentle for someone so clearly capable of violence | *(early days — romance arc still ahead)*. After they rescue halfling children together and bring them to the Rogue, she watches him reunite with his mother — he calls her "mom," kisses her cheek; his mother is warm, hugs him, and he visibly resembles her. It's the first time Laila sees him fully unguarded, and the first time she's ever witnessed an actual mother-child bond in person — she has none of her own to compare it to. She says nothing about it to him at the time; it surfaces later as their connection builds |
 | Ash | The child she saved, growing attached to her | She turns away from him in the reunion-scene moment, overwhelmed — a beat she'll likely have to reckon with later |
+| The Rogue (community) | Split. Some are wary of her — she bears "the maker's mark" (the tracker's marking gift) on her neck, and fear it lets the Guard find her, and through her, the Rogue itself. Others — the families who just got their children back — want to welcome her. | The mark is actually inert on her (no gift functions on her), but the Rogue doesn't know that. Everyone trusts James, and James trusts her, which carries real weight either way. |
 
 ## Arc
 
@@ -62,3 +63,4 @@ An isolated pawn who has spent her whole life being protected and contained — 
 - Does she suspect she has more than Sight before Book 3, even subconsciously?
 - What is her actual conscious goal at the story's start, beyond wanting to stay in the villa?
 - Where exactly does her arc turn?
+- Does the wary faction of the Rogue come around to trusting her, and if so, what changes their minds?
