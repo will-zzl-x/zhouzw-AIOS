@@ -22,6 +22,7 @@ A pure-blood born to humans, immune to Aurelius Vane's mind control, and the sol
 - **What they're afraid of:** sensory overload / hyper-vigilance from a lifetime of isolation.
 - **The lie she believes:** *(open)*
 - **The wound:** she has never had a mother. As a very young toddler — before the villa, and already showing raw Sight (she could locate people inside their own homes) — she went door to door on her own, begging strangers for help. She was consistently turned away or driven off, until a man pretended to help her and instead delivered her straight into Aurelius Vane's custody. That betrayal is presumably how she ended up in Vane's system at all, later "resettled" into the villa's house arrest. On top of that: near-total isolation under house arrest; the villa raid; genuinely believing her gift wasn't fast enough to save "Eris."
+- **How the wound drives a choice:** during the lab-dome rescue, Laila originally plans to save only a few of the halfling children — but ends up saving the small boy too (likely the "young one" she carries against her chest in a makeshift carrier in the drafted pages, with red/gold eyes, whom she hushes to "keep it contained"). Her own childhood of being turned away and abandoned is what pushes her past her original plan.
 
 ## Under pressure
 
