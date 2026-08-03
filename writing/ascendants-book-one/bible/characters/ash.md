@@ -30,7 +30,7 @@ A very young halfling child with a fire-based gift he can't yet control, rescued
 
 | Person | What they'd say out loud | What's actually true |
 |---|---|---|
-| Laila | The woman who saved him | She turns away from him in the Rogue reunion-scene moment, overwhelmed by watching James and his mother — even as Ash calls out to her. Likely something she has to reckon with later. |
+| Laila | The woman who saved him | She turns away from him in the Rogue reunion-scene moment, overwhelmed by watching James and his mother — even as Ash calls out to her. Working idea: she comes back to check on him quietly while he's asleep. |
 | The other rescued children | Fellow prisoners who named him | They were stolen directly from the Rogue; Ash wasn't — worth deciding why the facility had him at all if not through the same pipeline |
 
 ## Open questions
