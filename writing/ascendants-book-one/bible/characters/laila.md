@@ -53,7 +53,7 @@ An isolated pawn who has spent her whole life being protected and contained — 
 ## Arc
 
 - **Where she starts (emotionally):** an isolated pawn living in safe containment, unaware of the outside world or the war being fought over her.
-- **Where she ends (Book 1):** exiled from the Rogue alongside James, then returning anyway to help save it during Vane's raid — costing the tracker's gift (and her mark) in the process. Heads into Book 2 hunted by Vane directly.
+- **Where she ends (Book 1):** exiled from the Rogue alongside James, then returning anyway to help save it during Vane's raid — costing the tracker's gift (and her mark) in the process. Heads into Book 2 hunted by Vane directly, and chooses, with James, not to return to living at the Rogue even after saving it, to avoid endangering it further. Main cast of Book 2: Eryx, James, Laila, Tessa.
 - **Where she ends (trilogy-long arc):** a hyper-vigilant survivor who initially treats people as variables to calculate → an autonomous force who uses her Sight to choose her own future.
 - **The moment it turns:** *(open — two strong candidates now on the table: the reunion scene, where she first sees James unguarded, and the training-exercise/trial fallout, where her own flaw does real, exposed damage to him and the relationship. The second might be the sharper turn, since it's the story actually making her pay a cost for the "people as variables" instinct rather than just observing it.)*
 

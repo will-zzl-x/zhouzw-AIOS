@@ -51,7 +51,7 @@ Fiercely protective and gentle with the vulnerable (Laila, Ceryne, Katiana's pas
 ## Arc
 
 - **Where he starts (emotionally):** in exile from his own worst moment, believing containment of the Beast is the only thing keeping him human.
-- **Where he ends (Book 1):** literally exiled from the Rogue — the one community that ever fully accepted him — for finally using the thing he's spent his life containing, then choosing to save that same community anyway. Heads into Book 2 hunted by Vane, alongside Laila.
+- **Where he ends (Book 1):** literally exiled from the Rogue — the one community that ever fully accepted him — for finally using the thing he's spent his life containing, then choosing to save that same community anyway. Heads into Book 2 hunted by Vane, alongside Laila — and chooses, along with her, not to return to living at the Rogue even after saving it, to avoid endangering it further while they're targets. Main cast of Book 2: Eryx, James, Laila, Tessa.
 - **The moment it turns:** likely tied to meeting Laila, whose presence makes the Beast react like never before. Two strong candidates for where this crystallizes: the reunion with his mother at the Rogue (Laila first sees him unguarded), and the trial/exile (his deepest fear about himself is confirmed and made public, by the person he's falling for). Worth deciding which carries more weight, or whether they're sequential beats in the same arc.
 
 ## Voice sample

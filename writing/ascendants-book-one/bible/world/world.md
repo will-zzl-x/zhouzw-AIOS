@@ -63,6 +63,7 @@
 | Present, during Rogue training (midpoint) | A splinter group of halflings opposed to Tessa's decision use a training exercise as cover for a real attempt on Laila's life. Laila, predicting James will intervene, lets it play out. James extracts the attacker's gift rather than killing him — his first-ever extraction of a person's gift, and against one of his own |
 | Present, shortly after | Tessa calls a trial over the incident. The Rogue learns what Laila did and what James actually is. Real conflict opens between James and Laila — she baited him into becoming the person he never wanted to be. Working idea: they're exiled from the Rogue as a result |
 | Present, Book 1 climax | While exiled, James and Laila learn of an incoming Guard raid on the Rogue and return to warn/help them fight it off and escape. Laila sets a similar trap to draw out the tracker sent by Vane; Eryx clones her to confuse him; James extracts the tracker's gift — his second extraction. Laila's mark disappears (it was sourced from the tracker's gift); Vane loses control of pure-bloods marked outside his headquarters — a real but partial slip in his power. Vane watches through the tracker's eyes and learns James exists — sets up Book 2, where he hunts both of them directly |
+| Into Book 2 | James and Laila choose *not* to return to living at the Rogue, even after helping save it — they have new goals of their own, and don't want to endanger the community further while Vane is actively hunting them. Eryx, James, Laila, and Tessa are the main cast of Book 2. |
 
 ## Open questions
 
@@ -79,5 +80,7 @@
 - Who leads the splinter faction, and what happens to the depowered attacker afterward — exiled, imprisoned, something else?
 - How does James and Laila's conflict after the trial actually resolve — what has to happen for them to move past "she baited him into becoming the person he never wanted to be"? Does saving the Rogue during the raid do that work, or does it stay a live wound into Book 2?
 - How do exiled James and Laila learn about the incoming raid in time to warn the Rogue?
-- Does the Rogue take James and Laila back in after they save everyone during the raid, or do they stay exiled going into Book 2?
+- Resolved: James and Laila choose not to return to the Rogue in Book 2 — their own choice, not continued banishment, driven by new goals and not wanting to endanger the Rogue further while hunted. What are those new goals?
+- What is Eryx doing across the gap into Book 2 — does he stay at the Rogue, or does he also leave to work with James and Laila?
+- What's Tessa's throughline into Book 2, given she's a main cast member there too — does she stay Rogue-based, or does her role expand beyond it?
 - Mechanism worth deciding: why does extracting the tracker's gift sever Vane's control over marked pure-bloods outside HQ specifically? (Possibility: the marks function as some kind of relay that extends Vane's own control gift beyond his physical presence, and the tracker's gift powers/maintains that relay — but this is speculation, not established.)
