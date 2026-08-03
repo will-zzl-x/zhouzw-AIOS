@@ -38,6 +38,7 @@ Has built the most thorough Ascendant-detection system in the world, and it is s
 
 - Absolute mental subjugation/control over others.
 - Does not work on Laila — the one documented failure of his power.
+- **Established at Book 1's climax:** his control over marked pure-bloods reaches outside his physical presence — when James extracts the tracker's gift, Vane loses control over every pure-blood the tracker marked who's outside his headquarters area. Not a large number, but a real, meaningful crack. Exact mechanism not yet explained (see `magic-system.md`).
 
 ## Relationships
 
@@ -45,8 +46,8 @@ Has built the most thorough Ascendant-detection system in the world, and it is s
 |---|---|---|
 | Tessa's twin sister | A valuable asset who built his classification system | Kept captive since childhood, following the genocide that killed her people and separated her from her twin |
 | Laila | An asset worth acquiring | The one person whose mind and gift he cannot classify or control — a standing, personal frustration |
-| James | *(unaware he exists, at least through Book 1)* | Will learn of James's existence at the end of Book 1, watching through the eyes of a tracker whose gift James extracts (doesn't kill, just depowers) |
-| The tracker/bounty hunter | A useful asset | The same man who, years earlier, delivered a young, abandoned Laila into Vane's custody after gaining her trust as a fellow gold-eyed pure-blood |
+| James | *(unaware he exists, at least through Book 1)* | Will learn of James's existence at the end of Book 1, watching through the eyes of a tracker whose gift James extracts (doesn't kill, just depowers). Becomes his direct hunting target going into Book 2, alongside Laila — both for what James is and for the control he cost Vane. |
+| The tracker/bounty hunter | A useful asset | The same man who, years earlier, delivered a young, abandoned Laila into Vane's custody after gaining her trust as a fellow gold-eyed pure-blood. His extraction at Book 1's climax costs Vane control over every pure-blood he'd marked outside headquarters. |
 
 ## Arc
 
@@ -57,3 +58,4 @@ Has built the most thorough Ascendant-detection system in the world, and it is s
 - Does Vane suspect James's existence before the Book 1 climax, or is that reveal a complete surprise to him?
 - Once he learns of James, does he want to kill him or capture/control him — given James is arguably a bigger existential threat to Vane than Laila?
 - What is Vane's personal backstory/motive for the genocide and the total-control obsession?
+- How does Vane react, politically/personally, to losing control of a chunk of his marked pure-bloods — does this become public within his regime, and does it destabilize him at all, or is it easily contained/covered up?
