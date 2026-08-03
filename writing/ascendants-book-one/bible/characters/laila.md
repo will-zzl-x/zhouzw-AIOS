@@ -17,10 +17,10 @@ A pure-blood born to humans, immune to Aurelius Vane's mind control, and the sol
 
 ## Interior
 
-- **What she wants:** *(open — manuscript establishes she loved her quiet villa life and didn't want to leave it, but her deeper conscious goal isn't decided yet)*
-- **What she actually needs:** *(open)*
+- **What she wants:** freedom to choose — the life she gets to have, and how she uses her own gift. The direct thematic opposite of Vane's gift, which is control. Her arc is about claiming agency, and this is its clean, conscious-goal form: not just escape or survival, but the right to choose for herself.
+- **What she actually needs:** *(still open)*
 - **What they're afraid of:** sensory overload / hyper-vigilance from a lifetime of isolation.
-- **The lie she believes:** *(open)*
+- **The lie she believes:** the world is black-and-white, tactile, decision-based — you do X, you get expected outcome Y. This isn't just upbringing; it's load-bearing for how her gift works, since Sight is built on reading physical vectors and predicting outcomes with near-total accuracy. James cracks this open by introducing things (love, jealousy, compassion) that have no clean causal explanation and don't reduce to a predictable outcome — a direct throughline to her established flaw (Sight glitches on irrational/emotionally-driven behavior). The lie and the flaw are the same blind spot, just named from two different angles: she believes the world computes because her power only works on things that do.
 - **The wound:** she has never had a mother. As a very young toddler — before the villa, and already showing raw Sight (she could locate people inside their own homes) — she went door to door on her own, begging strangers for help. She was consistently turned away or driven off, until a gold-eyed man — believing him, at last, to be someone like her who would care for her — let her trust him, then delivered her straight into Aurelius Vane's custody. That man is the same pure-blood tracker/bounty hunter Vane later sends after her at Book 1's climax, whose gift James extracts. That betrayal is presumably how she first ended up in Vane's system at all, later "resettled" into the villa's house arrest, and marked with the tracker's tattoo at some point in that custody. On top of that: near-total isolation under house arrest; the villa raid; genuinely believing her gift wasn't fast enough to save "Eris."
 - **The mark's disappearance closes this loop.** At Book 1's climax, James extracting the tracker's gift makes the mark on Laila's neck vanish — the literal, physical trace of her childhood betrayal disappearing at the same moment she and James are actively saving the community that had just exiled them both. Good candidate for a real "reclaiming" beat, though it lands after the Rogue has already judged her by that same mark.
 - **How the wound drives a choice:** during the lab-dome rescue, Laila originally plans to save only a few of the halfling children — but ends up saving Ash too (the "young one" she carries against her chest in a makeshift carrier in the drafted pages — fire-based gift, "fire in his veins," red/gold glowing eyes, whom she hushes to "keep it contained"). Her own childhood of being turned away and abandoned is what pushes her past her original plan. See `ash.md`.
@@ -67,7 +67,7 @@ An isolated pawn who has spent her whole life being protected and contained — 
 
 - Name spelling: manuscript uses "Leila" throughout; the reference lore doc uses "Laila." Needs to be resolved as canon.
 - Does she suspect she has more than Sight before Book 3, even subconsciously?
-- What is her actual conscious goal at the story's start, beyond wanting to stay in the villa?
+- What she actually *needs* (as distinct from wants freedom to choose) — the thing she'd resist hearing.
 - Where exactly does her arc turn?
 - Does the wary faction of the Rogue come around to trusting her, and if so, what changes their minds?
 - The trial exposes what she did (James learns it). Does Laila herself come to see it as a real wrong she committed, or does she initially defend/rationalize the choice? How does she and James actually repair this?
