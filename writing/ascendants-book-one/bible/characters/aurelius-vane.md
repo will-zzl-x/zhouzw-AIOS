@@ -46,6 +46,7 @@ Has built the most thorough Ascendant-detection system in the world, and it is s
 | Tessa's twin sister | A valuable asset who built his classification system | Kept captive since childhood, following the genocide that killed her people and separated her from her twin |
 | Laila | An asset worth acquiring | The one person whose mind and gift he cannot classify or control — a standing, personal frustration |
 | James | *(unaware he exists, at least through Book 1)* | Will learn of James's existence at the end of Book 1, watching through the eyes of a tracker whose gift James extracts (doesn't kill, just depowers) |
+| The tracker/bounty hunter | A useful asset | The same man who, years earlier, delivered a young, abandoned Laila into Vane's custody after gaining her trust as a fellow gold-eyed pure-blood |
 
 ## Arc
 

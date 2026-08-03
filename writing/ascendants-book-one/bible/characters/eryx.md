@@ -40,7 +40,7 @@ Genuinely loves/cares for Laila (spent years training and protecting her as "Eri
 - He can vary surface details between clones and his true self (e.g., "Eris"'s eye color conceals his real half-breed mark).
 - He infiltrated the Guard as "Eris" specifically — meaning Laila's own household security was compromised from the inside for years.
 - The "Eris" clone died for real during the villa raid because the Valsk crew he hired to fake the kidnapping turned on him — this wasn't the planned, controlled sacrifice; it was a genuine loss forced by a betrayal outside his control.
-- Has never cloned anyone but himself before Book 1's climax, when he clones Laila (to confuse a tracker sent by Vane) — his first-ever attempt at cloning someone else.
+- Has never cloned anyone but himself before Book 1's climax, when he clones Laila (to confuse a tracker sent by Vane) — his first-ever attempt at cloning someone else. That tracker is the same gold-eyed man who delivered a young, abandoned Laila into Vane's custody years earlier — Eryx may or may not know that history.
 
 ## Relationships
 

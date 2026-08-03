@@ -28,7 +28,7 @@ A pure-blood carrying the rare, reassembled core essence of the Protector — a 
 - Frightened: locks the Beast behind a "steel door" through sheer willpower and discipline; visibly braces (hand on wall, arm across chest) when it's fighting to get out.
 - Gets power: *(open — has never let the Beast out on purpose since the massacre, as far as established)*
 - Would betray someone he loves: *(open)*
-- Line he won't cross: doesn't kill when he doesn't have to — established at the end of Book 1 when he extracts a tracker's gift rather than killing him. Circumstance that could push him over it: *(open, but likely tied to Laila's safety)*
+- Line he won't cross: doesn't kill when he doesn't have to — established at the end of Book 1 when he extracts a tracker's gift rather than killing him. Circumstance that could push him over it: *(open, but likely tied to Laila's safety)*. Note: this tracker is the same man who, years earlier, delivered a young, abandoned Laila into Vane's custody — whether James knows that history at the time is an open question worth deciding, since it changes how much restraint this scene is actually costing him.
 
 ## Contradiction
 
