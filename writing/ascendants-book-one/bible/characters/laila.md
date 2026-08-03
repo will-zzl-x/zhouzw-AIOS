@@ -32,6 +32,7 @@ A pure-blood born to humans, immune to Aurelius Vane's mind control, and the sol
 - Gets power: *(open — this is the Book 3 "awakening" arc; not yet decided how she handles it)*
 - Would betray someone she loves: *(open)*
 - Line she won't cross: *(open)*
+- **A calculated risk-taking streak, at real cost to others.** During a Rogue training exercise, a splinter faction opposed to her presence uses it as cover for a real attempt on her life. Her Sight tells her James will intervene to save her — so she lets the attack play out, partly out of curiosity about how he'll do it. This works, but James's rescue costs him dearly: he extracts the attacker's gift rather than killing him, turning his most feared power on a fellow Rogue member for the first time. Worth naming plainly: this is Laila treating a real threat to herself as a calculated bet, the same instinct that makes her read people as variables — and doing so has a real cost that isn't hers to pay. Echoes Eryx's core flaw (using people/outcomes as instruments toward a goal) right after she was on the receiving end of exactly that from him.
 
 ## Contradiction
 
@@ -66,3 +67,4 @@ An isolated pawn who has spent her whole life being protected and contained — 
 - What is her actual conscious goal at the story's start, beyond wanting to stay in the villa?
 - Where exactly does her arc turn?
 - Does the wary faction of the Rogue come around to trusting her, and if so, what changes their minds?
+- Does James ever learn she could have defended herself during the training-exercise attack and chose to let it play out out of curiosity? That seems like something that would matter a great deal to him, given what the rescue costs him.
