@@ -605,3 +605,7 @@ Format: ✓ = done, □ = planned/pending
 □ Solo-space rep: unannounced 15–30 min block
 □ Protein-first eating, loose maintenance
 □ Phone outside bedroom overnight
+
+**2026-08-03 (Mon)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+□ Protein-first eating, loose maintenance
+□ Solo-space rep: unannounced 15–30 min block
