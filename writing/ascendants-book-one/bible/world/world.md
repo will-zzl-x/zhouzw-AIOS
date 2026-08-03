@@ -33,6 +33,7 @@
 - **The Logai genocide.** Part of Vane's rise to power was an attempt to exterminate the Logai, a race that held total, inherited knowledge of the past. Only Tessa and her twin sister survived; Vane captured the twin and has kept her ever since. Tessa severed whatever let the sisters' knowledge stay shared, so their knowledge has diverged since separation. *(Flagged in conversation as possible Book 4 prequel material.)*
 - **The twin sister built Vane's pure-blood categorization/gift-analysis system** — the same system the prologue shows in action. Laila is the first subject it has ever failed to classify.
 - **James's origin.** His father, a Valsk clan leader, kidnapped a half-breed woman intending to breed a pure-blood weapon. James was born with green eyes and no gold, initially dismissed as "giftless" — a dud. His father experimented on him trying to force a gift out (mechanism/extent not yet detailed), eventually gave up, and moved to kill both James and his mother. At that moment James's Extraction/Beast manifested for the first time, killing much of the camp, including the father. James and his mother (whom he calls "mom") escaped and later joined the Rogue. James is the only pure-blood the Rogue has ever taken in. His mother is alive and now serves as a nanny in the Rogue's nursery, caring for young children the Rogue finds.
+- **The half-brother's facility.** In a later chapter, James is captured and tortured by a man who calls him "brotha" and references their father's formula — his half-brother, apparently continuing the father's experiments on halfling children with the same aqua-blue-vialed formula. Laila infiltrates the facility during this and rescues several of the children while James is held captive.
 
 ## Rules of daily life
 
@@ -49,9 +50,11 @@
 | — | James's Beast manifests for the first time, killing the father and much of the camp; James and his mother escape and eventually join the Rogue |
 | Present, Ch. 1 | Eryx (as "Eris") stages a fake kidnapping to smuggle Laila to the Rogue; the Valsk crew he hired turns on him mid-raid — the "Eris" clone genuinely dies, and Laila is genuinely abducted |
 | Present, Ch. 2–3 | James rescues Laila from the Valsk in an alley; brings her to Pascal & Rosaline, then to his own hideout |
+| Present, later chapter (likely the torture/lab-dome pages shared earliest in conversation) | James is captured and tortured by a man who calls him "brotha" and references "fatha's" formula — likely James's half-brother, confirming he's alive — while Laila infiltrates a lab-dome facility and rescues several halfling children being experimented on with the same formula |
+| Present, shortly after | Laila and James bring the rescued children to the Rogue; James reunites with his mother there; Laila sees a new, unguarded side of him for the first time |
 
 ## Open questions
 
-- Does James know his half-brother survived the massacre and is continuing their father's experiments on other halfling children?
+- Did James already know his brother survived before the torture-scene confrontation, or is that scene the first time he learns it?
 - Do Tessa and her twin retain any residual connection Vane could exploit?
 - Shape of the human incentive system (reward vs. mandate to turn in Ascendants).

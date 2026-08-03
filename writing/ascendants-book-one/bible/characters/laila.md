@@ -39,13 +39,13 @@ An isolated pawn who has spent her whole life being protected and contained — 
 | Person | What they'd say out loud | What's actually true |
 |---|---|---|
 | Eryx ("Eris") | Trusted protector/mentor who died trying to save her | Orchestrated her extraction as a pawn "for the greater good"; the "Eris" she knew and grieved was a clone-identity, not his real self or name |
-| James | A stranger, human as far as she can tell, who saved her and is oddly gentle for someone so clearly capable of violence | *(early days — romance arc still ahead)* |
+| James | A stranger, human as far as she can tell, who saved her and is oddly gentle for someone so clearly capable of violence | *(early days — romance arc still ahead)*. After they rescue halfling children together and bring them to the Rogue, she sees him reunite with his mother — the first time she sees him fully unguarded |
 
 ## Arc
 
 - **Where she starts (emotionally):** an isolated pawn living in safe containment, unaware of the outside world or the war being fought over her.
 - **Where she ends (trilogy-long arc):** a hyper-vigilant survivor who initially treats people as variables to calculate → an autonomous force who uses her Sight to choose her own future.
-- **The moment it turns:** *(open)*
+- **The moment it turns:** *(open — the Rogue reunion scene, where she first sees James unguarded with his mother, is a strong candidate)*
 
 ## Voice sample
 

@@ -42,14 +42,14 @@ Fiercely protective and gentle with the vulnerable (Laila, Ceryne, Katiana's pas
 | Katiana | Bar-owner, information source, needling older-sister figure | James saved her from her abusive uncle years ago; she's one of the only people who sees through his deflections |
 | Pascal & Rosaline | The doctor and his wife who patch him up | Some of the only genuinely good, uninvolved people in his life; he protects their safety by not lingering near their cottage |
 | His father (deceased) | *(N/A — dead before the story starts)* | Attempted to breed him as a weapon, tortured him trying to force a gift out, tried to kill him and his mother — the reason the Beast exists as "the Beast" rather than something he grew up controlling calmly |
-| His mother | *(N/A — not yet on page)* | Alive. Escaped the massacre with James; now serves as a nanny in the Rogue's nursery, caring for young children the Rogue finds/takes in |
-| His half-brother | *(unknown to other characters)* | Possibly still alive and continuing their father's experiments on halfling children — open question below |
+| His mother | *(N/A — not yet on page)* | Alive. Escaped the massacre with James; now serves as a nanny in the Rogue's nursery, caring for young children the Rogue finds/takes in. James reunites with her after bringing rescued halfling children back to the Rogue — Laila witnesses him unguarded for the first time in this moment |
+| His half-brother | Calls James "brotha," references "fatha's" formula while torturing him — likely confirms he's alive and continuing the father's experiments | Runs (or is part of) a facility experimenting on halfling children with the same formula their father was perfecting; James is captured and tortured by him while Laila infiltrates the facility and rescues several of the children |
 
 ## Arc
 
 - **Where he starts (emotionally):** in exile from his own worst moment, believing containment of the Beast is the only thing keeping him human.
 - **Where he ends:** *(open)*
-- **The moment it turns:** likely tied to meeting Laila, whose presence makes the Beast react like never before.
+- **The moment it turns:** likely tied to meeting Laila, whose presence makes the Beast react like never before. The reunion with his mother at the Rogue after the lab-dome rescue is a strong candidate for where Laila (and the reader) first sees him without his guard up — worth deciding if this is *the* turn or one of several.
 
 ## Voice sample
 
@@ -58,7 +58,6 @@ Fiercely protective and gentle with the vulnerable (Laila, Ceryne, Katiana's pas
 
 ## Open questions
 
-- Does James believe he killed everyone in the massacre, or does he know a brother survived?
+- Did James already know his brother survived before the torture-scene confrontation, or is that scene the first time he learns it?
 - Was James himself subjected to his father's formula/experiments as a child, before the Beast first manifested?
-- Does James visit the Rogue nursery / see his mother with the found children? Does that stir anything about his own childhood?
 - What's the lie he believes about himself — confirm rather than assume.
