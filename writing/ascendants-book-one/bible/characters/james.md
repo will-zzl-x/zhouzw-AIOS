@@ -43,7 +43,7 @@ Fiercely protective and gentle with the vulnerable (Laila, Ceryne, Katiana's pas
 | Pascal & Rosaline | The doctor and his wife who patch him up | Some of the only genuinely good, uninvolved people in his life; he protects their safety by not lingering near their cottage |
 | His father (deceased) | *(N/A — dead before the story starts)* | Attempted to breed him as a weapon, tortured him trying to force a gift out, tried to kill him and his mother — the reason the Beast exists as "the Beast" rather than something he grew up controlling calmly |
 | His mother | *(N/A — not yet on page)* | Alive. Escaped the massacre with James; now serves as a nanny in the Rogue's nursery, caring for young children the Rogue finds/takes in. James reunites with her after bringing rescued halfling children back to the Rogue — Laila witnesses him unguarded for the first time in this moment |
-| His half-brother | Calls James "brotha," references "fatha's" formula while torturing him — likely confirms he's alive and continuing the father's experiments | Runs (or is part of) a facility experimenting on halfling children with the same formula their father was perfecting; James is captured and tortured by him while Laila infiltrates the facility and rescues several of the children |
+| His half-brother (paternal only — different mother) | Calls James "brotha," references "fatha's" formula while torturing him | Runs (or is part of) a facility experimenting on halfling children with the same formula their father was perfecting. James did not know this brother was alive before this confrontation — it's a reveal to him, not prior knowledge. Unconnected to his mother's story/thread. |
 
 ## Arc
 
@@ -58,6 +58,6 @@ Fiercely protective and gentle with the vulnerable (Laila, Ceryne, Katiana's pas
 
 ## Open questions
 
-- Did James already know his brother survived before the torture-scene confrontation, or is that scene the first time he learns it?
 - Was James himself subjected to his father's formula/experiments as a child, before the Beast first manifested?
+- Does James tell anyone (his mother, Laila, the Rogue) about the half-brother afterward, or keep it to himself?
 - What's the lie he believes about himself — confirm rather than assume.

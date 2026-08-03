@@ -36,7 +36,7 @@ A dictator (Aurelius Vane) hunts and collects pure-blood Ascendants to consolida
 - Leila vs. Laila — which spelling is canon?
 - Cost of Eryx's cloning gift when a clone dies unplanned; cap on simultaneous clones.
 - Cost/mechanics of Laila's dormant gift-projection ability, and how it gets hinted at before Book 3.
-- Did James already know his brother survived before the torture-scene confrontation, or is that scene the first time he learns it?
+- Does James tell anyone (his mother, Laila, the Rogue) about the half-brother afterward, or keep it to himself?
 - Do Tessa and her twin retain any residual link Vane could exploit?
 - Does Vane suspect James's existence before the Book 1 climax, and does he want to kill or capture him once he learns?
 - Shape of the human incentive system for turning in pure-bloods (reward vs. mandate).
