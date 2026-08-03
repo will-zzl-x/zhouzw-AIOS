@@ -21,7 +21,7 @@ A pure-blood born to humans, immune to Aurelius Vane's mind control, and the sol
 - **What she actually needs:** *(open)*
 - **What they're afraid of:** sensory overload / hyper-vigilance from a lifetime of isolation.
 - **The lie she believes:** *(open)*
-- **The wound:** near-total isolation under house arrest; the villa raid; genuinely believing her gift wasn't fast enough to save "Eris."
+- **The wound:** she has never had a mother. As a very young toddler — before the villa, and already showing raw Sight (she could locate people inside their own homes) — she went door to door on her own, begging strangers for help. She was consistently turned away or driven off, until a man pretended to help her and instead delivered her straight into Aurelius Vane's custody. That betrayal is presumably how she ended up in Vane's system at all, later "resettled" into the villa's house arrest. On top of that: near-total isolation under house arrest; the villa raid; genuinely believing her gift wasn't fast enough to save "Eris."
 
 ## Under pressure
 
@@ -39,7 +39,7 @@ An isolated pawn who has spent her whole life being protected and contained — 
 | Person | What they'd say out loud | What's actually true |
 |---|---|---|
 | Eryx ("Eris") | Trusted protector/mentor who died trying to save her | Orchestrated her extraction as a pawn "for the greater good"; the "Eris" she knew and grieved was a clone-identity, not his real self or name |
-| James | A stranger, human as far as she can tell, who saved her and is oddly gentle for someone so clearly capable of violence | *(early days — romance arc still ahead)*. After they rescue halfling children together and bring them to the Rogue, she sees him reunite with his mother — the first time she sees him fully unguarded |
+| James | A stranger, human as far as she can tell, who saved her and is oddly gentle for someone so clearly capable of violence | *(early days — romance arc still ahead)*. After they rescue halfling children together and bring them to the Rogue, she watches him reunite with his mother — he calls her "mom," kisses her cheek; his mother is warm, hugs him, and he visibly resembles her. It's the first time Laila sees him fully unguarded, and the first time she's ever witnessed an actual mother-child bond in person — she has none of her own to compare it to |
 
 ## Arc
 

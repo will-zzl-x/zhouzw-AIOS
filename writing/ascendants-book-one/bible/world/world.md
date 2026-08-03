@@ -45,6 +45,7 @@
 
 | When | What happened |
 |---|---|
+| Laila's early childhood | As a toddler, already showing raw Sight (she could locate people inside their own homes), she went door to door alone begging for help. People consistently turned her away or drove her off. A man eventually pretended to help her and instead delivered her into Aurelius Vane's custody — presumably how she first entered Vane's system, before later being placed under house arrest in the villa |
 | Tessa's childhood | The Logai genocide; Tessa and her twin sister are the only survivors; the twin is captured and kept by Vane |
 | James's childhood | Born in a Valsk camp to a kidnapped half-breed mother; raised as a would-be weapon by his father |
 | — | James's Beast manifests for the first time, killing the father and much of the camp; James and his mother escape and eventually join the Rogue |
@@ -58,3 +59,5 @@
 - Does James tell anyone (his mother, Laila, the Rogue) about the half-brother afterward, or keep it to himself?
 - Do Tessa and her twin retain any residual connection Vane could exploit?
 - Shape of the human incentive system (reward vs. mandate to turn in Ascendants).
+- Who was the man who delivered young Laila to Vane, and does he matter again later (informant, bounty system, recurring figure)?
+- Does Laila remember/recall this period consciously (flashback material) or is it something closer to a buried, half-formed memory?
