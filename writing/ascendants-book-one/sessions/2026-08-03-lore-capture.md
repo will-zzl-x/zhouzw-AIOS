@@ -48,3 +48,10 @@
 - Major Book 1 ending sketched (working idea, not fully locked): the trial ends with James and Laila exiled from the Rogue. While exiled, they learn of an incoming Guard raid and return to warn/help save the Rogue anyway. During the raid, Laila's trap draws out the tracker; James's second extraction takes his gift. Two consequences: Laila's mark disappears (it was sourced from the tracker's gift), and Vane loses control of every pure-blood the tracker marked outside his headquarters — a real but partial slip in his power. Vane watches through the tracker's eyes and learns James exists — sets up Book 2, where he hunts both of them directly. Updated `world.md`, `magic-system.md`, `james.md`, `laila.md`, `aurelius-vane.md`.
 - Correction: only Laila ever had the tracker's mark — James was never marked. (Error was in chat narration only, not in any bible file — verified nothing needed fixing on disk.)
 - Resolved: James and Laila choose not to return to living at the Rogue in Book 2, even after saving it during the raid — their own choice, driven by new goals and not wanting to endanger the Rogue further while Vane hunts them. Book 2's main cast: Eryx, James, Laila, and Tessa. Updated `world.md`, `james.md`, `laila.md`.
+
+## Character-trait pass (same day)
+
+Shifted from plot to character interior work — Elena flagged she's struggling to write scenes without these nailed down. Working through want/need/lie one character at a time, question-first rather than assigning traits.
+
+- **Laila resolved:** wants freedom to choose (direct thematic opposite of Vane's control). Lie: the world is black-and-white/decision-based — mechanically tied to how her Sight works, and the same blind spot as her established flaw (glitches on irrational/emotional behavior). Needs to be wanted for nothing, not as an asset/weapon/burden — finds this with James and with Ash. `laila.md` updated throughout.
+- Next: same three questions (want/need/lie) for James.
