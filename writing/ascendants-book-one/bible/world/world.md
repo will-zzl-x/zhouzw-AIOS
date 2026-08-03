@@ -6,38 +6,53 @@
 
 ## The setting in three sentences
 
-## Where the story happens
+*(Not yet written — Elena's to draft when ready.)*
 
-*(Only places that appear. Name + what it feels like + why it matters to the plot.)*
+## Where the story happens
 
 | Place | Feel | Story role |
 |---|---|---|
-| | | |
+| Laila's villa | Luxury sanctuary that's actually a prison; isolated | Where she's raised under house arrest; site of the botched "fake" kidnapping that kicks off the plot |
+| The Outskirts | Desolate, sand-scoured wasteland outside the city; lawless | Home to Pascal & Rosaline; where James's own hidden residence lies, shielded from scrying eyes |
+| The underworld tavern (Katiana & Portia's bar) | Rowdy, one of the most popular bars in the underworld; secretly run by two women who quietly control the gossip economy | James's oldest friendship and information network |
+| Vane's fortress | Clinical, bureaucratic processing facility for captured Ascendants | Opens the prologue; where subjects are analyzed and categorized by gift |
+| The Rogue's hidden base | Far from Guard HQ; deliberately hidden from humans and pure-bloods alike; family- and community-oriented | Home base for the resistance; James's adoptive community (its only pure-blood member) |
+| The Valsk camp (James's father's clan) | Brutal, piratical, transient | Site of James's origin and the massacre that first manifested his gift |
+| The lab-dome (halfling children facility) | Domed building, five levels, walls lined with aqua-blue vials | Where James's half-brother continues their father's formula experiments; site of Leila/Laila's rescue of the halfling children |
 
 ## Factions / powers
 
-*(Who wants what, and who's in whose way.)*
-
 | Faction | Wants | Opposes | Leader |
 |---|---|---|---|
-| | | | |
+| The Guard / the regime | Total control; consolidate all pure-blood power under one hand | The Rogue; any unregistered Ascendant | Aurelius Vane ("the Sovereign") |
+| The Rogue | Protect half-breeds; dismantle the regime | The Guard | Tessa |
+| The Valsk | Survive via raiding, kidnapping, black-market trade — disorganized, no unified goal beyond their own clan | Whoever's in their way, opportunistically | Various clan leaders (incl. James's father, deceased) |
 
 ## History that matters now
 
-*(Only backstory that presses on the present. Everything else is trivia.)*
+- **The Logai genocide.** Part of Vane's rise to power was an attempt to exterminate the Logai, a race that held total, inherited knowledge of the past. Only Tessa and her twin sister survived; Vane captured the twin and has kept her ever since. Tessa severed whatever let the sisters' knowledge stay shared, so their knowledge has diverged since separation. *(Flagged in conversation as possible Book 4 prequel material.)*
+- **The twin sister built Vane's pure-blood categorization/gift-analysis system** — the same system the prologue shows in action. Laila is the first subject it has ever failed to classify.
+- **James's origin.** His father, a Valsk clan leader, kidnapped a half-breed woman intending to breed a pure-blood weapon. James was born with green eyes and no gold, initially dismissed as "giftless" — a dud. His father experimented on him trying to force a gift out (mechanism/extent not yet detailed), eventually gave up, and moved to kill both James and his mother. At that moment James's Extraction/Beast manifested for the first time, killing much of the camp, including the father. James and his mother (whom he calls "mom") escaped and later joined the Rogue. James is the only pure-blood the Rogue has ever taken in.
 
 ## Rules of daily life
 
-*(Technology level, travel time between key places, currency, religion, class structure — whatever the characters bump into.)*
+- Ascendants are born randomly to human parents; most are abandoned in infancy out of fear.
+- A modern system (exact shape undecided — reward vs. mandate) encourages humans to hand pure-blood Ascendants over to Vane's regime.
+- Gold-eye purity is the universal, visible classification method society uses to sort Ascendants: full gold = pure-blood, partial/sliver/single eye = half-breed, no gold = presumed human.
 
 ## Timeline
 
-*(Append-only. Keeps continuity honest across a long draft.)*
-
 | When | What happened |
 |---|---|
-| | |
+| Tessa's childhood | The Logai genocide; Tessa and her twin sister are the only survivors; the twin is captured and kept by Vane |
+| James's childhood | Born in a Valsk camp to a kidnapped half-breed mother; raised as a would-be weapon by his father |
+| — | James's Beast manifests for the first time, killing the father and much of the camp; James and his mother escape and eventually join the Rogue |
+| Present, Ch. 1 | Eryx (as "Eris") stages a fake kidnapping to smuggle Laila to the Rogue; the Valsk crew he hired turns on him mid-raid — the "Eris" clone genuinely dies, and Laila is genuinely abducted |
+| Present, Ch. 2–3 | James rescues Laila from the Valsk in an alley; brings her to Pascal & Rosaline, then to his own hideout |
 
 ## Open questions
 
--
+- Does James know his half-brother survived the massacre and is continuing their father's experiments on other halfling children?
+- Is James's mother still alive?
+- Do Tessa and her twin retain any residual connection Vane could exploit?
+- Shape of the human incentive system (reward vs. mandate to turn in Ascendants).

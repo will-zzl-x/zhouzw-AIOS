@@ -1,0 +1,61 @@
+# Laila (manuscript currently spells her "Leila" — unresolved, see Open Questions)
+
+**Role in the story:** Protagonist
+**First appears:** Chapter 1
+
+---
+
+## The one-line version
+
+A pure-blood born to humans, immune to Aurelius Vane's mind control, and the sole living vessel of the Mother's original, unsplit Sight — raised in total isolation and unaware of what she actually is.
+
+## Surface
+
+- Golden eyes that fade completely to black when her gift drains her, returning with a razor-thin, brilliant gold ring of absolute clarity.
+- Raised in near-total isolation under house arrest in a luxury villa; light brown hair (manuscript detail); trained hands (calluses noted by James).
+- How a stranger would describe her after five minutes: analytical, stoic, soft-spoken, deliberate — but capable of dry, deadpan humor once comfortable ("Giftless huh?").
+
+## Interior
+
+- **What she wants:** *(open — manuscript establishes she loved her quiet villa life and didn't want to leave it, but her deeper conscious goal isn't decided yet)*
+- **What she actually needs:** *(open)*
+- **What they're afraid of:** sensory overload / hyper-vigilance from a lifetime of isolation.
+- **The lie she believes:** *(open)*
+- **The wound:** near-total isolation under house arrest; the villa raid; genuinely believing her gift wasn't fast enough to save "Eris."
+
+## Under pressure
+
+- Frightened: her predictive Sight glitches specifically around irrational, panic-driven, or wildly reckless behavior (established flaw) — she reads vectors and probabilities, and chaos breaks the model.
+- Gets power: *(open — this is the Book 3 "awakening" arc; not yet decided how she handles it)*
+- Would betray someone she loves: *(open)*
+- Line she won't cross: *(open)*
+
+## Contradiction
+
+An isolated pawn who has spent her whole life being protected and contained — and is, unknowingly, the sole carrier of the single most powerful and consequential gift in the world's history. Analytical, controlled exterior vs. a dormant, world-altering ability she doesn't know she has.
+
+## Relationships
+
+| Person | What they'd say out loud | What's actually true |
+|---|---|---|
+| Eryx ("Eris") | Trusted protector/mentor who died trying to save her | Orchestrated her extraction as a pawn "for the greater good"; the "Eris" she knew and grieved was a clone-identity, not his real self or name |
+| James | A stranger, human as far as she can tell, who saved her and is oddly gentle for someone so clearly capable of violence | *(early days — romance arc still ahead)* |
+
+## Arc
+
+- **Where she starts (emotionally):** an isolated pawn living in safe containment, unaware of the outside world or the war being fought over her.
+- **Where she ends (trilogy-long arc):** a hyper-vigilant survivor who initially treats people as variables to calculate → an autonomous force who uses her Sight to choose her own future.
+- **The moment it turns:** *(open)*
+
+## Voice sample
+
+> "Giftless huh?" Leila asked smugly as she peered at him sideways.
+> ...
+> "I'm not sure that I would call killing that many men a talent."
+
+## Open questions
+
+- Name spelling: manuscript uses "Leila" throughout; the reference lore doc uses "Laila." Needs to be resolved as canon.
+- Does she suspect she has more than Sight before Book 3, even subconsciously?
+- What is her actual conscious goal at the story's start, beyond wanting to stay in the villa?
+- Where exactly does her arc turn?
