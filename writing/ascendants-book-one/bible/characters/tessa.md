@@ -51,6 +51,7 @@ Plays the flirtatious "Madame Teresa" persona to the outside world while carryin
 | Her twin sister | *(not yet on page)* | Captured by Vane; built his classification system; their knowledge has diverged since Tessa cut the connection |
 | Eryx | Trusted operative | *(open — does she know/approve of the specifics of how he's handling Laila?)* |
 | James | "Jamie" — clearly long-standing familiarity, per Pascal's reference to Madame Teresa | *(open)* |
+| Laila | The pure-blood James and Eryx brought to the Rogue's door | When the Rogue splits over whether to let Laila in — many fear the tracker's mark on her neck will lead the Guard to them — it's Tessa who overrides the wary faction and lets her in |
 
 ## Arc
 
@@ -65,3 +66,4 @@ Plays the flirtatious "Madame Teresa" persona to the outside world while carryin
 - Do Tessa and her twin retain any residual connection Vane could exploit, or is the severance total?
 - Does Tessa know what Laila's "unknown" classification means for her twin sister specifically — blame, danger, or recognition?
 - What is Tessa's relationship to Eryx and James, concretely?
+- On what grounds does Tessa decide to let Laila in — trust in James, her own read of Laila, political calculation, something tied to her Logai knowledge? Worth deciding since it shapes their first real interaction.
