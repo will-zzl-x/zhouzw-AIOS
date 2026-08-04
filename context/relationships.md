@@ -111,3 +111,9 @@ works.
 **Context:** Most of Will's close friends are Michigan-based. Current life is Chandler/Tempe. Distance and life stage (engaged, Amazon, focused on advancement) are likely contributing to drift.
 
 **First concrete data point:** Large friend-group Banff/Canmore trip (July 2-12, 2026), ~12-14 people from the old friend network (Michigan-era + extended). Active group planning effort with a real roster, lodging logistics, and budget — see `journals/inbox.md` for full state. Worth revisiting this section once the trip happens to assess what it surfaced about the friendship gap.
+
+**Second data point (8/4, NYC):** Three nights staying with Michael (best man) during the NYC/ESM
+trip — affidavit handoff went fine, but Will's own read was "wondering if I could connect with
+Michael more, not much to talk about." Logged as a single observation, not a pattern — the trip
+was schedule-heavy (festival classes/socials most nights) and Michael was hosting more than
+hanging out. Worth watching if it recurs rather than building a mechanism off one data point.
