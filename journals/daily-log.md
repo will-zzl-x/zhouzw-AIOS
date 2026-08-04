@@ -582,3 +582,38 @@ Format: ✓ = done, □ = planned/pending
 □ Promo doc final 20% — ship by Wed 7/29
 □ Villa Solara guest-commit asks split and sent
 □ Call Mom before Thursday flight
+
+**2026-07-30 (Thu)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Protein-first eating, untracked maintenance
+✓ Solo-space rep: unannounced 15–30 min block
+✓ Start Broadway lottery entries — TodayTix
+✓ Phone outside bedroom overnight
+□ Attend ESM festival class — Friday 4pm
+□ Dance at evening social — midnight–3:30am
+
+**2026-07-31 (Fri)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Solo-space rep: unannounced 15–30 min block
+✓ Continue Broadway lottery entries on TodayTix
+✓ Attend ESM festival class — Friday 4pm
+□ Dance at evening social tonight
+□ Phone outside bedroom overnight
+□ Protein-first eating, loose maintenance
+
+**2026-08-01 (Sat)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Attend ESM festival class — Saturday 2pm
+□ Dance at evening social tonight
+□ Solo-space rep: unannounced 15–30 min block
+□ Protein-first eating, loose maintenance
+□ Phone outside bedroom overnight
+
+**2026-08-03 (Mon)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+□ Protein-first eating, loose maintenance
+□ Solo-space rep: unannounced 15–30 min block
+
+**2026-08-03 (Mon)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Protein-first eating, loose maintenance today
+✓ Phone outside bedroom overnight
+✓ Continue Broadway lottery entries on TodayTix
+✓ Dance at ESM social — Mafia Royale night
+□ Solo-space rep: 15–30 min unannounced block
+□ Hand affidavit form to Michael at dinner
