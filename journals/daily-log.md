@@ -609,3 +609,11 @@ Format: ✓ = done, □ = planned/pending
 **2026-08-03 (Mon)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
 □ Protein-first eating, loose maintenance
 □ Solo-space rep: unannounced 15–30 min block
+
+**2026-08-03 (Mon)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Protein-first eating, loose maintenance today
+✓ Phone outside bedroom overnight
+✓ Continue Broadway lottery entries on TodayTix
+✓ Dance at ESM social — Mafia Royale night
+□ Solo-space rep: 15–30 min unannounced block
+□ Hand affidavit form to Michael at dinner
