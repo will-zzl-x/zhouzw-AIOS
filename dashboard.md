@@ -1,8 +1,10 @@
 # Dashboard — Week of July 26, 2026 (NYC TRIP WEEK: fly Thu 7/30, return Wed 8/5)
 
-Q2 quests · Work main: **re-scoped — edge-hunt decided at the Aug 24 quarterly; no vertical decisions before it** · Life main: point of origin — **the festival IS the quest this week** · Phase: reverse diet ends Wed 7/29 → **NYC loose maintenance** · Promo doc: manager-cleared, **final 20% = Monday's top priority** · Themes: externalize triggers · proof over consumption (stress-tested this week — held) · let it land
+Q2 quests · Work main: **re-scoped — edge-hunt decided at the Aug 24 quarterly; no vertical decisions before it** · Life main: point of origin — **all 3 classes + all 3 socials hit, the deploy week landed (mid-trip check 8/4)** · Phase: NYC loose maintenance, through Wed 8/5 return · Promo doc: **fully out of Will's hands (8/4)** — with manager, feedback-provider requests sent · Themes: externalize triggers · proof over consumption (stress-tested twice now — held both times) · let it land
 
-## 📱 PRE-TRIP ACTION LIST (Mon 7/27 – Wed 7/29)
+**Mid-trip check-in ran 8/4** — see `archives/2026-08-04-reflection.md`. Full post-trip resync (this section + backlog) still lands at the ~Aug 9 reflection; the notes below are pre-trip and mostly resolved — kept for the record, not the live plan.
+
+## 📱 PRE-TRIP ACTION LIST (Mon 7/27 – Wed 7/29) — resolved, kept for the record
 
 1. **MONDAY: promo doc final 20%.** Scope = the 20%, not a rewrite. **The W30 synthesis found the content: graft the 7/23 ops artifacts (AZIM classifier backtest · redirectable-finder spec · taker_restrictions.py gate) into Section 2 as L5 scope evidence** — this week's builds ARE the missing evidence (`archives/synthesis/2026-W30.md`, Cross-Domain Bridges).
 2. **Affidavit form from St. Andrew — MUST be in hand before Thursday** (via Elena's Pre-Cana thread). Print it. Michael handoff = Mon 8/3 dinner.
@@ -46,6 +48,6 @@ Q2 quests · Work main: **re-scoped — edge-hunt decided at the Aug 24 quarterl
 ## Major Moves (post-trip queue — do not surface during the trip)
 
 1. **Aug 24 quarterly prep: the edge inventory** — `context/work-experience.md` + Hormozi edge-test → "where does Will have edge?" The quarter's biggest decision, made once.
-2. **Z2 redesign** (two failed slot-designs; needs a different anchor entirely) — at the 8/9 reflection.
+2. **Z2 redesign** (two failed slot-designs; needs a different anchor entirely) — at the 8/9 reflection. **Bundle in: solo-space also needs a travel-week definition** (8/4 mid-trip check found Will proposing festival socials as a stand-in — doesn't fit the rep's own "apart from Elena" definition; same failure class as Z2, worth fixing together).
 3. **Post-NYC resets:** meal-cycle deplete + fresh inventory true-up · flowers timing revisit · Roth one-time cleanup at Merrill (settlement cash, DRIP, consolidate) · weekly-synthesis gap diagnosis (work laptop).
 4. **W31 screen-time read** — the substitution test.
