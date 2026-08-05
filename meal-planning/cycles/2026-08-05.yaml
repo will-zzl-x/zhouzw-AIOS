@@ -86,6 +86,17 @@ selections:
       - { member: Will, slot: M2, servings: 1 }
       - { member: Will, slot: M4, servings: 1 }
 
+  - recipe_id: "45"
+    planned_servings: 18
+    notes: |
+      Freezer meal-prep batch (8/5) — makes a fixed 18, only 5 are slot-assigned to
+      THIS cycle (closes Will's last remaining gap); the other 13 freeze as standing
+      stock for future weeks, not yet assigned to a specific cycle. Grocery buys for
+      the full 18-burrito batch since that's the recipe's natural scale.
+    slot_assignments:
+      - { member: Will, slot: M3, servings: 2 }
+      - { member: Will, slot: M4, servings: 3 }
+
 inventory_snapshot: []
 
 # COVERAGE STATUS (8/5, mid-build): see `make coverage` for current numbers.

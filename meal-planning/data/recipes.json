@@ -3899,5 +3899,130 @@
       "Store components separately; reheat chicken gently or serve cold. Sauce + cucumber salad keep 5-7 days."
     ],
     "on_break": false
+  },
+  {
+    "id": "45",
+    "name": "High-Protein Chicken Enchilada Burritos (Freezer, Makes 18)",
+    "tier": null,
+    "meal_slots": [
+      2,
+      3,
+      4
+    ],
+    "servings": 18,
+    "protein": "Chicken Thigh",
+    "for": "both",
+    "ingredients": [
+      {
+        "name": "Boneless skinless chicken thighs",
+        "amount": "48",
+        "unit": "oz (~3 lb)",
+        "store": "Costco"
+      },
+      {
+        "name": "Taco seasoning packets",
+        "amount": "2",
+        "unit": "packets",
+        "store": "Walmart"
+      },
+      {
+        "name": "Lime juice",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Chicken bouillon",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Green enchilada sauce, canned",
+        "amount": "15",
+        "unit": "oz can (~420g)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic + salt (slow cooker)",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "White rice, dry, cooked SEPARATELY (not in the slow cooker)",
+        "amount": "400",
+        "unit": "g dry (~2 cups)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Roma tomatoes, diced",
+        "amount": "5",
+        "unit": "tomatoes",
+        "store": "Walmart"
+      },
+      {
+        "name": "Jalape\u00f1os, diced",
+        "amount": "3",
+        "unit": "jalape\u00f1os",
+        "store": "Walmart"
+      },
+      {
+        "name": "White onions, diced",
+        "amount": "2",
+        "unit": "onions",
+        "store": "Walmart"
+      },
+      {
+        "name": "Cilantro, chopped",
+        "amount": "1",
+        "unit": "bunch",
+        "store": "Walmart"
+      },
+      {
+        "name": "Lime juice (filling)",
+        "amount": "2",
+        "unit": "limes, juiced",
+        "store": "Walmart"
+      },
+      {
+        "name": "0% Greek yogurt (FAGE recommended)",
+        "amount": "500",
+        "unit": "g (~17.6oz)",
+        "store": "Costco"
+      },
+      {
+        "name": "Reduced-fat cheddar, shredded",
+        "amount": "150",
+        "unit": "g (~5.3oz)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Reduced-fat mozzarella, shredded",
+        "amount": "120",
+        "unit": "g (~4.2oz)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Large burrito-size tortillas",
+        "amount": "18",
+        "unit": "tortillas",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "Source: pasted recipe (Will, 2026-08-05), macros GIVEN not estimated - 445 cal / 32g protein / 52g carb / 12g fat PER BURRITO, makes 18. Freezer meal-prep: assemble all 18, freeze, reheat individually as needed - this is not a single-cycle cook, the surplus rolls into future weeks. RICE NOTE (from the source's own update): original used RightRice (a lentil/chickpea rice alternative, not on hand) which cooks differently than regular rice in a slow cooker - the source itself flags people had trouble fully cooking regular rice in the slow cooker method, so this version cooks the rice SEPARATELY (400g dry, ~2 cups) and folds it in after, rather than adding it raw to the slow cooker. Chill the filling before rolling (fridge/freezer until thickened) - makes assembly far easier. Weigh total filling, divide by 18 for even portions across burritos. REHEAT (source's preferred method): wrap in paper towel, microwave 1:15, flip, microwave another 1:15 (should be defrosted but not fully warmed) -> oven or air fryer at 400F until the tortilla browns/crisps, 6-10 min (faster in air fryer). Uses chicken THIGH, not breast - doesn't compete with the breast packs already committed to the curry/mac this cycle.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Slow cooker: chicken thighs + taco seasoning + 1 Tbsp lime juice + chicken bouillon + green enchilada sauce + garlic/salt to taste. Cook HIGH 2-3 hr or LOW 3-4 hr until shreddable.",
+      "Separately, cook 400g dry rice per package directions (do NOT add raw rice to the slow cooker - it doesn't cook reliably that way with regular rice).",
+      "Shred the cooked chicken in the slow cooker, mix with its cooking liquid.",
+      "Dice tomatoes, jalape\u00f1os, onions; chop cilantro; juice 2 limes.",
+      "Combine: shredded chicken + rice + diced veg + cilantro + lime juice + Greek yogurt + cheddar + mozzarella in a large bowl. Mix thoroughly.",
+      "If the filling is too hot or too loose, chill in the fridge or freezer until thickened - this makes rolling MUCH easier.",
+      "Weigh the total filling, divide by 18 for even portions per burrito.",
+      "Roll into 18 burritos using the large tortillas. Wrap individually and freeze.",
+      "Reheat from frozen: wrap in paper towel, microwave 1:15, flip, microwave another 1:15 (defrosted, not fully warmed) -> oven or air fryer at 400F, 6-10 min until tortilla browns/crisps."
+    ],
+    "on_break": false
   }
 ]
