@@ -2164,10 +2164,10 @@
         "store": "Costco"
       },
       {
-        "name": "Day-old cooked rice (chilled)",
+        "name": "PREP (not a buy): cook + chill rice the day before",
         "amount": "1.8",
         "unit": "cups dry, cooked + chilled overnight",
-        "store": "Walmart"
+        "store": ""
       },
       {
         "name": "Garlic, minced",
@@ -2822,30 +2822,29 @@
         "store": "Walmart"
       },
       {
-        "name": "Ice cubes (optional, for thickness)",
+        "name": "Frozen banana (Will's fork now too, not just Elena's \u2014 confirmed on hand)",
         "amount": "0.5",
-        "unit": "cup",
+        "unit": "banana (~50 cal)",
         "store": ""
       },
       {
-        "name": "Banana (optional, Elena richer version)",
-        "amount": "0.5",
-        "unit": "banana (~50 cal)",
+        "name": "Ground flax + chia blend (Will's fork)",
+        "amount": "1",
+        "unit": "Tbsp each (2 Tbsp total)",
         "store": "Walmart"
       },
       {
-        "name": "Plain Greek yogurt (optional, Elena richer + protein boost)",
+        "name": "Plain Greek yogurt (Will's fork now too, protein boost)",
         "amount": "2",
         "unit": "Tbsp",
         "store": "Costco"
       }
     ],
-    "notes": "PER-SERVING recipe (scale x2 if making for both at once). Now also Will's M1 slot (changed 2026-08-05, Will's own call \u2014 overrides the old 'no shakes for M1' default). BULK-PREP FOR THE WEEK: pre-portion the dry/frozen components (1 scoop whey + 1 cup frozen strawberries) into individual freezer bags/containers, one per morning \u2014 don't pre-blend, whey separates after ~1hr. Each morning: dump bag + milk + ice, blend fresh. CUT-FRIENDLY BASE for Will: skim milk + whey + frozen strawberries + ice = ~250 cal / 30g protein / 2g fat / 30g carbs. ELENA RICHER VARIANT: whole milk + 1/2 banana + 2 Tbsp Greek yogurt = ~400 cal / 35g protein / 6g fat / 50g carbs. Will: skim milk, no banana, no Greek yogurt. Elena: whole milk + banana + Greek yogurt for thickness.",
+    "notes": "PER-SERVING recipe (scale x2 if making for both at once). M1 slot for Will (changed 2026-08-05, overrides the old 'no shakes for M1' default). BULK-PREP FOR THE WEEK: pre-portion the dry/frozen components (1 scoop whey + 1 cup frozen strawberries + 0.5 frozen banana + 1 Tbsp flax + 1 Tbsp chia) into individual freezer bags/containers, one per morning \u2014 don't pre-blend, whey separates after ~1hr. Each morning: dump bag + milk + Greek yogurt, blend fresh. REVISED 2026-08-05 (Will): frozen banana + flax/chia blend + Greek yogurt now IN Will's version too (was cut-only/no-extras before) \u2014 banana is frozen and on hand, flax/chia matches the household's standing shake convention (config.yaml). NO ICE \u2014 not needed. Est. macros/serving (rough): skim milk + whey + strawberries + banana + flax/chia + Greek yogurt \u2248 ~430-460 cal / ~33-35g protein / ~11-13g fat / ~45-50g carb / ~8-9g fiber (flax+chia add meaningful fiber and fat vs. the old bare-bones version). Elena's version stays whole milk + banana + Greek yogurt, no flax/chia unless she wants it too \u2014 ask if she wants to match.",
     "recipe_available": true,
     "recipe_steps": [
-      "Combine in blender: whey protein + frozen strawberries + milk + ice (optional).",
-      "For Elena richer version: also add 1/2 banana + 2 Tbsp Greek yogurt.",
-      "Blend HIGH 30-45 sec until smooth and thick.",
+      "Combine in blender: whey protein + frozen strawberries + frozen banana + milk + flax + chia + Greek yogurt.",
+      "Blend HIGH 30-45 sec until smooth and thick (frozen banana + strawberries give the thickness \u2014 no ice needed).",
       "Pour into glass or shaker bottle.",
       "Drink immediately. If pre-making: best within 30 min; whey separates after 1 hr."
     ],

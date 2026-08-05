@@ -169,19 +169,19 @@
   },
   {
     "item": "Eggs",
-    "quantity": 0,
+    "quantity": 3,
     "unit": "eggs",
     "location": "fridge",
     "freshness_date": "2026-06-25",
-    "note": "True-up 8/5: 7/24 audit had 15 (exp 8/3, now past). ~8-9 used in egg bake; remainder is past freshness date after a week away \u2014 assume spoiled, reconfirm in person before trusting any count."
+    "note": "Corrected 8/5 (Will): 3 eggs actually on hand and good, not fully spoiled as assumed."
   },
   {
     "item": "Chicken breasts",
-    "quantity": 2.06,
-    "unit": "lbs",
+    "quantity": 44,
+    "unit": "oz",
     "location": "freezer",
     "freshness_date": "2026-08-15",
-    "note": "Confirmed 8/5 (Will): a couple packs actually on hand. Prior stale-provenance flag resolved."
+    "note": "Confirmed 8/5 (Will): at least 2 Costco packs, 22oz each = 44oz. Replaces the old uncertain 32.96oz figure."
   },
   {
     "item": "Chicken thighs",
@@ -618,5 +618,13 @@
     "location": "pantry",
     "freshness_date": null,
     "note": "Confirmed on hand 2026-08-05 (Will) - for recipe #42 curry. Estimated quantity, matches the 2-cup need; reconfirm if short."
+  },
+  {
+    "item": "Frozen banana",
+    "quantity": 6,
+    "unit": "banana",
+    "location": "freezer",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will) - frozen and available for shakes."
   }
 ]
