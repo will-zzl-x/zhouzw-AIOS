@@ -87,15 +87,14 @@ selections:
       - { member: Will, slot: M4, servings: 1 }
 
   - recipe_id: "1"
-    planned_servings: 6
+    planned_servings: 4
     notes: |
-      Weekend cook (Sat/Sun) — Chicken Teriyaki, REPLACES the dropped shawarma bowl
-      (8/5). Scaled 1.5x from the base 4-serving/4-thigh recipe to a 6-thigh Costco
-      pack (Will's call — one pack, not the 2-pack/8-thigh scale-up in the recipe's
-      own notes). M2 only per the recipe's meal_slots. Elena S-tier.
+      Chicken Teriyaki, REPLACES the dropped shawarma bowl (8/5). CORRECTED 8/5
+      (Will): base recipe as-is, 4 thighs / 4 servings, no scaling — not the 6-thigh
+      draw used earlier. M2 only per the recipe's meal_slots. Elena S-tier.
     slot_assignments:
-      - { member: Elena, slot: M2, servings: 3 }
-      - { member: Will, slot: M2, servings: 3 }
+      - { member: Elena, slot: M2, servings: 2 }
+      - { member: Will, slot: M2, servings: 2 }
 
   - recipe_id: "43"
     planned_servings: 5
