@@ -1,7 +1,99 @@
 # Promo Doc — Full Context (L4 → L5 SCM II)
 
-_Last updated: 2026-07-26 (synced from ict_automation/promo_doc by Claude). Phone-readable
+_Last updated: 2026-07-29 (synced from ict_automation/promo_doc by Claude). Phone-readable
 reference — the working files live on the work laptop at `ict_automation/promo_doc/`._
+
+## v13 DELTA (2026-07-29) — CURRENT. Read this first; older sections below are historical.
+
+- **Live draft is v13** (`drafts/promo_doc_v13_candidate.md`), rendered to
+  `zhouzw_promo_doc_v13_2026-07-29.docx` AND pushed live to SharePoint as
+  **`zhouzw_promo_doc_v13 (last updated 7.29).docx`**. 2,465 words (source) / 2,442
+  (rendered). v12 preserved as rollback; prior SharePoint copy backed up as
+  `_backup_v12_sharepoint_asof_7.29.docx`. **The share URL CHANGED with the rename —
+  grab a fresh link before sending to anyone.**
+- **Will hand-edited the first half on SharePoint (7/28 PM); 17 edits diffed and folded
+  in.** 12 adopted verbatim — his consistent pattern: plainer Anglo-Saxon over Latinate,
+  trim filler, expand contractions, don't over-claim ("expertise"→"ability",
+  "demonstrated"→"shown" ×5, "operated"→"used", "required"→"needed", "operates"→"works",
+  "don't"→"do not", "IPEX Analytics"→"analytics resources", "Additional"→"More",
+  "the playbook"→"these concepts", cut "in particular", added "Since standardization,").
+- **4 resolved with Will:** (1) Ex4 "(I.e no standard definition…)" had 3 mechanical
+  defects + a dropped item → rewritten as an em-dash clause, no abbreviation. (2) Ex4
+  "slides" → **RESTORED "system"** + "metric of record the steering org reads from" (his
+  edit cost the structural claim under Ownership/Dive Deep; his shorter "49-plus-metric
+  set and ETL pipeline" trim kept). (3) footnote "counterfactual" → **"for the moves that
+  never had to run"** (he asked for plainer language). (4) consistency slips fixed by
+  picking the better form: `linehaul` solid 2/2, `on-time` hyphenated 4/4, restored
+  "eliminating" to kill a *cutting…cutting* verb repeat.
+- **"Fully-priced portion" made concrete** (his ask): now "**on the 63% of loads with
+  fully measured pricing**" = 425/675 loads with all three formula terms real-data-backed.
+- **Doc-wide plain-language pass** (Will: "throughout the doc I have this issue").
+  DOMAIN vocabulary deliberately KEPT (lever ×15, midstream ×6, settlement actuals ×4 —
+  real language of the work; plainer synonyms would read as less competent). Replaced only
+  academic words earning nothing: "deterministic code"→"code that applies the same rules
+  every time"; "tradeoff-aware decisions"→"before they commit to a move"; "taxonomy"→
+  "metric set"; "at hourly grain"→", measured hourly".
+- **Back half edited forward on his pattern** (his instruction, 7/29): Summary "upskills…
+  toward covering"→"develops…building toward their taking on"; Readiness "recurring"→
+  "**lasting** cost discipline"; dir-2 header "Codified judgment as scalable team tooling"
+  →"**Turning team judgment into tools others can run**" (densest jargon in the doc);
+  dir-3 "entitlement" KEPT but glossed as "its full entitlement" + "Concluding"→
+  "Finishing"; dir-4 "new network execution"→"**launching new networks**".
+- **Two deliberate NON-edits (know these if challenged):** (a) the 3 bolded
+  role-guideline phrases in Readiness are **verbatim SCM-guideline quotes** — "foster
+  shared understanding" looks like a Latinate word the pattern would cut, but rewording
+  breaks the verbatim match. (b) The four $ qualifiers ("realized" / "estimated" /
+  "pace" / "run-rate") look like hedges but each marks a **different evidence tier** —
+  collapsing them would overstate the estimated figures.
+- **Numbers unchanged from v12** — no $ figure moved in v13; this was a language pass
+  only. AZIM ~$150K realized / ~$930K EOY / ~$1.3M run-rate; OB NTI ~$570K (basis C);
+  TOFC 189 trailers / ~$685K; 3PIM $229K annualized; ~500 mgr-hrs/yr. Roll-up ~$1.6M+.
+- **Cost-estimator rabbit hole CLOSED (7/29, no code shipped).** Will's call: the $3k
+  escalation gate "was arbitrary from the start," so P80/quantile-gate work was dropped
+  mid-backtest. The median method **is** the live production method in `lane_cost.py` —
+  nothing to ship, zero code delta. Durable finding (in
+  `_notes/wape_diagnosis_2026-07-28.md`): single-number cost accuracy is floor-bound
+  ~17.5-27%, not worth chasing further. Two candidate "wins" died to adversarial
+  verification (temporal look-ahead in the market index; `carrier_group` leakage in the
+  GBM); the honest lagged market-index re-derivation came back 27.4%→27.6% = WORSE.
+  **Do not resurrect the "<20% WAPE" goal — it's retired, with evidence.**
+
+---
+
+## v12 DELTA (2026-07-28) — historical; superseded by v13 above
+
+- **Live draft is now v12** (`drafts/promo_doc_v12_candidate.md`), rendered to
+  `zhouzw_promo_doc_v12_2026-07-28.docx` AND pushed onto the SharePoint file. ~2,430 words.
+- **TOFC re-audited: 146/$336K → 189 trailers / ~$685K estimated** (ground-truth VRID tracker;
+  measured all-in $3,946/trailer × live OTR market comps; Will's ruling: OTR is the
+  counterfactual). Evidence: `evidence/tofc_methodology_audit_2026-07-27.md`.
+- **OB NTI gets its first $ claim: 675 loads / 10.5M units, ~$570K estimated** (basis C —
+  "OTR was the alternative", Will 7/28) on the 425 fully-priced loads. Evidence:
+  `evidence/ob_nti_entitlement_2026-07-27.md` + `ob_nti_counterfactual_sensitivity_2026-07-27.md`
+  (per-lane rows patched 7/28 after adversarial verify; aggregates were always right).
+- **Readiness roll-up now ~$1.6M+ across four levers** ($229K + $150K/$930K/$1.3M AZIM +
+  ~$570K OB NTI + ~$685K TOFC + 500 hrs). Defense line for "why did TOFC grow": trailer count
+  was wrong in old source (189 vs 146), cost side now measured settlement, credit now live
+  market rates.
+- **Will's 7/27-28 edits folded in:** re-org hedging cut (Matt explains verbally if raised);
+  Ex5 bug-catch + goal-ID#164/Green-every-month CUT (Will: "I don't want green every month");
+  DOE cut from dir-4 (ask handed to Terell); Ex1 trims; TOFC "multiple escalations in 2026."
+- **Ex5 LPs now: Bias for Action, Earn Trust** (deliberate repeat with Ex1 — same external
+  partner trusted across two problem types; Insist-on-Highest-Standards dropped with the
+  bug-catch, Think Big rejected as inviting incomplete-pilot scrutiny).
+- **All 5 role-guideline lines are verbatim-checkable** against the SCM IC guideline
+  (swapped 7/27: Ex1 collaborate-stakeholders; Ex2 tech-leverage L5 what-you-do; Ex3
+  trade-offs/optimize-network; Ex4 measurement-systems; Ex5 liaise-escalation-point).
+- **Ex2 has plain-words regression-testing line** ("automated tests that catch breakage
+  before it ships") — strike if Will still objects.
+- **In flight:** WAPE deep-dive workflow (cost-estimator diagnosis → prototype → roadmap;
+  metric stack ruled by Will 7/28: near-gate decision regret primary, calibrated P10–P90
+  band secondary, wMAPE demoted to drift alarm; P80 gates decisions, judged on replayed
+  missed-vs-false-escalation $, never on WAPE). Industry research done:
+  `_notes/spot_rate_model_industry_research_2026-07-28.md` (credible target 20-23% overall,
+  <20% only on well-comped mid-haul; scenario matrix ready).
+- **AZIM share-out docx** gained a portfolio section (TOFC $685K + corridor-has-no-OTR
+  finding) — ready for Will to send to Parth.
 
 ---
 

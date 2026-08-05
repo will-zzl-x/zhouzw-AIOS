@@ -1,6 +1,8 @@
 # Dashboard — Week of August 5, 2026
 
-Q2 quests · Work main: **re-scoped — edge-hunt decided at the Aug 24 quarterly; no vertical decisions before it** · Life main: point of origin — **Z2 + dance still pending redesign** · Phase: **Maintenance (2,350 cal / 150g protein / 50g fat / 325g carbs) — not trend-confirmed, judge ~Aug 14** · Promo doc: shipped, with feedback providers · Themes: externalize triggers · proof over consumption · let it land
+Q2 quests · Work main: **re-scoped — edge-hunt decided at the Aug 24 quarterly; no vertical decisions before it** · Life main: point of origin — **all 3 classes + all 3 socials hit, the deploy week landed (mid-trip check 8/4); Z2 + dance still pending redesign** · Phase: **Maintenance (2,350 cal / 150g protein / 50g fat / 325g carbs), set 8/5, not trend-confirmed, judge ~Aug 14** · Promo doc: fully out of Will's hands (8/4), shipped and with feedback providers · Themes: externalize triggers · proof over consumption (stress-tested twice now — held both times) · let it land
+
+**Mid-trip check-in ran 8/4** (`archives/2026-08-04-reflection.md`) and the trip/phase resync ran 8/5 (`archives/2026-08-05-reflection.md`) — this dashboard reflects both, current as of the 8/5 return.
 
 ## 📱 THIS WEEK'S ACTION LIST
 
@@ -30,9 +32,10 @@ Q2 quests · Work main: **re-scoped — edge-hunt decided at the Aug 24 quarterl
 
 ## Major Moves (top of backlog — see `backlog.md` for full catalog)
 
-1. **Aug 24 quarterly prep: edge inventory** — the quarter's biggest decision, made once.
-2. **Z2 redesign** — two failed slot-designs; needs a different anchor entirely.
-3. **Meal-cycle inventory true-up + new ad hoc cycle** (Wed 8/5–Aug 11) — in progress.
+1. **Aug 24 quarterly prep: edge inventory** — `context/work-experience.md` + Hormozi edge-test → "where does Will have edge?" The quarter's biggest decision, made once.
+2. **Z2 redesign** — two failed slot-designs, needs a different anchor entirely. **Bundle in: solo-space also needs a travel-week definition** (8/4 mid-trip check found Will proposing festival socials as a stand-in — doesn't fit the rep's own "apart from Elena" definition; same failure class as Z2, worth fixing together).
+3. **Meal-cycle inventory true-up + new ad hoc cycle** (Wed 8/5–Aug 11, business trip) — built and grocery-ready.
 4. **Roth one-time cleanup at Merrill** (settlement cash, DRIP, consolidate legacy positions).
 5. **Weekly-synthesis gap diagnosis** (work laptop, missing since W24).
-6. **Villa Solara / Marriage Prep Inventory status check** — confirm directly, don't assume.
+6. **Villa Solara / Marriage Prep Inventory status check** — Marriage Prep Inventory is BLOCKED (Deacon Ramsey on sabbatical, per 8/4); Villa Solara room-fill message sequenced this week.
+7. **W31 screen-time read** — the substitution test.

@@ -110,10 +110,18 @@ systematize demand that already exists, it is playing his strongest.*
 - **Stacking / 3–5 year seasons.** The next thing should build on the last or the domain-knowledge
   clock restarts. Supply-chain ops + AI-enabled mechanism-building is the stack already in
   progress; the promo doc is its receipt.
-- **Network as an asset (already held):** Dan (multi-business owner, connector), Richard Lobo
-  (trucking), Jake Dillard (payroll), Jin (real estate portfolio), Mikey Shudoma (bank ops / SBA).
-  **Every one of those is a small-business owner or operator with ops problems** — i.e. the warm
-  channel is not hypothetical, it's five named doors.
+- **Network as an asset — CORRECTED 7/27 (was overstated):** the earlier draft claimed "five
+  named small-business-owner doors." Real picture is thinner and skews one domain:
+  - **Dan** — multi-business owner + connector. Real, but his vertical (finance) was just dropped,
+    and the whole point is Will's *own* pursuit. Still the best single connector door.
+  - **Richard Lobo** — **real estate primarily** (not the ops-service owner the draft implied).
+  - **Jin** — real estate portfolio.
+  - **Jake Dillard** — **NOT a business owner** (payroll-adjacent employee). Not a warm-channel door.
+  - **Mikey Shudoma** — bank ops / SBA: a *financing* contact, not an ops-problem customer.
+  - **Net: the warm channel is ~1 connector (Dan) + two real-estate people, NOT five service-biz
+    owners.** This materially weakens candidate #1's "demand via warm channel" premise — flag for
+    Aug 24. It also surfaces **real estate** as the one domain where Will has *two* warm doors
+    (see candidate #5 below).
 - **Elena.** CFO/COO profile (modeling, technical reporting, program management, process docs, QC).
   Complements the supply-side edge; does not fill the demand-side gap.
 
@@ -146,6 +154,17 @@ productized. Fastest validation, most capped, least stacking value.
 *Honest risk:* trades time for money — structurally opposed to the truly-absentee end state in
 `context/acquisition.md`.
 
+**5. Real-estate-adjacent ops service (property mgmt / HOA mgmt), warm-introduced.**
+*Edge fit: medium-high; added 7/27 after the network correction.* Real estate itself is a poor
+fit (capital-heavy, and it's Jin/Richard's edge not Will's) — BUT property management and HOA
+management are **ops-heavy service businesses** (dispatching, vendor coordination, quote-to-invoice
+— the exact bottlenecks `work-experience.md` names), and **HOA management is already in the 620
+leads at 114.** This is the one shape that marries the supply-side edge to Will's *only* real warm
+channel (the two real-estate doors), for either a buy (#2 flavor) or a systematize-their-ops
+service (#1 flavor that finally has a warm intro).
+*Honest risk:* still their domain not his; needs a real conversation with Jin/Richard to know if
+there's a there there; could just be proximity, not opportunity.
+
 **4. Anything demand-gen-first** (content, audience, e-commerce, media).
 *Edge fit: lowest — fails the master filter by construction.* Recorded here so it doesn't get
 re-proposed as novel. Dan's media instinct belongs downstream of an operating business, as the
@@ -167,6 +186,91 @@ growth channel (Hormozi #2 layered on #5/#8), not as the venture itself.
 4. **Time-budget honesty.** `work-experience.md` says 10–15 hr/wk post-close and flags Q3–Q4 2026
    as the promo window where acquisition activity must not compromise day-job behavior. Whatever
    Aug 24 picks has to fit *that* constraint, not an idealized one.
+
+## Addendum — pain-point interview (7/27, live session)
+
+The 7/27 edge session ran Hormozi's *"what problems have you personally suffered?"* question. Surfaced:
+
+- **Fat loss** — deeply lived AND solved-with-data (NYC cut −7.7 lb textbook pace, reverse diet, years of weigh-in history, canary e1RM tracking, Schofield internalized). Real domain knowledge.
+- **Meal prep / planning** — built TWO systems: the AIOS deterministic cycle scripts + **EveryBite** (the app).
+- **Acquisition deal-flow tooling** — suffered *this month* (no persistent saved search, manual re-querying — the 7/23 process gap).
+
+**EveryBite, assessed honestly.** Repo `github.com/will-zzl-x/meal-planner` (Streamlit/SQLite; the app the meal-planning README already flags "deprioritized"). **Traction: zero — no one else has used or paid for it. Original scope: B2C.** Will's own verdict: *"not good enough vs. my existing workflows — and the workflows aren't good enough either."* He is the most motivated, most expert possible user, built two versions, and prefers neither to alternatives — failing Hormozi's LOWEST validation rung ("the builder prefers it") before "a stranger pays." Meal-planning is also a known startup graveyard (savage churn). **Three strikes on EveryBite-as-B2C-app: consumer/demand-side (the cold zone), graveyard economics, not-good-enough-for-the-builder.**
+
+**Why this reinforces the master filter instead of adding a new option:** a consumer fat-loss/meal app is **demand-side by construction** — its whole problem is manufacturing demand from strangers (marketing 2/10) around an offer built from scratch (4/10). It fails the same filter, for the same reason, as the social-account idea. That's now *three* independent instruments landing on the same verdict (deal box, capability file, master filter).
+
+**The crux this names — passion vs. edge.** Will's *generative ideas* skew passion/consumer/creative (webnovel → parked; EveryBite; fat loss). His *demonstrated edge* is B2B/ops/systems (the 8–9/10s). These are different businesses, and Hormozi's "use what you got" is about **competence, not passion.** Finite-tries rule: on the first real go, bet the edge (highest probability); earn the passion play later, once you don't need it to hit. **This is the single decision Aug 24 must make consciously**, not the vertical mechanics.
+
+**What survives for the fat-loss domain (so the interest isn't just killed):** if fat-loss/meal stays in play at all, the edge-compatible shape is **candidate #3 re-pointed B2B** — sell the planning *system/engine* to coaches/gyms/dietitians as a tool (fewer customers, higher price, routes through the 9/10 negotiation + trust-building edge and the warm channel) rather than to consumers via app-store marketing. That rescues the domain Will actually cares about by swapping the demand-side go-to-market for a supply-side one. Still lower edge-fit than candidates #1/#2; logged, not elevated. **Open for the quarterly:** would Will rather (a) bet the pure edge play and keep fitness as an untainted personal keystone, or (b) consciously pursue the passion play knowing it fights his weakest lines + risks entangling training-as-mental-health with income pressure?
+
+## Addendum — vibe-prompting diagnosis + Hormozi AI-adjacent-skills take (7/31, live)
+
+Will's own read on his day-job AI practice: "not really learning AI, I'm brute forcing vibe
+prompting and building and refinements." Distinguish from the 9/10 self-rating above — that rating
+is the *output* (six-workflow production suite, cloned successfully during OOTO), not necessarily
+the *practice* that produced it. Deadline-driven ad hoc prompting can still ship real artifacts
+while staying shallow as a discipline.
+
+Source: Hormozi (NYC talk) on the AI-replaces-jobs question. Core point: adaptability beats any
+specific skill ("most flexible player wins"); AI-adjacent competence is heading toward "assumed"
+the way Word/Excel proficiency did — window to differentiate on it is closing but hasn't closed.
+Contrarian aside worth weighting: he thinks current LLM training shows diminishing returns (GPT3→4
+was a bigger jump than 4→5; his own team deliberately runs older models on some workflows because
+they're faster/less "sloppy"). Reads as a check on urgency-driven skill-panic — same lesson as
+"proof over consumption," applied to *which* AI skill instead of *which* acquisition vertical.
+
+**What this actually names:** not a new skill gap — the capability table already rates AI-tooling
+9/10 — but a **rigor gap**. The senior-level version of the same skill is disciplined
+agentic-engineering practice (plan before build, verification loops, subagent-driven execution,
+git-committed/team-shareable workflows) vs. deadline-driven ad hoc prompting. Free to practice now,
+doesn't require picking a vertical, deepens the existing 9/10 line rather than starting a new one
+from zero.
+
+**Where it connects to the candidates above:** candidate #1 (productized AI-ops service) is the
+vehicle where this rigor gets pressure-tested against a real warm-network business — the same open
+gap already named ("no warm-channel test has been run"), now with a second angle: practice ground
+for disciplined-not-vibe AI engineering, not just the offer-construction test.
+
+## Addendum — Will narrows to #1 + #2, read as a sequence (7/31, live)
+
+**Stated preference:** "I like candidates 1 & 2." Logged as input to Aug 24, not as the decision.
+
+**Read: convergent, not oscillation — flagged honestly either way.** Today was a heavy-consumption
+day (three YouTube AI-automation creators evaluated, two Hormozi transcripts). That is precisely
+the pattern the anti-oscillation clause exists to catch. What separates this from the three
+five-day swerves in W30: the landing point is where this file's own analysis already pointed — #1
+rated *edge fit: highest*, #2 *high*, both on the supply side of the master filter. No new vertical
+was introduced, and nothing was reopened. Aug 24 should weigh it as convergence, with the
+consumption context on the record.
+
+**The substantive reframe: #1 and #2 are not alternatives, they are a sequence.** #1 walks Will
+into small B2B service businesses to fix ops with automation; #2 buys a small B2B service business
+whose bottlenecks are dispatching / routing / quote-to-invoice. Same room. So running #1 also:
+- generates the missing data point — a stranger pays for the edge — at near-zero capital;
+- doubles as deal-source reconnaissance: inside real operations, meeting operators, learning which
+  sectors actually carry the bottlenecks, instead of reading listings in the abstract;
+- builds an operator proof point ("I took $X out of this business") that carries weight with a
+  seller and a lender at #2's LOI stage, where this file rates deal-sourcing 3/10.
+
+**The trap to name now: #1 decays into #3 by default.** Candidate #3 is rated *ceiling low…
+structurally opposed to the truly-absentee end state*. The only thing separating #1 from #3 is
+productization — reusable machinery vs. bespoke hourly work. If each engagement is rebuilt from
+scratch, #1 **is** #3: it caps out while eating the time #2 needs. Guardrail for whatever Aug 24
+picks: engagement two must reuse engagement one's machinery.
+
+**Unresolved arithmetic Aug 24 must confront (surfaced 7/31).** The debt doctrine (7/26 — cash +
+non-recourse seller note ONLY, no SBA, no PG) has never been reconciled against the Deal Box (5/25
+— $500k–$700k clean). $75k fund + $2k/mo reaches roughly $95–100k by a mid-2027 close; against a
+$500k purchase that implies a seller note near 80–85% of price, non-recourse — rare enough to treat
+as a binding constraint, not a detail. Three ways out, and the quarterly has to pick one: shrink the
+box (but the $286k SDE floor and $953k revenue floor were derived from it), loosen the doctrine (set
+deliberately, and hard), or extend the timeline to accumulate cash (pushes against the late-2027
+exit). **This is the strongest structural argument for sequencing #1 first** — it produces cash and
+operator credibility while the box/doctrine tension gets resolved, rather than stalling on it.
+
+**Unchanged, still the weakest link:** the warm-channel correction above (~1 connector + two
+real-estate doors, NOT five service-biz owners) sits directly on #1's demand premise. One real
+conversation resolves it, and it remains the highest-information prep available before the quarterly.
 
 ## Anti-oscillation clause
 

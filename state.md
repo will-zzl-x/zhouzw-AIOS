@@ -23,16 +23,18 @@ Phase: **Maintenance (set 8/5 reflection) — 2,350 cal / 150g protein / 50g fat
 
 ## Career
 - Amazon SCM I (L4), Q3–Q4 promo window.
-- **PROMO DOC — PATTERN BROKEN (W30):** draft sent; **manager: good enough to circulate to feedback providers.** Remaining: ~20% refinement — **Monday top priority, scope = the 20%, not a rewrite** (the known stall risk). Four prior slips (Jun 26, Jul 1, Jul 17, Jul 19) ended when the work got confronted — the Hormozi 4-years/4-hours pattern, named in `references/hormozi.md` application layer.
+- **PROMO DOC — FULLY OUT OF WILL'S HANDS (8/4):** final 20% shipped, draft is with the manager, and feedback-provider requests have already gone out. Ahead of the W30 plan (which only promised review would start once the 20% shipped). Four prior slips (Jun 26, Jul 1, Jul 17, Jul 19) ended when the work got confronted — the Hormozi 4-years/4-hours pattern, named in `references/hormozi.md` application layer.
 - DOE/Jeff ramp: work-laptop lane, no AIOS update this week.
 
 ## Fitness
 - **CANARY RE-ANCHORED (Sat 7/25): Larsen 155×5,6,4 @9 — the 155 re-test PASSED**, two weeks after the 145 bottom. Full cut-slide→reverse-recovery arc ran exactly per Schofield. Narrow Pulldown up to 120 lb. New canary threshold: 155.
 - **Training: 6/6 sessions W30 — second consecutive zero-miss week.** Block Wk3→Wk4.
 - **Scale: W30 avg 179.6** (178.6–180.8), flat across 4 weeks of climbing calories. **Steering model ratified (Will, 7/26): set the calorie target, judge ONLY the weight trend** — off-plan noise is ~constant week-over-week and self-corrects through the output. Current target 2,300–2,400+; **still runway to add — maintenance not yet found.**
-- **Reverse diet ended Wed 7/29, NYC trip mode ended Wed 8/5 — both closed as planned.** Trip itself: nothing new to report beyond the pre-registered scorecard (Will, 8/5) — festival/travel ran without incident worth flagging.
+- **Reverse diet ended Wed 7/29 → NYC loose maintenance Jul 30–Aug 5.** Z2: 1/3 W30, design failed twice — suspended for trip. Steps 1/6 — suspended for trip (socials = the cardio). Dance 3/6 — festival week fixed it by force.
+- **Mid-trip check (8/4): loose/untracked maintenance held; protein landed only 1–2x all week (honest miss).** One lift logged (Fri 7/31, new block's Torso A, bodyweight/hotel-gym adapted): RPE 9–10 on nearly every set, reps under target throughout, back half of the session has no completed data — cut short, not finished. Reads as one under-fueled, time-pressed session, not a canary concern; ungraded under trip-mode rules.
+- **Trip closed 8/5 — NYC trip mode ended, both reverse diet and trip mode done as planned.** Festival/travel ran without further incident worth flagging beyond the mid-trip note above.
 - **MAINTENANCE PHASE SET (8/5): 2,350 cal / 150g protein / 50g fat / 325g carbs.** Not trend-confirmed yet — judge the scale ~Aug 14, expect a post-trip water bounce first. `daily-standard.md` updated (Maintenance is CURRENT; Reverse Diet + NYC Trip Mode are past templates).
-- Z2 + dance: still pending redesign (flagged 7/26, not yet done — carried forward again, not invented).
+- Z2 + dance: still pending redesign (flagged 7/26, not yet done — carried forward again, not invented; see the Life-Main travel-week design gap noted in Relationships below).
 - Sleep untracked (deliberate). BF ~20%; lean mass confirmed by pull strength (120-lb pulldowns).
 - **Meal cycle 2026-07-25 (pre-NYC fridge-clear): confirmed fully cooked (Will, 8/5).** Deplete applied for the one vetted recipe (#5 sandwiches); note-only cooks (chicken parm, bolognese, steak salad, egg bake) still need a manual inventory true-up against the cook plan's "Clears" notes. New ad hoc cycle building now: Wed 8/5 → Aug 11 (business trip).
 
@@ -42,11 +44,13 @@ Phase: **Maintenance (set 8/5 reflection) — 2,350 cal / 150g protein / 50g fat
 - **Digital declutter LIVE: IG deleted (30 days), YouTube off home screen. Remaining: Elena takes the Screen Time passcode** (tonight's chat).
 - Sunday-chat agenda delivered: Villa Solara asks split, prep-inventory owner, NYC walkthrough (her Vessel pick, 3 themes incl. her Mafia Royale dress, Sat vigil, Tue crawl), promo-doc win shared, passcode handoff.
 - No night intimacy talk (hard rule). Strongest desire signal (7/12) stands — not watched for.
+- **Mid-trip check (8/4): great week with Elena — all 3 classes + all 3 socials hit, the Life Main live-fire deploy fully landed.** Counter-note: thin connection with Michael despite 3 nights at his place (affidavit handoff done Mon 8/3, but not much beyond it) — logged in `context/relationships.md` Friendships, not yet a pattern. **Phone-outside-bedroom streak held at the hotel, broke at Michael's** — the exact risk the packing-list build flagged pre-trip, materialized as predicted. **Solo-space count is ambiguous this week** (festival socials proposed as a stand-in — doesn't fit the rep's own definition of time apart from Elena) — flagged for the 8/9 Z2-redesign session as a travel-week design gap, not a discipline miss.
 
 ## Wedding
-- **Pre-Cana Class #1 REGISTERED — starts September** ✓. **Marriage Prep Inventory: pending w/ Deacon Ramsey** (Aug deadline; owner assigned at Sunday chat).
-- **Villa Solara beds: ACTIVE ASK this week** — guests commit, reply-by ~end of Aug, payback due Dec 31.
-- **Affidavit form from St. Andrew: MUST be in hand before Thu 7/30 flight** — Michael handoff dinner is Mon 8/3 in NYC (printed form).
+- **Pre-Cana Class #1 REGISTERED — starts September** ✓. **Marriage Prep Inventory: BLOCKED (8/4) — Deacon Ramsey on sabbatical**, resumes when he's back. No action needed until then.
+- **Affidavit — HANDED OFF (8/4):** physically given to Michael Mon 8/3 dinner; Will emailed Michael's parish today to schedule the actual swearing-in. "First week of August" target may slip on parish availability — soft risk.
+- **Villa Solara: sequenced this week (8/4)** — Will closes out Banff logistics first, then sends the room-fill message. Reply-by ~end of Aug, payback due Dec 31.
+- **Mystic Lites: outreach this week (8/4)** — peak-season vendor-booking risk already on record.
 - Fall gates in backlog: Mystic Lites (Sep), website+registry (Oct, Elena), save-the-dates (Nov), St. Andrew $400 (Nov 12), food-tasting watch (Nov 30).
 
 ## Travel
@@ -57,6 +61,7 @@ Phase: **Maintenance (set 8/5 reflection) — 2,350 cal / 150g protein / 50g fat
 - **THE 7/26 RE-FOUNDING:** finance vertical dead unless Dan drives it; Will's pursuit = **edge-hunt** (ops/systems/AI). Broker calls on the 3 conditionals: killed by owner decision (leads logged, contactable if Dan re-engages). 9 evals stand as banked reps. **Aug 24 quarterly headline: "where does Will have edge?"** — prep read `context/work-experience.md` + `references/hormozi.md` edge-test.
 - **Debt doctrine (final, 7/26): deal #1 = cash + NON-RECOURSE seller note ONLY. No SBA (PG always required), no personal guarantees, nothing that survives the business.** Worst case = staked cash (~$50k), recoverable in ~2 yrs of contributions.
 - **Dan:** meeting held 7/24, follow-up sent ✓. Account idea: NO standalone (7/24 assessment stands — delivery wall, follower-graph, ToS); kernel = post-deal growth channel = his earned-equity lane. Partnership filter (Hormozi): partner must double the value or pay-don't-partner — independently validates earned-equity over flat 50/50. Structure question parked to quarterly.
+- **Mid-trip check (8/4): quiet on paper, real prep underneath.** No decisions, no broker calls — trip-mode rule held clean. Two `edge-inventory.md` addenda logged (vibe-prompting/rigor-gap read on AI skill-building; candidates #1+#2 narrowed and read as a sequence, surfacing the unreconciled debt-doctrine-vs-Deal-Box gap). Will raised the same #1-vs-#2 tension again independently mid-interview ("micro acquisition vs. working on something on my own") — same question, not a new pivot. **Aug 24 quarterly's two undone deliverables: draft one real offer, have one real warm-channel conversation** — everything else this week was thinking, not doing.
 - **Roth IRA: 2026 MAXED ✓ at the new $7,500 limit.** Q1-front-load plan set (~$3.5k/$2.5k/$1.5k Jan–Mar, Dec earmark). **Merrill: 80% ITOT / 20% IXUS, DRIP on, Jan-only rebalance.** One-time cleanup owed: deploy settlement cash, consolidate legacy positions. `context/financial-state.md`.
 - $75k fund intact, $2k/mo continuing. Track 2 (solo leads) parked. Webnovel parked. MSA course w/ Elena ongoing.
 

@@ -545,3 +545,83 @@ Format: ✓ = done, □ = planned/pending
 □ Zone 2 cardio — Sunday keystone, 60–90 min
 □ Dance micro-rep: 1–2 songs, one pillar
 □ Contact 3 live conditionals — seller calls
+
+**2026-07-27 (Mon)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Solo-space rep: 15–30 min unannounced block
+✓ Train Session: Ravage Block Wk4
+✓ Phone charged outside bedroom last night?
+✓ Morning weigh-in, log 7-day rolling average
+✓ Affidavit form from St. Andrew — print & pack
+✓ Hit 150g protein, reverse-diet calories
+□ Walk 12,500 steps today
+□ Dance micro-rep: 1–2 songs, one pillar today
+□ Promo doc final 20% — ship by Wed 7/29
+□ Run 2 deal evals, log gaps to acquisition-log
+
+**2026-07-28 (Tue)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Solo-space rep: 15–30 min unannounced block
+✓ Phone charged outside bedroom last night?
+✓ Hit 150g protein, reverse-diet calories
+□ Train Session: Ravage Block Wk4
+□ Walk 12,500 steps today
+□ Morning weigh-in, log 7-day rolling average
+□ Dance micro-rep: 1–2 songs, one pillar today
+□ Promo doc final 20% — ship by Wed 7/29
+□ Run 2 deal evals, log gaps to acquisition-log
+
+**2026-07-29 (Wed)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Festival wardrobe: 3 themed outfits ready to pack
+✓ Affidavit form printed and trip-packed
+✓ Train Session 8: Ravage Block Wk4
+✓ Phone charged outside bedroom last night?
+✓ Dance micro-rep: 1–2 songs, one pillar today
+✓ Solo-space rep: 15–30 min unannounced block
+✓ Morning weigh-in, log 7-day rolling average
+✓ Hit 150g protein, reverse-diet calories
+□ Walk 12,500 steps today
+□ Promo doc final 20% — ship by Wed 7/29
+□ Villa Solara guest-commit asks split and sent
+□ Call Mom before Thursday flight
+
+**2026-07-30 (Thu)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Protein-first eating, untracked maintenance
+✓ Solo-space rep: unannounced 15–30 min block
+✓ Start Broadway lottery entries — TodayTix
+✓ Phone outside bedroom overnight
+□ Attend ESM festival class — Friday 4pm
+□ Dance at evening social — midnight–3:30am
+
+**2026-07-31 (Fri)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Solo-space rep: unannounced 15–30 min block
+✓ Continue Broadway lottery entries on TodayTix
+✓ Attend ESM festival class — Friday 4pm
+□ Dance at evening social tonight
+□ Phone outside bedroom overnight
+□ Protein-first eating, loose maintenance
+
+**2026-08-01 (Sat)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Attend ESM festival class — Saturday 2pm
+□ Dance at evening social tonight
+□ Solo-space rep: unannounced 15–30 min block
+□ Protein-first eating, loose maintenance
+□ Phone outside bedroom overnight
+
+**2026-08-03 (Mon)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+□ Protein-first eating, loose maintenance
+□ Solo-space rep: unannounced 15–30 min block
+
+**2026-08-03 (Mon)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Protein-first eating, loose maintenance today
+✓ Phone outside bedroom overnight
+✓ Continue Broadway lottery entries on TodayTix
+✓ Dance at ESM social — Mafia Royale night
+□ Solo-space rep: 15–30 min unannounced block
+□ Hand affidavit form to Michael at dinner
+
+**2026-08-04 (Tue)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Continue Broadway lottery entries on TodayTix
+✓ Dance at evening social tonight
+✓ Attend ESM festival class — Sunday 1pm
+□ Protein-first eating, loose maintenance
+□ Solo-space rep: unannounced 15–30 min block
+□ Phone outside bedroom overnight
