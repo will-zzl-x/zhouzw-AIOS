@@ -18,6 +18,12 @@ carryover: []
 # done for the note-only cooks. Ground beef stash turned out to be stale/non-existent
 # (corrected to 0). Chicken breast: couple packs confirmed on hand.
 
+# CHICKEN THIGH BUY NOTE (8/5, corrected per Will): Costco sells chicken thighs as
+# ONE case of 6 x ~22oz sub-packs, not individually. Total need across this cycle -
+# teriyaki (6 thighs) + fried rice (4 thighs/~21oz) + burritos (22oz) = ~3 of the 6
+# sub-packs. Buy ONE Costco case (the only unit available); ~3 sub-packs (~66oz)
+# will be genuine surplus/freezer stock for future cycles, not a shortfall.
+
 selections:
   - recipe_id: "30"
     planned_servings: 7
