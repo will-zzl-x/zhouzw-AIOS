@@ -24,6 +24,34 @@ Cite or align with this framework. Flag any contradiction found in new material.
 
 **Recomping:** 90–95% of non-advanced lifters can gain muscle and lose fat simultaneously. Lifting diverts energy toward MPS and away from fat storage — this is why cardio-only approaches (Biggest Loser style) move the scale but wreck body composition.
 
+**Assessment hierarchy — why "if you can't see your abs, you're fat" is false:** Precision increases down this list; don't substitute a lower rung for a higher one.
+1. **BMI** (screening only, height/weight nothing else): per Barbell Medicine, ~50% sensitive / ~97% specific — catches only half the people it should flag as too heavy, but rarely false-flags someone healthy. First-pass only.
+2. **Waist measurement** (second-line): 30 BMI + 32" waist = fine, the extra weight is muscle. High waist is the real visceral-fat signal (fat packed around organs — the metabolically dangerous kind). Still has genuine genetic/structural variance — some sub-10%-BF competitors carry 34–36" waists (rib flare, hip structure), others sit at 27–28" at the same leanness.
+3. **Actual body fat %** (DEXA, calipers, etc.) — the objective number to base bulk/cut/maintain decisions on.
+4. **"Can I see my abs"** — not on this list. Subjective (no agreed threshold: "etched" vs. "faint outline" vs. "any glimmer" all get called abs by different people) and confounded by factors independent of fat level:
+   - **Ab muscle development.** Enhanced bodybuilders show abs at higher BF% purely from more ab muscle mass under the fat. Someone who's never trained abs may show nothing there at a normal BF% — that's an undertrained muscle (see abs in the commonly-undertrained list above), not "fat."
+   - **Bloating/water retention**, often concentrated in the abdomen (food intolerance — dairy, oats, etc.). Fix the trigger food; don't treat it as a fat-loss signal or adjust calories over it.
+   - **Visceral vs. subcutaneous fat are different things.** Visceral (around organs) is the dangerous kind. Subcutaneous belly fat just sits over the abs, hiding them cosmetically — not the same health risk. Some guys carry a visible belly with fine visceral markers.
+   - **Individual fat-storage pattern** varies by sex, race, stress, activity — and even varies bulk-to-bulk/cut-to-cut for the same person.
+   Doing crunches to "reveal" abs doesn't change body composition and isn't a valid signal to bulk or cut. Go by actual BF% or the feel-based ikigai markers above, not a mirror-check vanity metric.
+
+**Visual BF% reference chart (mirror-calibrated, from a paired reference-photo breakdown):** every method here is an estimate, even DEXA/underwater weighing/impedance — all shift with hydration, angle, flexing. Coaches give a range ("15–17%"), not a single number. Muscle mass shifts the visual read too: a heavily-muscled guy shows more definition at a given BF% than a low-muscle guy at the same BF% (same point as the ab-development note above, in reverse — low muscle mass under low fat still won't look "diced").
+
+| BF% | What you'd actually see |
+|---|---|
+| 40–60% | No muscular definition anywhere. Sizable belly, high visceral fat — genuinely unhealthy at this range, no exceptions. |
+| ~28–30% | US male average is ~28%. Belly still prominent/spilling over the waistline, little definition anywhere front or back. Can look fine in clothes; still far from healthy. |
+| ~20–22% | Belly reducing, some blurry definition starting in arms/calves/quads — "look like you lift," not crisp. Slight V-taper, minimal ab/oblique separation. |
+| ~17–18% | Good muscle base, visible V-taper, delts start showing true 3D separation (this specific marker reliably only shows below ~20%). Ab definition still minimal to none. Waist can look thicker than actual BF% for frame/genetic reasons; loose skin from past weight loss can also read as fatter than it is. |
+| ~13–15% | Arms well-defined, upper abs visible, some chest definition, decent quads. Muscle present reads crisp even if not abundant. |
+| ~12% | Full six-to-eight-pack visible at rest, clear bicep/forearm vascularity, delts/traps popping, oblique + rib/serratus separation visible (more so flexed). **This is the threshold — "under 15% is when dramatic visual changes start."** Realistic, sustainable target for most people. |
+| ~8% | Full ab/intercostal/serratus separation, vein network everywhere (abs, biceps), collarbones showing. **Floor, not a target** — below this: more frequent sickness, cold intolerance, libido drop. |
+| ~5–7% | Near-contest only: full separation between individual muscle heads ("Pacman arms"), armor-plated chest. Not sustainable long-term; usually pre-contest and/or enhanced. |
+
+**Calibration warning:** people chronically overestimate their own leanness — "just because you have a hint of abs doesn't mean you're 10%." Self-reports of ~10% frequently turn out to be 18–20% when actually photographed and compared. Impedance ("smart") scales are called out specifically as often off by 5–10 points — least trustworthy of the estimation methods.
+
+**Reading this against your own history:** per this chart, no visible abs at all is entirely normal anywhere from ~17% up through the 20s — ab definition doesn't reliably start until ~13–15%, and a full six-pack at rest is the ~12% marker specifically. Your own pre-cut self-estimate (`context/about-me.md`: ~181 lb, 18–20% BF, no visible abs) lines up exactly with what this chart predicts at that range — internally consistent, not a red flag.
+
 ---
 
 ## Cutting

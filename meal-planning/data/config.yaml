@@ -32,7 +32,9 @@ members:
   - id: Will
     on_cut: true
     slots:
-      M1: lean protein + veg     # breakfast — eggs/egg whites/chicken + spinach/microgreens/asparagus. Starch-free. NO shakes for M1.
+      M1: protein shake          # CHANGED 2026-08-05 (Will's call) — was "lean protein + veg, no shakes."
+                                 # Now recipe #30 (Strawberry Protein Shake), bulk-prepped: freezer-bag
+                                 # the dry/frozen components ahead, blend fresh each morning.
       M2: microwave lunch        # reheatable only
       M3: microwave solo work meal  # reheatable only, Will-only convenience stack. Shakes OK here.
       M4: dinner                 # home-cooked, shared with Elena

@@ -1,4 +1,4 @@
-# State — Last updated July 26, 2026 (W30 Sunday reflection; NYC trip Jul 30–Aug 5 next week)
+# State — Last updated August 5, 2026 (W31 reflection; NYC trip complete, Maintenance phase set)
 
 ## Yearly Themes (set 7/12 annual bootstrap; refresh Jan 3, 2027)
 1. **Externalize every trigger** — no weekly behavior survives on willpower.
@@ -13,11 +13,11 @@
 - **Life main: point of origin — MOSTLY ON TRACK, strongest core week.** Solo-space 5/6 ✓ (floor met), self-check ~9/10 ✓, Z2 1/3 ✗ (slot design failed 2 straight weeks — SUSPENDED for trip week, redesign at the 8/9 reflection), dance 3/6 ✗ (**the festival forces the fix — next week IS the quest:** 3 socials, 3 themed nights, avatar deployed, center held).
 - **Side:** promo doc — **manager-cleared, circulating to feedback providers; final 20% refinement = Monday's top priority, defined narrowly** · reverse diet ends Wed 7/29 → NYC loose maintenance · Villa Solara guest-commit asks go out this week.
 
-Phase: **Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5** (loose maintenance, step gate suspended, W31 scored on trip metrics). Ravage Wk4; next block continues through trip as bodyweight/hotel-gym opportunistic.
+Phase: **Maintenance (set 8/5 reflection) — 2,350 cal / 150g protein / 50g fat / 325g carbs, by feel, no Cronometer.** Anchored from the last confirmed reverse-diet read (7/26, "runway to add"); not yet trend-confirmed — judge the scale ~Aug 14 (post-trip water bounce expected first). Reverse diet + NYC trip mode both ended as planned.
 
 ## Daily Loop
 - Todoist brief live (7am AZ); evening archive 9pm AZ.
-- **Trip week (Jul 30–Aug 5): brief should emit trip-mode tasks only** — weigh-in optional, steps suspended, dance/socials are the activity. Resume standard gates Aug 6.
+- **Trip mode ended 8/5** — brief resumes standard Maintenance-phase gates Aug 6 (2,350 cal target, steps ≥12,500, weigh-in required again).
 - Fitness pipeline: CSV-direct standing (3rd cycle proven 7/26 — Liftosaur export → canary read). Screen-time weekly read: 2nd capture landed 7/26; next capture should include pickups/first-opens/IG scroll-downs for full scoring.
 - Weekly synthesis still missing since W24 (work-laptop) — parked to post-NYC.
 
@@ -30,11 +30,13 @@ Phase: **Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5*
 - **CANARY RE-ANCHORED (Sat 7/25): Larsen 155×5,6,4 @9 — the 155 re-test PASSED**, two weeks after the 145 bottom. Full cut-slide→reverse-recovery arc ran exactly per Schofield. Narrow Pulldown up to 120 lb. New canary threshold: 155.
 - **Training: 6/6 sessions W30 — second consecutive zero-miss week.** Block Wk3→Wk4.
 - **Scale: W30 avg 179.6** (178.6–180.8), flat across 4 weeks of climbing calories. **Steering model ratified (Will, 7/26): set the calorie target, judge ONLY the weight trend** — off-plan noise is ~constant week-over-week and self-corrects through the output. Current target 2,300–2,400+; **still runway to add — maintenance not yet found.**
-- **Reverse diet ENDS Wed 7/29 → NYC loose maintenance Jul 30–Aug 5:** eat well, don't track, weigh when convenient, judge nothing until home (~Aug 6). Hard floor 168 unchanged.
-- Z2: 1/3 W30, design failed twice — suspended for trip, redesign post-NYC. Steps 1/6 — suspended for trip (socials = the cardio). Dance 3/6 — festival week fixes by force.
+- **Reverse diet ended Wed 7/29 → NYC loose maintenance Jul 30–Aug 5.** Z2: 1/3 W30, design failed twice — suspended for trip. Steps 1/6 — suspended for trip (socials = the cardio). Dance 3/6 — festival week fixed it by force.
 - **Mid-trip check (8/4): loose/untracked maintenance held; protein landed only 1–2x all week (honest miss).** One lift logged (Fri 7/31, new block's Torso A, bodyweight/hotel-gym adapted): RPE 9–10 on nearly every set, reps under target throughout, back half of the session has no completed data — cut short, not finished. Reads as one under-fueled, time-pressed session, not a canary concern; ungraded under trip-mode rules.
+- **Trip closed 8/5 — NYC trip mode ended, both reverse diet and trip mode done as planned.** Festival/travel ran without further incident worth flagging beyond the mid-trip note above.
+- **MAINTENANCE PHASE SET (8/5): 2,350 cal / 150g protein / 50g fat / 325g carbs.** Not trend-confirmed yet — judge the scale ~Aug 14, expect a post-trip water bounce first. `daily-standard.md` updated (Maintenance is CURRENT; Reverse Diet + NYC Trip Mode are past templates).
+- Z2 + dance: still pending redesign (flagged 7/26, not yet done — carried forward again, not invented; see the Life-Main travel-week design gap noted in Relationships below).
 - Sleep untracked (deliberate). BF ~20%; lean mass confirmed by pull strength (120-lb pulldowns).
-- **Meal cycle 2026-07-25 (pre-NYC fridge-clear) cooked:** Sat = sandwiches; Sun = egg bake (sheet-pan, cottage cheese + spinach + egg whites, ×4) + squash bolognese + kimchi + parm + rotisserie + steak dinner. Fridge clears by Thu; deplete + fresh inventory true-up AFTER NYC.
+- **Meal cycle 2026-07-25 (pre-NYC fridge-clear): confirmed fully cooked (Will, 8/5).** Deplete applied for the one vetted recipe (#5 sandwiches); note-only cooks (chicken parm, bolognese, steak salad, egg bake) still need a manual inventory true-up against the cook plan's "Clears" notes. New ad hoc cycle building now: Wed 8/5 → Aug 11 (business trip).
 
 ## Relationships
 - **Will's read on W30: "great, no stressors."** Solo-space 5/6. Desire-dynamics ask answered with the standing fundamentals (body/gravity/style/competence/discipline) — **the festival is the live-fire deploy; do not start optimizing at the thing.**

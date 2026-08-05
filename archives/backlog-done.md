@@ -56,3 +56,6 @@ Rows moved here from `backlog.md` at Sunday reflections. Newest batch on top.
 | test-plan-elena | Test-plan close-the-loop with Elena | Relationships | side | Home test negative at 11 days late; thread closed. (Reopen trigger noted in archive only.) | 2026-06-01 |
 | escalation-scraper | Escalation scraper threshold logic | Career | not-quest | Closed without AIOS action — coverage absorbed by ICT automation on work laptop / deprioritized. | 2026-06-04 |
 | pre-cana-schedule | Schedule Pre-Cana process | Wedding | side | Initial reach-out to St. Andrew done, Pre-Cana date booked. | 2026-06-07 |
+| backlog-auto-archive-bug | Evening archiver auto-closed active backlog rows on daily task completion | AIOS-Infra | not-quest | Fixed 7/27: archiver now calls `flag_worked()` instead of flipping Status on task completion — Sunday reflection owns Status per repo doctrine. Second latent bug fixed same pass (mark_done() idempotency check read wrong column index). | 2026-08-05 |
+| promo-doc-final | Promo doc — final 20% refinement (manager-cleared, circulating) | Career | side | Shipped Mon 7/27 as planned — now with manager + feedback providers. Fourth-slip pattern broken. | 2026-08-05 |
+| nyc-trip-prep | NYC pre-trip lane: affidavit form, wardrobe, Villa Solara asks | Relationships | side | Trip executed Jul 30-Aug 5 per the locked itinerary. | 2026-08-05 |
