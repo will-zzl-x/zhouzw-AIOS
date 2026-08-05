@@ -1,0 +1,32 @@
+# Cycle Wed 2026-08-05 -> Tue 2026-08-11 (AD HOC — post-NYC return through business trip)
+# Will lands back from NYC today (8/5); needs to cook TODAY for Thu/Fri workday coverage
+# (no big-batch exists yet — the 7/25 pre-NYC cycle was a fridge-clear, fully consumed).
+# Leaves for a business trip Wed 8/11 — cycle ends there.
+# Maintenance phase (set at the 8/5 reflection): 2,350 cal / 150g protein / 50g fat / 325g carbs (Will).
+date: "2026-08-05"
+grocery_day: "2026-08-05"  # same-day — cooking tonight
+
+exceptions: []
+carryover: []
+# 2026-07-25 cycle confirmed fully cooked (Will, 8/5) - deplete applied + manual true-up
+# done for the note-only cooks. Ground beef stash turned out to be stale/non-existent
+# (corrected to 0). Chicken breast: couple packs confirmed on hand.
+
+selections:
+  - recipe_id: "31"
+    planned_servings: 10
+    notes: |
+      TONIGHT'S COOK (8/5, arrival day) — covers Thu/Fri for both. Chicken breast from
+      the on-hand packs (~4lb needed, couple packs confirmed on hand — no chicken buy).
+      Veg = bell peppers + zucchini (the recipe's own call, and the practical
+      Costco/Walmart seasonal pick over okra — reliably stocked, actually in-season,
+      unlike okra which isn't a realistic big-box item). Slow cooker + sheet pan +
+      Instant Pot rice, in parallel while unpacking from the trip.
+    slot_assignments:
+      - { member: Will, slot: M2, servings: 2 }
+      - { member: Will, slot: M3, servings: 2 }
+      - { member: Will, slot: M4, servings: 1 }
+      - { member: Elena, slot: M2, servings: 3 }
+      - { member: Elena, slot: M4, servings: 2 }
+
+inventory_snapshot: []
