@@ -30,11 +30,15 @@ carryover: []
 # Fixes: curry now served over rice (~0.75 cup cooked/serving, added above), rotisserie
 # rice bumped 0.2->0.3 cup/serving. PLUS three daily filler items, untracked, one
 # per meal slot (Costco/Walmart-practical):
-#   - Cantaloupe with M2 (~175 cal / ~40g carb) — cheapest melon, high vitamin A + C
-#   - Blueberries with M3 (~175 cal / ~40g carb) — MOVED from M4 8/5. Highest
-#     antioxidant (anthocyanin) density of common Costco fruit, not something the
-#     gummy multivitamin or sweet potato covers. No stone fruit anywhere (Will has
-#     a slight peach/plum allergy).
+#   - WATERMELON with M2, 4 cups/day EXACT (~184 cal / ~46g carb) — swapped from
+#     cantaloupe 8/5 (Will's real quantity, from Costco). Higher carb density than
+#     assumed, closes more of the gap than the original cantaloupe estimate.
+#   - Blueberries with M3, 18oz Costco container to last the WHOLE 7-day cycle -
+#     works out to ~0.49 cup/day (~41 cal / ~10g carb/day), lighter than the
+#     original ~175cal assumption since one container is spread across the week.
+#     Highest antioxidant (anthocyanin) density of common Costco fruit, not
+#     something the gummy multivitamin or sweet potato covers. No stone fruit
+#     anywhere (Will has a slight peach/plum allergy).
 #   - Sweet potato FRIES with M4 (~175-200 cal / ~40g carb, +a little fat from oil
 #     if baked) — MOVED from M3 8/5, now Will's M4 snack. Covers what the gummy
 #     CAN'T (potassium - multivitamins never carry meaningful potassium, regulated
@@ -44,9 +48,9 @@ carryover: []
 # actually miss (potassium, complex carbs, antioxidant diversity), not generic
 # "healthy fruit," per Will's ask (8/5). Not recipe line items - eaten alongside
 # meals, add to the Costco/Walmart list.
-# Final estimate with all fixes: ~2,310 cal / ~312g carb per day, vs 2,350/325 target -
-# within ~40 cal / ~13g carb, essentially closed (real intake typically runs above
-# logged estimates anyway, per the reverse-diet's own empirical finding).
+# RECOMPUTED 8/5 with Will's real confirmed quantities (4 cups watermelon/day,
+# 18oz blueberries/week): ~2,375 cal / ~328g carb per day, vs 2,350/325 target -
+# within 25 cal / 3g carb, essentially exact (better than the earlier rough estimate).
 
 selections:
   - recipe_id: "30"
