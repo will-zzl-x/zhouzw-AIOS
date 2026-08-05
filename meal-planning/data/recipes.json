@@ -659,7 +659,7 @@
   },
   {
     "id": "6",
-    "name": "Rotisserie Chicken + Garlic Rice",
+    "name": "Rotisserie Chicken + Rice, Sriracha-Yogurt Drizzle",
     "tier": null,
     "meal_slots": [
       3
@@ -680,12 +680,6 @@
         "store": "Asian Mart"
       },
       {
-        "name": "Garlic, minced",
-        "amount": "3",
-        "unit": "cloves",
-        "store": "Walmart"
-      },
-      {
         "name": "Avocado oil",
         "amount": "1",
         "unit": "tsp",
@@ -702,16 +696,34 @@
         "amount": "flex",
         "unit": "per cycle (kale, roasted tomato + zucchini, bell pepper, etc.)",
         "store": "varies"
+      },
+      {
+        "name": "Plain Greek yogurt (sauce)",
+        "amount": "1",
+        "unit": "cup (~3.2 Tbsp/serving)",
+        "store": "Costco"
+      },
+      {
+        "name": "Sriracha (sauce)",
+        "amount": "2.5",
+        "unit": "Tbsp, to taste",
+        "store": "Walmart"
+      },
+      {
+        "name": "Lime juice (sauce)",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Walmart"
       }
     ],
-    "notes": "Meal 3 only (you). Keep rotisserie drippings \u2014 key for moisture. Garlic rice base is consistent. Side veggie flexes per cycle based on seasonal availability and inventory. No parsley, no potatoes. RICE BUMPED 2026-08-05 (Will): 0.2 -> 0.3 cup/serving for maintenance-phase carbs.",
+    "notes": "Meal 3 only (you). Keep rotisserie drippings \u2014 key for moisture. Side veggie flexes per cycle based on seasonal availability and inventory. No parsley, no potatoes. RICE BUMPED 2026-08-05: 0.2 -> 0.3 cup/serving for maintenance-phase carbs. GARLIC REMOVED + SRIRACHA-YOGURT SAUCE ADDED 2026-08-05 (Will) \u2014 garlic dropped from how he actually makes this; protein boost via a Greek yogurt + sriracha + lime drizzle, same formula as the #5 sandwich sauce he already likes. Zero new grocery items \u2014 Greek yogurt and sriracha are already well-stocked.",
     "recipe_available": true,
     "recipe_steps": [
-      "Cook 1 cup short grain rice per rice cooker instructions.",
-      "While rice cooks, heat 1 tsp avocado oil in small pan over medium. Saut\u00e9 3 cloves minced garlic 30 seconds. Toss with cooked rice, season with salt + pepper.",
-      "Prepare seasonal veggie side per cycle plan (e.g. saut\u00e9ed kale, roasted tomato + zucchini, roasted bell peppers).",
+      "Cook 1.5 cups short grain rice per rice cooker instructions.",
+      "Whisk Greek yogurt + sriracha + lime juice into a sauce. Refrigerate until serving.",
+      "Prepare seasonal veggie side per cycle plan.",
       "Pull rotisserie chicken into 5 equal portions. Drizzle rotisserie drippings from container over each portion.",
-      "Divide into 5 containers: chicken + garlic rice + seasonal veggie."
+      "Divide into 5 containers: chicken + rice + seasonal veggie. Sauce in a separate small container, added fresh at eating (keeps the rice from going soggy in storage)."
     ],
     "on_break": false
   },
@@ -2265,9 +2277,15 @@
         "amount": "as needed",
         "unit": "(cooking)",
         "store": "Walmart"
+      },
+      {
+        "name": "Frozen shelled edamame",
+        "amount": "1.5",
+        "unit": "cups (~0.75 cup/serving)",
+        "store": "Costco"
       }
     ],
-    "notes": "Mostly Elena. M2/M4. Lightened to 1.8 cups dry rice for the cut (~5.4 cups cooked, 6 servings). Day-old chilled rice is essential \u2014 cook 1.8 cups the day before and chill uncovered overnight. Reheats well. Uses up green onion, cilantro. Celery CUT 2026-08-05 (Will) - was only in here to use up a stray stalk from an old cycle, not a core ingredient; no longer serves that purpose. TIERED S 2026-08-05 (Will). COOKING VESSEL: DEEP DISH CAST IRON SKILLET (decided 2026-08-05, over the Dutch oven alternative) - fried rice needs sustained high heat + real surface area to toss/sear for proper char (wok hei); cast iron handles high heat well and sears better than an enameled Dutch oven, which is built for braising and can take enamel damage at sustained high heat. The deep-dish depth still solves the original spill-over problem a shallow skillet would have. VEG SIDE 2026-08-05 (Will): pairs with cucumber kimchi from the teriyaki batch (#1) - one kimchi batch sized to cover both dishes.",
+    "notes": "Mostly Elena. M2/M4. Lightened to 1.8 cups dry rice for the cut (~5.4 cups cooked, 6 servings). Day-old chilled rice is essential \u2014 cook 1.8 cups the day before and chill uncovered overnight. Reheats well. Uses up green onion, cilantro. Celery CUT 2026-08-05 (Will) - was only in here to use up a stray stalk from an old cycle, not a core ingredient; no longer serves that purpose. TIERED S 2026-08-05 (Will). COOKING VESSEL: DEEP DISH CAST IRON SKILLET (decided 2026-08-05, over the Dutch oven alternative) - fried rice needs sustained high heat + real surface area to toss/sear for proper char (wok hei); cast iron handles high heat well and sears better than an enameled Dutch oven, which is built for braising and can take enamel damage at sustained high heat. The deep-dish depth still solves the original spill-over problem a shallow skillet would have. VEG SIDE 2026-08-05 (Will): pairs with cucumber kimchi from the teriyaki batch (#1) - one kimchi batch sized to cover both dishes. EDAMAME ADDED 2026-08-05 (Will) \u2014 protein + folate/iron/isoflavones, genuinely new micronutrients this week's roster doesn't otherwise cover. Toss in frozen, no need to thaw first \u2014 it steams through during the stir-fry.",
     "recipe_available": true,
     "recipe_steps": [
       "Day before: cook 1.8 cups rice, spread on a tray, chill uncovered in fridge overnight.",
@@ -2276,6 +2294,7 @@
       "In the same deep dish cast iron skillet, stir-fry minced garlic + grated ginger + green onion whites 1-2 min.",
       "Add cold rice, break up clumps, stir-fry 3-4 min to crisp.",
       "Add soy sauce + oyster sauce + sesame oil + white pepper (+ sriracha if using). Toss to coat.",
+      "Add frozen edamame straight in during the stir-fry (no need to thaw) \u2014 it'll steam through as everything cooks.",
       "Return egg + chicken, add green onion greens. Toss to combine and heat through.",
       "Garnish with cilantro. Divide into 6 containers."
     ],
@@ -4107,19 +4126,19 @@
     "ingredients": [
       {
         "name": "Sweet potatoes, cut into fries (max 1/2\" wide x 1/4\" thick x 3.5\" long)",
-        "amount": "2.5",
-        "unit": "lb (~7 medium)",
+        "amount": "1.25",
+        "unit": "lb (~3-4 medium, HALVED 8/5 to make room for edamame/yogurt-sauce protein additions)",
         "store": "Costco"
       },
       {
         "name": "Cornstarch",
-        "amount": "3",
+        "amount": "1.5",
         "unit": "Tbsp (~1.2 Tbsp/lb)",
         "store": "Walmart"
       },
       {
         "name": "Avocado oil",
-        "amount": "2.5",
+        "amount": "1.25",
         "unit": "Tbsp (~1 Tbsp/lb)",
         "store": "Walmart"
       },
@@ -4136,7 +4155,7 @@
         "store": "Walmart"
       }
     ],
-    "notes": "Web-verified technique (cross-checked across multiple crispy-sweet-potato-fry sources, 2026-08-05) \u2014 M4 snack, closes the carb-fill gap for Maintenance. THE ACTUAL TRICK IS CORNSTARCH: it absorbs surface moisture and forms a crisp shell that plain oil+seasoning alone won't get you \u2014 sweet potatoes have more moisture/sugar than regular potatoes and go soggy without it. Cut size matters more than people expect: over ~1/2\" wide or 1/4\" thick and they steam instead of crisping, regardless of technique. BATCH NOTE: air fryer basket capacity means this runs in multiple batches for a 2.5lb prep \u2014 don't crowd the basket, crowding is the #1 reason fries turn soggy. REHEAT: fries are best fresh; if reheating from the fridge, re-crisp in the air fryer (2-3 min, 400F) rather than microwave, which will make them soft again. Est. macros/serving (1 medium potato's worth, rough): ~180-200 cal / ~2g protein / ~4-5g fat (from the oil) / ~40g carb / ~4-5g fiber \u2014 matches the ~175-200 cal slot this was sized for in the carb-fill plan.",
+    "notes": "Web-verified technique (cross-checked across multiple crispy-sweet-potato-fry sources, 2026-08-05) \u2014 M4 snack, closes the carb-fill gap for Maintenance. THE ACTUAL TRICK IS CORNSTARCH: it absorbs surface moisture and forms a crisp shell that plain oil+seasoning alone won't get you \u2014 sweet potatoes have more moisture/sugar than regular potatoes and go soggy without it. Cut size matters more than people expect: over ~1/2\" wide or 1/4\" thick and they steam instead of crisping, regardless of technique. BATCH NOTE: air fryer basket capacity means this runs in multiple batches for a 2.5lb prep \u2014 don't crowd the basket, crowding is the #1 reason fries turn soggy. REHEAT: fries are best fresh; if reheating from the fridge, re-crisp in the air fryer (2-3 min, 400F) rather than microwave, which will make them soft again. Est. macros/serving (1 medium potato's worth, rough): ~180-200 cal / ~2g protein / ~4-5g fat (from the oil) / ~40g carb / ~4-5g fiber \u2014 matches the ~175-200 cal slot this was sized for in the carb-fill plan. HALVED 2026-08-05 (Will) \u2014 portion cut in half to make calorie/carb room for the edamame + Greek yogurt sauce protein additions elsewhere. Half portion daily (~90-100 cal / ~20g carb) rather than skipping every other day, for a simpler consistent daily routine.",
     "recipe_available": true,
     "recipe_steps": [
       "Peel sweet potatoes, cut into fries no bigger than 1/2\" wide x 1/4\" thick x 3.5\" long \u2014 bigger cuts steam instead of crisping.",
