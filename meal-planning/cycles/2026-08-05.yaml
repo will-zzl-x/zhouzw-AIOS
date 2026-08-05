@@ -54,18 +54,16 @@ selections:
       - { member: Elena, slot: M2, servings: 2 }
       - { member: Elena, slot: M4, servings: 2 }
 
-  - recipe_id: "43"
+  - recipe_id: "1"
     planned_servings: 6
     notes: |
-      Weekend cook (Sat/Sun) — Dr. Rupy chicken shawarma bowl, vetted from Will's
-      second pasted source. No-reheat-required (works hot or cold), good variety
-      against the curry. Cover-Elena-first split: Elena gets more of the 6, Will
-      gets the rest.
+      Weekend cook (Sat/Sun) — Chicken Teriyaki, REPLACES the dropped shawarma bowl
+      (8/5). Scaled 1.5x from the base 4-serving/4-thigh recipe to a 6-thigh Costco
+      pack (Will's call — one pack, not the 2-pack/8-thigh scale-up in the recipe's
+      own notes). M2 only per the recipe's meal_slots. Elena S-tier.
     slot_assignments:
-      - { member: Elena, slot: M2, servings: 2 }
-      - { member: Elena, slot: M4, servings: 2 }
-      - { member: Will, slot: M2, servings: 1 }
-      - { member: Will, slot: M4, servings: 1 }
+      - { member: Elena, slot: M2, servings: 3 }
+      - { member: Will, slot: M2, servings: 3 }
 
 inventory_snapshot: []
 
