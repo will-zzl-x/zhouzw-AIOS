@@ -87,12 +87,12 @@ selections:
       - { member: Will, slot: M4, servings: 1 }
 
   - recipe_id: "45"
-    planned_servings: 18
+    planned_servings: 11
     notes: |
-      Freezer meal-prep batch (8/5) — makes a fixed 18, only 5 are slot-assigned to
-      THIS cycle (closes Will's last remaining gap); the other 13 freeze as standing
-      stock for future weeks, not yet assigned to a specific cycle. Grocery buys for
-      the full 18-burrito batch since that's the recipe's natural scale.
+      Freezer meal-prep, HALF BATCH (8/5, Will's call) — 22oz chicken thigh (1 pack),
+      makes 11 (bumped from the proportional 9 for smaller/sturdier low-carb-tortilla
+      portions). Only 5 slot-assigned THIS cycle (closes Will's last gap); the other
+      6 freeze as standing stock for future weeks.
     slot_assignments:
       - { member: Will, slot: M3, servings: 2 }
       - { member: Will, slot: M4, servings: 3 }
