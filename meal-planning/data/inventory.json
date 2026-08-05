@@ -181,7 +181,7 @@
     "unit": "lbs",
     "location": "freezer",
     "freshness_date": "2026-08-15",
-    "note": "FLAG 8/5: cook plan says BOTH 7/24-audit fresh packs (sandwiches + chicken parm) were fully used, but this line item's provenance predates that audit (stale note references old recipe #20/#36) \u2014 unclear if this 2.06lb already excludes them or is a separate freezer stash. CONFIRM IN PERSON before trusting this number for the new cycle."
+    "note": "Confirmed 8/5 (Will): a couple packs actually on hand. Prior stale-provenance flag resolved."
   },
   {
     "item": "Chicken thighs",
@@ -193,11 +193,11 @@
   },
   {
     "item": "Ground beef (90/10)",
-    "quantity": 5.0,
+    "quantity": 0,
     "unit": "lbs",
     "location": "freezer",
     "freshness_date": "2026-07-15",
-    "note": "True-up 8/5: -1.25lb, ALL cleared by 2026-07-25 cycle bolognese per cook plan. Remainder is the untouched Costco freezer stash."
+    "note": "Corrected 8/5 (Will): stale figure, no stash actually on hand. Was wrongly shown as 6.25lb from an old count."
   },
   {
     "item": "Fat-free cream cheese",
