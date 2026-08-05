@@ -683,5 +683,13 @@
     "location": "pantry",
     "freshness_date": null,
     "note": "Confirmed on hand 2026-08-05 (Will) - covers the burritos' 1-onion need. Curry's SEPARATE 2-medium-onion need is not covered by this (see Onion entry, 0.5 on hand)."
+  },
+  {
+    "item": "Reduced-fat mozzarella, shredded",
+    "quantity": 2,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will) - matches the burrito recipe need (55g/~2oz) almost exactly, no buy needed."
   }
 ]
