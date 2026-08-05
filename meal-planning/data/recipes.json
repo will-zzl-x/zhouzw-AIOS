@@ -2137,7 +2137,7 @@
   {
     "id": "22",
     "name": "Chicken Thigh Fried Rice",
-    "tier": null,
+    "tier": "S",
     "meal_slots": [
       2,
       4
@@ -2236,13 +2236,13 @@
         "store": "Walmart"
       }
     ],
-    "notes": "Mostly Elena. M2/M4. Lightened to 1.8 cups dry rice for the cut (~5.4 cups cooked, 6 servings). Day-old chilled rice is essential \u2014 cook 1.8 cups the day before and chill uncovered overnight. Reheats well. Uses up green onion, celery, cilantro.",
+    "notes": "Mostly Elena. M2/M4. Lightened to 1.8 cups dry rice for the cut (~5.4 cups cooked, 6 servings). Day-old chilled rice is essential \u2014 cook 1.8 cups the day before and chill uncovered overnight. Reheats well. Uses up green onion, celery, cilantro. TIERED S 2026-08-05 (Will). COOKING VESSEL: Dutch oven or deep dish cast iron skillet (Will's call) - not a shallow skillet/wok, the extra depth handles the full rice + protein + egg toss without spilling over.",
     "recipe_available": true,
     "recipe_steps": [
       "Day before: cook 1.8 cups rice, spread on a tray, chill uncovered in fridge overnight.",
-      "Scramble 16 oz egg whites + 2 whole eggs in wok or large skillet with a little avocado oil. Remove and set aside.",
+      "Scramble 16 oz egg whites + 2 whole eggs in Dutch oven or deep dish cast iron skillet with a little avocado oil. Remove and set aside.",
       "Sear diced thighs in avocado oil over high heat until cooked through (165\u00b0F). Remove and set aside.",
-      "Stir-fry minced garlic + grated ginger + green onion whites + diced celery 1-2 min.",
+      "In the same Dutch oven or deep dish cast iron skillet, stir-fry minced garlic + grated ginger + green onion whites + diced celery 1-2 min.",
       "Add cold rice, break up clumps, stir-fry 3-4 min to crisp.",
       "Add soy sauce + oyster sauce + sesame oil + white pepper (+ sriracha if using). Toss to coat.",
       "Return egg + chicken, add green onion greens. Toss to combine and heat through.",
@@ -2744,191 +2744,6 @@
     ]
   },
   {
-    "id": "28",
-    "name": "Modular Bittman Chinese Steamed Chicken Bowl (Will/Elena fork)",
-    "tier": "A",
-    "meal_slots": [
-      3,
-      4
-    ],
-    "servings": 10,
-    "protein": "Chicken Breast",
-    "for": "both",
-    "ingredients": [
-      {
-        "name": "Boneless skinless chicken breast",
-        "amount": "4.5",
-        "unit": "lb (~72 oz raw, yields ~55 oz cooked = 5.5 oz \u00d7 10 srv)",
-        "store": "Costco"
-      },
-      {
-        "name": "Kosher salt (chicken)",
-        "amount": "1.5",
-        "unit": "Tbsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Fresh ginger, sliced (steaming)",
-        "amount": "4",
-        "unit": "inches sliced",
-        "store": "Walmart"
-      },
-      {
-        "name": "Fresh ginger, finely grated (scallion sauce)",
-        "amount": "3",
-        "unit": "Tbsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Scallions, thinly sliced (sauce)",
-        "amount": "3",
-        "unit": "bunches (~20 scallions)",
-        "store": "Walmart"
-      },
-      {
-        "name": "Garlic cloves, minced (sauce)",
-        "amount": "3",
-        "unit": "cloves",
-        "store": "Walmart"
-      },
-      {
-        "name": "Grapeseed oil (sauce, for heating)",
-        "amount": "9",
-        "unit": "Tbsp (~0.5 cup)",
-        "store": "Walmart"
-      },
-      {
-        "name": "Light soy sauce (scallion sauce)",
-        "amount": "6",
-        "unit": "Tbsp",
-        "store": "Asian Mart"
-      },
-      {
-        "name": "Toasted sesame oil (sauce)",
-        "amount": "1",
-        "unit": "Tbsp",
-        "store": "Asian Mart"
-      },
-      {
-        "name": "Zero-calorie sweetener (sauce)",
-        "amount": "1",
-        "unit": "Tbsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "White pepper (sauce, optional)",
-        "amount": "0.75",
-        "unit": "tsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Dry white rice",
-        "amount": "1.75",
-        "unit": "cups dry (~5.25 cups cooked \u2014 Will 0.3 cup \u00d7 5 + Elena 0.75 cup \u00d7 5)",
-        "store": "Walmart"
-      },
-      {
-        "name": "Bok choy, chopped (Will stir-fry veg fork)",
-        "amount": "3",
-        "unit": "lb (~12 cups raw \u2192 ~10 cups cooked, Will-only ~2 cups/srv \u00d7 5)",
-        "store": "Asian Mart"
-      },
-      {
-        "name": "Baby spinach (Will stir-fry veg fork)",
-        "amount": "10",
-        "unit": "oz (~5 cups raw, wilts to ~1 cup cooked, Will-only)",
-        "store": "Walmart"
-      },
-      {
-        "name": "Avocado oil (stir-fry)",
-        "amount": "1",
-        "unit": "Tbsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Garlic, minced (stir-fry)",
-        "amount": "1",
-        "unit": "Tbsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Light soy sauce (stir-fry)",
-        "amount": "1",
-        "unit": "Tbsp",
-        "store": "Asian Mart"
-      },
-      {
-        "name": "Cucumbers, thinly sliced (cucumber salad)",
-        "amount": "5",
-        "unit": "medium (~650g)",
-        "store": "Walmart"
-      },
-      {
-        "name": "Salt (cucumber salad)",
-        "amount": "1.5",
-        "unit": "tsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Fresh garlic, minced (cucumber salad)",
-        "amount": "1.5",
-        "unit": "tsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Gochujang (cucumber salad)",
-        "amount": "1.5",
-        "unit": "Tbsp",
-        "store": "Asian Mart"
-      },
-      {
-        "name": "Zero-calorie sweetener (cucumber salad)",
-        "amount": "2",
-        "unit": "Tbsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Rice vinegar (cucumber salad)",
-        "amount": "3",
-        "unit": "Tbsp",
-        "store": "Asian Mart"
-      },
-      {
-        "name": "Sesame seeds (cucumber salad)",
-        "amount": "1.5",
-        "unit": "Tbsp",
-        "store": "Asian Mart"
-      },
-      {
-        "name": "Chili flakes (cucumber salad)",
-        "amount": "1.5",
-        "unit": "tsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Light soy sauce (cucumber salad)",
-        "amount": "3",
-        "unit": "Tbsp",
-        "store": "Asian Mart"
-      }
-    ],
-    "notes": "MODULAR \u2014 cook once, fork at the plate. 5 srv Will + 5 srv Elena = 10 total. BULK PREP: Bittman-style steamed chicken (shared) + white rice (shared cook, forked portion) + cucumber salad (shared \u2014 both want it) + scallion-ginger oil sauce (shared, forked portion) + bok choy/spinach stir-fry (Will fork only \u2014 his volume booster). WILL ASSEMBLY (~380 cal / 50P / 7F / 22C): 5.5 oz chicken + 2 cups bok choy/spinach stir-fry + 0.3 cup rice + 1 cup cucumber salad + LIGHT scallion-sauce drizzle (~1 Tbsp). Veg-bulked, sauce-restrained. ELENA ASSEMBLY (~530 cal / 50P / 17F / 50C): 5.5 oz chicken + 0.75 cup rice + 1 cup cucumber salad + FULL scallion-sauce pour (~2.5 Tbsp). No stir-fry veg (she doesn't need the volume). SCALLION-SAUCE TECHNIQUE: hot oil tempers raw scallions/ginger \u2014 make 1-2 fresh batches across the week (sauce best within 3 days). KBBQ #19 stays as Will-only gochujang option. UPDATED 2026-06-10: was 3-srv Elena-only; now 10-srv modular for both per Will's modular meal-prep design.",
-    "recipe_available": true,
-    "recipe_steps": [
-      "BULK PREP \u2014 cook once Sunday:",
-      "Salt chicken breasts on all sides; rest 15 min while you set up steamer.",
-      "Steam chicken: bamboo basket over wok or steamer basket over pot w/ 2 inches simmering water. Place chicken on heatproof plate, ginger slices on top. Steam covered HIGH 18-22 min (large batch) until 165F internal. Rest 5 min, slice thin across grain. Reserve any chicken juices.",
-      "Cook rice: Instant Pot 1.75 cups rice + 1.75 cups water, HIGH 4 min, NR 10 min, fluff. Will gets 1.5 cups cooked; Elena gets 3.75 cups cooked.",
-      "Make cucumber salad: thinly slice 5 cucumbers, toss w/ 1.5 tsp salt, rest 15 min, squeeze. Add cuke-salad garlic + gochujang + sweetener + rice vinegar + sesame seeds + chili flakes + soy. Stir, taste. Refrigerate.",
-      "Make scallion sauce (BIG BATCH or split into 2 batches across the week for fresher pour): combine ALL scallions + grated ginger + minced garlic in heatproof bowl. Heat 9 Tbsp grapeseed oil until shimmering / just smoking. Pour over scallions \u2014 sizzle/bloom. Stir in 6 Tbsp soy + 1 Tbsp sesame oil + 1 Tbsp sweetener + 0.75 tsp white pepper.",
-      "WILL FORK \u2014 stir-fry bulk veg: hot wok or large skillet, 1 Tbsp avocado oil, 1 Tbsp minced garlic 30 sec. Add chopped bok choy + spinach in batches; stir-fry 3-5 min until just wilted. Splash 1 Tbsp soy sauce. Cool, divide into 5 portions (~2 cups each).",
-      "PACK Will (5 containers): 5.5 oz chicken + 2 cups stir-fry bok choy/spinach + 0.3 cup rice in each. Cucumber salad in separate 1-cup containers. Scallion sauce in tiny portion cups (~1 Tbsp/srv \u2014 light drizzle).",
-      "PACK Elena (5 containers): 5.5 oz chicken + 0.75 cup rice in each. Cucumber salad in 1-cup separate. Scallion sauce in portion cups (~2.5 Tbsp/srv \u2014 full pour).",
-      "REHEAT (both): microwave main container 90s; pour scallion sauce + add cucumber salad cold on top."
-    ],
-    "on_break": false
-  },
-  {
     "id": "29",
     "name": "Goat Cheese + Crackers Snack Plate",
     "tier": null,
@@ -3368,217 +3183,6 @@
       "Portion pork + veg into 7 containers. Refrigerate up to 4 days; freeze extras before travel.",
       "Each morning: reheat ~60-90s microwave (or eat cold). Starch-free lean protein+veg M1 for the cut."
     ]
-  },
-  {
-    "id": "35",
-    "name": "Chinese Steamed/Poached Chicken + Ginger-Scallion Sauce + Cucumber Salad",
-    "tier": "A",
-    "meal_slots": [
-      3,
-      4
-    ],
-    "servings": 4,
-    "protein": "Chicken Breast",
-    "for": "both",
-    "ingredients": [
-      {
-        "name": "Boneless skinless chicken breast (1 Costco pack from the 8lb/6-pack)",
-        "amount": "1.33",
-        "unit": "lb (~1 pack, ~4 srv at ~5oz cooked)",
-        "store": "Costco"
-      },
-      {
-        "name": "Fresh ginger, sliced (for poaching)",
-        "amount": "3",
-        "unit": "inches sliced",
-        "store": "Walmart"
-      },
-      {
-        "name": "Scallions, smashed (for poaching)",
-        "amount": "2",
-        "unit": "whole",
-        "store": "Walmart"
-      },
-      {
-        "name": "Kosher salt (chicken)",
-        "amount": "1",
-        "unit": "tsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Scallions, finely sliced (ginger-scallion sauce)",
-        "amount": "1",
-        "unit": "bunch (~6)",
-        "store": "Walmart"
-      },
-      {
-        "name": "Fresh ginger, finely grated (sauce)",
-        "amount": "2",
-        "unit": "Tbsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Grapeseed oil (sauce base)",
-        "amount": "3",
-        "unit": "Tbsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Toasted sesame oil (sauce)",
-        "amount": "1",
-        "unit": "tsp",
-        "store": "Asian Mart"
-      },
-      {
-        "name": "Light soy sauce (sauce)",
-        "amount": "2",
-        "unit": "Tbsp",
-        "store": "Asian Mart"
-      },
-      {
-        "name": "Cucumbers, thinly sliced (salad)",
-        "amount": "3",
-        "unit": "medium (~400g)",
-        "store": "Walmart"
-      },
-      {
-        "name": "Salt (cucumber salad)",
-        "amount": "1",
-        "unit": "tsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Rice vinegar (cucumber salad)",
-        "amount": "2",
-        "unit": "Tbsp",
-        "store": "Asian Mart"
-      },
-      {
-        "name": "Light soy sauce (cucumber salad)",
-        "amount": "1",
-        "unit": "Tbsp + 2 tsp",
-        "store": "Asian Mart"
-      },
-      {
-        "name": "Sesame seeds (cucumber salad)",
-        "amount": "1",
-        "unit": "Tbsp",
-        "store": "Asian Mart"
-      },
-      {
-        "name": "Chili flakes (cucumber salad, optional)",
-        "amount": "1",
-        "unit": "tsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Fresh garlic, minced (cucumber salad)",
-        "amount": "1",
-        "unit": "tsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Steamed white rice (base)",
-        "amount": "1.25",
-        "unit": "cups dry (~4 srv)",
-        "store": "Walmart"
-      }
-    ],
-    "notes": "M3/M4, 4 srv. Poached/steamed chicken breast (Hainanese-style, distinct from #28 Bittman which uses bok choy/spinach) + an OVERNIGHT ginger-scallion sauce (grapeseed oil + soy + a bit of sesame oil, sits overnight to bloom) + cucumber salad reused from #19's recipe. Per serving (est): ~390 cal / 48g protein / 14g fat / 18g carbs over rice (sauce adds most of the fat \u2014 Will can spoon lightly for the cut). Elena A-tier. 4 srv = right-sized for the pre-travel week (NOT the 10-srv #28 modular). 1 Costco breast pack (~1.33lb from the 8lb 6-pack). MAKE THE SAUCE THE NIGHT BEFORE \u2014 grated ginger + sliced scallion steeped in grapeseed oil + soy + sesame oil overnight mellows and deepens it. Cucumber salad also improves overnight and keeps ~5-7 days. Poached chicken keeps 3-4 days, reheats gently (or eat cold sliced over rice). Pre-travel safe: cook early-mid week, freeze any surplus before Fri. Added cycle 2026-06-13.",
-    "on_break": false,
-    "recipe_available": true,
-    "recipe_steps": [
-      "NIGHT BEFORE: make the ginger-scallion sauce \u2014 combine finely sliced scallions + grated ginger in a heatproof bowl. Warm grapeseed oil until shimmering, pour over (it sizzles), then stir in soy sauce + sesame oil. Cover and let sit overnight in the fridge to bloom.",
-      "NIGHT BEFORE (optional): salt the sliced cucumbers, rest 15 min, drain; toss with rice vinegar, soy, sesame seeds, chili flakes, minced garlic. Refrigerate overnight \u2014 improves as it sits.",
-      "Poach chicken: bring a pot of water to a gentle simmer with sliced ginger, smashed scallions, salt. Add chicken breasts, poach gently ~12-15 min until 165F internal (do not hard-boil \u2014 keeps it tender). Rest, then slice.",
-      "Steam/cook white rice.",
-      "Plate: sliced poached chicken over rice, spoon the overnight ginger-scallion sauce on top (light for the cut), cucumber salad on the side.",
-      "Store components separately; reheat chicken gently or serve cold. Sauce + cucumber salad keep ~5-7 days. Freeze surplus chicken before travel."
-    ]
-  },
-  {
-    "id": "36",
-    "name": "Ginger-Scallion Chinese Chicken",
-    "tier": "A",
-    "meal_slots": [
-      2,
-      4
-    ],
-    "servings": 4,
-    "protein": "Chicken Breast",
-    "ingredients": [
-      {
-        "name": "Chicken breast (poached/steamed, sliced)",
-        "amount": "22",
-        "unit": "oz (1 pack ~1.375 lb)",
-        "store": "Costco"
-      },
-      {
-        "name": "Green onions, finely sliced",
-        "amount": "1",
-        "unit": "bunch",
-        "store": "Walmart"
-      },
-      {
-        "name": "Ginger powder",
-        "amount": "1",
-        "unit": "Tbsp (sub for fresh)",
-        "store": "Walmart"
-      },
-      {
-        "name": "Garlic, grated",
-        "amount": "2",
-        "unit": "cloves",
-        "store": "Walmart"
-      },
-      {
-        "name": "Neutral oil (avocado/grape seed)",
-        "amount": "3",
-        "unit": "Tbsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Low-sodium soy sauce",
-        "amount": "2",
-        "unit": "Tbsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Rice vinegar",
-        "amount": "1",
-        "unit": "Tbsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "Sesame oil",
-        "amount": "1",
-        "unit": "tsp",
-        "store": "Walmart"
-      },
-      {
-        "name": "White rice (M4 side)",
-        "amount": "2",
-        "unit": "cups cooked",
-        "store": "Costco"
-      },
-      {
-        "name": "Salt",
-        "amount": "to taste",
-        "unit": "",
-        "store": "Walmart"
-      }
-    ],
-    "notes": "M2/M4. Uses the 2nd defrosted chicken pack. Overnight ginger-scallion sauce: combine sliced green onion + ginger + garlic + salt in a heatproof bowl; heat oil until shimmering and pour over to bloom, then stir in soy + rice vinegar + sesame oil. Rest overnight in fridge for best flavor. Poach or steam chicken, slice, spoon sauce per portion. Low-cal: sauce is oil-forward so portion ~1 Tbsp; lean protein + rice for M4, skip rice for Will M2.",
-    "recipe_available": true,
-    "recipe_steps": [
-      "Make sauce the night before: mince green onion, ginger, garlic into a heatproof bowl with a pinch of salt.",
-      "Heat 3 Tbsp neutral oil until shimmering; pour over the aromatics to bloom (it will sizzle).",
-      "Stir in soy sauce, rice vinegar, sesame oil. Cool, cover, refrigerate overnight.",
-      "Poach or steam 1.75 lb chicken breast until 165F; rest, then slice.",
-      "Portion sliced chicken over rice (M4) or alone (Will M2, starch-free); spoon ~1 Tbsp sauce per serving.",
-      "Reheat chicken gently; add sauce cold after reheating so it stays fresh."
-    ],
-    "on_break": false
   },
   {
     "id": "37",
@@ -4164,6 +3768,135 @@
       "Combine: cooked pasta + cheese sauce + chicken + veg in one big pot, stir to mix evenly.",
       "Veg is OPTIONAL and per-bowl, not stirred into the shared batch: Will adds his own peas/carrots/mixed veg (microwaved 1-2 min) to his individual bowl at serving time. Keep the base batch veg-free so everyone can customize.",
       "Portion into 5 containers."
+    ],
+    "on_break": false
+  },
+  {
+    "id": "44",
+    "name": "Ginger-Scallion Poached Chicken + Cucumber Salad",
+    "tier": "A",
+    "meal_slots": [
+      2,
+      3,
+      4
+    ],
+    "servings": 4,
+    "protein": "Chicken Breast",
+    "for": "both",
+    "ingredients": [
+      {
+        "name": "Boneless skinless chicken breast (1 Costco pack)",
+        "amount": "1.33",
+        "unit": "lb (~22oz, ~4 srv at ~5oz cooked)",
+        "store": "Costco"
+      },
+      {
+        "name": "Fresh ginger, sliced (poaching)",
+        "amount": "3",
+        "unit": "inches sliced",
+        "store": "Walmart"
+      },
+      {
+        "name": "Scallions, smashed (poaching)",
+        "amount": "2",
+        "unit": "whole",
+        "store": "Walmart"
+      },
+      {
+        "name": "Kosher salt (chicken)",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Scallions, finely sliced (sauce)",
+        "amount": "1",
+        "unit": "bunch (~6)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Fresh ginger, finely grated (sauce, or sub ginger powder ~1 Tbsp)",
+        "amount": "2",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Grapeseed oil (sauce base)",
+        "amount": "3",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Toasted sesame oil (sauce)",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Light soy sauce (sauce)",
+        "amount": "2",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Cucumbers, thinly sliced (salad)",
+        "amount": "3",
+        "unit": "medium (~400g)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt (cucumber salad)",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Rice vinegar (cucumber salad)",
+        "amount": "2",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Light soy sauce (cucumber salad)",
+        "amount": "2",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Sesame seeds (cucumber salad)",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Asian Mart"
+      },
+      {
+        "name": "Chili flakes (cucumber salad, optional)",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Fresh garlic, minced (cucumber salad)",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Steamed white rice (base, Elena/M4; skip for Will M2 starch-free)",
+        "amount": "1.25",
+        "unit": "cups dry (~4 srv)",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "CONSOLIDATED 2026-08-05 (Will's call) \u2014 merges what were 3 near-duplicate recipes: #28 (Modular Bittman, 10-srv fork), #35 (Chinese Steamed/Poached, 4-srv), #36 (Ginger-Scallion, 4-srv, no cucumber salad). All three were the same core dish: poached/steamed chicken breast + an overnight ginger-scallion oil sauce, with cucumber salad on 2 of 3. This is the single source of truth going forward. BASE SIZE (this entry): 4 servings / 1 Costco pack \u2014 the right-sized default for a normal week. TO SCALE UP to a bigger modular batch (the old #28 approach): triple the chicken/aromatics/sauce proportionally (4.5lb chicken, 3 bunches scallions, 9 Tbsp oil, etc. for ~10 srv), and add Will's fork option \u2014 a bok choy + spinach stir-fry (1 Tbsp avocado oil, 1 Tbsp garlic, chopped bok choy + spinach, 3-5 min till wilted, splash of soy) as his volume-booster instead of extra rice, with a LIGHT sauce pour (~1 Tbsp) vs. Elena's FULL pour (~2.5 Tbsp) + more rice. MAKE THE SAUCE THE NIGHT BEFORE \u2014 grated ginger + sliced scallion steeped in hot grapeseed oil + soy + sesame oil overnight mellows and deepens it; cucumber salad also improves overnight (ginger powder is a fine sub for fresh in the sauce if that's what's on hand). Per serving (est): ~390 cal / 48g protein / 14g fat / 18g carb over rice \u2014 sauce is the fat driver, portion lightly for a cut. Poached chicken keeps 3-4 days; sauce + cucumber salad keep 5-7 days.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "NIGHT BEFORE: make the ginger-scallion sauce \u2014 combine finely sliced scallions + grated ginger (or ginger powder) in a heatproof bowl. Warm grapeseed oil until shimmering, pour over (it sizzles), then stir in soy sauce + sesame oil. Cover, refrigerate overnight to bloom.",
+      "NIGHT BEFORE (optional but better): salt the sliced cucumbers, rest 15 min, drain; toss with rice vinegar, soy, sesame seeds, chili flakes, minced garlic. Refrigerate overnight.",
+      "Poach chicken: bring a pot of water to a gentle simmer with sliced ginger, smashed scallions, salt. Add chicken breast, poach gently ~12-15 min until 165F internal (don't hard-boil \u2014 keeps it tender). Rest, then slice.",
+      "Cook rice for M4/Elena portions; skip for Will's M2 starch-free portions.",
+      "Plate: sliced poached chicken (over rice or plain), spoon the overnight sauce on top (light for the cut), cucumber salad on the side.",
+      "SCALING UP: see notes for the 10-serving modular version with Will's bok choy/spinach stir-fry fork.",
+      "Store components separately; reheat chicken gently or serve cold. Sauce + cucumber salad keep 5-7 days."
     ],
     "on_break": false
   }
