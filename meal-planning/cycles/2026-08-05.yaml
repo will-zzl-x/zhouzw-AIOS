@@ -39,20 +39,20 @@ selections:
       - { member: Will, slot: M3, servings: 5 }
 
   - recipe_id: "42"
-    planned_servings: 8
+    planned_servings: 14
     notes: |
       TONIGHT'S ACTUAL COOK (8/5) — Dr. Rupy-style one-pan chicken + red lentil curry,
       vetted in from Will's pasted source, chicken subbed for the original monkfish.
-      Exactly the "meal in my pocket" pattern Will asked for: high protein, high fiber,
-      anti-inflammatory, one pan, flexible on veg (whatever's in the fridge), reheats
-      well, freezes well. Uses on-hand chicken breast. Split evenly across both people's
-      M2/M4 as a partial fill — not meant to be the week's only dish, more variety
-      coming from the weekend cook.
+      RESCALED 8/5 to 44oz (2 Costco packs) chicken, whole recipe scaled ~1.83x to
+      stay balanced — now 14 servings (was 8), per Will's "keep filling" call.
+      BIG BATCH — likely needs the largest pot available, see recipe notes.
+      Cover-Elena-first: her M2/M4 gaps fully closed by this; Will's M2/M4 narrowed
+      to 1 short each (M3 untouched, curry isn't an M3 recipe).
     slot_assignments:
-      - { member: Will, slot: M2, servings: 2 }
-      - { member: Will, slot: M4, servings: 2 }
-      - { member: Elena, slot: M2, servings: 2 }
-      - { member: Elena, slot: M4, servings: 2 }
+      - { member: Elena, slot: M2, servings: 4 }
+      - { member: Elena, slot: M4, servings: 4 }
+      - { member: Will, slot: M2, servings: 3 }
+      - { member: Will, slot: M4, servings: 3 }
 
   - recipe_id: "1"
     planned_servings: 6

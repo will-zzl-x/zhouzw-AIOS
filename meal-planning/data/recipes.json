@@ -3961,132 +3961,132 @@
       2,
       4
     ],
-    "servings": 8,
+    "servings": 14,
     "protein": "Chicken Breast",
     "for": "both",
     "ingredients": [
       {
         "name": "Red lentils, dry (soak 15 min, rinse+drain)",
-        "amount": "2",
+        "amount": "3.5",
         "unit": "cups",
         "store": "Walmart"
       },
       {
         "name": "Chicken breast, cut into chunks",
-        "amount": "1.5",
-        "unit": "lb",
+        "amount": "44",
+        "unit": "oz (2 Costco packs)",
         "store": "Costco"
       },
       {
         "name": "Tomatoes, roughly chopped (for paste)",
-        "amount": "4",
+        "amount": "7",
         "unit": "medium",
         "store": "Walmart"
       },
       {
         "name": "Ginger powder (sub for fresh, Will has it on hand)",
-        "amount": "2",
+        "amount": "4",
         "unit": "tsp",
         "store": ""
       },
       {
         "name": "Garlic cloves (for paste)",
-        "amount": "8",
+        "amount": "15",
         "unit": "cloves",
         "store": "Walmart"
       },
       {
         "name": "Chili powder (paste, adjust to heat preference)",
-        "amount": "1.5",
+        "amount": "2.75",
         "unit": "Tbsp",
         "store": "Walmart"
       },
       {
         "name": "Onion, roughly chopped (for paste)",
-        "amount": "2",
+        "amount": "4",
         "unit": "medium",
         "store": "Walmart"
       },
       {
         "name": "Desiccated coconut",
-        "amount": "3",
+        "amount": "5.5",
         "unit": "Tbsp",
         "store": "Walmart"
       },
       {
         "name": "Salt (paste)",
-        "amount": "1",
+        "amount": "2",
         "unit": "tsp",
         "store": "Walmart"
       },
       {
         "name": "Black pepper (paste)",
-        "amount": "0.5",
+        "amount": "1",
         "unit": "tsp",
         "store": "Walmart"
       },
       {
         "name": "Coconut oil (or olive oil sub \u2014 see notes)",
-        "amount": "2",
+        "amount": "3.5",
         "unit": "Tbsp",
         "store": "Walmart"
       },
       {
         "name": "Mustard seeds",
-        "amount": "2",
+        "amount": "3.5",
         "unit": "tsp",
         "store": "Asian Mart"
       },
       {
         "name": "Ground cumin (sub for seeds, Will's call)",
-        "amount": "2",
+        "amount": "3.5",
         "unit": "tsp",
         "store": "Walmart"
       },
       {
         "name": "Turmeric powder",
-        "amount": "2",
+        "amount": "3.5",
         "unit": "tsp",
         "store": "Asian Mart"
       },
       {
         "name": "Water",
-        "amount": "2.5",
+        "amount": "4.5",
         "unit": "cups",
         "store": ""
       },
       {
         "name": "Coconut milk, canned",
-        "amount": "2",
+        "amount": "4",
         "unit": "cans (13.5oz each)",
         "store": "Walmart"
       },
       {
         "name": "Chicken stock (or bouillon + water)",
-        "amount": "2",
+        "amount": "3.5",
         "unit": "cups",
         "store": "Walmart"
       },
       {
         "name": "Green beans, chopped",
-        "amount": "3",
+        "amount": "5.5",
         "unit": "cups",
         "store": "Walmart"
       },
       {
         "name": "Spinach (or baby kale / Swiss chard / spring greens)",
-        "amount": "7",
+        "amount": "13",
         "unit": "cups",
         "store": "Walmart"
       },
       {
         "name": "Lime, wedged (garnish, optional)",
-        "amount": "2",
+        "amount": "4",
         "unit": "limes",
         "store": "Walmart"
       }
     ],
-    "notes": "Source: Dr. Rupy / Doctor's Kitchen one-pan curry, adapted chicken-for-monkfish per Will (2026-08-05) and scaled ~3x to an 8-serving household batch. High protein + high fiber (red lentils: soluble fiber, blood-sugar friendly) + anti-inflammatory (turmeric, ginger, garlic). Genuinely flexible \u2014 greens and veg swap for whatever's in the fridge (green beans -> broccoli/peas; spinach -> baby kale/chard/spring greens all wilt down fine). GETS BETTER NEXT DAY \u2014 ideal for meal-prep reheats; freezes well as a full batch. Est. macros/serving (rough, not calorie-verified): ~380-420 cal / ~30-35g protein / ~15-18g fat / ~35-40g carb / ~10-12g fiber \u2014 the coconut milk is the main fat driver; sub light coconut milk or cut to 1 can + extra stock to lean it out. Coconut oil can raise LDL for some \u2014 sub olive oil if that's a concern, spices dominate the flavor either way. Serve as-is (lentils are the carb) or over rice for a bigger plate. INGREDIENT SUBS 2026-08-05 (Will, on-hand swaps): ginger powder for fresh ginger (2 tsp powder ~ the 2-inch knob), ground cumin for cumin seeds (loses the pop/texture, still tastes right).",
+    "notes": "Source: Dr. Rupy / Doctor's Kitchen one-pan curry, adapted chicken-for-monkfish per Will (2026-08-05) and scaled ~3x to an 8-serving batch, then RESCALED 2026-08-05 (Will) to 44oz (2 Costco packs) chicken - whole recipe scaled proportionally (~1.83x) to keep the lentil/coconut-milk/veg ratio balanced, now 14 servings. BIG BATCH WARNING: raw volume before the spinach wilts down likely exceeds the 6qt Dutch oven - may need the largest pot available, or cook in 2 batches. Add spinach in stages as the recipe already calls for (wilts fast).. High protein + high fiber (red lentils: soluble fiber, blood-sugar friendly) + anti-inflammatory (turmeric, ginger, garlic). Genuinely flexible \u2014 greens and veg swap for whatever's in the fridge (green beans -> broccoli/peas; spinach -> baby kale/chard/spring greens all wilt down fine). GETS BETTER NEXT DAY \u2014 ideal for meal-prep reheats; freezes well as a full batch. Est. macros/serving (rough, not calorie-verified): ~380-420 cal / ~30-35g protein / ~15-18g fat / ~35-40g carb / ~10-12g fiber \u2014 the coconut milk is the main fat driver; sub light coconut milk or cut to 1 can + extra stock to lean it out. Coconut oil can raise LDL for some \u2014 sub olive oil if that's a concern, spices dominate the flavor either way. Serve as-is (lentils are the carb) or over rice for a bigger plate. INGREDIENT SUBS 2026-08-05 (Will, on-hand swaps): ginger powder for fresh ginger (2 tsp powder ~ the 2-inch knob), ground cumin for cumin seeds (loses the pop/texture, still tastes right).",
     "recipe_available": true,
     "recipe_steps": [
       "Soak red lentils in water 15 min while prepping everything else, then rinse + drain.",
@@ -4096,7 +4096,7 @@
       "Add drained lentils, water, coconut milk, chicken stock. Stir, bring to a light simmer, cook ~15 min until lentils are soft.",
       "Add chicken chunks and green beans. Simmer ~10-12 min until chicken is cooked through (165F) and beans are tender.",
       "Stir in spinach (or swap green) in batches \u2014 looks like a lot, wilts down fast. Cook 2-3 min more.",
-      "Serve in bowls, lime wedge on the side if using. Portion into 8 containers for the week; freeze extras flat in bags for later."
+      "Serve in bowls, lime wedge on the side if using. Portion into 14 containers for the week; freeze extras flat in bags for later."
     ],
     "on_break": false
   },
