@@ -4102,7 +4102,7 @@
   },
   {
     "id": "43",
-    "name": "Goodles High-Protein Mac & Cheese + Chicken + Veg Stir-In",
+    "name": "Goodles High-Protein Mac & Cheese + Chicken (Veg Optional, Per-Bowl)",
     "tier": "B",
     "meal_slots": [
       2,
@@ -4143,9 +4143,9 @@
         "store": "Walmart"
       },
       {
-        "name": "Frozen peas & carrots (or mixed veg)",
-        "amount": "2",
-        "unit": "cups",
+        "name": "Frozen peas and/or carrots and/or mixed veg (OPTIONAL, per-bowl, not batch-mixed)",
+        "amount": "to taste",
+        "unit": "per serving",
         "store": "Walmart"
       },
       {
@@ -4161,8 +4161,8 @@
       "Dice chicken breast. Season with salt, pepper, garlic powder.",
       "Sear in avocado oil over medium-high, ~5-6 min, stirring occasionally, until cooked through (165F). Set aside.",
       "Cook Goodles boxes per package directions (boil 6 cups water per box \u2014 batch in a large pot or do 2-3 at a time \u2014 add pasta, cook 8-10 min, drain, stir in cheese sauce packet).",
-      "While pasta cooks, thaw/warm frozen peas & carrots (microwave 2-3 min, or add straight into the hot drained pasta for the last minute to heat through).",
       "Combine: cooked pasta + cheese sauce + chicken + veg in one big pot, stir to mix evenly.",
+      "Veg is OPTIONAL and per-bowl, not stirred into the shared batch: Will adds his own peas/carrots/mixed veg (microwaved 1-2 min) to his individual bowl at serving time. Keep the base batch veg-free so everyone can customize.",
       "Portion into 5 containers."
     ],
     "on_break": false
