@@ -24,6 +24,14 @@ carryover: []
 # sub-packs. Buy ONE Costco case (the only unit available); ~3 sub-packs (~66oz)
 # will be genuine surplus/freezer stock for future cycles, not a shortfall.
 
+# CARB FILL (8/5, Will) — the built recipes alone landed well under the 2,350 cal /
+# 325g carb Maintenance target (est. ~1,667 cal / ~167g carb/day, mostly a carb gap).
+# Fixes: curry now served over rice (~0.75 cup cooked/serving, added above), rotisserie
+# rice bumped 0.2->0.3 cup/serving. PLUS: daily seasonal fruit filler, untracked -
+# melon (August-peak per data/seasonal.yaml, practical Costco/Walmart pick), ~2 cups/day.
+# Not a recipe line item - eaten alongside meals, no fixed slot. Add to the Costco/
+# Walmart list. Even with all three, still landing under target - see the math below.
+
 selections:
   - recipe_id: "30"
     planned_servings: 7

@@ -675,8 +675,8 @@
       },
       {
         "name": "Short grain Japanese rice",
-        "amount": "1",
-        "unit": "cup dry (0.2 cup per serving)",
+        "amount": "1.5",
+        "unit": "cup dry (0.3 cup per serving, up from 0.2)",
         "store": "Asian Mart"
       },
       {
@@ -704,7 +704,7 @@
         "store": "varies"
       }
     ],
-    "notes": "Meal 3 only (you). Keep rotisserie drippings \u2014 key for moisture. Garlic rice base is consistent. Side veggie flexes per cycle based on seasonal availability and inventory. No parsley, no potatoes.",
+    "notes": "Meal 3 only (you). Keep rotisserie drippings \u2014 key for moisture. Garlic rice base is consistent. Side veggie flexes per cycle based on seasonal availability and inventory. No parsley, no potatoes. RICE BUMPED 2026-08-05 (Will): 0.2 -> 0.3 cup/serving for maintenance-phase carbs.",
     "recipe_available": true,
     "recipe_steps": [
       "Cook 1 cup short grain rice per rice cooker instructions.",
@@ -3737,9 +3737,15 @@
         "amount": "2",
         "unit": "limes",
         "store": "Walmart"
+      },
+      {
+        "name": "White rice, dry (base \u2014 serve curry over it)",
+        "amount": "2.625",
+        "unit": "cups dry (0.375 cup dry / ~0.75 cup cooked per serving)",
+        "store": "Walmart"
       }
     ],
-    "notes": "Source: Dr. Rupy / Doctor's Kitchen one-pan curry, adapted chicken-for-monkfish per Will (2026-08-05) and scaled ~3x to an 8-serving batch, briefly rescaled to 44oz/14 servings, then DIALED BACK 2026-08-05 (Will) to 22oz (1 Costco pack) / 7 servings for the first time making it - a modest, safer test batch before committing to a bigger one. Fits comfortably in a normal large pot/Dutch oven at this size. High protein + high fiber (red lentils: soluble fiber, blood-sugar friendly) + anti-inflammatory (turmeric, ginger, garlic). Genuinely flexible \u2014 greens and veg swap for whatever's in the fridge (green beans -> broccoli/peas; spinach -> baby kale/chard/spring greens all wilt down fine). GETS BETTER NEXT DAY \u2014 ideal for meal-prep reheats; freezes well as a full batch. Est. macros/serving (rough, not calorie-verified): ~380-420 cal / ~30-35g protein / ~15-18g fat / ~35-40g carb / ~10-12g fiber \u2014 the coconut milk is the main fat driver; sub light coconut milk or cut to 1 can + extra stock to lean it out. SWITCHED TO OLIVE OIL 2026-08-05 (Will's call, plenty on hand) \u2014 coconut oil can raise LDL for some, and spices dominate the flavor either way so the swap costs nothing on taste. Serve as-is (lentils are the carb) or over rice for a bigger plate. INGREDIENT SUBS 2026-08-05 (Will, on-hand swaps): ginger powder for fresh ginger (2 tsp powder ~ the 2-inch knob), ground cumin for cumin seeds (loses the pop/texture, still tastes right).",
+    "notes": "Source: Dr. Rupy / Doctor's Kitchen one-pan curry, adapted chicken-for-monkfish per Will (2026-08-05) and scaled ~3x to an 8-serving batch, briefly rescaled to 44oz/14 servings, then DIALED BACK 2026-08-05 (Will) to 22oz (1 Costco pack) / 7 servings for the first time making it - a modest, safer test batch before committing to a bigger one. Fits comfortably in a normal large pot/Dutch oven at this size. High protein + high fiber (red lentils: soluble fiber, blood-sugar friendly) + anti-inflammatory (turmeric, ginger, garlic). Genuinely flexible \u2014 greens and veg swap for whatever's in the fridge (green beans -> broccoli/peas; spinach -> baby kale/chard/spring greens all wilt down fine). GETS BETTER NEXT DAY \u2014 ideal for meal-prep reheats; freezes well as a full batch. Est. macros/serving (rough, not calorie-verified): ~380-420 cal / ~30-35g protein / ~15-18g fat / ~35-40g carb / ~10-12g fiber \u2014 the coconut milk is the main fat driver; sub light coconut milk or cut to 1 can + extra stock to lean it out. SWITCHED TO OLIVE OIL 2026-08-05 (Will's call, plenty on hand) \u2014 coconut oil can raise LDL for some, and spices dominate the flavor either way so the swap costs nothing on taste. Serve as-is (lentils are the carb) or over rice for a bigger plate. INGREDIENT SUBS 2026-08-05 (Will, on-hand swaps): ginger powder for fresh ginger (2 tsp powder ~ the 2-inch knob), ground cumin for cumin seeds (loses the pop/texture, still tastes right). RICE ADDED 2026-08-05 (Will) \u2014 serve over rice, ~0.75 cup cooked per serving, for maintenance-phase carb filling. Adds ~165 cal / ~3g protein / ~34g carb per serving on top of the curry's own estimate.",
     "recipe_available": true,
     "recipe_steps": [
       "Soak red lentils in water 15 min while prepping everything else, then rinse + drain.",
@@ -3749,6 +3755,7 @@
       "Add drained lentils, water, coconut milk, chicken stock. Stir, bring to a light simmer, cook ~15 min until lentils are soft.",
       "Add chicken chunks and green beans. Simmer ~10-12 min until chicken is cooked through (165F) and beans are tender.",
       "Stir in spinach (or swap green) in batches \u2014 looks like a lot, wilts down fast. Cook 2-3 min more.",
+      "Cook rice separately (0.375 cup dry per serving) \u2014 serve the curry over it for a bigger, maintenance-sized plate.",
       "Serve in bowls, lime wedge on the side if using. Portion into 7 containers for the week; freeze extras flat in bags for later."
     ],
     "on_break": false
