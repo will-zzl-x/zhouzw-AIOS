@@ -126,6 +126,15 @@ selections:
       - { member: Will, slot: M3, servings: 2 }
       - { member: Will, slot: M4, servings: 3 }
 
+  - recipe_id: "46"
+    planned_servings: 7
+    notes: |
+      Sweet potato fries, Will's M4 snack, all week — closes the carb-fill gap.
+      Web-verified crispy technique (cornstarch + dry + don't crowd the air
+      fryer). Prep 2.5lb once, portion into 7, re-crisp in the air fryer to reheat.
+    slot_assignments:
+      - { member: Will, slot: M4, servings: 7 }
+
 inventory_snapshot: []
 
 # COVERAGE STATUS (8/5, mid-build): see `make coverage` for current numbers.

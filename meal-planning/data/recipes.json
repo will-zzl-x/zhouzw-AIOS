@@ -4093,5 +4093,59 @@
       "Reheat from frozen: wrap in paper towel, microwave 1:15, flip, microwave another 1:15 (defrosted, not fully warmed) -> oven or air fryer at 400F, 6-10 min until tortilla browns/crisps."
     ],
     "on_break": false
+  },
+  {
+    "id": "46",
+    "name": "Crispy Air Fryer Sweet Potato Fries",
+    "tier": null,
+    "meal_slots": [
+      4
+    ],
+    "servings": 7,
+    "protein": null,
+    "for": "Will",
+    "ingredients": [
+      {
+        "name": "Sweet potatoes, cut into fries (max 1/2\" wide x 1/4\" thick x 3.5\" long)",
+        "amount": "2.5",
+        "unit": "lb (~7 medium)",
+        "store": "Costco"
+      },
+      {
+        "name": "Cornstarch",
+        "amount": "3",
+        "unit": "Tbsp (~1.2 Tbsp/lb)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Avocado oil",
+        "amount": "2.5",
+        "unit": "Tbsp (~1 Tbsp/lb)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt",
+        "amount": "1",
+        "unit": "tsp, to taste",
+        "store": "Walmart"
+      },
+      {
+        "name": "Paprika + garlic powder + black pepper (optional seasoning)",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "Web-verified technique (cross-checked across multiple crispy-sweet-potato-fry sources, 2026-08-05) \u2014 M4 snack, closes the carb-fill gap for Maintenance. THE ACTUAL TRICK IS CORNSTARCH: it absorbs surface moisture and forms a crisp shell that plain oil+seasoning alone won't get you \u2014 sweet potatoes have more moisture/sugar than regular potatoes and go soggy without it. Cut size matters more than people expect: over ~1/2\" wide or 1/4\" thick and they steam instead of crisping, regardless of technique. BATCH NOTE: air fryer basket capacity means this runs in multiple batches for a 2.5lb prep \u2014 don't crowd the basket, crowding is the #1 reason fries turn soggy. REHEAT: fries are best fresh; if reheating from the fridge, re-crisp in the air fryer (2-3 min, 400F) rather than microwave, which will make them soft again. Est. macros/serving (1 medium potato's worth, rough): ~180-200 cal / ~2g protein / ~4-5g fat (from the oil) / ~40g carb / ~4-5g fiber \u2014 matches the ~175-200 cal slot this was sized for in the carb-fill plan.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Peel sweet potatoes, cut into fries no bigger than 1/2\" wide x 1/4\" thick x 3.5\" long \u2014 bigger cuts steam instead of crisping.",
+      "Soak cut fries in cold water 15-30 min (pulls out surface starch, meaningfully crispier result). Drain and pat COMPLETELY dry \u2014 any surface water fights the crisping.",
+      "Toss dry fries with the oil first, then the cornstarch, then salt/seasoning \u2014 coating oil first helps the cornstarch stick evenly.",
+      "Air fry at 400\u00b0F in a single layer, not crowded (batch it \u2014 don't try to fit 2.5lb in one go). ~12 min, shake/toss the basket halfway through.",
+      "Add 2 more minutes at the end for extra-crispy edges if needed.",
+      "Portion into 7 containers once cooled. Reheat in the air fryer (2-3 min, 400F) to re-crisp \u2014 not the microwave."
+    ],
+    "on_break": false
   }
 ]
