@@ -58,10 +58,10 @@
         "store": "Walmart"
       },
       {
-        "name": "English cucumbers, thinly sliced (kimchi, batch sized for teriyaki + fried rice)",
-        "amount": "2",
-        "unit": "cucumbers",
-        "store": "Walmart"
+        "name": "Persian cucumbers, thinly sliced (kimchi, swapped for English \u2014 Asian Mart)",
+        "amount": "8",
+        "unit": "cucumbers (~3x English cucumber count \u2014 Persian run much smaller)",
+        "store": "Asian Mart"
       },
       {
         "name": "Salt (kimchi)",
@@ -100,7 +100,7 @@
         "store": "Asian Mart"
       }
     ],
-    "notes": "Scale to 2 packs (8 thighs) for 8 servings. Marinate 30 min to overnight. VEG SIDE SWAPPED 2026-08-05 (Will): bok choy/gai lan OUT, cucumber kimchi IN \u2014 one batch (2 English cucumbers) sized to cover BOTH this recipe (6 srv) and fried rice #22 (6 srv), 12 servings total. Salt sliced cucumber 15-20 min, drain, toss with gochugaru + fish sauce + garlic + rice vinegar + sesame seeds. Keeps well, improves overnight.",
+    "notes": "Scale to 2 packs (8 thighs) for 8 servings. Marinate 30 min to overnight. VEG SIDE SWAPPED 2026-08-05 (Will): bok choy/gai lan OUT, cucumber kimchi IN \u2014 one batch (Persian cucumbers, swapped for English per Will \u2014 Asian Mart, ~3x the count since they run much smaller) sized to cover BOTH this recipe (6 srv) and fried rice #22 (6 srv), 12 servings total. Salt sliced cucumber 15-20 min, drain, toss with gochugaru + fish sauce + garlic + rice vinegar + sesame seeds. Keeps well, improves overnight.",
     "recipe_available": true,
     "recipe_steps": [
       "Marinate thighs in dark soy sauce, light soy sauce, minced garlic, sweetener, five spice powder, and white pepper. Let sit 30 min to overnight.",
