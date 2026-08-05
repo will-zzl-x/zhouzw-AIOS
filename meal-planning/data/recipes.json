@@ -3661,10 +3661,10 @@
         "store": "Walmart"
       },
       {
-        "name": "Desiccated coconut",
-        "amount": "3",
-        "unit": "Tbsp",
-        "store": "Walmart"
+        "name": "Coconut milk, thick cream skimmed from the can (sub for desiccated coconut)",
+        "amount": "2",
+        "unit": "Tbsp (skim from the top of one can before adding the rest)",
+        "store": ""
       },
       {
         "name": "Salt (paste)",
@@ -3745,7 +3745,7 @@
         "store": "Walmart"
       }
     ],
-    "notes": "Source: Dr. Rupy / Doctor's Kitchen one-pan curry, adapted chicken-for-monkfish per Will (2026-08-05) and scaled ~3x to an 8-serving batch, briefly rescaled to 44oz/14 servings, then DIALED BACK 2026-08-05 (Will) to 22oz (1 Costco pack) / 7 servings for the first time making it - a modest, safer test batch before committing to a bigger one. Fits comfortably in a normal large pot/Dutch oven at this size. High protein + high fiber (red lentils: soluble fiber, blood-sugar friendly) + anti-inflammatory (turmeric, ginger, garlic). Genuinely flexible \u2014 greens and veg swap for whatever's in the fridge (green beans -> broccoli/peas; spinach -> baby kale/chard/spring greens all wilt down fine). GETS BETTER NEXT DAY \u2014 ideal for meal-prep reheats; freezes well as a full batch. Est. macros/serving (rough, not calorie-verified): ~380-420 cal / ~30-35g protein / ~15-18g fat / ~35-40g carb / ~10-12g fiber \u2014 the coconut milk is the main fat driver; sub light coconut milk or cut to 1 can + extra stock to lean it out. SWITCHED TO OLIVE OIL 2026-08-05 (Will's call, plenty on hand) \u2014 coconut oil can raise LDL for some, and spices dominate the flavor either way so the swap costs nothing on taste. Serve as-is (lentils are the carb) or over rice for a bigger plate. INGREDIENT SUBS 2026-08-05 (Will, on-hand swaps): ginger powder for fresh ginger (2 tsp powder ~ the 2-inch knob), ground cumin for cumin seeds (loses the pop/texture, still tastes right). RICE ADDED 2026-08-05 (Will) \u2014 serve over rice, ~0.75 cup cooked per serving, for maintenance-phase carb filling. Adds ~165 cal / ~3g protein / ~34g carb per serving on top of the curry's own estimate.",
+    "notes": "Source: Dr. Rupy / Doctor's Kitchen one-pan curry, adapted chicken-for-monkfish per Will (2026-08-05) and scaled ~3x to an 8-serving batch, briefly rescaled to 44oz/14 servings, then DIALED BACK 2026-08-05 (Will) to 22oz (1 Costco pack) / 7 servings for the first time making it - a modest, safer test batch before committing to a bigger one. Fits comfortably in a normal large pot/Dutch oven at this size. High protein + high fiber (red lentils: soluble fiber, blood-sugar friendly) + anti-inflammatory (turmeric, ginger, garlic). Genuinely flexible \u2014 greens and veg swap for whatever's in the fridge (green beans -> broccoli/peas; spinach -> baby kale/chard/spring greens all wilt down fine). GETS BETTER NEXT DAY \u2014 ideal for meal-prep reheats; freezes well as a full batch. Est. macros/serving (rough, not calorie-verified): ~380-420 cal / ~30-35g protein / ~15-18g fat / ~35-40g carb / ~10-12g fiber \u2014 the coconut milk is the main fat driver; sub light coconut milk or cut to 1 can + extra stock to lean it out. SWITCHED TO OLIVE OIL 2026-08-05 (Will's call, plenty on hand) \u2014 coconut oil can raise LDL for some, and spices dominate the flavor either way so the swap costs nothing on taste. Serve as-is (lentils are the carb) or over rice for a bigger plate. INGREDIENT SUBS 2026-08-05 (Will, on-hand swaps): ginger powder for fresh ginger (2 tsp powder ~ the 2-inch knob), ground cumin for cumin seeds (loses the pop/texture, still tastes right). RICE ADDED 2026-08-05 (Will) \u2014 serve over rice, ~0.75 cup cooked per serving, for maintenance-phase carb filling. Adds ~165 cal / ~3g protein / ~34g carb per serving on top of the curry's own estimate. DESICCATED COCONUT SWAPPED 2026-08-05 (Will, cost): skip buying it - skim ~2 Tbsp of the thick cream off one of the coconut milk cans (already being bought for the recipe) and use that in the paste instead. Zero added cost, same coconut richness. Unsweetened shredded coconut is the fallback if you'd rather keep a dry ingredient in the paste.",
     "recipe_available": true,
     "recipe_steps": [
       "Soak red lentils in water 15 min while prepping everything else, then rinse + drain.",
