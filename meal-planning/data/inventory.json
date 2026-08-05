@@ -169,11 +169,11 @@
   },
   {
     "item": "Eggs",
-    "quantity": 0.0,
+    "quantity": 0,
     "unit": "eggs",
     "location": "fridge",
     "freshness_date": "2026-06-25",
-    "note": "11 on hand (was 18). #38 batch rebalanced to 11 eggs."
+    "note": "True-up 8/5: 7/24 audit had 15 (exp 8/3, now past). ~8-9 used in egg bake; remainder is past freshness date after a week away \u2014 assume spoiled, reconfirm in person before trusting any count."
   },
   {
     "item": "Chicken breasts",
@@ -181,7 +181,7 @@
     "unit": "lbs",
     "location": "freezer",
     "freshness_date": "2026-08-15",
-    "note": "Sold in 22oz (~1.375 lb) packs. 5.5 lb \u2248 4 packs. This cycle uses pack-1 (#20) + pack-2 (#36)."
+    "note": "FLAG 8/5: cook plan says BOTH 7/24-audit fresh packs (sandwiches + chicken parm) were fully used, but this line item's provenance predates that audit (stale note references old recipe #20/#36) \u2014 unclear if this 2.06lb already excludes them or is a separate freezer stash. CONFIRM IN PERSON before trusting this number for the new cycle."
   },
   {
     "item": "Chicken thighs",
@@ -193,11 +193,11 @@
   },
   {
     "item": "Ground beef (90/10)",
-    "quantity": 6.25,
+    "quantity": 5.0,
     "unit": "lbs",
     "location": "freezer",
     "freshness_date": "2026-07-15",
-    "note": "7 \u00d7 20oz Costco bags \u2014 updated 2026-06-20 (was tracked as 2 lb, actual stash much higher)"
+    "note": "True-up 8/5: -1.25lb, ALL cleared by 2026-07-25 cycle bolognese per cook plan. Remainder is the untouched Costco freezer stash."
   },
   {
     "item": "Fat-free cream cheese",
@@ -208,10 +208,11 @@
   },
   {
     "item": "Parmigiano Reggiano",
-    "quantity": 4,
+    "quantity": 1,
     "unit": "oz",
     "location": "fridge",
-    "freshness_date": null
+    "freshness_date": null,
+    "note": "True-up 8/5: reduced from 4oz \u2014 drawn on by chicken parm + bolognese finish + kale garnish across the 2026-07-25 cycle; treat as effectively needing a rebuy."
   },
   {
     "item": "Cumin",
@@ -356,11 +357,11 @@
   },
   {
     "item": "Zucchini",
-    "quantity": 2,
+    "quantity": 0,
     "unit": "zucchini",
     "location": "fridge",
     "freshness_date": null,
-    "note": "on hand (confirmed 2026-06-27)"
+    "note": "True-up 8/5: cleared \u2014 roasted as the rotisserie side per 2026-07-25 cook plan."
   },
   {
     "item": "Cottage cheese",
@@ -372,11 +373,11 @@
   },
   {
     "item": "Ricotta cheese",
-    "quantity": 15,
+    "quantity": 8,
     "unit": "oz",
     "location": "fridge",
     "freshness_date": null,
-    "note": "on hand (confirmed 2026-06-27)"
+    "note": "True-up 8/5: reduced from 15oz \u2014 \"a little\" drawn for bolognese per cook plan; estimate, not precise."
   },
   {
     "item": "EVOO",
