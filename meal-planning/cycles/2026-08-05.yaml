@@ -3,8 +3,13 @@
 # (no big-batch exists yet — the 7/25 pre-NYC cycle was a fridge-clear, fully consumed).
 # Leaves for a business trip Wed 8/11 — cycle ends there.
 # Maintenance phase (set at the 8/5 reflection): 2,350 cal / 150g protein / 50g fat / 325g carbs (Will).
+#
+# REVISED 8/5 — recipe #31 (modular slow-cooker chicken) rejected by Will and DELETED
+# from recipes.json entirely. Replaced by rotisserie (#6) for Will + shakes for Will's
+# M1 (config.yaml changed, was "no shakes for M1"). Elena's Sat/Sun anchor still open —
+# Will may introduce a new recipe (vet_recipe.md territory, not yet provided).
 date: "2026-08-05"
-grocery_day: "2026-08-05"  # same-day — cooking tonight
+grocery_day: "2026-08-05"
 
 exceptions: []
 carryover: []
@@ -13,20 +18,29 @@ carryover: []
 # (corrected to 0). Chicken breast: couple packs confirmed on hand.
 
 selections:
-  - recipe_id: "31"
-    planned_servings: 10
+  - recipe_id: "30"
+    planned_servings: 7
     notes: |
-      TONIGHT'S COOK (8/5, arrival day) — covers Thu/Fri for both. Chicken breast from
-      the on-hand packs (~4lb needed, couple packs confirmed on hand — no chicken buy).
-      Veg = bell peppers + zucchini (the recipe's own call, and the practical
-      Costco/Walmart seasonal pick over okra — reliably stocked, actually in-season,
-      unlike okra which isn't a realistic big-box item). Slow cooker + sheet pan +
-      Instant Pot rice, in parallel while unpacking from the trip.
+      Will's M1, all week (CHANGED 8/5 — was starch-free lean protein+veg, now shakes,
+      Will's own call). Bulk-prep: pre-portion 7x (1 scoop whey + 1 cup frozen
+      strawberries) into freezer bags/containers now; blend fresh each morning with
+      skim milk + ice. Will's cut-friendly base only (no banana/Greek yogurt).
     slot_assignments:
-      - { member: Will, slot: M2, servings: 2 }
-      - { member: Will, slot: M3, servings: 2 }
-      - { member: Will, slot: M4, servings: 1 }
-      - { member: Elena, slot: M2, servings: 3 }
-      - { member: Elena, slot: M4, servings: 2 }
+      - { member: Will, slot: M1, servings: 7 }
+
+  - recipe_id: "6"
+    planned_servings: 5
+    notes: |
+      Rotisserie + garlic rice, Will M3 — CONFIRMED 8/5 (Will), 5 servings. Seasonal
+      veggie side = ZUCCHINI (Will's call, and the practical Costco/Walmart pick —
+      reliably stocked, actually in-season, unlike okra which isn't a realistic
+      big-box item). Add zucchini + Costco rotisserie chicken to the buy list.
+    slot_assignments:
+      - { member: Will, slot: M3, servings: 5 }
 
 inventory_snapshot: []
+
+# COVERAGE STATUS (8/5, mid-build): Will M1 now fully covered (7/7 shakes). Will M3
+# covered (5/7 rotisserie, close enough). Still OPEN: Will M2 (7 short), Will M4 (7
+# short), Elena M2 (7 short), Elena M4 (7 short) — tonight's actual cook (replacing
+# the deleted #31) and Elena's Sat/Sun anchor (Will may bring a new recipe) still TBD.
