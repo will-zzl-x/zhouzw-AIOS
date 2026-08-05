@@ -446,11 +446,11 @@
   },
   {
     "item": "Onion",
-    "quantity": 0.5,
+    "quantity": 1,
     "unit": "onion",
     "location": "pantry",
     "freshness_date": null,
-    "note": "on hand (confirmed 2026-06-27)"
+    "note": "Corrected 8/5 (Will): only 1 onion total on hand (was double-counted across two inventory lines). Curry (2) + burritos (1) = 3 needed; buy 2 more."
   },
   {
     "item": "Lemon squash",
@@ -678,11 +678,11 @@
   },
   {
     "item": "White onion",
-    "quantity": 1,
+    "quantity": 0,
     "unit": "onion",
     "location": "pantry",
     "freshness_date": null,
-    "note": "Confirmed on hand 2026-08-05 (Will) - covers the burritos' 1-onion need. Curry's SEPARATE 2-medium-onion need is not covered by this (see Onion entry, 0.5 on hand)."
+    "note": "Corrected 8/5 (Will): folded into the single \"Onion\" line - was double-counting the same 1 onion."
   },
   {
     "item": "Reduced-fat mozzarella, shredded",
