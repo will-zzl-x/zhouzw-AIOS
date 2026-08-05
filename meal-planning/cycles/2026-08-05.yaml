@@ -64,15 +64,15 @@ selections:
       - { member: Will, slot: M2, servings: 3 }
 
   - recipe_id: "43"
-    planned_servings: 6
+    planned_servings: 5
     notes: |
-      Weekend cook (Sat/Sun) — Goodles mac & cheese doctored with chicken + frozen
-      peas/carrots, targeting the M4 dinner gap directly. Uses 1 of the 2 confirmed
-      chicken breast packs (see recipe notes for the running chicken-math flag
-      against the curry's draw on the same pool).
+      Weekend cook (Sat/Sun) — Goodles mac & cheese, DIALED 8/5 (Will): mac ratio
+      down relative to chicken (4 boxes not 6, leaves 2 for standalone use), 5
+      servings not 6. Uses the 2nd of the 2 confirmed chicken breast packs (the
+      curry uses the other) - no new chicken purchase needed.
     slot_assignments:
-      - { member: Will, slot: M4, servings: 3 }
       - { member: Elena, slot: M4, servings: 3 }
+      - { member: Will, slot: M4, servings: 2 }
 
 inventory_snapshot: []
 

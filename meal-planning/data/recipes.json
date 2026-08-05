@@ -4108,13 +4108,13 @@
       2,
       4
     ],
-    "servings": 6,
+    "servings": 5,
     "protein": "Chicken Breast",
     "for": "both",
     "ingredients": [
       {
         "name": "Goodles Mac & Cheese boxes (Cheddy Mac / Shella Good)",
-        "amount": "6",
+        "amount": "4",
         "unit": "boxes (6oz each)",
         "store": "Costco"
       },
@@ -4144,7 +4144,7 @@
       },
       {
         "name": "Frozen peas & carrots (or mixed veg)",
-        "amount": "2.5",
+        "amount": "2",
         "unit": "cups",
         "store": "Walmart"
       },
@@ -4155,7 +4155,7 @@
         "store": ""
       }
     ],
-    "notes": "Will's pantry staple: Costco Goodles (chickpea/lentil pasta, real cheese sauce packet) doctored up with chicken + frozen veg for a fuller, higher-protein dinner. VERIFIED FROM ACTUAL LABEL PHOTO (2026-08-05, corrects the earlier web-sourced estimate): per box (6oz, ~2.5 servings/container per the panel) as prepared: ~650-675 cal / ~35-37g protein / ~17.5g fiber / ~118g carb / ~1,475mg sodium (64% DV - the one real watch-out here, it's high). Per-recipe-serving (1 box + ~3.7oz chicken + veg): roughly ~800-850 cal / ~60-65g protein / ~19g fiber / ~120g carb / sodium north of 1,500mg \u2014 a single dinner north of half a day's sodium DV, worth being aware of if salt-sensitive or stacking with other salty meals that day. Reheats fine (pasta + chicken, standard microwave). CHICKEN MATH (8/5): uses 1 Costco breast pack (22oz) - the curry (#42) was dialed back to its own 1 pack, so the 2 confirmed on-hand packs are now fully and exactly accounted for across both recipes, no shortfall.",
+    "notes": "Will's pantry staple: Costco Goodles doctored up with chicken + frozen veg. DIALED 2026-08-05 (Will): mac ratio brought DOWN relative to chicken - 4 boxes (was 6, leaves 2 boxes for standalone use later) across 5 servings (0.8 box/serving) + the full 22oz chicken pack unchanged, now 4.4oz chicken/serving (up from 3.7oz) - shifts the balance toward chicken, away from the mac's calorie/sodium load. VERIFIED FROM ACTUAL LABEL PHOTO: per box (6oz, ~2.5 servings/container) as prepared: ~650-675 cal / ~35-37g protein / ~17.5g fiber / ~118g carb / ~1,475mg sodium (64% DV) - so 0.8 box contributes roughly ~520-540 cal / ~28-30g protein / ~14g fiber / ~94g carb / ~1,180mg sodium per serving, plus the chicken's ~30g protein on top. Est. per serving now: ~650-700 cal / ~58-60g protein / sodium still ~1,200mg+ (still meaningful, mac is the sodium driver regardless of ratio - can't fully dodge it without dropping mac further). Reheats fine. CHICKEN MATH (8/5): still 1 Costco pack (22oz) - no new purchase needed, same pool as the curry's 1 pack, 2 packs confirmed on hand fully accounted for.",
     "recipe_available": true,
     "recipe_steps": [
       "Dice chicken breast. Season with salt, pepper, garlic powder.",
@@ -4163,7 +4163,7 @@
       "Cook Goodles boxes per package directions (boil 6 cups water per box \u2014 batch in a large pot or do 2-3 at a time \u2014 add pasta, cook 8-10 min, drain, stir in cheese sauce packet).",
       "While pasta cooks, thaw/warm frozen peas & carrots (microwave 2-3 min, or add straight into the hot drained pasta for the last minute to heat through).",
       "Combine: cooked pasta + cheese sauce + chicken + veg in one big pot, stir to mix evenly.",
-      "Portion into 6 containers."
+      "Portion into 5 containers."
     ],
     "on_break": false
   }
