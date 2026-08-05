@@ -4099,5 +4099,72 @@
       "Serve in bowls, lime wedge on the side if using. Portion into 8 containers for the week; freeze extras flat in bags for later."
     ],
     "on_break": false
+  },
+  {
+    "id": "43",
+    "name": "Goodles High-Protein Mac & Cheese + Chicken + Veg Stir-In",
+    "tier": "B",
+    "meal_slots": [
+      2,
+      4
+    ],
+    "servings": 6,
+    "protein": "Chicken Breast",
+    "for": "both",
+    "ingredients": [
+      {
+        "name": "Goodles Mac & Cheese boxes (Cheddy Mac / Shella Good)",
+        "amount": "6",
+        "unit": "boxes (6oz each)",
+        "store": "Costco"
+      },
+      {
+        "name": "Chicken breast, diced",
+        "amount": "22",
+        "unit": "oz (1 Costco pack)",
+        "store": "Costco"
+      },
+      {
+        "name": "Salt + pepper (chicken)",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic powder (chicken)",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Avocado oil (sear chicken)",
+        "amount": "1",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Frozen peas & carrots (or mixed veg)",
+        "amount": "2.5",
+        "unit": "cups",
+        "store": "Walmart"
+      },
+      {
+        "name": "Water (per box directions)",
+        "amount": "6",
+        "unit": "cups per box (cook in batches or one big pot)",
+        "store": ""
+      }
+    ],
+    "notes": "Will's pantry staple: Costco Goodles (chickpea/lentil pasta, real cheese sauce packet) doctored up with chicken + frozen veg for a fuller, higher-protein dinner. Per-box label: 14g protein / 6-7g fiber / ~590mg sodium (per Costco/Amazon listing copy) \u2014 check the actual box for the precise calorie count, aggregated nutrition sites disagreed with each other (~260-350 cal range depending on source, likely a serving-size labeling quirk). Each serving = 1 box's worth of mac + ~3.7oz cooked chicken + veg, so real protein per serving lands meaningfully above the box's own 14g once the chicken's added \u2014 rough estimate ~35-40g protein/serving, not calorie-verified. CHICKEN MATH FLAG (8/5): this recipe uses 1 of the 2 confirmed on-hand Costco breast packs; the curry (#42) already claims 1.5lb from the same on-hand pool \u2014 total draw across both this cycle is ~2.9lb against 'at least 2 packs' (~2.75lb+) confirmed \u2014 may need a 3rd pack, worth a quick freezer check before cook day. Reheats fine (pasta + chicken, standard microwave).",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Dice chicken breast. Season with salt, pepper, garlic powder.",
+      "Sear in avocado oil over medium-high, ~5-6 min, stirring occasionally, until cooked through (165F). Set aside.",
+      "Cook Goodles boxes per package directions (boil 6 cups water per box \u2014 batch in a large pot or do 2-3 at a time \u2014 add pasta, cook 8-10 min, drain, stir in cheese sauce packet).",
+      "While pasta cooks, thaw/warm frozen peas & carrots (microwave 2-3 min, or add straight into the hot drained pasta for the last minute to heat through).",
+      "Combine: cooked pasta + cheese sauce + chicken + veg in one big pot, stir to mix evenly.",
+      "Portion into 6 containers."
+    ],
+    "on_break": false
   }
 ]
