@@ -11,7 +11,8 @@
 date: "2026-08-05"
 grocery_day: "2026-08-05"
 
-exceptions: []
+exceptions:
+  - { date: "2026-08-05", member: Will, slot: M2, reason: "Costco hot dog - one of tonight's meals (ad hoc, not the usual Saturday standing exception)" }
 carryover: []
 # 2026-07-25 cycle confirmed fully cooked (Will, 8/5) - deplete applied + manual true-up
 # done for the note-only cooks. Ground beef stash turned out to be stale/non-existent
@@ -39,20 +40,17 @@ selections:
       - { member: Will, slot: M3, servings: 5 }
 
   - recipe_id: "42"
-    planned_servings: 14
+    planned_servings: 7
     notes: |
       TONIGHT'S ACTUAL COOK (8/5) — Dr. Rupy-style one-pan chicken + red lentil curry,
       vetted in from Will's pasted source, chicken subbed for the original monkfish.
-      RESCALED 8/5 to 44oz (2 Costco packs) chicken, whole recipe scaled ~1.83x to
-      stay balanced — now 14 servings (was 8), per Will's "keep filling" call.
-      BIG BATCH — likely needs the largest pot available, see recipe notes.
-      Cover-Elena-first: her M2/M4 gaps fully closed by this; Will's M2/M4 narrowed
-      to 1 short each (M3 untouched, curry isn't an M3 recipe).
+      DIALED BACK 8/5 to 22oz (1 Costco pack) / 7 servings — Will's call, a modest
+      first-time batch before committing to a bigger one. Fits a normal pot.
     slot_assignments:
-      - { member: Elena, slot: M2, servings: 4 }
-      - { member: Elena, slot: M4, servings: 4 }
-      - { member: Will, slot: M2, servings: 3 }
-      - { member: Will, slot: M4, servings: 3 }
+      - { member: Elena, slot: M2, servings: 2 }
+      - { member: Elena, slot: M4, servings: 2 }
+      - { member: Will, slot: M2, servings: 2 }
+      - { member: Will, slot: M4, servings: 1 }
 
   - recipe_id: "1"
     planned_servings: 6
