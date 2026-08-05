@@ -4,27 +4,31 @@
     {
       "cycle": "2026-06-06",
       "applied_at": "2026-07-17",
-      "note": "seeded at log creation — inventory was hand-trued 2026-07-17, no separate deplete needed"
+      "note": "seeded at log creation \u2014 inventory was hand-trued 2026-07-17, no separate deplete needed"
     },
     {
       "cycle": "2026-06-07",
       "applied_at": "2026-07-17",
-      "note": "seeded — sample/demo cycle, never cooked"
+      "note": "seeded \u2014 sample/demo cycle, never cooked"
     },
     {
       "cycle": "2026-06-13",
       "applied_at": "2026-07-17",
-      "note": "seeded at log creation — inventory was hand-trued 2026-07-17, no separate deplete needed"
+      "note": "seeded at log creation \u2014 inventory was hand-trued 2026-07-17, no separate deplete needed"
     },
     {
       "cycle": "2026-06-20",
       "applied_at": "2026-07-17",
-      "note": "seeded at log creation — inventory was hand-trued 2026-07-17, no separate deplete needed"
+      "note": "seeded at log creation \u2014 inventory was hand-trued 2026-07-17, no separate deplete needed"
     },
     {
       "cycle": "2026-06-27",
       "applied_at": "2026-07-17",
       "note": "deplete --apply run 2026-07-17 (pre-log); unit-mismatch items eyeballed per cycle notes"
+    },
+    {
+      "cycle": "2026-07-25",
+      "applied_at": "2026-08-05"
     }
   ]
 }
