@@ -617,3 +617,11 @@ Format: ✓ = done, □ = planned/pending
 ✓ Dance at ESM social — Mafia Royale night
 □ Solo-space rep: 15–30 min unannounced block
 □ Hand affidavit form to Michael at dinner
+
+**2026-08-04 (Tue)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Continue Broadway lottery entries on TodayTix
+✓ Dance at evening social tonight
+✓ Attend ESM festival class — Sunday 1pm
+□ Protein-first eating, loose maintenance
+□ Solo-space rep: unannounced 15–30 min block
+□ Phone outside bedroom overnight
