@@ -54,9 +54,19 @@ selections:
       - { member: Elena, slot: M2, servings: 2 }
       - { member: Elena, slot: M4, servings: 2 }
 
+  - recipe_id: "43"
+    planned_servings: 6
+    notes: |
+      Weekend cook (Sat/Sun) — Dr. Rupy chicken shawarma bowl, vetted from Will's
+      second pasted source. No-reheat-required (works hot or cold), good variety
+      against the curry. Cover-Elena-first split: Elena gets more of the 6, Will
+      gets the rest.
+    slot_assignments:
+      - { member: Elena, slot: M2, servings: 2 }
+      - { member: Elena, slot: M4, servings: 2 }
+      - { member: Will, slot: M2, servings: 1 }
+      - { member: Will, slot: M4, servings: 1 }
+
 inventory_snapshot: []
 
-# COVERAGE STATUS (8/5, mid-build): Will M1 fully covered (7/7 shakes). Will M3
-# covered (5/7 rotisserie). Curry (#42) partial-fills Will M2/M4 and Elena M2/M4
-# (2 srv each). Remaining gaps after this: Will M2 short 5, Will M4 short 5, Elena M2
-# short 5, Elena M4 short 5 — the weekend cook (Sat/Sun) still needs to close these.
+# COVERAGE STATUS (8/5, mid-build): see `make coverage` for current numbers.

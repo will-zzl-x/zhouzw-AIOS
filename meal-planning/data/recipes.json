@@ -4245,5 +4245,134 @@
       "Serve in bowls, lime wedge on the side if using. Portion into 8 containers for the week; freeze extras flat in bags for later."
     ],
     "on_break": false
+  },
+  {
+    "id": "43",
+    "name": "Chicken Shawarma Bowl (Dr. Rupy high-protein lunch formula)",
+    "tier": "A",
+    "meal_slots": [
+      2,
+      4
+    ],
+    "servings": 6,
+    "protein": "Chicken Breast",
+    "for": "both",
+    "ingredients": [
+      {
+        "name": "Short grain brown rice (or sub on-hand Japanese white rice)",
+        "amount": "1.5",
+        "unit": "cups dry",
+        "store": "Walmart"
+      },
+      {
+        "name": "Chicken breast, sliced thin",
+        "amount": "1.5",
+        "unit": "lb",
+        "store": "Costco"
+      },
+      {
+        "name": "Ground cumin (spice mix)",
+        "amount": "1.5",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Paprika (spice mix)",
+        "amount": "1.5",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Garlic powder (spice mix)",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Ground coriander (spice mix)",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Turmeric powder (spice mix)",
+        "amount": "0.5",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Cinnamon, pinch (spice mix)",
+        "amount": "0.25",
+        "unit": "tsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Salt + pepper (spice mix)",
+        "amount": "to taste",
+        "unit": "",
+        "store": "Walmart"
+      },
+      {
+        "name": "Olive oil (pan-fry chicken)",
+        "amount": "1.5",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Spinach",
+        "amount": "6",
+        "unit": "cups (handful per bowl)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Red pepper, jarred roasted, sliced",
+        "amount": "1",
+        "unit": "jar (12oz)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Red cabbage, shredded",
+        "amount": "2",
+        "unit": "cups",
+        "store": "Walmart"
+      },
+      {
+        "name": "Chickpeas, canned, drained + rinsed",
+        "amount": "2",
+        "unit": "cans (15oz each)",
+        "store": "Walmart"
+      },
+      {
+        "name": "Plain Greek yogurt, thick (dressing)",
+        "amount": "1.5",
+        "unit": "cups",
+        "store": "Costco"
+      },
+      {
+        "name": "Harissa paste/marinade (dressing)",
+        "amount": "5",
+        "unit": "Tbsp",
+        "store": "Walmart"
+      },
+      {
+        "name": "Fresh parsley, chopped (garnish)",
+        "amount": "1",
+        "unit": "bunch",
+        "store": "Walmart"
+      }
+    ],
+    "notes": "Source: Dr. Rupy 'high-protein lunch formula' video \u2014 chicken shawarma variant, one of 3 bowls shown (salmon-tahini-quinoa and tofu-sweet-potato were the others; this is the chicken one Will picked). Scaled ~6x from a single-bowl build to a 6-serving batch. Formula: quality carb (rice) + greens (spinach) + colorful veg (red pepper + red cabbage) + fiber booster (chickpeas \u2014 also adds protein) + core protein (chicken, seasoned + pan-seared) + harissa-yogurt dressing. Fully assembled bowls, no reheating required if eaten cold \u2014 works hot or cold, genuinely flexible on the veg/green (kale swaps for spinach fine). Est. macros/serving (rough): ~420-460 cal / ~35-40g protein / ~10-14g fat / ~45-50g carb / ~10g fiber \u2014 chickpeas + rice + veg all contribute fiber, matches the video's high-protein-AND-high-fiber thesis. Brown rice preferred for fiber; the on-hand short-grain Japanese white rice is an acceptable substitute if not buying a new rice type.",
+    "recipe_available": true,
+    "recipe_steps": [
+      "Cook brown rice per package instructions (or use on-hand short-grain white rice).",
+      "Mix spice blend: cumin, paprika, garlic powder, coriander, turmeric, cinnamon, salt, pepper.",
+      "Toss sliced chicken breast in the spice blend + a drizzle of olive oil.",
+      "Pan-fry chicken in olive oil over medium-high, ~2-3 min per side until cooked through (165F). Let cool slightly, slice if not already thin.",
+      "Dressing: whisk thick Greek yogurt + harissa paste until smooth. Adjust harissa to taste (spicier = more).",
+      "Build bowls: rice base, big handful of spinach, sliced roasted red pepper, shredded red cabbage, chickpeas, sliced chicken on top.",
+      "Dollop or drizzle the harissa yogurt over each bowl. Finish with chopped parsley.",
+      "Portion into 6 containers. Eat hot or cold \u2014 good either way, no reheat required if serving cold."
+    ],
+    "on_break": false
   }
 ]
