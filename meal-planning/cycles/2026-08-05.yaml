@@ -29,11 +29,16 @@ carryover: []
 # Fixes: curry now served over rice (~0.75 cup cooked/serving, added above), rotisserie
 # rice bumped 0.2->0.3 cup/serving. PLUS three daily fruit servings, untracked, one
 # per meal slot (Costco/Walmart-practical, August-seasonal where it matters):
-#   - Melon with M2 (~175 cal / ~40g carb)
-#   - Grapes with M3 (~175 cal / ~40g carb)
-#   - Blueberries with M4 (~175 cal / ~40g carb) — SWAPPED 8/5: Will has a slight
-#     peach/plum allergy, avoided the whole stone-fruit family to be safe. Pineapple
-#     is the backup alternative if blueberries get old.
+#   - Cantaloupe with M2 (~175 cal / ~40g carb) — cheapest melon, high vitamin A + C,
+#     fills the plan's biggest micronutrient gap (almost nothing else here has vitamin A)
+#   - Oranges with M3 (~175 cal / ~40g carb) — SWAPPED from grapes 8/5: comparable
+#     cost, but real vitamin C/folate/potassium vs. grapes' redundant antioxidant
+#     profile (overlaps with blueberries)
+#   - Blueberries with M4 (~175 cal / ~40g carb) — highest antioxidant (anthocyanin)
+#     density of common Costco fruit, nothing else in the week covers this. No
+#     stone fruit anywhere (Will has a slight peach/plum allergy).
+# Chosen for cost-efficiency + filling actual gaps (vitamin A, C, folate, potassium,
+# antioxidant diversity) rather than generic "healthy fruit," per Will's ask (8/5).
 # Not recipe line items - eaten alongside meals, add to the Costco/Walmart list.
 # Final estimate with all fixes: ~2,310 cal / ~312g carb per day, vs 2,350/325 target -
 # within ~40 cal / ~13g carb, essentially closed (real intake typically runs above
