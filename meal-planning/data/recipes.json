@@ -4130,10 +4130,10 @@
         "store": "Walmart"
       },
       {
-        "name": "Fresh ginger",
+        "name": "Ginger powder (sub for fresh, Will has it on hand)",
         "amount": "2",
-        "unit": "inch knob",
-        "store": "Walmart"
+        "unit": "tsp",
+        "store": ""
       },
       {
         "name": "Garlic cloves (for paste)",
@@ -4184,10 +4184,10 @@
         "store": "Asian Mart"
       },
       {
-        "name": "Cumin seeds",
+        "name": "Ground cumin (sub for seeds, Will's call)",
         "amount": "2",
         "unit": "tsp",
-        "store": "Asian Mart"
+        "store": "Walmart"
       },
       {
         "name": "Turmeric powder",
@@ -4232,12 +4232,12 @@
         "store": "Walmart"
       }
     ],
-    "notes": "Source: Dr. Rupy / Doctor's Kitchen one-pan curry, adapted chicken-for-monkfish per Will (2026-08-05) and scaled ~3x to an 8-serving household batch. High protein + high fiber (red lentils: soluble fiber, blood-sugar friendly) + anti-inflammatory (turmeric, ginger, garlic). Genuinely flexible \u2014 greens and veg swap for whatever's in the fridge (green beans -> broccoli/peas; spinach -> baby kale/chard/spring greens all wilt down fine). GETS BETTER NEXT DAY \u2014 ideal for meal-prep reheats; freezes well as a full batch. Est. macros/serving (rough, not calorie-verified): ~380-420 cal / ~30-35g protein / ~15-18g fat / ~35-40g carb / ~10-12g fiber \u2014 the coconut milk is the main fat driver; sub light coconut milk or cut to 1 can + extra stock to lean it out. Coconut oil can raise LDL for some \u2014 sub olive oil if that's a concern, spices dominate the flavor either way. Serve as-is (lentils are the carb) or over rice for a bigger plate.",
+    "notes": "Source: Dr. Rupy / Doctor's Kitchen one-pan curry, adapted chicken-for-monkfish per Will (2026-08-05) and scaled ~3x to an 8-serving household batch. High protein + high fiber (red lentils: soluble fiber, blood-sugar friendly) + anti-inflammatory (turmeric, ginger, garlic). Genuinely flexible \u2014 greens and veg swap for whatever's in the fridge (green beans -> broccoli/peas; spinach -> baby kale/chard/spring greens all wilt down fine). GETS BETTER NEXT DAY \u2014 ideal for meal-prep reheats; freezes well as a full batch. Est. macros/serving (rough, not calorie-verified): ~380-420 cal / ~30-35g protein / ~15-18g fat / ~35-40g carb / ~10-12g fiber \u2014 the coconut milk is the main fat driver; sub light coconut milk or cut to 1 can + extra stock to lean it out. Coconut oil can raise LDL for some \u2014 sub olive oil if that's a concern, spices dominate the flavor either way. Serve as-is (lentils are the carb) or over rice for a bigger plate. INGREDIENT SUBS 2026-08-05 (Will, on-hand swaps): ginger powder for fresh ginger (2 tsp powder ~ the 2-inch knob), ground cumin for cumin seeds (loses the pop/texture, still tastes right).",
     "recipe_available": true,
     "recipe_steps": [
       "Soak red lentils in water 15 min while prepping everything else, then rinse + drain.",
       "Paste: roughly chop tomatoes, ginger, garlic, onion. Add to a food processor/blender with chili powder, desiccated coconut, salt, pepper. Pulse to a rough paste (~5 min).",
-      "Heat coconut oil in a large pot/Dutch oven over low-medium. Add mustard seeds, cumin seeds, turmeric powder \u2014 temper 30-60 sec until fragrant (watch closely, don't let it burn; pull off heat briefly if smoking).",
+      "Heat coconut oil in a large pot/Dutch oven over low-medium. Add mustard seeds first \u2014 let them pop ~30 sec. Add ground cumin + turmeric powder, stir 15-20 sec until fragrant (ground cumin won't pop like seeds would, just bloom it briefly \u2014 watch closely, don't let it burn).",
       "Add the paste, cook 3-4 min until the raw garlic/onion smell cooks off.",
       "Add drained lentils, water, coconut milk, chicken stock. Stir, bring to a light simmer, cook ~15 min until lentils are soft.",
       "Add chicken chunks and green beans. Simmer ~10-12 min until chicken is cooked through (165F) and beans are tender.",

@@ -610,5 +610,13 @@
     "location": "freezer",
     "freshness_date": null,
     "note": "on hand per Will 2026-07-17 (frozen fruit for shakes)"
+  },
+  {
+    "item": "Red lentils, dry",
+    "quantity": 2,
+    "unit": "cups",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will) - for recipe #42 curry. Estimated quantity, matches the 2-cup need; reconfirm if short."
   }
 ]
