@@ -22,10 +22,11 @@
   },
   {
     "item": "Soy sauce",
-    "quantity": 24.0,
+    "quantity": 1,
     "unit": "oz",
     "location": "pantry",
-    "freshness_date": null
+    "freshness_date": null,
+    "note": "Corrected 8/5 (Will): nearly out, needs a refill - the 24oz figure was stale."
   },
   {
     "item": "Light soy sauce",
@@ -626,5 +627,61 @@
     "location": "freezer",
     "freshness_date": null,
     "note": "Confirmed on hand 2026-08-05 (Will) - frozen and available for shakes."
+  },
+  {
+    "item": "Goodles Mac & Cheese boxes",
+    "quantity": 6,
+    "unit": "boxes (6oz each)",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will) - 6 boxes, no Costco buy needed."
+  },
+  {
+    "item": "Frozen mixed fruit",
+    "quantity": 6,
+    "unit": "cup",
+    "location": "freezer",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will)."
+  },
+  {
+    "item": "Great Value Organic Flax & Chia Seed Blend",
+    "quantity": 16,
+    "unit": "tbsp",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will)."
+  },
+  {
+    "item": "Creatine monohydrate",
+    "quantity": 30,
+    "unit": "tsp (~1 tub)",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will)."
+  },
+  {
+    "item": "PB2 powdered peanut butter",
+    "quantity": 16,
+    "unit": "tbsp",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will)."
+  },
+  {
+    "item": "Ground cumin",
+    "quantity": 8,
+    "unit": "tsp",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will)."
+  },
+  {
+    "item": "White onion",
+    "quantity": 1,
+    "unit": "onion",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will) - covers the burritos' 1-onion need. Curry's SEPARATE 2-medium-onion need is not covered by this (see Onion entry, 0.5 on hand)."
   }
 ]
