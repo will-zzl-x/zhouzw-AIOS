@@ -74,6 +74,18 @@ selections:
       - { member: Elena, slot: M4, servings: 3 }
       - { member: Will, slot: M4, servings: 2 }
 
+  - recipe_id: "22"
+    planned_servings: 6
+    notes: |
+      Weekend cook — Chicken Thigh Fried Rice, newly tiered S, cast-iron method
+      locked (8/5). Day-old rice needed — cook the day before. Closes Elena's
+      remaining M2/M4 gap fully; leftover 2 servings go to Will M2/M4.
+    slot_assignments:
+      - { member: Elena, slot: M2, servings: 2 }
+      - { member: Elena, slot: M4, servings: 2 }
+      - { member: Will, slot: M2, servings: 1 }
+      - { member: Will, slot: M4, servings: 1 }
+
 inventory_snapshot: []
 
 # COVERAGE STATUS (8/5, mid-build): see `make coverage` for current numbers.
