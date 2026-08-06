@@ -625,3 +625,11 @@ Format: ✓ = done, □ = planned/pending
 □ Protein-first eating, loose maintenance
 □ Solo-space rep: unannounced 15–30 min block
 □ Phone outside bedroom overnight
+
+**2026-08-05 (Wed)** — Maintenance (set 8/5 reflection) — 2,350 cal / 150g protein / 50g fat / 325g carbs, by feel, no Cronometer.
+✓ Continue Broadway lottery entries on TodayTix
+✓ Dance at evening social tonight
+✓ Attend ESM festival class — Wednesday evening
+□ Protein-first eating, loose maintenance today
+□ Solo-space rep: 15–30 min unannounced block
+□ Phone outside bedroom overnight
