@@ -178,11 +178,11 @@
   },
   {
     "item": "Chicken breasts",
-    "quantity": 44,
+    "quantity": 22,
     "unit": "oz",
     "location": "freezer",
     "freshness_date": "2026-08-15",
-    "note": "Confirmed 8/5 (Will): at least 2 Costco packs, 22oz each = 44oz. Replaces the old uncertain 32.96oz figure."
+    "note": "Corrected 8/5 (Will): only 1 pack (22oz) left, not 2. Goes entirely to mac & cheese; curry switched to thigh instead."
   },
   {
     "item": "Chicken thighs",
