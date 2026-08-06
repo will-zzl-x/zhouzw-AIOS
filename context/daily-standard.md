@@ -19,27 +19,35 @@ Updated each time a phase changes or a quarterly review runs.
 
 ## Phase Definitions
 
-**CURRENT PHASE: Maintenance (set at the Aug 5 reflection, effective immediately post-trip).** Reverse diet ended Wed Jul 29; NYC trip mode ended Wed Aug 5. Use the "Maintenance — Work Days / Weekends" gates below. The Reverse Diet, NYC Trip Mode, Vacation, and NYC Cut blocks are past templates.
+**CURRENT PHASE: Cut #2 (started 8/5, same day Maintenance was set — pivoted same-session once Schofield's 20% BF trigger was assessed).** Reverse diet ended Wed Jul 29; NYC trip mode ended Wed Aug 5; Maintenance held for less than a day before Will chose to cut again. Use the "Cut #2 — Work Days / Weekends" gates below. Maintenance, Reverse Diet, NYC Trip Mode, Vacation, and NYC Cut #1 are all past templates.
 
-### Maintenance — Work Days (Aug 6 onward) — CURRENT
+### Cut #2 — Work Days (started 8/5) — CURRENT
 Done when:
 1. **Career** — Amazon maintenance (no active behavior-logging quest). Promo doc is with feedback providers — respond if anything comes back, otherwise no career task.
 2. **Training** — Ravage session (if training day) — minimum 3x/week.
-3. **Nutrition** — Protein-first, 150g floor (unchanged since the cut). **Maintenance target 2,350 cal / 150g protein / 50g fat / 325g carbs, by feel — still no Cronometer.** Set 8/5 from the last confirmed reverse-diet read (2,300–2,400+, "runway to add"); **not yet trend-confirmed — judge the scale ~Aug 14** (a post-trip water/glycogen bounce is expected first, per the plan; don't react to readings before then).
-4. **Steps** — ≥ 12,500 (resumes; suspended for the trip).
+3. **Nutrition** — Protein-first, 150g floor. **Target 1,950–1,960 cal / 150g protein / 50g fat / ~225g carbs — Cronometer IS back on** (Will's call, 8/5 — closes the Cut #1 logging gap where real intake ran ~360 cal over the logged target). Anchored to the empirically-derived TDEE (~2,150–2,250), not the untested 2,350 Maintenance figure. **This week (through ~8/11) runs closer to ~2,300 cal** — the meal cycle was already built/shopped for Maintenance before this pivot; accepted as a known transition-week overshoot, not a miss. Strict adherence starts with the next meal-cycle rebuild.
+4. **Steps** — ≥ 12,500.
 
-Scale rule: daily morning weigh-in (surfaced as a Daily Consistent). **Flat 7-day avg = the target at maintenance** (not a range to climb through, unlike the reverse-diet steps). If the trend runs meaningfully off-flat for 2 weeks running once the Aug 14 read-in starts, that's the cue to adjust the 2,350 number up or down — not before.
+Scale rule: daily morning weigh-in (Daily Consistent) + **weekly waist measurement** (the practical BF%-steering instrument — DEXA ruled out, smart scales unreliable ±5-10 points). Target pace ~0.4–0.6 lb/wk; Will's intent is to adhere closer to target more days than a "conservative" label implies, to push toward the faster end. **Checkpoint ~172–174 lb** before deciding whether to push through to the ~168–170 lb / ~14–15% BF endpoint. Full plan: `goals/nyc-cut.md` → "Cut #2."
 
 **Acquisition: NOT a daily/weekly gate right now** — re-scoped 7/26 to "no new vertical decisions until the Aug 24 quarterly." Edge-inventory prep (`context/work-experience.md`) is the only sanctioned acquisition work in the interim; no Saturday deal-eval keystone until the quarterly resets it.
 
 **Z2 and dance:** both still pending redesign (flagged 7/26, not yet done — carries forward, not invented here).
 
-### Maintenance — Weekends (Aug 6 onward) — CURRENT
+### Cut #2 — Weekends (started 8/5) — CURRENT
 Done when:
 1. **Training** — Ravage session OR active recovery (long walk ≥ 12,500 steps)
-2. **Nutrition** — Protein-first 150g; maintenance calories (2,350) by feel, no logging
+2. **Nutrition** — Protein-first 150g; 1,950–1,960 cal, Cronometer logged
 3. **Steps** — ≥ 12,500
 4. **Relationship** — intentional, non-logistical time with Elena (no specific keystone assigned right now — Z2's old Sunday slot is unfilled pending redesign)
+
+---
+
+### Maintenance (Aug 5, held <1 day) — PAST (template)
+Done when:
+1. **Nutrition** — Protein-first 150g; maintenance calories (2,350) by feel, no logging
+2. **Steps** — ≥ 12,500
+3. **Training** — Ravage session, minimum 3x/week
 
 ---
 
