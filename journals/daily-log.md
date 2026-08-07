@@ -633,3 +633,13 @@ Format: ✓ = done, □ = planned/pending
 □ Protein-first eating, loose maintenance today
 □ Solo-space rep: 15–30 min unannounced block
 □ Phone outside bedroom overnight
+
+**2026-08-06 (Thu)** — Cut #2 (started 8/5, same day — Maintenance held <1 day before Will chose to cut again on Schofield's ~20% BF trigger).
+✓ Solo-space rep: 15–30 min unannounced block
+✓ Phone outside bedroom overnight
+✓ Morning weigh-in, log 7-day average
+✓ Hit 150g protein, 2,350 kcal
+✓ Meal-cycle inventory true-up + new ad hoc cycle
+□ Train Session: Ravage Block
+□ Walk 12,500 steps
+□ Edge inventory prep: read work-experience.md
