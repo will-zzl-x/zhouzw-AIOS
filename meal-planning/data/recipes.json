@@ -76,10 +76,16 @@
         "store": "Asian Mart"
       },
       {
-        "name": "Fish sauce (kimchi)",
+        "name": "Soy sauce (kimchi, sub for fish sauce)",
         "amount": "1",
         "unit": "Tbsp",
-        "store": "Asian Mart"
+        "store": "Walmart"
+      },
+      {
+        "name": "Toasted sesame oil (kimchi)",
+        "amount": "1",
+        "unit": "tsp",
+        "store": "Walmart"
       },
       {
         "name": "Garlic, minced (kimchi)",
@@ -100,7 +106,7 @@
         "store": "Asian Mart"
       }
     ],
-    "notes": "Scale to 2 packs (8 thighs) for 8 servings. Marinate 30 min to overnight. VEG SIDE SWAPPED 2026-08-05 (Will): bok choy/gai lan OUT, cucumber kimchi IN — one batch (Persian cucumbers, swapped for English per Will — Asian Mart, ~3x the count since they run much smaller) sized to cover BOTH this recipe (6 srv) and fried rice #22 (6 srv), 12 servings total. Salt sliced cucumber 15-20 min, drain, toss with gochugaru + fish sauce + garlic + rice vinegar + sesame seeds. Keeps well, improves overnight.",
+    "notes": "Scale to 2 packs (8 thighs) for 8 servings. Marinate 30 min to overnight. VEG SIDE SWAPPED 2026-08-05 (Will): bok choy/gai lan OUT, cucumber kimchi IN \u2014 one batch (Persian cucumbers, swapped for English per Will \u2014 Asian Mart, ~3x the count since they run much smaller) sized to cover BOTH this recipe (6 srv) and fried rice #22 (6 srv), 12 servings total. Salt sliced cucumber 15-20 min, drain, toss with gochugaru + garlic + rice vinegar + sesame seeds. FISH SAUCE SWAPPED 8/8 (Will) for 1 Tbsp soy sauce (1:1 sub, per Korean Bapsang / My Korean Kitchen) + added 1 tsp toasted sesame oil (per The Woks of Life / Kimchimari). Keeps well, improves overnight.",
     "recipe_available": true,
     "recipe_steps": [
       "Marinate thighs in dark soy sauce, light soy sauce, minced garlic, sweetener, five spice powder, and white pepper. Let sit 30 min to overnight.",
@@ -108,7 +114,7 @@
       "Air fry chicken at 360°F for 17 minutes.",
       "Steam bok choy or gai lan for 11 minutes. Salt when done.",
       "Divide into 4 containers: rice, 1 thigh, and veg.",
-      "Cucumber kimchi (covers both teriyaki + fried rice): salt sliced cucumbers, rest 15-20 min, squeeze out liquid. Toss with gochugaru, fish sauce, minced garlic, rice vinegar, sesame seeds. Best made the night before; keeps ~5-7 days."
+      "Cucumber kimchi (covers both teriyaki + fried rice): salt sliced cucumbers, rest 15-20 min, squeeze out liquid. Toss with gochugaru, soy sauce, toasted sesame oil, minced garlic, rice vinegar, sesame seeds. Best made the night before; keeps ~5-7 days."
     ],
     "on_break": false
   },
