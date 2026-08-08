@@ -272,6 +272,46 @@ operator credibility while the box/doctrine tension gets resolved, rather than s
 real-estate doors, NOT five service-biz owners) sits directly on #1's demand premise. One real
 conversation resolves it, and it remains the highest-information prep available before the quarterly.
 
+## Addendum — candidate #1 execution shape: free-for-testimonial (8/4, live)
+
+The most concrete this file has gotten on #1. Will's own proposal: take a course, draft an offer
+from actual capabilities, and let the first few clients be free — paid in case study + testimonial
+instead of cash. Assessed and sharpened below; **still prep, not a decision** — this describes how
+#1 would run if chosen, it doesn't choose it.
+
+**Why free-for-testimonial is the right shape, not just an easier one.** It resolves the single
+scariest open item on the critical path — the measurement/attribution problem (§ "What's still
+missing," item 1). A cash-for-percentage deal requires an agreed baseline and method before day
+one, which is exactly where these arrangements die. Free work makes that dispute moot for the
+first engagements. It's also a lower-friction warm-channel ask: "let me look at your ops for free"
+clears a yes where "pay me a cut of savings" doesn't get a meeting.
+
+**Course sequencing — don't let it become the gate.** The promo doc's own pattern (four slips,
+moved only when the work got confronted, not when more prep happened) applies directly here. The
+courses (Anthropic Academy — MCP + Agent Skills tracks first, since MCP is the client-systems
+connector layer; Claude Code 101 for the rigor gap) are free and short — run them **alongside** the
+warm-channel conversation, not gating it. That conversation requires zero new skills today.
+
+**Portfolio vs. testimonial — different artifacts, and the file already flags which one fits.**
+A portfolio is evaluated cold by strangers — demand-side, the 2/10 lane. A testimonial is vouched
+for by one warm-channel person — supply-side, the edge. Building a portfolio site spends scarce
+hours in the weakest lane; a testimonial doesn't. The showable artifact for warm outreach is a
+**written case study**, not a site.
+
+**Underused existing material.** This AIOS repo — scheduled cloud functions, MCP integrations,
+deterministic gating logic, an unattended morning-brief pipeline — is real, showable IP that
+already demonstrates "builds operational systems that run without him." The Amazon automation
+suite is describable in non-proprietary shape-and-outcome terms (~407 hr/yr recovered), the same
+move the promo doc already makes. **The gap is presentability, not capability** — writing up two
+case studies from work already done is a few evenings; building new free projects from scratch is
+months, and re-fights the monetization-gap-not-skills-gap finding at the top of this file.
+
+**Guardrail on the free engagements themselves:** define the price up front — case study +
+testimonial, named, with an end date. Undefined-scope free work produces nothing to point to. And
+per the #1-decays-into-#3 trap already logged: engagement two must reuse engagement one's
+machinery, or free pilots quietly become the consulting treadmill with worse economics (no cash
+either).
+
 ## Anti-oscillation clause
 
 This file is the input to one decision on one date. Until Aug 24: no vertical decisions, no
