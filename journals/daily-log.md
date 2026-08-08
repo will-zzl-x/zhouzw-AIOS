@@ -643,3 +643,13 @@ Format: ✓ = done, □ = planned/pending
 □ Train Session: Ravage Block
 □ Walk 12,500 steps
 □ Edge inventory prep: read work-experience.md
+
+**2026-08-07 (Fri)** — Cut #2 (started 8/5, same day — Maintenance held <1 day before Will chose to cut again on Schofield's ~20% BF trigger).
+✓ Solo-space rep: unannounced 15–30 min block
+✓ Phone outside bedroom overnight
+✓ Morning weigh-in, log 7-day average
+✓ Meal-cycle inventory true-up + new ad hoc cycle
+✓ Hit 150g protein, 1,950–1,960 kcal
+✓ Train Session: Ravage Block Wk1
+□ Walk 12,500 steps today
+□ Edge inventory prep: read work-experience.md
