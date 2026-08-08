@@ -312,6 +312,52 @@ per the #1-decays-into-#3 trap already logged: engagement two must reuse engagem
 machinery, or free pilots quietly become the consulting treadmill with worse economics (no cash
 either).
 
+## Addendum — education-spend question, for the Aug 24 agenda (8/5, live)
+
+Will surfaced two Hormozi videos on investing in yourself over the S&P ("you can buy the future at
+a discount by buying the skills required to get there faster"; "spend all your excess money on
+education until you can't spend it fast enough") and asked for a course or community to accelerate
+candidate #1 rather than figuring it out solo. **Logged as an agenda item for the quarterly, not a
+purchase decision** — but the analysis below is worth having in hand when it's made.
+
+**The core argument holds for Will, with one narrowing.** Education ROI beats index ROI when the
+skill gets deployed. But this file's own top-line finding is that Will's problem is a *monetization*
+gap, not a skills gap — 9/10 delivery capability, receipted, never sold. So the only education spend
+that clears the Hormozi bar is the one aimed at the two named cold zones (offer construction 4/10,
+demand-gen 2/10), not at deepening what's already 9/10.
+
+**Hormozi's own framework argues against a new purchase right now.** Video two's bridge metaphor —
+"two, three bricks in, then they start a new bridge, and they never make it across." The
+`main-street-accelerator` row has sat `in-progress / window:ongoing` for months with three named
+modules unfinished: **Walking Billboard, the 100/50/10/1 funnel, and the Seven Ds** — which are
+*exactly* the offer-construction and demand-gen gaps. Already paid for, Elena co-working it. Buying
+a new program while that sits at brick three is the failure mode Hormozi is describing.
+
+**Ranked options if buying (applying his own de-risk heuristic — follow the free content first):**
+1. **1:1 / small-group time with someone who actually sells ops-automation into SMBs.** His explicit
+   video-two recommendation. Highest cost/hour, lowest total cost, and the only option where *Will's*
+   specific offer gets critiqued instead of a generic one.
+2. **Jack Roberts' AI Automations community (~$87–97/mo).** **Fit assessment updated 8/5:** it was
+   assessed 7/31 as too agency-oriented when the ask was pure Claude Code skill. The ask has since
+   changed to offer + clients + portfolio, which *is* the agency motion — so the fit is materially
+   better than that earlier read. Monthly, cancellable, template/blueprint library + daily calls.
+3. **$100M Offers (~$20).** Named only to rule it out as a *purchase*: the framework is already in
+   `references/hormozi.md`. The gap is that it's never been pointed at a specific Will offer. That's
+   an afternoon, not a transaction.
+
+**Two guardrails where Hormozi's math doesn't map to Will's situation:**
+- **The savings ARE the deal capital.** $75k fund + $2k/mo is what funds candidate #2 under the
+  cash + non-recourse-note doctrine. "Invest everything in yourself" must not quietly become
+  "spend the acquisition fund." All realistic options here are $100/mo to low-four-figures — nowhere
+  near the fund — so the constraint is easy to respect, but it needs stating.
+- **The binding constraint is hours, not dollars.** Hormozi's math assumes immediate full-scale
+  deployment. Will has 10–15 hr/wk against an active promo window. More courses add *consumption*
+  hours, not deployment hours — and "proof over consumption" is a standing yearly theme already
+  stress-tested twice this quarter.
+
+**The free part that determines the return:** "become their number one success story." Same
+discipline that turns a free client engagement into a testimonial worth having.
+
 ## Anti-oscillation clause
 
 This file is the input to one decision on one date. Until Aug 24: no vertical decisions, no
