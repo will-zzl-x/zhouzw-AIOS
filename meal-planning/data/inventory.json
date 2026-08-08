@@ -22,11 +22,11 @@
   },
   {
     "item": "Soy sauce",
-    "quantity": 1,
+    "quantity": 40,
     "unit": "oz",
     "location": "pantry",
     "freshness_date": null,
-    "note": "Corrected 8/5 (Will): nearly out, needs a refill - the 24oz figure was stale."
+    "note": "Refilled 8/8 (Will) - new bottle, ~40oz (estimate, not measured)."
   },
   {
     "item": "Light soy sauce",
