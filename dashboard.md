@@ -32,7 +32,7 @@ Q2 quests · Work main: **re-scoped — edge-hunt decided at the Aug 24 quarterl
 
 ## Major Moves (top of backlog — see `backlog.md` for full catalog)
 
-1. **Aug 24 quarterly prep: edge inventory** — `context/work-experience.md` + Hormozi edge-test → "where does Will have edge?" The quarter's biggest decision, made once.
+1. **Aug 24 quarterly prep: edge inventory** — `context/work-experience.md` + Hormozi edge-test → "where does Will have edge?" The quarter's biggest decision, made once. **8/4 addendum: candidate #1's execution shape sketched** (free-for-testimonial, course-alongside-not-gating, case study + testimonial as the deliverable) — still prep, not a decision.
 2. **Z2 redesign** — two failed slot-designs, needs a different anchor entirely. **Bundle in: solo-space also needs a travel-week definition** (8/4 mid-trip check found Will proposing festival socials as a stand-in — doesn't fit the rep's own "apart from Elena" definition; same failure class as Z2, worth fixing together).
 3. **Meal-cycle inventory true-up + new ad hoc cycle** (Wed 8/5–Aug 11, business trip) — built and grocery-ready.
 4. **Roth one-time cleanup at Merrill** (settlement cash, DRIP, consolidate legacy positions).
