@@ -617,3 +617,39 @@ Format: ✓ = done, □ = planned/pending
 ✓ Dance at ESM social — Mafia Royale night
 □ Solo-space rep: 15–30 min unannounced block
 □ Hand affidavit form to Michael at dinner
+
+**2026-08-04 (Tue)** — Reverse diet Jul 12–29 (final days) → NYC TRIP MODE Jul 30–Aug 5
+✓ Continue Broadway lottery entries on TodayTix
+✓ Dance at evening social tonight
+✓ Attend ESM festival class — Sunday 1pm
+□ Protein-first eating, loose maintenance
+□ Solo-space rep: unannounced 15–30 min block
+□ Phone outside bedroom overnight
+
+**2026-08-05 (Wed)** — Maintenance (set 8/5 reflection) — 2,350 cal / 150g protein / 50g fat / 325g carbs, by feel, no Cronometer.
+✓ Continue Broadway lottery entries on TodayTix
+✓ Dance at evening social tonight
+✓ Attend ESM festival class — Wednesday evening
+□ Protein-first eating, loose maintenance today
+□ Solo-space rep: 15–30 min unannounced block
+□ Phone outside bedroom overnight
+
+**2026-08-06 (Thu)** — Cut #2 (started 8/5, same day — Maintenance held <1 day before Will chose to cut again on Schofield's ~20% BF trigger).
+✓ Solo-space rep: 15–30 min unannounced block
+✓ Phone outside bedroom overnight
+✓ Morning weigh-in, log 7-day average
+✓ Hit 150g protein, 2,350 kcal
+✓ Meal-cycle inventory true-up + new ad hoc cycle
+□ Train Session: Ravage Block
+□ Walk 12,500 steps
+□ Edge inventory prep: read work-experience.md
+
+**2026-08-07 (Fri)** — Cut #2 (started 8/5, same day — Maintenance held <1 day before Will chose to cut again on Schofield's ~20% BF trigger).
+✓ Solo-space rep: unannounced 15–30 min block
+✓ Phone outside bedroom overnight
+✓ Morning weigh-in, log 7-day average
+✓ Meal-cycle inventory true-up + new ad hoc cycle
+✓ Hit 150g protein, 1,950–1,960 kcal
+✓ Train Session: Ravage Block Wk1
+□ Walk 12,500 steps today
+□ Edge inventory prep: read work-experience.md

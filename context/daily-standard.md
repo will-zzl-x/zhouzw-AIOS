@@ -19,9 +19,39 @@ Updated each time a phase changes or a quarterly review runs.
 
 ## Phase Definitions
 
-**CURRENT PHASE: Reverse Diet FINAL DAYS (through Wed Jul 29) → NYC TRIP MODE (Thu Jul 30 – Wed Aug 5).** Mon–Wed use the "Reverse Diet — Work Days" gates below; **Thu 7/30 onward use the NYC Trip Mode block.** Resume standard gates Aug 6 (post-trip phase set at the ~Aug 9 reflection). The Vacation, Maintenance, and NYC Cut blocks are past templates.
+**CURRENT PHASE: Cut #2 (started 8/5, same day Maintenance was set — pivoted same-session once Schofield's 20% BF trigger was assessed).** Reverse diet ended Wed Jul 29; NYC trip mode ended Wed Aug 5; Maintenance held for less than a day before Will chose to cut again. Use the "Cut #2 — Work Days / Weekends" gates below. Maintenance, Reverse Diet, NYC Trip Mode, Vacation, and NYC Cut #1 are all past templates.
 
-### NYC Trip Mode (Jul 30 – Aug 5) — CURRENT from Thursday
+### Cut #2 — Work Days (started 8/5) — CURRENT
+Done when:
+1. **Career** — Amazon maintenance (no active behavior-logging quest). Promo doc is with feedback providers — respond if anything comes back, otherwise no career task.
+2. **Training** — Ravage session (if training day) — minimum 3x/week.
+3. **Nutrition** — Protein-first, 150g floor. **Target 1,950–1,960 cal / 150g protein / 50g fat / ~225g carbs — Cronometer IS back on** (Will's call, 8/5 — closes the Cut #1 logging gap where real intake ran ~360 cal over the logged target). Anchored to the empirically-derived TDEE (~2,150–2,250), not the untested 2,350 Maintenance figure. **This week (through ~8/11) runs closer to ~2,300 cal** — the meal cycle was already built/shopped for Maintenance before this pivot; accepted as a known transition-week overshoot, not a miss. Strict adherence starts with the next meal-cycle rebuild.
+4. **Steps** — ≥ 12,500.
+
+Scale rule: daily morning weigh-in (Daily Consistent) + **weekly waist measurement** (the practical BF%-steering instrument — DEXA ruled out, smart scales unreliable ±5-10 points). Target pace ~0.4–0.6 lb/wk; Will's intent is to adhere closer to target more days than a "conservative" label implies, to push toward the faster end. **Checkpoint ~172–174 lb** before deciding whether to push through to the ~168–170 lb / ~14–15% BF endpoint. Full plan: `goals/nyc-cut.md` → "Cut #2."
+
+**Acquisition: NOT a daily/weekly gate right now** — re-scoped 7/26 to "no new vertical decisions until the Aug 24 quarterly." Edge-inventory prep (`context/work-experience.md`) is the only sanctioned acquisition work in the interim; no Saturday deal-eval keystone until the quarterly resets it.
+
+**Z2 and dance:** both still pending redesign (flagged 7/26, not yet done — carries forward, not invented here).
+
+### Cut #2 — Weekends (started 8/5) — CURRENT
+Done when:
+1. **Training** — Ravage session OR active recovery (long walk ≥ 12,500 steps)
+2. **Nutrition** — Protein-first 150g; 1,950–1,960 cal, Cronometer logged
+3. **Steps** — ≥ 12,500
+4. **Relationship** — intentional, non-logistical time with Elena (no specific keystone assigned right now — Z2's old Sunday slot is unfilled pending redesign)
+
+---
+
+### Maintenance (Aug 5, held <1 day) — PAST (template)
+Done when:
+1. **Nutrition** — Protein-first 150g; maintenance calories (2,350) by feel, no logging
+2. **Steps** — ≥ 12,500
+3. **Training** — Ravage session, minimum 3x/week
+
+---
+
+### NYC Trip Mode (Jul 30 – Aug 5) — PAST (template)
 Amazon work: off. Done when:
 1. **Dance/festival** — on festival days (Fri/Sat/Sun): attend the class + dance the social. That IS the day's activity + quest work.
 2. **Protein-first eating, untracked** — loose maintenance; anchor each day with protein, enjoy the food list, no logging.
@@ -56,16 +86,16 @@ Done when:
 2. **Nutrition** — Protein ≥ 150g
 3. **Side/Relationship** — Meaningful time on acquisition (reading, research) OR intentional time with Elena
 
-### Reverse Diet — Work Days (Jul 12 – Jul 29) — CURRENT
+### Reverse Diet — Work Days (Jul 12 – Jul 29) — PAST (template)
 Done when:
 1. **Career** — Advance/ship the promo doc (hard line Fri Jul 17), or maintain Amazon. Acquisition reps optional on weekdays.
 2. **Training** — Ravage session (if training day) — minimum 3x/week. New block underway (Wk2).
-3. **Nutrition** — Protein-first, ~150g (retention floor). Calories stepping up +150–200/wk **by feel — do NOT log Cronometer** (tracking deliberately dropped). ~2,150–2,200/day as of 7/17. No calorie task in the brief; the nutrition gate is "protein-first, eat a bit more than last week."
+3. **Nutrition** — Protein-first, ~150g (retention floor). Calories stepping up +150–200/wk **by feel — do NOT log Cronometer** (tracking deliberately dropped). **~2,300–2,400+/day as of the 7/26 reflection (W30) — still climbing per the ratified verdict: "runway to add, maintenance not found yet" even at that level.** No calorie task in the brief; the nutrition gate is "protein-first, eat a bit more than last week."
 4. **Steps** — ≥ 12,500
 
 Scale rule (reverse) — **DYNAMIC, trend-based (updated 7/19 per Will, Helms/McDonald school):** the daily morning weigh-in is the only instrument (surfaced as a Daily Consistent, not duplicated here). **Flat-to-+0.5 lb/wk on the 7-day avg is the acceptable reverse-diet trajectory** — that's the target, not a ceiling to hold under. Pause the calorie add only if the trend runs *above* +0.5 lb/wk two weeks running (soft check ~181). This replaces the old fixed ≤180–181 ceiling. Hard floor 168 lb irrelevant this phase. **No morning sleep score — dropped 7/19 (deliberate).**
 
-### Reverse Diet — Weekends (Jul 12 – Jul 29) — CURRENT
+### Reverse Diet — Weekends (Jul 12 – Jul 29) — PAST (template)
 Done when:
 1. **Training** — Ravage session OR active recovery (long walk ≥ 12.5k steps)
 2. **Nutrition** — Protein-first ~150g; calories by feel, no logging

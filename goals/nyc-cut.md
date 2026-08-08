@@ -72,3 +72,19 @@ Cut reached a low of 177.4 lb (6/19) and Wk7 (6/28) averaged 177.9 — essential
 **Next phase (LIVE):** reverse diet Jul 12–29 (+150–200 cal/wk, daily weigh-ins mandatory), then NYC loose maintenance Jul 30–Aug 5. Cut retro belongs to the Aug quarterly review.
 
 **Next-cut rule (set 7/12, Will's call):** set the target pace assuming ~200–300 cal/day of uncounted leakage (this cut's actual pace ran ~1.1 lb/wk against a plan that assumed ~1.4–1.7), **but never set target intake below BMR** — the floor must stay safe in case adherence is perfect.
+
+---
+
+## Cut #2 (started 8/5, post-reverse-diet)
+
+**Trigger (Schofield):** BF% crossed his ~20% "no-fly zone" line (self-assessed via the mirror-chart conversation, 8/5) — independent grounds: his standing rule is also to cut to ~12% at least once a year regardless of the trigger.
+
+**Target: 1,950–1,960 cal / 150g protein / 50g fat / ~225g carbs.** Anchored to the **empirically-derived TDEE (~2,150–2,250 at ~180 lb)** from the actual May–Jul cut data, not the untested 2,350 Maintenance figure that was only ever set from a pre-trip read with zero trend confirmation. Real deficit ≈ 200–300 cal/day → ~0.4–0.6 lb/wk theoretical. **Will's stated intent: adhere closer to target on more days than "conservative" implies**, to push toward the faster end of that range rather than let inconsistent days dilute it.
+
+**Endpoint: ~14–15% BF (~168–170 lb) — NOT 12%.** 12% (~163 lb) would violate the standing **168 lb hard floor** (anti-goal above, unchanged) — flagged and resolved 8/5.
+
+**Checkpoint: ~172–174 lb** (~6–8 lb from the current ~179.6 lb) — reassess here before deciding whether to push through to the full 168–170 endpoint.
+
+**Tracking: Cronometer resumed** (Will's call, 8/5) — closes the known logging gap from Cut #1 (real intake ran ~360 cal/day above the logged 1,820, restaurant leakage). **Waist measurement, weekly** — the practical BF%-steering instrument since DEXA's ruled out and smart scales run ±5–10 points unreliable.
+
+**Transition-week caveat:** the meal cycle already built/shopped for the week of Wed 8/5–Tue 8/11 was calibrated to the old 2,350 Maintenance target before this pivot and runs closer to ~2,300 cal — accepted as a known, deliberate overshoot this week, not a failure. Strict 1,950–1,960 adherence starts in earnest with the next meal-cycle rebuild, post-business-trip.

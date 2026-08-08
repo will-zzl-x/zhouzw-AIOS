@@ -9,7 +9,10 @@ S:
   - "11 — NY Strip Steak & Salad"
   - "12 — Salmon Poke Bowl"
   - "15 — NY Strip Steak + Blue Cheese Wedge + Wasabi Mash"
+  - "22 — Chicken Thigh Fried Rice"   # tiered S 2026-08-05 (Will) — Dutch oven / deep dish cast iron
 A:
+  - "44 — Ginger-Scallion Poached Chicken + Cucumber Salad"   # added 2026-08-05, consolidates old #28/#35/#36
+  - "42 — One-Pan Chicken & Red Lentil Curry (Dr. Rupy-style)"   # added 2026-08-05
   - "3 — Hoisin Chicken Thigh Chow Mein"   # currently on_break
   - "5 — Crispy Chicken Sandwiches"
   - "9 — Bibimbap"
@@ -17,6 +20,7 @@ A:
   - "18 — Three-Cheese Alfredo Pasta with Chicken"
   - "19 — Korean BBQ Chicken Thighs + Cucumber Salad"
 B:
+  - "43 — Goodles Mac & Cheese + Chicken (Veg Optional, Per-Bowl)"   # added 2026-08-05, tier is a GUESS pending Elena's actual feedback
   - "2 — Cheesy Chipotle Chicken Rice Bowls"
   - "16 — Taco Salad"
 C:
@@ -31,7 +35,6 @@ untiered:   # tier: null — convenience / take-and-bake / utility
   - "17 — Big Batch Baked Ziti"
   - "20 — Slow Cooker Shredded Chicken"
   - "21 — Chicken & Vegetable Air-Fryer Bake"
-  - "22 — Chicken Thigh Fried Rice"
 
 on_break:   # benched — rotate back in a future cycle. Mirrors recipes.json on_break:true.
   - "3 — Hoisin Chicken Thigh Chow Mein"   # on_break: true (authoritative)

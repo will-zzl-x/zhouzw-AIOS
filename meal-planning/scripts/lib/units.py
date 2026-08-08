@@ -260,6 +260,10 @@ _DISTINGUISHERS = {
     # sour cream != cream). Added 2026-07-18: a generic "Shredded cheese" need was
     # reading fat-free CREAM cheese as coverage (validate-cycle false-OK lesson).
     "cream",
+    # "peanut" distinguishes PB2/peanut butter from plain dairy butter. Added
+    # 2026-08-05: "PB2 powdered peanut butter" was fuzzy-matching a "Butter"
+    # (1 stick, dairy) inventory row purely on the shared "butter" token.
+    "peanut",
 }
 
 # A few aliases where the short name uses a different head noun than the recipe.

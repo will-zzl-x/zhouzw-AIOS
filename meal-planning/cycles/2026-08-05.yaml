@@ -1,0 +1,145 @@
+# Cycle Wed 2026-08-05 -> Tue 2026-08-11 (AD HOC — post-NYC return through business trip)
+# Will lands back from NYC today (8/5); needs to cook TODAY for Thu/Fri workday coverage
+# (no big-batch exists yet — the 7/25 pre-NYC cycle was a fridge-clear, fully consumed).
+# Leaves for a business trip Tue 8/11 (travel day) — cycle ends there. Workshops
+# start Wed 8/12, outside this plan's scope (eating around travel/workshops).
+# Maintenance phase (set at the 8/5 reflection): 2,350 cal / 150g protein / 50g fat / 325g carbs (Will).
+# SUPERSEDED SAME DAY — Will started Cut #2 8/5 (goals/nyc-cut.md): target now
+# 1,950-1,960 cal / 150g protein / 50g fat / ~225g carbs, Cronometer back on. This
+# cycle was already built/shopped for the Maintenance number (~2,300 cal) before the
+# pivot - accepted as a known transition-week overshoot, NOT re-built. The NEXT
+# cycle (post-8/11 business trip) should be built at the Cut #2 target from scratch.
+#
+# REVISED 8/5 — recipe #31 (modular slow-cooker chicken) rejected by Will and DELETED
+# from recipes.json entirely. Replaced by rotisserie (#6) for Will + shakes for Will's
+# M1 (config.yaml changed, was "no shakes for M1"). Elena's Sat/Sun anchor still open —
+# Will may introduce a new recipe (vet_recipe.md territory, not yet provided).
+date: "2026-08-05"
+grocery_day: "2026-08-05"
+
+exceptions:
+  - { date: "2026-08-05", member: Will, slot: M2, reason: "Costco hot dog - one of tonight's meals (ad hoc, not the usual Saturday standing exception)" }
+carryover: []
+# 2026-07-25 cycle confirmed fully cooked (Will, 8/5) - deplete applied + manual true-up
+# done for the note-only cooks. Ground beef stash turned out to be stale/non-existent
+# (corrected to 0). Chicken breast: couple packs confirmed on hand.
+
+# CHICKEN THIGH BUY NOTE (8/5, corrected per Will): Costco sells chicken thighs as
+# ONE case of 6 x ~22oz sub-packs, not individually. UPDATED 8/5: curry (#42) now
+# also uses thigh (Will only had 1 breast pack left) - total need across this cycle:
+# teriyaki (4 thighs) + fried rice (4 thighs/~21oz) + burritos (22oz) + curry (22oz)
+# = ~4 of the 6 sub-packs. Buy ONE Costco case (the only unit available); ~2
+# sub-packs (~44oz) will be genuine surplus/freezer stock for future cycles.
+#
+# CHICKEN BREAST NOTE (8/5): only 1 pack left (was 2) - goes entirely to mac & cheese
+# (#43, better suited to breast - quick sear, doesn't render fat into the sauce).
+# Curry switched to thigh instead of needing a 2nd breast pack.
+
+# CARB FILL (8/5, Will) — the built recipes alone landed well under the 2,350 cal /
+# 325g carb Maintenance target (est. ~1,667 cal / ~167g carb/day, mostly a carb gap).
+# Fixes: curry now served over rice (~0.75 cup cooked/serving, added above), rotisserie
+# rice bumped 0.2->0.3 cup/serving. PLUS three daily filler items, untracked, one
+# per meal slot (Costco/Walmart-practical):
+#   - WATERMELON with M2, 4 cups/day EXACT (~184 cal / ~46g carb) — swapped from
+#     cantaloupe 8/5 (Will's real quantity, from Costco). Higher carb density than
+#     assumed, closes more of the gap than the original cantaloupe estimate.
+#   - Blueberries with M3, 24oz Costco container to last the WHOLE 7-day cycle -
+#     INCREASED 8/5 from 18oz. Works out to ~0.66 cup/day (~55 cal / ~14g carb/day).
+#     Highest antioxidant (anthocyanin) density of common Costco fruit, not
+#     something the gummy multivitamin covers. No stone fruit anywhere (Will has
+#     a slight peach/plum allergy).
+# SWEET POTATO FRIES DROPPED 8/5 (Will: "no sweet potato this week") — recipe #46
+# stays in the DB for a future cycle, just not selected this week.
+# Chosen for cost-efficiency + filling what the multivitamin + rest of the plan
+# actually miss (potassium, complex carbs, antioxidant diversity), not generic
+# "healthy fruit," per Will's ask (8/5). Not recipe line items - eaten alongside
+# meals, add to the Costco/Walmart list.
+# RECOMPUTED 8/5: dropping the fries (~90-100 cal/~20g carb/day at the halved
+# portion) and bumping blueberries to 24oz (+~14 cal/~4g carb/day vs. the 18oz
+# version) doesn't fully offset the loss - net roughly -75 cal/-16g carb per day
+# vs. the last full estimate. New estimate: ~2,300 cal / ~312g carb per day vs.
+# the 2,350/325 target - still close (within ~50 cal / ~13g carb) but no longer
+# the near-exact match the fries were providing. Flagged for Will, not yet
+# rebalanced with a replacement carb source.
+
+selections:
+  - recipe_id: "30"
+    planned_servings: 7
+    notes: |
+      Will's M1, all week (CHANGED 8/5 — was starch-free lean protein+veg, now shakes,
+      Will's own call). Bulk-prep: pre-portion 7x (1 scoop whey + 1 cup frozen
+      strawberries) into freezer bags/containers now; blend fresh each morning with
+      skim milk + ice. Will's cut-friendly base only (no banana/Greek yogurt).
+    slot_assignments:
+      - { member: Will, slot: M1, servings: 7 }
+
+  - recipe_id: "6"
+    planned_servings: 5
+    notes: |
+      Rotisserie + garlic rice, Will M3 — CONFIRMED 8/5 (Will), 5 servings. Seasonal
+      veggie side = ZUCCHINI (Will's call, and the practical Costco/Walmart pick —
+      reliably stocked, actually in-season, unlike okra which isn't a realistic
+      big-box item). Add zucchini + Costco rotisserie chicken to the buy list.
+    slot_assignments:
+      - { member: Will, slot: M3, servings: 5 }
+
+  - recipe_id: "42"
+    planned_servings: 7
+    notes: |
+      TONIGHT'S ACTUAL COOK (8/5) — Dr. Rupy-style one-pan chicken + red lentil curry,
+      vetted in from Will's pasted source, chicken subbed for the original monkfish.
+      DIALED BACK 8/5 to 22oz (1 Costco pack) / 7 servings — Will's call, a modest
+      first-time batch before committing to a bigger one. Fits a normal pot.
+    slot_assignments:
+      - { member: Elena, slot: M2, servings: 2 }
+      - { member: Elena, slot: M4, servings: 2 }
+      - { member: Will, slot: M2, servings: 2 }
+      - { member: Will, slot: M4, servings: 1 }
+
+  - recipe_id: "1"
+    planned_servings: 4
+    notes: |
+      Chicken Teriyaki, REPLACES the dropped shawarma bowl (8/5). CORRECTED 8/5
+      (Will): base recipe as-is, 4 thighs / 4 servings, no scaling — not the 6-thigh
+      draw used earlier. M2 only per the recipe's meal_slots. Elena S-tier.
+    slot_assignments:
+      - { member: Elena, slot: M2, servings: 2 }
+      - { member: Will, slot: M2, servings: 2 }
+
+  - recipe_id: "43"
+    planned_servings: 5
+    notes: |
+      Weekend cook (Sat/Sun) — Goodles mac & cheese, DIALED 8/5 (Will): mac ratio
+      down relative to chicken (4 boxes not 6, leaves 2 for standalone use), 5
+      servings not 6. Uses the 2nd of the 2 confirmed chicken breast packs (the
+      curry uses the other) - no new chicken purchase needed.
+    slot_assignments:
+      - { member: Elena, slot: M4, servings: 3 }
+      - { member: Will, slot: M4, servings: 2 }
+
+  - recipe_id: "22"
+    planned_servings: 6
+    notes: |
+      Weekend cook — Chicken Thigh Fried Rice, newly tiered S, cast-iron method
+      locked (8/5). Day-old rice needed — cook the day before. Closes Elena's
+      remaining M2/M4 gap fully; leftover 2 servings go to Will M2/M4.
+    slot_assignments:
+      - { member: Elena, slot: M2, servings: 2 }
+      - { member: Elena, slot: M4, servings: 2 }
+      - { member: Will, slot: M2, servings: 1 }
+      - { member: Will, slot: M4, servings: 1 }
+
+  - recipe_id: "45"
+    planned_servings: 11
+    notes: |
+      Freezer meal-prep, HALF BATCH (8/5, Will's call) — 22oz chicken thigh (1 pack),
+      makes 11 (bumped from the proportional 9 for smaller/sturdier low-carb-tortilla
+      portions). Only 5 slot-assigned THIS cycle (closes Will's last gap); the other
+      6 freeze as standing stock for future weeks.
+    slot_assignments:
+      - { member: Will, slot: M3, servings: 2 }
+      - { member: Will, slot: M4, servings: 3 }
+
+inventory_snapshot: []
+
+# COVERAGE STATUS (8/5, mid-build): see `make coverage` for current numbers.

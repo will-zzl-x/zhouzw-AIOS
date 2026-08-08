@@ -32,9 +32,12 @@ Exercise tracking lives in `/workout-log`. This skill handles the other three pi
 - Morning sunlight within 30 min of waking
 
 **Diet:**
-- Protein: **150g/day** (hard target)
-- Calories: phase-dependent — maintenance until May 16, NYC Cut starts May 17
-- NYC Cut target: deficit to reach 172 lb / 12.5% BF by Jul 4
+- **Don't hardcode numbers here — they rot** (this section already did once, twice actually).
+  Read the live source each time: `context/daily-standard.md`'s "CURRENT PHASE" line +
+  that phase's "Done when" gates for the current calorie/protein/fat/carb target. As of
+  the Aug 5 reflection: Maintenance, 2,350 cal / 150g protein / 50g fat / 325g carbs.
+- Protein ~150g/day has held constant across every phase so far (cut, reverse diet,
+  maintenance) — reasonable default, but confirm against the current phase gate.
 
 ## Steps — Sleep Log
 

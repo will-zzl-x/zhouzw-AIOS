@@ -1,613 +1,695 @@
 [
- {
-  "item": "White rice",
-  "quantity": 5,
-  "unit": "lb",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Short grain Japanese rice",
-  "quantity": 3,
-  "unit": "lb",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Dry basmati rice",
-  "quantity": 2,
-  "unit": "lb",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Soy sauce",
-  "quantity": 24.0,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Light soy sauce",
-  "quantity": 15,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Dark soy sauce",
-  "quantity": 10,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Rice vinegar",
-  "quantity": 11.5,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Toasted sesame oil",
-  "quantity": 7.33,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Gochujang",
-  "quantity": 16,
-  "unit": "oz",
-  "location": "fridge",
-  "freshness_date": "2026-09-01"
- },
- {
-  "item": "Gochugaru",
-  "quantity": 8,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Hoisin sauce",
-  "quantity": 8,
-  "unit": "oz",
-  "location": "fridge",
-  "freshness_date": "2026-08-01"
- },
- {
-  "item": "Sriracha",
-  "quantity": 17,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Cornstarch",
-  "quantity": 16,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Avocado oil",
-  "quantity": 30.83,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Olive oil",
-  "quantity": 24.5,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Garlic powder",
-  "quantity": 7.9,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Onion powder",
-  "quantity": 5.95,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Paprika",
-  "quantity": 5,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Five spice powder",
-  "quantity": 3,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "White pepper",
-  "quantity": 3,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Black pepper",
-  "quantity": 5.95,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Salt",
-  "quantity": 25.9,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Zero calorie sweetener (Splenda)",
-  "quantity": 200,
-  "unit": "packets",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "G Hughes BBQ",
-  "quantity": 18,
-  "unit": "oz",
-  "location": "fridge",
-  "freshness_date": "2026-10-01"
- },
- {
-  "item": "Eggs",
-  "quantity": 0.0,
-  "unit": "eggs",
-  "location": "fridge",
-  "freshness_date": "2026-06-25",
-  "note": "11 on hand (was 18). #38 batch rebalanced to 11 eggs."
- },
- {
-  "item": "Chicken breasts",
-  "quantity": 2.06,
-  "unit": "lbs",
-  "location": "freezer",
-  "freshness_date": "2026-08-15",
-  "note": "Sold in 22oz (~1.375 lb) packs. 5.5 lb ≈ 4 packs. This cycle uses pack-1 (#20) + pack-2 (#36)."
- },
- {
-  "item": "Chicken thighs",
-  "quantity": 0,
-  "unit": "thighs",
-  "location": "none",
-  "freshness_date": null,
-  "note": "Corrected 2026-06-27 — none on hand (file was stale at 8)."
- },
- {
-  "item": "Ground beef (90/10)",
-  "quantity": 6.25,
-  "unit": "lbs",
-  "location": "freezer",
-  "freshness_date": "2026-07-15",
-  "note": "7 × 20oz Costco bags — updated 2026-06-20 (was tracked as 2 lb, actual stash much higher)"
- },
- {
-  "item": "Fat-free cream cheese",
-  "quantity": 8,
-  "unit": "oz",
-  "location": "fridge",
-  "freshness_date": null
- },
- {
-  "item": "Parmigiano Reggiano",
-  "quantity": 4,
-  "unit": "oz",
-  "location": "fridge",
-  "freshness_date": null
- },
- {
-  "item": "Cumin",
-  "quantity": 3,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Chili powder",
-  "quantity": 3,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Salsa",
-  "quantity": 12.0,
-  "unit": "oz",
-  "location": "fridge",
-  "freshness_date": null
- },
- {
-  "item": "Canned wild salmon",
-  "quantity": 0,
-  "unit": "cans",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "corrected 2026-07-17 — none on hand (file was stale at 3)"
- },
- {
-  "item": "Lettuce (romaine/iceberg)",
-  "quantity": 0,
-  "unit": "head",
-  "location": "fridge",
-  "freshness_date": null,
-  "note": "Used up — buying fresh head for #23 burgers (2026-06-22 cycle)"
- },
- {
-  "item": "Red onion",
-  "quantity": 0.5,
-  "unit": "onion",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Ketchup",
-  "quantity": 24,
-  "unit": "oz",
-  "location": "fridge",
-  "freshness_date": null
- },
- {
-  "item": "Russet potatoes",
-  "quantity": 3,
-  "unit": "lb",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Dried minced onion",
-  "quantity": 4,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Asiago cheese",
-  "quantity": 4,
-  "unit": "oz",
-  "location": "fridge",
-  "freshness_date": null
- },
- {
-  "item": "Fettuccine pasta",
-  "quantity": 25,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null
- },
- {
-  "item": "Mustard",
-  "quantity": 12,
-  "unit": "oz",
-  "location": "fridge",
-  "freshness_date": null
- },
- {
-  "item": "Dill pickles",
-  "quantity": 1,
-  "unit": "jar",
-  "location": "fridge",
-  "freshness_date": null
- },
- {
-  "item": "Shallot",
-  "quantity": 2,
-  "unit": "shallots",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "Large bulb green onions",
-  "quantity": 0.0,
-  "unit": "bunch",
-  "location": "fridge",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "Butter",
-  "quantity": 1,
-  "unit": "stick",
-  "location": "fridge",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "Grape seed oil",
-  "quantity": 24,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "corrected 7/17 — bought 24oz (was out)"
- },
- {
-  "item": "Greens medley",
-  "quantity": 1,
-  "unit": "bag",
-  "location": "fridge",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "Ginger powder",
-  "quantity": 1.5,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "Zucchini",
-  "quantity": 2,
-  "unit": "zucchini",
-  "location": "fridge",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "Cottage cheese",
-  "quantity": 16,
-  "unit": "oz",
-  "location": "fridge",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "Ricotta cheese",
-  "quantity": 15,
-  "unit": "oz",
-  "location": "fridge",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "EVOO",
-  "quantity": 15.0,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "Sherry vinegar",
-  "quantity": 7.5,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "Beef stock",
-  "quantity": 30.0,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "Oregano",
-  "quantity": 0.92,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "Chili flakes",
-  "quantity": 0.92,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "Tostada shells",
-  "quantity": 6.0,
-  "unit": "shells",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "0% Greek yogurt",
-  "quantity": 29.3,
-  "unit": "oz",
-  "location": "fridge",
-  "freshness_date": null,
-  "note": "5.3oz cup (7/17) + 24oz tub (7/18) — covers bang-bang + chipotle + taco toppings"
- },
- {
-  "item": "Garlic",
-  "quantity": 1,
-  "unit": "head",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "Onion",
-  "quantity": 0.5,
-  "unit": "onion",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "Lemon squash",
-  "quantity": 0.0,
-  "unit": "large",
-  "location": "fridge",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "Butternut squash",
-  "quantity": 1,
-  "unit": "whole",
-  "location": "fridge",
-  "freshness_date": null,
-  "note": "on hand (confirmed 2026-06-27)"
- },
- {
-  "item": "Coleslaw mix",
-  "quantity": 1.5,
-  "unit": "lb",
-  "location": "fridge",
-  "freshness_date": "2026-07-22",
-  "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples) — AGING, ramen is Sat cook #1"
- },
- {
-  "item": "Sweet onion",
-  "quantity": 1,
-  "unit": "large",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
- },
- {
-  "item": "Carrots",
-  "quantity": 2,
-  "unit": "medium",
-  "location": "fridge",
-  "freshness_date": null,
-  "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
- },
- {
-  "item": "Green onions",
-  "quantity": 1,
-  "unit": "bunch",
-  "location": "fridge",
-  "freshness_date": null,
-  "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
- },
- {
-  "item": "Fresh ginger",
-  "quantity": 1,
-  "unit": "knob",
-  "location": "fridge",
-  "freshness_date": null,
-  "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
- },
- {
-  "item": "Ramen blocks",
-  "quantity": 4,
-  "unit": "blocks",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
- },
- {
-  "item": "Chicken bouillon",
-  "quantity": 1,
-  "unit": "jar",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples) — subs for chicken broth"
- },
- {
-  "item": "Honey",
-  "quantity": 12,
-  "unit": "oz",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "corrected 7/17 — bought 12oz (was out)"
- },
- {
-  "item": "Kirkland lightly breaded chicken breast chunks",
-  "quantity": 1,
-  "unit": "bag (frozen)",
-  "location": "freezer",
-  "freshness_date": null,
-  "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
- },
- {
-  "item": "Mixed frozen veggies",
-  "quantity": 1,
-  "unit": "lb+",
-  "location": "freezer",
-  "freshness_date": null,
-  "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
- },
- {
-  "item": "Tortilla strips",
-  "quantity": 1,
-  "unit": "bag",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
- },
- {
-  "item": "Hot dogs",
-  "quantity": 1,
-  "unit": "pack",
-  "location": "fridge",
-  "freshness_date": null,
-  "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
- },
- {
-  "item": "Hot dog buns",
-  "quantity": 1,
-  "unit": "pack",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
- },
- {
-  "item": "Bread (avocado toast)",
-  "quantity": 1,
-  "unit": "loaf",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
- },
- {
-  "item": "Sesame seeds",
-  "quantity": 1,
-  "unit": "jar",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
- },
- {
-  "item": "Whey protein powder",
-  "quantity": 1,
-  "unit": "tub",
-  "location": "pantry",
-  "freshness_date": null,
-  "note": "on hand per Will 2026-07-17"
- },
- {
-  "item": "Skim milk",
-  "quantity": 1,
-  "unit": "carton",
-  "location": "fridge",
-  "freshness_date": null,
-  "note": "on hand per Will 2026-07-17"
- },
- {
-  "item": "Frozen strawberries",
-  "quantity": 1,
-  "unit": "bag",
-  "location": "freezer",
-  "freshness_date": null,
-  "note": "on hand per Will 2026-07-17 (frozen fruit for shakes)"
- }
+  {
+    "item": "White rice",
+    "quantity": 5,
+    "unit": "lb",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Short grain Japanese rice",
+    "quantity": 3,
+    "unit": "lb",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Dry basmati rice",
+    "quantity": 2,
+    "unit": "lb",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Soy sauce",
+    "quantity": 40,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Refilled 8/8 (Will) - new bottle, ~40oz (estimate, not measured)."
+  },
+  {
+    "item": "Light soy sauce",
+    "quantity": 15,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Dark soy sauce",
+    "quantity": 10,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Rice vinegar",
+    "quantity": 11.5,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Toasted sesame oil",
+    "quantity": 7.33,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Gochujang",
+    "quantity": 15.92,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": "2026-09-01"
+  },
+  {
+    "item": "Gochugaru",
+    "quantity": 8,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Hoisin sauce",
+    "quantity": 8,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": "2026-08-01"
+  },
+  {
+    "item": "Sriracha",
+    "quantity": 16.5,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Cornstarch",
+    "quantity": 16,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Avocado oil",
+    "quantity": 30.83,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Olive oil",
+    "quantity": 24.5,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Garlic powder",
+    "quantity": 7.82,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Onion powder",
+    "quantity": 5.91,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Paprika",
+    "quantity": 4.92,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Five spice powder",
+    "quantity": 3,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "White pepper",
+    "quantity": 3,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Black pepper",
+    "quantity": 5.93,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Salt",
+    "quantity": 25.9,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Zero calorie sweetener (Splenda)",
+    "quantity": 200,
+    "unit": "packets",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "G Hughes BBQ",
+    "quantity": 18,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": "2026-10-01"
+  },
+  {
+    "item": "Eggs",
+    "quantity": 3,
+    "unit": "eggs",
+    "location": "fridge",
+    "freshness_date": "2026-06-25",
+    "note": "Corrected 8/5 (Will): 3 eggs actually on hand and good, not fully spoiled as assumed."
+  },
+  {
+    "item": "Chicken breasts",
+    "quantity": 22,
+    "unit": "oz",
+    "location": "freezer",
+    "freshness_date": "2026-08-15",
+    "note": "Corrected 8/5 (Will): only 1 pack (22oz) left, not 2. Goes entirely to mac & cheese; curry switched to thigh instead."
+  },
+  {
+    "item": "Chicken thighs",
+    "quantity": 0,
+    "unit": "thighs",
+    "location": "none",
+    "freshness_date": null,
+    "note": "Corrected 2026-06-27 \u2014 none on hand (file was stale at 8)."
+  },
+  {
+    "item": "Ground beef (90/10)",
+    "quantity": 0,
+    "unit": "lbs",
+    "location": "freezer",
+    "freshness_date": "2026-07-15",
+    "note": "Corrected 8/5 (Will): stale figure, no stash actually on hand. Was wrongly shown as 6.25lb from an old count."
+  },
+  {
+    "item": "Fat-free cream cheese",
+    "quantity": 8,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null
+  },
+  {
+    "item": "Parmigiano Reggiano",
+    "quantity": 1,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "True-up 8/5: reduced from 4oz \u2014 drawn on by chicken parm + bolognese finish + kale garnish across the 2026-07-25 cycle; treat as effectively needing a rebuy."
+  },
+  {
+    "item": "Cumin",
+    "quantity": 3,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Chili powder",
+    "quantity": 3,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Salsa",
+    "quantity": 12.0,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null
+  },
+  {
+    "item": "Canned wild salmon",
+    "quantity": 0,
+    "unit": "cans",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "corrected 2026-07-17 \u2014 none on hand (file was stale at 3)"
+  },
+  {
+    "item": "Lettuce (romaine/iceberg)",
+    "quantity": 0,
+    "unit": "head",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "Used up \u2014 buying fresh head for #23 burgers (2026-06-22 cycle)"
+  },
+  {
+    "item": "Red onion",
+    "quantity": 0.5,
+    "unit": "onion",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Ketchup",
+    "quantity": 24,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null
+  },
+  {
+    "item": "Russet potatoes",
+    "quantity": 3,
+    "unit": "lb",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Dried minced onion",
+    "quantity": 4,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Asiago cheese",
+    "quantity": 4,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null
+  },
+  {
+    "item": "Fettuccine pasta",
+    "quantity": 25,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null
+  },
+  {
+    "item": "Mustard",
+    "quantity": 12,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null
+  },
+  {
+    "item": "Dill pickles",
+    "quantity": 1,
+    "unit": "jar",
+    "location": "fridge",
+    "freshness_date": null
+  },
+  {
+    "item": "Shallot",
+    "quantity": 2,
+    "unit": "shallots",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Large bulb green onions",
+    "quantity": 0.0,
+    "unit": "bunch",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Butter",
+    "quantity": 1,
+    "unit": "stick",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Grape seed oil",
+    "quantity": 24,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "corrected 7/17 \u2014 bought 24oz (was out)"
+  },
+  {
+    "item": "Greens medley",
+    "quantity": 1,
+    "unit": "bag",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Ginger powder",
+    "quantity": 1.5,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Zucchini",
+    "quantity": 0,
+    "unit": "zucchini",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "True-up 8/5: cleared \u2014 roasted as the rotisserie side per 2026-07-25 cook plan."
+  },
+  {
+    "item": "Cottage cheese",
+    "quantity": 16,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Ricotta cheese",
+    "quantity": 8,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "True-up 8/5: reduced from 15oz \u2014 \"a little\" drawn for bolognese per cook plan; estimate, not precise."
+  },
+  {
+    "item": "EVOO",
+    "quantity": 15.0,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Sherry vinegar",
+    "quantity": 7.5,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Beef stock",
+    "quantity": 30.0,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Oregano",
+    "quantity": 0.92,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Chili flakes",
+    "quantity": 0.92,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Tostada shells",
+    "quantity": 6.0,
+    "unit": "shells",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "0% Greek yogurt",
+    "quantity": 26.3,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "5.3oz cup (7/17) + 24oz tub (7/18) \u2014 covers bang-bang + chipotle + taco toppings"
+  },
+  {
+    "item": "Garlic",
+    "quantity": 1,
+    "unit": "head",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Onion",
+    "quantity": 1,
+    "unit": "onion",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Corrected 8/5 (Will): only 1 onion total on hand (was double-counted across two inventory lines). Curry (2) + burritos (1) = 3 needed; buy 2 more."
+  },
+  {
+    "item": "Lemon squash",
+    "quantity": 0.0,
+    "unit": "large",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Butternut squash",
+    "quantity": 1,
+    "unit": "whole",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "on hand (confirmed 2026-06-27)"
+  },
+  {
+    "item": "Coleslaw mix",
+    "quantity": 1.5,
+    "unit": "lb",
+    "location": "fridge",
+    "freshness_date": "2026-07-22",
+    "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples) \u2014 AGING, ramen is Sat cook #1"
+  },
+  {
+    "item": "Sweet onion",
+    "quantity": 1,
+    "unit": "large",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
+  },
+  {
+    "item": "Carrots",
+    "quantity": 2,
+    "unit": "medium",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
+  },
+  {
+    "item": "Green onions",
+    "quantity": 1,
+    "unit": "bunch",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
+  },
+  {
+    "item": "Fresh ginger",
+    "quantity": 1,
+    "unit": "knob",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
+  },
+  {
+    "item": "Ramen blocks",
+    "quantity": 4,
+    "unit": "blocks",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
+  },
+  {
+    "item": "Chicken bouillon",
+    "quantity": 1,
+    "unit": "jar",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples) \u2014 subs for chicken broth"
+  },
+  {
+    "item": "Honey",
+    "quantity": 12,
+    "unit": "oz",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "corrected 7/17 \u2014 bought 12oz (was out)"
+  },
+  {
+    "item": "Kirkland lightly breaded chicken breast chunks",
+    "quantity": 1,
+    "unit": "bag (frozen)",
+    "location": "freezer",
+    "freshness_date": null,
+    "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
+  },
+  {
+    "item": "Mixed frozen veggies",
+    "quantity": 1,
+    "unit": "lb+",
+    "location": "freezer",
+    "freshness_date": null,
+    "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
+  },
+  {
+    "item": "Tortilla strips",
+    "quantity": 1,
+    "unit": "bag",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
+  },
+  {
+    "item": "Hot dogs",
+    "quantity": 1,
+    "unit": "pack",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
+  },
+  {
+    "item": "Hot dog buns",
+    "quantity": 1,
+    "unit": "pack",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
+  },
+  {
+    "item": "Bread (avocado toast)",
+    "quantity": 1,
+    "unit": "loaf",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
+  },
+  {
+    "item": "Sesame seeds",
+    "quantity": 1,
+    "unit": "jar",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "confirmed on hand 2026-07-17 (bought last cycle for egg-roll ramen / staples)"
+  },
+  {
+    "item": "Whey protein powder",
+    "quantity": 1,
+    "unit": "tub",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "on hand per Will 2026-07-17"
+  },
+  {
+    "item": "Skim milk",
+    "quantity": 1,
+    "unit": "carton",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "on hand per Will 2026-07-17"
+  },
+  {
+    "item": "Frozen strawberries",
+    "quantity": 1,
+    "unit": "bag",
+    "location": "freezer",
+    "freshness_date": null,
+    "note": "on hand per Will 2026-07-17 (frozen fruit for shakes)"
+  },
+  {
+    "item": "Red lentils, dry",
+    "quantity": 2,
+    "unit": "cups",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will) - for recipe #42 curry. Estimated quantity, matches the 2-cup need; reconfirm if short."
+  },
+  {
+    "item": "Frozen banana",
+    "quantity": 6,
+    "unit": "banana",
+    "location": "freezer",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will) - frozen and available for shakes."
+  },
+  {
+    "item": "Goodles Mac & Cheese boxes",
+    "quantity": 6,
+    "unit": "boxes (6oz each)",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will) - 6 boxes, no Costco buy needed."
+  },
+  {
+    "item": "Frozen mixed fruit",
+    "quantity": 6,
+    "unit": "cup",
+    "location": "freezer",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will)."
+  },
+  {
+    "item": "Great Value Organic Flax & Chia Seed Blend",
+    "quantity": 16,
+    "unit": "tbsp",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will)."
+  },
+  {
+    "item": "Creatine monohydrate",
+    "quantity": 30,
+    "unit": "tsp (~1 tub)",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will)."
+  },
+  {
+    "item": "PB2 powdered peanut butter",
+    "quantity": 16,
+    "unit": "tbsp",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will)."
+  },
+  {
+    "item": "Ground cumin",
+    "quantity": 8,
+    "unit": "tsp",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will)."
+  },
+  {
+    "item": "White onion",
+    "quantity": 0,
+    "unit": "onion",
+    "location": "pantry",
+    "freshness_date": null,
+    "note": "Corrected 8/5 (Will): folded into the single \"Onion\" line - was double-counting the same 1 onion."
+  },
+  {
+    "item": "Reduced-fat mozzarella, shredded",
+    "quantity": 2,
+    "unit": "oz",
+    "location": "fridge",
+    "freshness_date": null,
+    "note": "Confirmed on hand 2026-08-05 (Will) - matches the burrito recipe need (55g/~2oz) almost exactly, no buy needed."
+  }
 ]
